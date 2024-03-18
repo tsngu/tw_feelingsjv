@@ -23,9 +23,12 @@ if re.match(r"\d{6}", id):
 elif re.match(r"^https://store.steampowered.com", id):
     # on regarde si l'adresse répond bien (code 200)
     response = requests.get(id)
-    assert(re.match(r"^2\d\d$", response.status_code))
+    assert(re.match(r"^2\d\d$", str(response.status_code)))
     # on a un lien, on extrait l'id 
-    id = id.split("/")[4]
+    items = id.split("/")
+    for item in items:
+        if re.match(r"\d{6}", item):
+            id = item
 else:
     print("Format d'URL invalide")
     exit(1)
