@@ -1,2 +1,4 @@
 # tw_feelingsjv
-Repo pour le projet de Technique Web.
+
+### Projet en Technique Web (M2 TAL INALCO).
+**Analyse de sentiments sur des reviews de jeux vidéos**
