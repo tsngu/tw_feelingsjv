@@ -16,6 +16,5 @@ res = curseur.fetchall()
 for (id, nom, date, genre) in res:
     print(f"{nom} ({genre}) : id steam {id}, sorti le {date}")
 
-
 BDD.commit()
 BDD.close()

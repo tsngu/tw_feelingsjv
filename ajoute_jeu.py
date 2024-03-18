@@ -5,6 +5,7 @@
 import sqlite3 as sql
 import os
 import re
+import requests
 
 # vérifier que le fichier existe
 if not os.path.exists("./JEUXVIDEOS.db"):
@@ -13,13 +14,25 @@ if not os.path.exists("./JEUXVIDEOS.db"):
 
 # récupérer la saisie utilisateur
 print("Ajout d'un jeu à la base de données : ")
-id = input("ID steam du jeu : ")
+id = input("Lien steam du jeu : ")
+
+# vérification des inputs
+if re.match(r"\d{6}", id):
+    # on a déjà l'ID
+    pass
+elif re.match(r"^https://store.steampowered.com", id):
+    # on regarde si l'adresse répond bien (code 200)
+    response = requests.get(id)
+    assert(re.match(r"^2\d\d$", response.status_code))
+    # on a un lien, on extrait l'id 
+    id = id.split("/")[4]
+else:
+    print("Format d'URL invalide")
+    exit(1)
+
 nom = input("Entrer le nom du jeu : ")
 date = input("Date de sortie : ")
 genre = input("Genre du jeu : ")
-
-# vérification des inputs
-assert(re.match(r"\d", id)) # id à 6 chiffres
 
 # si tout va bien, on enregistre le jeu dans la BDD
 
