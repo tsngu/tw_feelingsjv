@@ -1,0 +1,69 @@
+[h1][b]Les fondations de la série[/b][/h1]
+[h1]-------------------------------------[/h1]
+[h1][b]Metal Gear[/b][/h1]
+Le premier jeu de la série, toutes les bases étaient là.
+
+[h1]Les plus[/h1]
+• Un gameplay simple mais très prenant
+• [u]La plupart des objets emblématiques déjà là[/u] (boîte en carton, cigarettes, lunettes thermiques, masque à gaz, jumelles, missiles RC…)
+• Un level design qui demande de la réflexion
+• OST de qualité
+
+[h1]Les moins[/h1]
+• [u]Aucune indication sur la clé à utiliser sur une porte[/u] : on est obligé de toutes les essayer sachant qu'on en a 8 à la fin du jeu
+• Quand on est dans une pièce avec du gaz, il faut enlever son masque à gaz pour utiliser un autre objet comme le détecteur de mine ou trouver la bonne clé pour sortir de la salle et donc on prend des dégâts stupidement.
+• Des boss anecdotiques
+[h1]-------------------------------------[/h1]
+[h1][b]Metal Gear 2: Solid Snake[/b][/h1]
+Un jeu incroyable qui améliore tous les aspects de son prédécesseur. Si vous aimez [i]Metal Gear Solid[/i] c'est impératif d'y jouer pour comprendre que MGS est une sorte de remake de MG2, [b]tout était là[/b] : la fréquence à trouver hors du jeu, un admirateur qui nous appelle devant un champ de mine, la clé qui se transforme avec la température, la femme infiltrée qu'on doit retrouver dans les toilettes, la poursuite dans les escaliers de la tour…
+
+[h1]Les plus[/h1]
+• [u]Le gameplay amélioré[/u] : les gardes ont un cône de vison plutôt qu'une ligne, on peut ramper, faire du bruit en tapant sur les murs ou en marchant sur les grilles…
+• L'histoire et les personnages bien au-dessus du premier
+• On peut fusionner 3 clés en une seule
+• Un level design bien plus riche que le premier, les environnements sont bien plus identifiables (armurerie, dortoir, marais…)
+• [u]Des boss bien plus intéressants[/u] à affronter que dans le premier jeu
+• [u]Des tonnes d'idées partout[/u] comme le Tap Code à déchiffrer par exemple
+• Très bonne OST
+
+[h1]Les moins[/h1]
+• Des fois on retrouve bloqué et la solution est vraiment tordue, notamment le passage avec le deltaplane et le sens du vent.
+• Certains objets quasiment inutiles (bouteille d'oxygène, tapis de camouflage…)
+[h1]-------------------------------------[/h1]
+[h1][b]Au niveau du portage[/b][/h1]
+Je vous recommande le [b][i]MGSHD Fix[/i][/b] pour changer la résolution des jeux verrouillée à 720p. J'ai eu un bug dans Metal Gear 2 où le framerate chutait après un certain temps de jeu et ne remontait plus, faisant ainsi tourner le jeu au ralenti (corrigé en configurant du borderless avec [i]MGSHD Fix[/i]). 
+La traduction est toujours la même que le portage PS2 c'est-à-dire avec plein de fautes d'orthographe, de conjugaison et quelques phrases qui n'ont pas de sens.
+Pour MG2 on nous fournit la table pour décrypter le Tap Code mais uniquement dans le launcher, pas moyen d'y accéder une fois le jeu lancé. Il manque aussi les manuels des jeux qui contiennent des informations nécessaires pour jouer, obligé d'aller chercher sur Internet.
+
+#####
+
+c'est bien mais c'est cher
+
+#####
+
+Les bases d'une des plus grandes sagas videoludique.
+
+A faire en devoir de mémoire :)
+
+#####
+
+The man who killed the men who sold the world.
+
+#####
+
+Bonjour,
+
+Déjà on ne peut pas changer le fullscreen / windowed de ce double jeu. C'est vraiment hyper chiant.
+Ensuite, à quoi bon mettre un système de savegame si ça nous renvoie chaque fois dans notre dernier passage à l'ascenseur ?
+On reçoit des messages sur notre radio pour téléphoner à une certaine fréquence mais ça ne répond jamais sauf à des endroits IMPOSSIBLE à devenir.
+Il faut irrémédiablement aller sur internet trouver les astuces car sinon c'est pour vous arracher les cheveux (je parle ici du 1)
+
+Pour le 2, c'est encore pire, les ennemis vous détectent et vous allez changer de map, le jeu vous laisse 2 secondes pour ne plus être dans l'angle de vue des ennemis (trouver un tournant, un trou ou autre) sinon un ennemi revient avec un bruit insupportable de détection et c'est reparti...
+Franchement, le 2 est horrible à jouer. Autant le 1 malgré les défaut, j'ai apprécié découvrir le jeu et les objets, autant le 2... Les ennemis sont insupportables
+
+#####
+
++1
+
+#####
+

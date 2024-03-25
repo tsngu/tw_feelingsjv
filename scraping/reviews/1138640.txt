@@ -1,0 +1,117 @@
+Je n'arrive plus à être patient avec les early access. Sur le contenu manquant, d'accord. Mais si on l'achète, c'est pour avoir une version au moins jouable et un peu fluide. 5 min de jeu et je savais déjà que ça pourrait vraiment être TRES BON, mais niveau performances il ne faut pas se moquer du monde.
+Voici ma config :
+AMD Ryzen 9 3900X
+RTX 3070
+RAM : 64 Go DDR4
+Donc LARGEMENT la config recommandée... Résultat : 15 à 20 fps. Eh bien je rachèterai le jeu quand il sera prêt.
+
+A force de voir chaque année un nouveau GPU sortir, les développeurs ne cherchent plus à optimiser leurs jeu : "de toute façon la puissance sera là" ( en tout cas pour ceux qui mettent 3500 euros tous les 2 ans dans un PC ).
+Mais les gars, les Sims 4 a bientôt 10 ans , et les graphismes ne sont pas obsolètes pour autant. Je me fiche d'avoir du ray tracing et des textures 16K sur un jeu de construction, je veux m'amuser.
+
+
+#####
+
+Oui je sais le jeu et en accès anticipé, oui le jeu n'est pas dans sa version finale.
+
+Les points positifs :
+-	Il y a pas mal d'objets et de meubles pour pouvoir décorer comme bon vous semble et avec des styles différents.
+-	Le jeu permet la création d'une maison de A à Z.
+-	Il y a un mode de co-op.
+-	Il y a l'air d'avoir pas mal de missions.
+-	Il y a un mode grille pour placer ces objets assez précisément. Le mode libre permet de placer les objets où vous le voulez.
+-	Son prix très abordable.
+
+Les points négatifs :
+-	Le jeu est dur à faire tourner même pour une grosse config (RTX 3090, i9-11900k 64go de Ram et installé sur un SSD NVMe). Je tourne aux alentours des 80-90 FPS en mettant le paramètre de qualité en moyen. Si je le mets en ultra je tombe aux alentours des 50 FPS.
+-	Il y a eu un patch pour l'optimisation du jeu ce qui a permis d'avoir quand même un peu plus dee FPS, mais j'ai remarqué après un certain temps de jeu que le jeu commençait à saccader. Les FPS passe de 80 à 5 FPS toutes les x secondes, ce qui rend le jeu très désagréable.
+-	Par rapport aux modes co-op j'ai remarqué que nous n'avions pas le même affichage, c'est à dire que moi je voyais la porte fermée alors que l'autre personne la voyait ouverte. J'ai également constaté que des objets était visible sur des murs mais que l'autre personne ne les voyez pas, c'est comme si c'était un bout de mur en plus.
+-	Le mode grille et sympa mais quand l'objet dépasse dans le mur ça l'est moins.
+-	Par rapport au placement des objets, il y a donc le mode grille et le mode libre. Vous pouvez placer les objets où vous le souhaitez mais l'inconvénient et que les différents meubles doivent être placés avec beaucoup de minutie pour que l'ensemble soit droit. Pour les gens qui sont un peu maniaque sur ce genre de choses, c'est certainement l'une des pires choses dans ce jeu.
+-	Les objets traversent les murs, comme les poignées de porte, les plantes ou tout autre meuble placer un peu trop dans les murs. Il faudrait peut-être mettre une collision pour les murs.
+-       Dans les missions il y'a le système de toiture qui est très étrange car j'ai fini la toiture mais d'après le jeu jeu dois encore finir le toit. Après pas mal de temps à inspecter la toiture je ne vois pas quoi faire de plus. Obligé d’abandonner la mission avec les pertes de réputation et la perte de temps bien sûr.
+
+Conclusion : Pour moi le jeu est prometteur, mais il y a encore pas mal de travail. Il faut continuer à optimiser le jeu. Ajouter peut-être un mode aimant pour placer les meubles pour qu'on puisse les mettre parfaitement côte à côte. Le jeu est jouable en l'état même si par moment on a des chutes de FPS. Pour l'instant je laisse un avis négatif sur le jeu en attendant une amélioration du jeu.
+
+#####
+
+Fun but crash 1/3 when I start a mission
+
+I recommend everyone to wait before buying the game.
+
+#####
+
+Je n'ai pas encore beaucoup joué mais je trouve le jeu excellent et j'adore le large choix de personnalisation plus on avance plus on en débloque. Les graphismes sont très beau même si on doit les régler sur medium pour s'adapter à un pc moins performant. On peut également y jouer sur steamdeck sans soucis. Jolie travail et bravo aux développeurs, j'ai hâte de le découvrir d'avantage ^^
+
+#####
+
+En l'état, je ne recommande pas. Il y a de gros soucis niveau FPS, la traduction est mal foutu, j'ai eu des missions avec moitié anglais, moitié français. Lors d'un lancement de mission, le jeu à carrément planté, pas moyen de le fermer avec ALT+F4, ni même via le gestionnaire de tâches, ni switcher entre les fenêtres avec ALT+TAB. J'ai dû redémarrer le pc. 
+Je n'aime pas du tout le placement des objets, c'est une horreur, ça traverse les murs, c'est vraiment mal foutu ! House Flipper, ou les Sims, il y a toujours une limite de positionnement, là, pas du tout. Du coup, tu te retrouves à déplacer 15 fois le frigo, histoire qu'il soit bien aligné contre le mur et non pas dans le mur. 
+Mais bon, malgré tout, je laisse un pouce en l'air, en espérant qu'il y ait du changement.
+
+#####
+
+Je rejoins la plupart des commentaires ici, un jeu qui a un gros potentiel pour la créativité et la conception de maison avec une bonne idée d'avoir intégré du coop, 
+Malheureusement je trouve le jeu assez mal optimisé et ça gâche un peu l’expérience.. (Obligé de jouer avec les settings en médium avec une RTX 2070 Super c'est pas incroyable quand on sait que d'autres jeux bien plus lourds et plus réalistes tournent comme des horloges, ici je reste bloqué a 30-35 FPS en medium, n'ayez pas la mauvaise idée de passer en Ultra ça ne passera pas les 15 FPS donc autant dire injouable.) c'est pour moi le plus gros point à corriger pour les futurs MAJ, et intégrer des murs arrondis serait parfait pour avoir des design d'architectures plus modernes et plus futuristes. 
+Si le premier point est corrigé je répète ce jeu a un très beau potentiel, donc à voir dans le temps et sa version définitive.
+
+#####
+
+Il faut garder a l esprit que ce jeu est toujours en développement, mais il a un bon potentiel. Moi je me régale dessus. J attend de voir les mises a jour et les nouveaux contenus.
+
+#####
+
+J'ai joué un peu moins d'une heure a ce jeu et je l'ai adoré ! Beaucoup de similitudes avec "House Flipper" c'est parfait 🤩
+Le seul point négatif est la rotation de la caméra lorsque nous posons les revêtements muraux et sol qui n'est pas pratique du tout. J'espère que cela sera corrigé dans une prochaine mise à jour.
+
+Je recommande !
+
+#####
+
+Ce jeu a du potentiel. 
+A mon avis, ce jeu a la possibilité de dépasser en qualité et en jouabilité "House Flipper"
+
+Il n'est pas encore entièrement traduit, certains détails demandés par les clients sont encore en anglais, mais pas trop difficile à comprendre.
+
+#####
+
+c'est long pour déplacer et défois sa bug donc il s'arrête
+
+#####
+
+trop cool, mais exigeant niveau performance
+
+#####
+
+Le jeux étant encore en bêta de nombreuses chose manque comme des voitures par exemple
+
+#####
+
+Can you add VR mode please  (pico 4) ?
+
+#####
+
+le jeux est très intéressant , un peux compliqué a comprendre au début mais une fois compris le fun est assuré !! hâte de voir la version officielle
+
+#####
+
+très bon jeux pour un début :)
+
+#####
+
+Le jeu a beaucoup de potentiel. Il ne faut pas oublier qu'il est encore en cours de développement. Il y a encore des améliorations qui s'en vienne en tk je l'espère. Selon moi, il manque quelques petits trucs au niveau des meubles dont des comptoirs pour les coins de cuisine, avoir un choix pour les types de fondation et pouvoir changer la couleur des toits plats, etc. De plus, il y a quelques bugs (Parfois, le jeu indique qu'il reste des déchets dans une pièce,mais il n'en reste plus). La traduction francaise n'est pas au point. Il y a encore des phrases en anglais dans le jeu (Bon de commande par exemple). Il est également difficile de bien positionner les comptoirs lorsque l'on place les meubles. Le choix des couleurs de peinture est grand,mais j'aimerais différentes teintes plus neutres comme le beiges, les gris et des couleurs moins vives comme le vert kaki, orange brulé, etc. Mais somme toute, j'ai du plaisir a y jouer. Les missions sont le fun. En espérant que ce jeu continue de se développer et que le choix des objets et couleurs continues également d'évoluer.
+
+#####
+
+Intéréssant à voir au fil du temps
+
+#####
+
+
+This game is amazing, it has potential in the future of architecture games. He's my favorite at the moment.
+
+#####
+
+le jeu dans son ensemble est plutôt correct . il manque encore beaucoup de contenu et des bugs qui ne sont pas fous . il manque vraiment de diversités au niveau des meubles , peinture et autres . un Workshop serait un vrai plus . prendre exemple sur d'autres jeux du style ' house flipper reste actuellement meilleur ) . je reviendrais continuer mon évaluation dans quelques temps et surtout après des mises a jour
+
+#####
+

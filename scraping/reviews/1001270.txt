@@ -37,6 +37,10 @@ super jeu les devs sont a l'écoute des joueurs, cherche des gens pour jouer en 
 
 #####
 
+Impossible de changé les touches pour jouer en français , ça doit être une implémentation obligatoire qui doit être dans le jeu.
+
+#####
+
 je viens juste d acheter le jeu mais quand on marche notre personnage avance tout seul impossible de jouer serait il possible de regler ce probleme svp que je puisse decouvrir le jeu et commencer a jouer merci
 
 #####
@@ -116,15 +120,7 @@ bon jeu de simulation pour s'amuser seul ou entres amis.
 
 #####
 
-Pas du tout à la hauteur des 18 € ! Je peux être compréhensif, mais entre les bugs et la sortie précipitée, ce jeu ne justifie vraiment pas son prix.
-
-#####
-
 parfait
-
-#####
-
-Le multi ne marche pas
 
 #####
 
@@ -145,6 +141,10 @@ Enfin, l'ajout de mini-jeux pourrait diversifier l'expérience de jeu et offrir 
 En résumé, bien que Kebab Chef présente des aspects attrayants, tels que ses graphismes simplistes, il existe plusieurs domaines qui pourraient être améliorés pour offrir une expérience de jeu plus complète et engageante. En mettant l'accent sur la personnalisation, l'équilibre économique, l'interaction avec les PNJ et l'ajout de contenu supplémentaire tel que des mini-jeux, le jeu pourrait atteindre son plein potentiel et offrir une expérience mémorable aux joueurs.
 
 Djamo Vôtre Fidèle Testeur
+
+#####
+
+Pas du tout à la hauteur des 18 € ! Je peux être compréhensif, mais entre les bugs et la sortie précipitée, ce jeu ne justifie vraiment pas son prix.
 
 #####
 
@@ -196,7 +196,7 @@ Ajouter la sauce du chef svp. Cordialement, mon zizi
 
 #####
 
-déçu assez chère pour le jeux que c'est et n'ai absolument pas compatible avec les manettes
+Le multi ne marche pas
 
 #####
 
@@ -212,10 +212,6 @@ Pas de personnalisation des touches pour le moment.
 Cependant, à suivre...
 
 
-
-#####
-
-j'ai même pas réussi à lancer une seule partie que ça soit en solo ou multi c'est une honte.
 
 #####
 
@@ -238,6 +234,56 @@ Un jeu avec un très gros potentiel, un excellent concept, des devs à l'affut p
 #####
 
 4 h de jeux avec des potes, je lance en solo la partie multi se suprime. Sortir le jeux avec du retard et faire de la merde comme ça je sais même pas comment ça peut exister. Vous avez le même cerveaux que mes mates sur Lol
+
+#####
+
+j'ai même pas réussi à lancer une seule partie que ça soit en solo ou multi c'est une honte.
+
+#####
+
+outre le fait que le jeu n'est pas fait pour les proco amd il reste bon dans l'ensemble malgrés des bugs persistants
+
+#####
+
+Encore quelques bugs à régler tel que la taille des items qui grossissent si 2 joueurs le récupèrent en même temps.
+Sinon rien à dire, le jeu est top pour s'amuser jusqu'à 4 joueurs, on peut mettre pleins de déco, évoluer son matériel au fur et à mesure des profits et la simulation est vraiment bien faites c'est comme dans la vrai vie.
+Hâte de nouvelles mises à jour.
+
+#####
+
+Sympa d'y jouer en multi :)
+
+#####
+
+JADORE
+
+#####
+
+Je recommande le jeu : 
+
+Il est beau.
+Il a une bonne ambiance sonore.
+Il est multijoueur mais jouable solo (j'y et jouer seule et c'était parfois compliqué, mais pas impossible, sa demande juste une bonne mise en place "comme en vrai").
+Il est comparable à Overcooked, mais il est assurément moins prise de tête et embrouilles.
+Dieu merci, c'est un des rares à avoir cette faculté ! Lorsque l'on prend des stocks, on ne se retrouve pas avec des centaines de cartons à trier, jeter, etc.
+
+Ce que je lui reproche, il est trop facile, il y a les dépenses nourritures hors mis la viande rien n'est vraiment cher, après il y a l'équipement facile d'accès lui aussi, puis y a la décoration, ça sert à rien, mais c'est joli elle en revanche et plus difficile à obtenir. (prix élevé)
+
+Les gains en fin de journée sont énormes pour une dépense de 500 $, on peut faire un gain de 10 000 $ au final la difficulté du jeu réside uniquement en la préparation de plats. (recette) 
+
+Un tips pour ce qui galère, je ne sais comment avec l'argent ? Black jack, vous serez riche en a rien de temps.
+
+#####
+
+le jeux est incroyable tres amusant avec des amis je recommande on si prend tres vite
+
+#####
+
+DINGUERIE
+
+#####
+
+Ce jeu c'est une DINGUERIE. Le mode coop est la meilleure chose dans le jeux voilà.
 
 #####
 
@@ -294,10 +340,6 @@ cool
 #####
 
 a chier
-
-#####
-
-Impossible de changé les touches pour jouer en français , ça doit être une implémentation obligatoire qui doit être dans le jeu.
 
 #####
 

@@ -763,6 +763,10 @@ Je vous conseil relativement les joueurs, si vous voulez jouer et faire des fus�
 
 #####
 
+Mème si le lancement a était désastreux... forcé de constaté qu'une No Man's Sky est en chemin.
+
+#####
+
 Refund requested : 50€ for something worst than KSP 1 that was cheaper ... huge disapointment. 
 
 No real problem of optimisation encountered during 30mn of gameplay ... 
@@ -802,12 +806,32 @@ buy kbs 1 .... the 2 is worst than the first
 
 #####
 
+on peut s'envoyer en l'air, c'est cool
+
+#####
+
 Vendre une early access à 50€, c'est juste une blague.
 Alors que derrière il y a take-two comme maison mère qui sont pas les plus pauvres, loin de là.
 Car là actuellement ksp 2 a autant de fonctionnalités que quand ksp 1 était en early access, sauf que le 1 était vendu une trentaine d'euros si ma mémoire est bonne, sachant qu' à l'époque, c'était réellement un studio indé (squad) qui développait le jeu, ils n'avaient pas une boîte qui brasse des milliards derrière eux.
 20€ c'est le prix max pour l'early access de ksp2 à sa sortie.
 Je ne parle même pas des bugs à foison (kraken, etc)
 L'optimisation qui est déplorable (une 3080 en recommandée, sérieusement?)
+
+#####
+
+J'y joue car je suis indulgent. Mais en l'état estimes que le jeu manque encore trop de contenus pour valoir cette somme et être réellement fun à jouer pour une personne qui ne connaîtrais pas la licence . Même si graphiquement et au niveau performance de chargement cet opus surpasse le premiers, le coeur du gameplay est encore loin de faire le poids de KSP1, rien que pour son mode carrière plus aboutit mais aussi et surtout la tonne de mods disponible.
+
+
+#####
+
+J'ai plus de 500 heures sur le 1, le 2 a tout le potentiel pour être au-dessus, j'avais attendu le mode science et un gros correctif d'optimisation pour le tester. Apres 5 heures de jeu sur celui-ci je pense que je l'ai acheté encore un peu trop tôt. En effet visuellement c'est beau, très stable, ça tournée très bien mais malgré des efforts  notables sur les nœuds de manœuvres je trouve que l'ensemble manque de clarté, ces couleurs grises/bleues prêtent à confusion , ok ca fait plus moderne mais les opérations de rendez vous manquent de visibilité, on a du mal à visualiser les points de rencontre par exemple. Certaines flying box sont persistantes/gênantes et empêchent de distinguer les infos de navigations sur la map. Enfin le maniement de la camera en mode vol est frustrant, on ne peut pas pivoter autour du vaisseau / de la cible à 360 degrés ce qui gêne la aussi certaines manœuvres. j'ai stoppé après une tentative de rendez vous autour de Mun pour sauver un kerbonaute dont la mission a disons... mal tourné, sans succès trop confus comparé à la simplicité de lecture des infos du 1. Du coup j'ai 2 kerbonautes à sauver maintenant ... Encore un petit effort et ça sera bon. Je testerai à nouveau au prochain patch, j’espère que mes héros ont encore qq. chips en stock pour patienter quelques mois avant la 2ème mission de sauvetage :-).
+Edit nouveau bug trouvé le 24/03/24 : 
+-lors d'un rdv, impossible de switcher vers le 2eme vaisseau
+-globalement il y a des soucis avec les raccourcis
+-Lorsque j'approche à 1200 m du vaisseau, le vaisseau ciblé active ses moteurs tout seul et part vivre sa propre vie... 
+-Lors du lancement du vaisseau, à chaque fois le vaisseau tremble et explose au décollage, il faut relancer le lancement
+
+(Accès anticipé donc bon courage l'équipe !)
 
 #####
 
@@ -978,17 +1002,13 @@ Bref j’espère que les patch sauveront ce naufrage car pour l'instant c'est vr
 #####
 
 Fan de KSP1.... KSP 2 n'est a l'heure actuelle pas dutout à la hauteur. depuis sa sortie il a gagné en stabilité et en optimisation. j'ai un PC gamer normal, et tout a fond aucun lag (contrairement a certains) 
-L'arrivé de la campagne ajoute un petit plus, un intérêt, pour le joueur non fan harcore de l'espace. Il y a des mission du chalenge, c'est agréable. mais encore trop de petit bug qui gache fortement le gameplay basique. touche de direction qui ne fonctione plus, touche espace(séparation) qui ne fonctione plus. kerbal bloqué en AEV, jetback qui ne fonctione pas.... et a chaque fois obligé de redémaré le jeux pour récupéré les touche .... c'est domage.
+L'arrivé de la campagne ajoute un petit plus, un intérêt, pour le joueur non fan harcore de l'espace. Il y a des mission du chalenge, c'est agréable. mais encore trop de petit bug qui gache fortement le gameplay basique. touche de direction qui ne fonctione plus, touche espace(séparation) qui ne fonctione plus. kerbal bloqué en AEV, jetback qui ne fonctione pas.... et a chaque fois obligé de redémaré le jeux pour récupéré les touche .... c'est dommage  EDIT; injouable! ne passe plus l'écran de chargement ....
 
 #####
 
 Pour le moment, je ne le recommande pas. En tout cas, pas pour 50€. J'ai été très très déçus. Je m'attendais à un jeu non fini mais pas à des graphismes en dessous du premier avec tous les paramètres à fond.
 Je pense qu'il y a encore du travail à faire pour les dévs. J'attends avec impatiences le jeu terminé mais pour le moment, je ne vois aucune différence avec le premier.
 Les tutoriels sont très bien fait !
-
-#####
-
-Mème si le lancement a était désastreux... forcé de constaté qu'une No Man's Sky est en chemin.
 
 #####
 
@@ -1048,10 +1068,6 @@ Si vous comptez vous lancer dans KSP pour la première fois, je ne conseille pas
 #####
 
 not playable.
-
-#####
-
-on peut s'envoyer en l'air, c'est cool
 
 #####
 
@@ -1145,16 +1161,6 @@ Je réviserai peut-être mon jugement plus tard. Mais je ne suis pas optimiste v
 #####
 
 science mode is good
-
-#####
-
-J'y joue car je suis indulgent. Mais en l'état estimes que le jeu manque encore trop de contenus pour valoir cette somme et être réellement fun à jouer pour une personne qui ne connaîtrais pas la licence . Même si graphiquement et au niveau performance de chargement cet opus surpasse le premiers, le coeur du gameplay est encore loin de faire le poids de KSP1, rien que pour son mode carrière plus aboutit mais aussi et surtout la tonne de mods disponible.
-
-
-#####
-
-J'ai plus de 500 heures sur le 1, le 2 a tout le potentiel pour être au-dessus, j'avais attendu le mode science et un gros correctif d'optimisation pour le tester. Apres 5 heures de jeu sur celui-ci je pense que je l'ai acheté encore un peu trop tôt. En effet visuellement c'est beau, très stable, ça tournée très bien mais malgré des efforts  notables sur les nœuds de manœuvres je trouve que l'ensemble manque de clarté, ces couleurs grises/bleues prêtent à confusion , ok ca fait plus moderne mais les opérations de rendez vous manquent de visibilité, on a du mal à visualiser les points de rencontre par exemple. Certaines flying box sont persistantes/gênantes et empêchent de distinguer les infos de navigations sur la map. Enfin le maniement de la camera en mode vol est frustrant, on ne peut pas pivoter autour du vaisseau / de la cible à 360 degrés ce qui gêne la aussi certaines manœuvres. j'ai stoppé après une tentative de rendez vous autour de Mun pour sauver un kerbonaute dont la mission a disons... mal tourné, sans succès trop confus comparé à la simplicité de lecture des infos du 1. Du coup j'ai 2 kerbonautes à sauver maintenant ... Encore un petit effort et ça sera bon. Je testerai à nouveau au prochain patch, j’espère que mes héros ont encore qq. chips en stock pour patienter quelques mois avant la 2ème mission de sauvetage :-)...
-(Accès anticipé donc bon courage l'équipe !)
 
 #####
 
@@ -1437,6 +1443,11 @@ FUYEZ !!!
 Les bug present trahissent d'énorme probleme d'architecture et un développement hasardeux .
 
 c'est a peine jouable , beaucoup de probleme , beaucoup . visuelement laid . 20 fsp en low . un nombre de bug pas possible  . il y a pas grand chose a faire pour linstant.  l'interface utilisateur est aussi intuitive que la jungle la nuit . tres decu pour l'instant
+
+#####
+
+Beaucoup de critiques négatives alors que le jeu est seulement en Early Access et qu'il s'améliore beaucoup. (contrairement à Cities: Skylines 2 qui est même pas en EA).
+Je recommande car beaucoup d'améliorations comparé au premier opus.
 
 #####
 
@@ -2119,20 +2130,6 @@ I understand what Early Access is, but for a game with a multi billion dollars p
 
 #####
 
-Pour moi c'est non !
-
-Le choix de Unity sur des jeux Gestion/Sim est une catastrophe ... Et pas besoin d'être Devs pour le savoir.
-Ce genre de choix douteux ruinent l’expérience. 
-
-
-
-#####
-
-Beaucoup de critiques négatives alors que le jeu est seulement en Early Access et qu'il s'améliore beaucoup. (contrairement à Cities: Skylines 2 qui est même pas en EA).
-Je recommande car beaucoup d'améliorations comparé au premier opus.
-
-#####
-
 Même après la dernière mise a jours de nombreux bug sont encore présent (impossible d'effectuer une manœuvre, vaisseau qui disparaît ou s'écrase sur terre alors qu'il était sur une orbite stable, gouverne d'avion qui ne répond pas) chacun de ses bugs ce résout après un redémarrage du jeux mais c'est très frustrant.
 
 J'adore KSP et j'ai vraiment essayer d'insister sur le deux, mais dans l'état actuel (même après la mise a jour Science) c'est trop frustrant d'y jouer.
@@ -2155,6 +2152,15 @@ ne pas acheté
 0 contenu 
 remplis de bug 
 interface et controle infernal
+
+#####
+
+J'attendais le jeu depuis très longtemps, même si il manque pas mal de fonctionnalités pour l'instant, je pense que ce jeu a une bonne perspective d'évolution
+
+Le jeu tourne très bien en 1440p sur ma config :
+- R5 5600
+- RX 6700
+- 16 Go de Ram
 
 #####
 
@@ -2452,15 +2458,6 @@ Le jeu reprends pour l'instant tout ce que fait le premier, mais seulement en sa
 
 #####
 
-J'attendais le jeu depuis très longtemps, même si il manque pas mal de fonctionnalités pour l'instant, je pense que ce jeu a une bonne perspective d'évolution
-
-Le jeu tourne très bien en 1440p sur ma config :
-- R5 5600
-- RX 6700
-- 16 Go de Ram
-
-#####
-
 je recommande pas car toujours vide et plein de bugs 8 mois apres !
 
 #####
@@ -2577,6 +2574,12 @@ Mais ksp2deviendra meilleurque ksp1 et optimisé (je l'espere)
 
 #####
 
+Acheté Day1 il y'a a eu une grande amélioration depuis, le jeu tourne environ a 90 fps en ultra, manque beaucoup de contenu mais c'est encourageant.
+Update:
+la MAJ for science a rendu le jeu vraiment mieux et avec un réel intérêt, il tourne encore mieux malgré quelques bugs mais c'est encouragent
+
+#####
+
 Le jeu est très très beau, quelque bugs et des problèmes de performances mais franchement pour une Early Access c'est superbe j'ai hâte de voir les prochaines mise à jours
 
 #####
@@ -2660,12 +2663,6 @@ To the Mun and way beyond!
 #####
 
 Après plus de 110 h de jeux franchement beaucoup trop de bugs le kraken est toujours présent pour détruire chaque nouvelles parties. Après plus de 6 mois franchement faut ce réveiller et au moins rendre le jeux jouable malheureusement tout les nouveaux jeux de nos jours sortes comme ça c'est triste. J’espère que le patchs de décembre va résoudre la bugs et la stabilité ! malheureusement pour le moment je ne peux pas le recommander.
-
-#####
-
-Acheté Day1 il y'a a eu une grande amélioration depuis, le jeu tourne environ a 90 fps en ultra, manque beaucoup de contenu mais c'est encourageant.
-Update:
-la MAJ for science a rendu le jeu vraiment mieux et avec un réel intérêt, il tourne encore mieux malgré quelques bugs mais c'est encouragent
 
 #####
 
@@ -2762,6 +2759,10 @@ Le jeu tourne plutôt bien en dehors de la planète.
 Quelques bugs qui seront très probablement corrigés rapidement.
 
 Pas mal de bonnes idées. Impatient de voir ce que nous réserve ce jeu.
+
+#####
+
+Très déçu par le gameplay le jeu est exactement la même chose que kerbal 1 avec moins de fonction juste le graphisme un peu amélioré et il est annoncé multijoueur alors que c'est pas le cas
 
 #####
 

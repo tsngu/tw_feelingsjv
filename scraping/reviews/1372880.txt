@@ -1,0 +1,1915 @@
+On nous a vendu un MMO survival, ce n'est rien d'autre qu'un Extraction Game façon Tarkov avec un skin post-apo et quelques rares zombies qui apparaissent de temps en temps.
+
+On peut leur pardonner les lags serveurs, les problèmes de binding, les touches qui parfois ne fonctionnent pas, les gunfight catastrophiques, les sensations inexistantes et fades avec l'impression en prime de contrôler un 38 tonnes pas foutu de franchir un muret de vingt centimètres... On peut pardonner tout ça à une alpha.
+
+Ce qui est moins pardonnable, en revanche, c'est de vendre ce jeu 40€. Il n'en vaut pas la moitié, aucun décors n'a été crée, tout a été pris au store Unreal. Le jeu est de fait assez joli, mais des assets unreal non-programmés ne restent rien de plus que de beaux décors fixes, on sent la totale absence de maîtrise technique des développeurs qui rappelons-le tout de même, ont dit avoir travaillé 5 années pour au final pondre un simulateur de marche en zone urbaine vide. 
+
+On pourrait encore leur pardonner tout ça, si seulement Fntastic (Développeurs) n'avait pas ouvertement menti sur le contenu initial de leur jeu. De fait, ils n'ont arnaqués personne à proprement parler, nul n'ayant payé de kickstarter pour les financer. Or, le jeu n'a rien à voir avec le produit proposé à la base et quand on se penche un petit peu sur leur historique, on remarque qu'ils ont abandonné la totalité de leur jeux alors qu'ils regorgent encore de bugs. Qu'est-ce qui nous empêche de penser qu'ils ne feront pas la même chose avec The Day Before? 
+40€ pour une alpha, c'est l'occasion de se mettre un tas d'argent de côté avant d'abandonner ce projet coulé avant même d'avoir vu le jour. Par ailleurs ils prétendent tenir compte des retours de la communauté, mais (d'expérience) toute question qui les met dans l'embarras ainsi que toute preuve statistique (SteamDB, Steamcharts pour exemple) de l'abandon de leur précédents titres vous vaudra un bannissement IP définitif de leur discord, de la part de leur modérateurs zélés (N'est-ce pas Bakery?) et sûrement payés très cher pour défendre aveuglément une daube pareille.
+
+En résumé, je n'ai aucun grief personnel à l'encontre de ce jeu, seulement une immense déception de la part de développeurs enfoncés dans un mensonge dont ils n'arrivent pas à se sortir, et au lieu de faire preuve de transparence, cherchent encore à faire taire les personnes s'interrogeant. Ils en sont à créer de faux comptes (Allez-voir vous-même le nombre de comptes steam niveau 1 avec pour seul jeu The Day Before dans leur bibliothèque) pour remonter les notes Steam avec des évaluations positives, sans se priver d'envoyer des tacles amers à ceux qui les descendent au passage. Ils suppriment également toutes preuves de ce qui était jadis censé être The Day Before, à savoir un MMO Open World survival, fonctionnel, beau, intriguant et immersif, qui est aujourd'hui l'ébauche d'un Battle Royale pitoyable et à peine fonctionnel développé et modéré par une équipe de menteurs pathologiques se complaisant dans un comportement passif-agressif, ternissant à la fois leur image et celle de leur jeu. Une balle dans le pied qu'ils se tirent eux-même, qui signera leur fin. 
+
+Une déception, même si je savais que les trailers annoncés étaient forcément très éloignés de la réalité, je ne m'attendais pas à un tel manque de professionnalisme ainsi qu'un tel manque d'honnêteté envers eux-mêmes et les joueurs du monde entier. The Day Before est un enfant mort-né, assassiné par des parents égocentrés ayant préféré l'étrangler avec son cordon ombilical plutôt que de s'ouvrir à l'aide des gens autour.
+
+Le point positif dans tout ça est que l'on peut espérer que, peut-être un jour, un jeu similaire voit le jour en raison de l'engouement que The Day Before aura provoqué, mais si ce jour doit venir, espérons que les personnes le mettant au monde seront aimants, honnêtes, et transparents au maximum.
+
+#####
+
+HAHAHAHAHA!!! UN SACRÉ JEU DE M*RDE QUI EST VENDU A 40€ !!!
+
+Je vais étoffer un peu mon avis parce que certaines personnes pensent encore que c'est du bashing gratuit. -_-"
+
+Les points négatifs:
+- C'est techniquement à la ramasse, j'ai l'impression de jouer à WarZ en 2013.
+- Le jeu est vendu comme étant un "MMO" mais pas du tout, les serveurs sont limités à 32 joueurs et pour un "MMO" et on ne croise personne ! 
+- La map est ridiculement petite et tous les bâtiments sont fermés. Il y a juste quelques commerces dans lesquels on peut entrer mais c'est très limité. 
+- Les IA... (enfin les wallhack) qui te traquent où que tu ailles. Impossible de les esquiver ou de perdre l'agro.
+- Des bugs de collisions PARTOUT qui rendent les déplacement fastidieux.
+- Impossible d'escalader ou d'enjamber un muret... où est l'animation d'enjambement qu'on voyait dans le premier trailer?
+- Aucune cohérence de gameplay: 2 caisses identiques, l'une est lootable mais pas l'autre. Pourquoi? Vous allez me répondre surement un bug mais c'est présent PARTOUT donc bon courage pour retenir quelle caisse se loot. 
+- En parlant de loot, le prompt d'interaction n'est au centre de l'écran mais déporté au niveau de l'épaule droite du personnage et les hitbox d'interaction sont elles aussi bug, il faut réussir à trouver le sweet spot... Atroce!
+- Le gunplay ne procure aucune sensation, tirer dans la tête d'un zombie ne sert à rien et il y a un lag général niveau serveurs qui rend l’expérience infâme. 
+- Les dev ont-ils vraiment créé/modélisé quelque chose ou est-ce-que c'est juste un assemblage de plein d'assets Unreal Engine vendu 40€?
+
+BONUS
+- Le début du jeu qui ne fait aucun sens: on te fait un construire une tente et on te présente le housing... MAIS POURQUOI FAIRE? 
+Le garage qui contient des Lambo etc... Mais comment ils justifient cela? On est dans un jeu de survie post apo et mettre un garage avec des voitures de luxe, ça sert à quoi au juste? Une mécanique de réparation de voiture ingame à la DayZ aurait été incroyable. 
+
+Les points positifs: 
+- C'est un Extraction Shooter à la Tarkov mais même ça c'est foiré!
+
+Pour être très honnête, il n'y a aucun point positif et ça prouve encore une fois que le marketing et les belles images de trailer, ça ne fait pas un bon jeu. (hein Activision)
+
+Pour 10 - 20€ Lethal Company ou DeadSide c'est 100 fois meilleur.
+
+#####
+
+[JEU ABANDONNÉ ! FAITES VOUS REMBOURSER IMMÉDIATEMENT !) 
+Je ne recommande pas le jeu en l'état. J'ai demandé un remboursement tellement le produit ne correspond pas du tout aux promesses qui étaient tenues. On nous a menti sur le produit dévoilé durant les trailers.
+
+Pourquoi ?
+
+• Ce n'est PAS un MMO Survival comme il devait l'être : De base ce jeu a été vendu comme étant le 1er véritable MMO Survival en monde ouvert. Imaginez The Division + l'ambiance de The Last Of Us dans un monde gigantesque, c'est ce qui était promis aux joueurs depuis les tout premiers trailers du jeu.
+
+• Ce jeu n'a pas été codé par les mains d'êtres humains : Ils ont simplement repris des assets déjà existants dans la boutique d'Unreal Engine, pour en faire leur "jeu" si on peut dire ça comme ça. https://www.unrealengine.com/marketplace/en-US/product/american-city-packs-bundle/reviews ceci est la map du jeu, non je ne blague pas, ils ont bel et bien achetés la map pour 300 dollars. Alors je veux bien que l'on puisse se servir d'assets comme base de développement, mais The Day Before en est remplis, a un tel point qu'on a l'impression que tout le jeu utilise des assets. Ce qui montre très clairement que Fntastic en a rien à foutre des joueurs, car leur philosophie se porte sur le volontariat ainsi que l'achat d'assets déjà préconfigurés.
+
+• Le jeu lag, plante H24 : Vu que le jeu n'a pas été codé par un être humain normal, il est logique que l'optimisation est catastrophique. Vous voulez changer un paramètre ou bien la résolution ? Vous allez devoir relancer le jeu car même les menus du jeu lag et font crash le jeu. Vous voulez passer une simple porte ? Chargement infini possible + plantage du jeu. Si vous avez le malheur d'activer la Vsync, vous allez recevoir un message d'erreur vous disant que le jeu a crash car tout simplement la Vsync n'a pas été implémenté. En fait RIEN n'a été optimisés.
+
+• Le gameplay est inexistant : Il n'y a pas non plus de véritable gameplay puisque la base d'un jeu FPS n'y est pas présente. Vous n'avez même pas le moyen de faire passer le jeu en vue à la première personne, lorsque vous tirez sur un Zombie, il n'y a pas de dégâts de recul + pas de localisation de dégâts sur le corps. Encore pire, le CaC n'est même pas présent, vous devez obligatoirement avoir un fusil pour vous défendre, pas même un bâton ou bien une barre en métal peut vous sauver puisque rien de tout ça n'a été codé. Pas d'animation pour la fouille ainsi que le bandage en cas de blessure, pas de sensation au niveau du tir, toutes les armes font le même bruit car ils ont réutilisés les assets à foisons. Vous ne pouvez même pas enjamber une simple clôture ou un petit muret puisque l'animation n'existe pas, encore pire, les Zombies peuvent vous clip par dessus car il n'y a pas non plus de physique, ce qui engendre pas mal de bugs, notamment par du NOCLIP dans le HUB principal du jeu. 
+
+• L'exploration, le monde ouvert, la survie sont inexistantes : Vous n'avez aucune sensation d'exploration, dans les touts premiers trailers, on voyait des voitures, et bien ceci n'existe pas à la sortie. L'exploration consiste simplement a aller fouiller dans des bâtiments génériques de la boutique d'UE afin de trouver du ravitaillement à ramener dans votre HUB et stockage principal. Vous ne pouvez pas monter à l'étage d'un immeuble par exemple car ils ont même pas pris la peine d'en créer, ce qui fait que l'exploration est très linéaire et surtout très platonique. Le monde ouvert ? Il n'y en a pas puisque ce jeu n'est qu'un simple extraction shooter. Vous avez plusieurs serveurs de 32 slots (pour 32k de joueurs à la sortie..) sauf qu'en jeu, vous ne croisez personne et vous ne pouvez pas interagir avec eux non plus. Le monde n'est pas vivant, vous croisez un Zombie tous les 4km², je ne blague pas, pareil pour les joueurs, vous en croisez très rarement. De plus, ils ont eu la bonne idée d'incorporer des fakes bruits de tirs en jeu, pour vous faire croire qu'il se passe quelque chose, mais lorsque vous arrivez sur place, il n'y a rien. La map est très générique et petite, vous n'avez aucuns points d'intérêts (étrange pour un jeu qui se vend comme étant un MMO Survival), vous avez juste 2 point de rdv pour l'extraction de vos objets et.. c'est tout. La survie n'en parlons même pas tant elle est anecdotique, vous avez bel et bien une barre lié à votre survie, mais elle se vide tellement peu qu'on n'y prête jamais attention. On a l'impression que cette barre existe juste pour nous faire croire que c'est un jeu de survie, sauf que non, on est bien loin d'une simulation à la Tarkov ou Scum. 
+
+• Conclusion et avis final : N'achetez pas ce jeu, ni en l'état et ni en promotion. Ce n'est pas un jeu, c'est un prototype, une version pré Alpha si vous préférez. Pour 40 euros, j'appel cela une escroquerie, ni plus ni moins. Je suis terriblement déçu de Fntastic qui encore une fois, nous montre qu'ils en ont rien à foutre du projet, ils voulaient simplement se faire un peu de thune pour démarrer leur prochain jeu qui finira comme The Day Before, c'est à dire une coque vide, juste pour vous attirer l'oeil par des trailers qui sont bien entendu tous fakes. Vous savez qu'ils ont retirés tous leur anciens trailers ? Car ils savent qu'ils sont démasqués, alors ils essayent tant bien que mal de retirer les possibles preuves de leur escroquerie honteuse, pour la simple et unique raison de se protéger d'une future poursuite judiciaire. 
+
+Ce jeu est un scam ! Faites très attention et lisez bien les review des joueurs.
+
+#####
+
+Cela fait maintenant plus de deux ans que j'attends ce jeu avec impatience, et le résultat de mon attente est tout simplement une SOUPE de VOMI. C'est une véritable honte de sortir un jeu pareil sur Steam, même avec une excuse de pré-alpha. J'invite les décideurs à retirer ce jeu de la plateforme et à mettre en prison au plus vite les responsables !!!!
+
+#####
+
+Alors là... (C'est un jeu d’extraction, vraiment mauvais qui plus est)
+
+#####
+
+Je remercie les devs de the day before ! En effet grâce a eux j'ai pu expérimenter pour la première fois le fonctionnement de la demande de remboursement steam ! Merci !
+
+#####
+
+30 Minutes. C'est le temps qu'il ma suffit pour savoir que ce jeu n'en valait pas la peine. 90% des Bâtiments ne sont pas ouverts, les seules qui le sont sont identiques. Le jeu est très mal optimisé. Les zombies sont exactement pareille et la map est très petite. Le feeling des armes est correcte lorsque la visée ne reste pas bloqué ou que les zombies ne vous traversent pas, en faisant buger votre caméra par la même occasion. Je recommande d'attendre quelques mois, on le trouvera à une poignée d'euro
+
+#####
+
+Sheshounet va terminer votre jeu de merde.👍
+
+#####
+
+Bonjour,
+
+Contenu du jeu ...
+
+ [quote=FNTASTIC] Impossible de se connecter aux serveurs.[/quote]
+
+Merci à vous d'avoir lu cette critique constructive.
+
+#####
+
+Comme un panini fromage, mais sans fromage. Et sans panini.
+
+
+EDIT : le studio vient de fermer. AHAHAHAHAHA
+
+#####
+
+On nous a vendu un MMO survival, ce n'est rien d'autre qu'un Extraction Game façon Tarkov avec un skin post-apo et quelques rares zombies qui apparaissent de temps en temps.
+
+On peut leur pardonner les lags serveurs, les problèmes de binding, les touches qui parfois ne fonctionnent pas, les gunfight catastrophiques, les sensations inexistantes et fades avec l'impression en prime de contrôler un 38 tonnes pas foutu de franchir un muret de vingt centimètres... On peut pardonner tout ça à une alpha.
+
+Ce qui est moins pardonnable, en revanche, c'est de vendre ce jeu 40€. Il n'en vaut pas la moitié, aucun décors n'a été crée, tout a été pris au store Unreal. Le jeu est de fait assez joli, mais des assets unreal non-programmés ne restent rien de plus que de beaux décors fixes, on sent la totale absence de maîtrise technique des développeurs qui rappelons-le tout de même, ont dit avoir travaillé 5 années pour au final pondre un simulateur de marche en zone urbaine vide.
+
+On pourrait encore leur pardonner tout ça, si seulement Fntastic (Développeurs) n'avait pas ouvertement menti sur le contenu initial de leur jeu. De fait, ils n'ont arnaqués personne à proprement parler, nul n'ayant payé de kickstarter pour les financer. Or, le jeu n'a rien à voir avec le produit proposé à la base et quand on se penche un petit peu sur leur historique, on remarque qu'ils ont abandonné la totalité de leur jeux alors qu'ils regorgent encore de bugs. Qu'est-ce qui nous empêche de penser qu'ils ne feront pas la même chose avec The Day Before?
+40€ pour une alpha, c'est l'occasion de se mettre un tas d'argent de côté avant d'abandonner ce projet coulé avant même d'avoir vu le jour. Par ailleurs ils prétendent tenir compte des retours de la communauté, mais (d'expérience) toute question qui les met dans l'embarras ainsi que toute preuve statistique (SteamDB, Steamcharts pour exemple) de l'abandon de leur précédents titres vous vaudra un bannissement IP définitif de leur discord, de la part de leur modérateurs zélés (N'est-ce pas Bakery?) et sûrement payés très cher pour défendre aveuglément une daube pareille.
+
+En résumé, je n'ai aucun grief personnel à l'encontre de ce jeu, seulement une immense déception de la part de développeurs enfoncés dans un mensonge dont ils n'arrivent pas à se sortir, et au lieu de faire preuve de transparence, cherchent encore à faire taire les personnes s'interrogeant. Ils en sont à créer de faux comptes (Allez-voir vous-même le nombre de comptes steam niveau 1 avec pour seul jeu The Day Before dans leur bibliothèque) pour remonter les notes Steam avec des évaluations positives, sans se priver d'envoyer des tacles amers à ceux qui les descendent au passage. Ils suppriment également toutes preuves de ce qui était jadis censé être The Day Before, à savoir un MMO Open World survival, fonctionnel, beau, intriguant et immersif, qui est aujourd'hui l'ébauche d'un Battle Royale pitoyable et à peine fonctionnel développé et modéré par une équipe de menteurs pathologiques se complaisant dans un comportement passif-agressif, ternissant à la fois leur image et celle de leur jeu. Une balle dans le pied qu'ils se tirent eux-même, qui signera leur fin.
+
+Une déception, même si je savais que les trailers annoncés étaient forcément très éloignés de la réalité, je ne m'attendais pas à un tel manque de professionnalisme ainsi qu'un tel manque d'honnêteté envers eux-mêmes et les joueurs du monde entier. The Day Before est un enfant mort-né, assassiné par des parents égocentrés ayant préféré l'étrangler avec son cordon ombilical plutôt que de s'ouvrir à l'aide des gens autour.
+
+Le point positif dans tout ça est que l'on peut espérer que, peut-être un jour, un jeu similaire voit le jour en raison de l'engouement que The Day Before aura provoqué, mais si ce jour doit venir, espérons que les personnes le mettant au monde seront aimants, honnêtes, et transparents au maximum.
+
+#####
+
+Trop cher pour ce que c'est !
+
+Les serveurs full, les bugs, les glitchs en "Day 1" ça peut se comprendre, Early Access, petit studio,...
+
+Mais ce jeu ne corresponds pas du tout à ce qui a été et est annoncé !
+
+"     The Day Before offre aux joueurs un périple exceptionnel dans un survival MMO post-apocalyptique en monde ouvert,...     "
+
+Mauvaise description du jeu, ce n'est pas un "Survival MMO Open World" mais un "Extraction Shooter"
+ - Pas de craft
+ - Pas de corps à corps
+ - Map de taille moyenne avec points d'extaction
+ - Limité à 32 joueurs
+ - Lore inexistant ! comment en est on arrivé à ce monde post-apocalyptique ?
+
+En tant qu' Extraction Shooter,
+On se retrouve dans une zone safe "Woodberry" avec diffrents PNJs commerciaux, armurerie, infirmerie, atelier, stockage, bar, sauna, salle de muscu,....
+Le gameplay très plat et consiste simplement à looter en évitant ou tuant zombies et autres joueurs puis s'extraire vers la zone safe pour vendre ou ramener des items afin de compléter des quêtes basiques pour ce faire l'argent à dépenser dans l'équipements/véhicules.
+Esthétiquement, il casse pas 3 pattes à un canard.
+Peu d'utilité de la base personnelle, elle donne uniquement accès au garage de véhicules et au stockage personnel que l'on retrouve dans la zone safe.
+Aucune utilité de la décale, de plus, impossible à rebind.
+Visée très subjective, le seul viseur existant est un viseur point rouge type EOTECH.
+Véhicules qui bondissent une fois stationné.
+AIs costaud 4 balles dans la tête pour un simple zombie.
+Pas de support pour les résolutions 3440 x 1440. 
+
+A 15-20€ en l'état en EA ou free to play avec du cosmétique achetable/battlepass pourquoi pas.
+
+
+Mon avis purement personnel  :
+
+C'est de la merde en boîte servi dans l'argenterie de mémé.
+
+#####
+
+Fermeture du studio. Fin du "jeu".
+
+#####
+
+Une véritable arnaque... Après 4 jours le jeu abandonné. Un grand merci a Stream pour le remboursement. Steam a parfaitement fais barrage a cette arnaque et supprimer cette escroquerie. Merci
+
+#####
+
+Belle est bien le scam qui était prévu. 
+
+Un jeu vide, où sont passés les hordes ? Les alarmes qui avaient de l'impacte ? Les bâtiments lootables ? Pas un sur 20 ?
+Ah et parlons des zombies semi-dieu, 60 balles dans la tête sur un CRS ? Un groupe de zombie attention ! 4 Fois le même skin  sur 5. Le downgrade, l'opti, les loots inutiles pour faire "du contenu". La mécanique des zombies qui sortent des voitures ? Super, sauf quand c'est à chaque voiture ! Bref, the scam before. Un système de banque, oui, c'est bien pensé, sauf que, faut sortir les sous du global à chaque fois, donc ce taper des allez-retours inutiles pour dépenser ces derniers, notre "safezone personnel" c'est quoi le but ? ça ne sert à rien, autant en jeu, que sur le papier, je ne joue pas à un WarZ like pour faire du Housing.
+
+#####
+
+ATTENTION STUDIO FERME, N ACHETEZ PAS !!!!
+
+#####
+
+Gros Scam. le plus gros de tout les temps.
+
+#####
+
+Merci a Steam pour mon refund ♥
+
+#####
+
+Vraiment une CATASTROPHE.
+
+Gunfight désastreux.
+Opti horrible.
+Bugs aléatoires.
+IA dégueulasse.
+
+#####
+
+The Scam Before est réel !!!! la quenelle de l'année même un aveugle bénévole ferait mieux. 
+Mais qu'est ce qu'il c'est dit dans sa tête le mec qui a fait le jeu ? tete de n'oeil et de pied nu tu nous a prit 40 euros pour ce chausson grillé. Merci UE5 
+passez votre chemin PEACE
+
+#####
+
+"The Day Before : Un Potentiel Gâché, Entre Beauté Visuelle et Déception Profonde"
+
+Je tiens à partager mon point de vue sur "The Day Before", car malgré les avis négatifs qui circulent, il est essentiel d'apporter une critique constructive pour éclairer les attentes des joueurs. Je ne vais pas aborder les problèmes de connexion au serveur, de bind de touche, ou de paramètre de résolution manquant, qui, pour moi, persistent à chaque sortie de jeu, puis sont rapidement corrigés avec un patch.
+
+Ma déception principale réside dans le décalage entre la description du jeu et la réalité, ce qui m'a incité à demander un remboursement après seulement deux heures de jeu.
+
+Le principal point de désaccord réside dans la présentation du jeu comme un MMO de survie en monde ouvert post-apocalyptique. Malheureusement, cette promesse s'effondre dès que le joueur se retrouve dans un lobby, limité à acheter des armes, des vêtements et à stocker des objets.
+
+La transition vers le prétendu "monde ouvert" est décevante, car la carte est petite, fermée, les rues, bâtiments et voitures se ressemblent, et seulement 10% des bâtiments sont explorables, souvent vides à l'intérieur. L'essence même d'un jeu à la manière de Tarkov est présente, mais le réalisme et la tension ne se concrétisent pas dans "The Day Before". La peur de mourir et de tout perdre, présente sur Tarkov, est absente, d'autant plus que le jeu est en vue à la troisième personne. Le choix très limité d'armes contribue également à des gun-fights décevants.
+
+Si vous espériez de la construction avec des objets à trouver et du craft, passez votre chemin. Votre chez-vous est un petit terrain vague accessible depuis le lobby, vous permettant d'acheter des objets directement et de les placer à l'intérieur de votre maison (préconstruite). Il n'y a pas de retour en voiture à votre base après une expédition dans la ville voisine pour vous ressourcer. Vous devrez trouver une extraction puis faire un voyage rapide chez vous depuis le lobby.
+
+Les zombies, élément classique des jeux post-apocalyptiques, ne parviennent ni à inspirer la peur ni à représenter une réelle menace. Leur présence semble presque accessoire, n'ajoutant pas à l'atmosphère immersive que le jeu aurait pu offrir.
+
+En somme, "The Day Before" offre une expérience visuelle plaisante, mais le décalage entre les attentes créées par la description du jeu et la réalité du gameplay est décevant. Il est regrettable de constater que le potentiel d'un MMO de survie en monde ouvert n'a pas été pleinement exploité, laissant les joueurs avides de réalisme et de tension sur leur faim.
+
+Espérons que les développeurs prendront en compte les retours des joueurs pour améliorer et enrichir l'expérience dans les futures mises à jour. Cependant, il semble que les limitations inhérentes à la conception actuelle du jeu pourraient rendre difficile l'obtention de ce que nous attendions initialement. En revanche, si vous recherchiez un Tarkov beaucoup plus arcade, vous êtes au bon endroit.
+
+#####
+
+Scam malheureusement . Studio fermé après 4 jours .
+
+#####
+
+Un MMO dans un monde ouvert soit disant (ils ont oublié de refaire le trailer qui mentionne bien MMO et Open World) après avoir hâtivement fait retiré le tag MMO et lancé une vague de ban sur le discord pour les joueurs qui dénonçaient la supercherie. Une grosse escroquerie même en Early Access, surtout à ce prix là. Gardez votre argent et passez votre chemin, ce n'est juste qu'une pâle copie, remplie de bugs d'une DZ dans The Division.
+
+#####
+
+Merci l’équipe Steam pour le remboursement. 
+
+"Sinon un nouveau mot sur le jeu? "
+
+"Hum vraiment?"
+
+Allez Bonsoiiirrrrrrrrrrrrrr
+
+#####
+
+Ceux qui veulent le rembourser peuvent même après 2h, vous mettez que le studio est fermer et donc il n'y aura plus de mise a jour. Ma demande a été accepté, si jamais il se fait racheter c'est cool sinon vous pouvez toujours le rembourser maintenant :)
+
+#####
+
+Et bien que dire de plus... Le jeu est catastrophique sur de nombreux points. Il est très mal optimisé. Bon c'est une early access donc ça peut s'excuser. Mais...
+
+- Pas de MMO.
+- Pas de monde ouvert.
+- Pas de corps à corps.
+- Pas de hordes de zombies.
+- Bug de duplication. On tombe sur des joueurs déjà full stuff.
+- Une économie qui est bancale. On peut acheter certaines choses qui ne nous servent à rien donc pourquoi les acheter. Qui plus est ça coûte excessivement cher comparé à ce que l'on gagne.
+- Une carte vide.
+- 90% des bâtiments sont juste des façades.
+- L'intérieur des quelques bâtiments ouverts se ressemblent.
+- Notre parcelle est comme l'économie, bancale. Elle n'avance en rien.
+- Le jeu beug énormément et si vous le relancez, en plus d'avoir perdu tous vos items vos touches seront reconfigurés comme au début.
+- Le nombre de balles est assez hallucinant pour tuer un zombie.
+- Le jeu est moyen graphiquement.
+- Il y a très peu d'armes chez le marchand d'armes.
+- On peut passer certaines portes debout mais pas accroupi et inversement.
+- Le joueur s'accroupi systématiquement dès qu'il ouvre l'inventaire ou sa tablette.
+- Les touches ne sont pas toutes indiquées dans les paramètres.
+- Impossible de jouer avec une manette ps5 sur mon pc alors qu'il y a des paramètres manette.
+
+Je précise que tous les points soulevés reflètent mon expérience de jeu même si certains points rejoignent d'autres joueurs. On ne s'attendait à rien et on est quand même déçu. C'est dommage. Ce jeu aurait pu être un très bon jeu si il avait été réalisé correctement.
+
+#####
+
+Jeu éclaté comme prévu, sûrement l'un des pires jeux dont j'ai pu jouer.
+
+#####
+
+Clairement un jeu à l'opposé des promesses... Je m'attendait à pire très honnêtement, mais on peut clairement pas recommander ça :/
+
+#####
+
+Un mensonge créé par un studio pour rafler un max de tunes en un minimum de temps: Une arnaque...
+Que fait ce jeu sur Steam?
+
+#####
+
+Excellente simulation de connexion aux serveurs, je recommande
+
+#####
+
+Comme beaucoup j'attendais le jeu avec impatience malgré les gros soucis qu'il a rencontré en route, je me suis dit peu être qu'il va nous faire une NMS ou une DI2, mais non... déjà première connexion impossible, ça m'a pris 30 minute rien que pour atterrir dans le loby et là c'est le drame
+
+à peine dans le lobby, lag en tout genre, pourtant même étant sur portable j'ai une configuration solide i7 11800h / 3070, mais rien n'y fait, que ce soit en low medium etc dlss ou pas, il y'a des drops de FPS incommensurable, bon admettons soucis d'optimisation, le jeu est en early, viens donc la suite, mon arrivé dans la ville, une ville incroyablement vide, pour le coup effectivement c'est l'apocalypse, quelques zombies éparse sur lesquels il faudra vider 2-3 chargeurs car la hitbox est l'inverse de celle des flèches de Hanzo, aucune arme de corps à corps ? (hahahahaha...) la quasi totalité des batiments sont vides, et ceux visitables sont tous des reskyns 
+
+et viens l'idée fabuleuse du PvP constant, qu'elle joie de ce faire chain kill par un mec qui attend autour de la safe zone, aucun garde fou, le mec peu littéralement camper là 7 jours si il veux, niveau gameplay c'est très lourd, interface totalement non intuitive, icone de l'inventaire très old school, bref TDB est une belle arnaque...
+
+j'ai heureusement pu demander un remboursement, d'ailleurs ce studio mérite ce qu'il lui arrive, et j’espère que ça servira d'avertissement au autres qui prennent un peu trop la confiance avec le Early Access en mode je te sort un torchon et ensuite un jeu fini si tout ce passe bien dans 2-3 ans et au pire pas grave je le laisserai sombrer comme plein d'autres sur steam, surtout que dans son cas ils savaient très bien que le jeu n"tait pas pret alors balancer une pub sur Timesquare c'est de l'argent par les fenêtres, argent qui aurait pu être utiliser pour combler les lacunes du jeu.
+
+Ps : 40€ c'est une somme non négligeable pour je pense beaucoup de monde.
+
+#####
+
+C'est un scam. Je ne comprend même pas comment cela peut être légal. En refusant de me rembourser steam participe activement à ce scam ce qui devrait là aussi être illégal. Ils ont fait exprès de rallonger l'intro au maximum pour obliger les gens à dépasser les 2h de jeu et ne pas se faire rembourser, steam et fntastic sont des ecrocs tous les deux l'un autant que l'autre la moindre des choses serait de rembourser TOUS les joueurs qui se sont fait avoir et supprimer ce scam de votre bibliothèque même les screen sur la page de vente sont un mensonge honte à vous, voler 40€ à autant de personnes c'est juste immonde.
+
+#####
+
+2 ans d'attente pour ca !
+jeu de survie openworld à la base et finalement rien de cela ! 
+merci pour ce foutage de gueule !
+
+#####
+
+Fin de Fntastic, fin du jeu 4 jours après la sortie du jeu ... On aura tout vu ! Merci steam pour le remboursement !
+
+#####
+
+Merci Steam pour le remboursement rapide ! c'est le seul avis positif que je retiens de ce jeu !
+
+#####
+
+The day before deviens 4 day after.
+
+#####
+
+Le pire jeu de l'année, une grosse arnaque ! Le studio a fermé ses portes. D'ailleurs, même si vous avez dépassé les 2 heures de jeu, vous pouvez vous faire rembourser, tant il s'agit d'une escroquerie. Expliquez simplement que le jeu n'a plus de mises à jour, que le studio a fermé ses portes, et que c'est une belle arnaque, ce qui est vrai. Vous serez remboursé.
+
+#####
+
+Nul nul nul, avec la meilleure intention du monde, ça reste exécrable. 
+Un beau scam, pas de combat au corps à corps dans un jeu de survie.. 
+Archi vide, système de loot horrible, fight qui laisse fortement a désirer. 
+Aucun point positif si ce n'est l'intro du jeu qui a été le seul élément à être travaillé.
+Pas fluide, Unreal 5 sauve le jeu. 
+Zombie catastrophique. ( Au singulier car ZERO zombie ( 6 balles minimum dans la tête pour 1 zombie, logique. ) ) 
+Système achat/revente des plus déplorable, les loots en tout genre sont nul, aucune hype pour rien, aucune âme. 
+Je ne communiquerais pas sur le son du jeu.. Pas travaillé du tout !
+
+#####
+
+[h1][b]Un jeu en miette[/b][/h1]
+
+Je ne m'attendais pas à grand chose, j'ai quand même été déçu.
+Aucune information sur le véritable principe du jeu. Sur ce que j'ai pu voir dans les "annonces" et les vidéos de "gameplay", j'aurais pu penser que c'était un vrai monde ouvert dans lequel on survit en construisant sa base, explorant, etc. Au lieu de ça, on a le droit à un jeu d'extraction dans lequel on a le droit à une parcelle safe et dont personne n'a accès si ce n'est vous. Bien entendu, cette parcelle n'est pas dans le monde ouvert.
+
+Nous avons le droit à un lobby sécurité dans lequel le PvP n'existe pas. C'est bien, c'est déjà ça.
+Par contre, le monde ouvert est uniquement en PvPvE. Il n'y a aucun moyen possible pour pouvoir jouer uniquement en PvE et on ne sait même pas si un mode PvE est prévu étant donné que le studio de développement n'est clairement pas très doué pour communiquer autour de leur jeu. La preuve pendant son développement où le studio ne donnait quasiment jamais de nouvelles sur leur jeu. Dès qu'on avait le droit à une vidéo, cette dernière était très vague et ne montré qu'un ou plusieurs personnages se promener dans un monde ouvert.
+
+Sincèrement, si vous vous attendiez à un jeu de survie en monde ouvert avec la possibilité que ce dernier soit MMO. Eh bien, partez. (:
+
+Si vous voulez un jeu d'extraction dans lequel il faut trois/quatre balles dans la tête d'un zombie pour qu'il décède, dans lequel il n'existe pas de corps à corps et dans lequel, il n'y a pas vraiment de VRAI notion de survie. Eh bien, foncez. (:
+
+Sur ce, joyeux Noël !
+
+[i]4444[/i]
+
+#####
+
+Bon, c'est pas terrible. Jouable certes, mais lent, bugé, pas agréable. Puis les mecs qui attendent à l’extract.. Vous pétez le jeu.
+
+#####
+
+Par ou commencer ...
+Tout d'abord je dois dire que je suis extrêmement fan des jeux de survie sous toutes leurs formes. J’attendais évidement la sortie avec impatience malgré les commentaire extrêmement négatif qu'on pouvais entendre (mais justifier).
+Le jours J se rapproche, je garde un soupçon de HYPE car bon .. Comme on dis, on peut pas dire que c'est pas bon sens avoir goutter. J'avais décider de me faire mon propre avis.
+
+Alors, aussitôt disponible je m'empresse de l'acheter : 40 € AIE AIE. TROP CHER.
+
+Lancement du jeu : Menu qui manque cruellement de contenue.
+Personnalisation de notre perso très moyenne.
+Réglage des touche pour les joueurs clavier : BON COURAGE. Manque même des touches genre s'incliner ? non mais LOL x).
+
+Trouver un serveur open = parcours du combattant. Aller on tolère ils ne s'attendais peut-être pas à ce que leurs "JEUX" soit autant attendu ... LOL 
+Mais bon 50 serv EU avec 50k personne qui attendent .. on est pas rendu. (heureusement ils vont pas être saturé longtemps X))
+
+Une fois dans la partie, petite cinématique, on découvre tout de suite des graphisme assez moyen mais encore pas dégeu.
+On suit une série de quête rapide qui nous mettent en place dans le monde. Jusqu'à la pourquoi pas .. Même si on sens quand même un peut la M***E arrivé.
+
+Nous arrivons donc au moment ou nous sommes lâchés dans l'OPEN WOLRD. Une arme et deux trois items dans le sac lets go.
+
+On découvre une ville de taille moyenne mais pas du tout immense, peut de Zombie. Loot extrêmement rare. Pour résumer un gros manque de contenu. Les zombie sont lents, ne nous rattrape jamais quand on cours. IA degeu.
+
+Pour dire : Ils ne se sont même pas embêter à mettre le loot au sol. Il faut forcément fouiller quelque chose, avec une animation à répétition complètement useless et perte de temps. On dirai un survival qu'a 10 ans.
+
+Le loot parlons en : NUL => pas de contenu.
+Les arme très peut de choix = genre 3 flingue et 4 AR. 1 Pompe peut être. 
+
+Ha oui aussi pas de corps à corps. Oui oui, vous avez bien lus, impossible de mettre un coup de poing, ni un coup de couteau. Ni quoi que se soit d'autre en faite. Alors évidement vous aurez compris, un SURVIVAL HORROR sens corps à corps ... On frôle l’indécence.
+Pas de fric donc pas d'arme, pas d'arme = Mort. Nice
+
+Jouabilité très moyenne, optimisation graphique très moyenne. J'ai un pc a 3K j'ai 100fps en galère. Ca parait beaucoup mais les petites config vont transpirer. C'est sur. Mais on a vu pire à ce niveau.
+
+Que dire de plus si ce n'est : N'acheter pas ! Il ne faut rien leurs laisser. Leur "jeu" ne vaut rien. Il manque deux bonne année de dev et surtout des dev serieux.
+
+L'idée de base est super, faut le noté, mais tout à été bâcler. Rien n'est fini. Et surtout : RIEN NE LE SERA JAMAIS.
+
+
+#####
+
+L'important, c'est de participer !
+
+#####
+
+En résumer :
+
+- Serveur datant des années 2000.
+
+- Tarkov au rabais.
+
+- des armes ? ou ça des armes ?
+
+- possibilité d'ouvrir un magasin de vêtements.
+
+- Jeu souillé par ça communauté avec des glitch et autres exploit bug.
+
+Voila.
+
+#####
+
+pire jeux de tout les temps
+
+#####
+
+Ce jeu ne correspond en rien à ce qui était vendu. En plus les modérateur et community manager de l'entreprise commence a annoncer la fuite des développeurs. Ce jeu n'auras donc sûrement aucun avenir!
+
+#####
+
+A fuir de toute urgence et pour ceux ayant acheté le jeu, demandé vite un remboursement
+
+#####
+
+(vomis dans ma geule)
+
+#####
+
+Je recommande pas ce jeu,
+Gros mensonge publicitaire et d'enormes bug, personnage constamment à refaire avec stuff et inventaire supprimé à chaque déconnexion, cheaters, jeu non survival, non monde-ouvert, jeu d’extraction et non de survie et j'en passe.
+A voir comment le jeu évolue dans les années a suivre.
+
+#####
+
+J'ai un excellent titre pour le jeu: The Day of deception.
+
+J'ai plus de 10 000h sur des jeux de survie comme DayZ, Scum, 7 Days to Die, The Division, etc. Après 1h30 de jeu, je suis franchement déçu, beaucoup de promesse et aucun travail de fait. Vous avez vendu le jeu comme un Survival game open world MMO. 
+
+Après tant d'attente, on se retrouve avec un jeu qui ressemble a rien ce qui était promis. Un Extraction Game Basic, avec presque pas de zombie, et une map qui ne fait même pas 20 km carré. Je ne sais pas que vous avez foutu durant toute ses années, mais clairement, vos développeurs et project manager en sont pour quelques choses. Vous auriez dû rester au visuel qu'on voyait dans la neige, il semblait déjà avoir beaucoup plus de contenu que dans l'état Actuel.
+
+Moi c'est un Refund automatique, le jeu est loin de valoir les 52$ +taxes en dollar canadien.
+
+Même Nakwon qui était en pre-alpha était plus complet que votre jeu.
+
+Je souhaite que le jeu devient réellement ce qui était supposé être, mais pour le moment, on est loin d'etre un jeu qui devait avoir un beau match-up entre DayZ et The Division.
+
+Je vois déjà le mass refund ce faire sur Steam dans les prochaines heures.
+
+#####
+
+Rien a voir avec le trailer de lancement cest vraiment de la merde liquide¨....
+
+#####
+
+Personnellement, j'ai apprécié naviguer dans le menu de recherche de serveur. Mais mes potes m'ont dit que c'est un jeu de m*rde, donc c'est un jeu de m*rde. ATROOOOCE !!
+
+#####
+
+Entre deux freeze, j'ai croisée un zombie ! Il m'a foncé dessus et a disparu! 
+Je crois que comme nous, les zombies se demandent ce qu'ils foutent la et quittent le jeu dès que leurs PC retombent sous la barre des 95°!
+Puis j'suis tombée dans un trou et depuis je suis coincée sous la map en prenant mon meilleur bain !
+En une heure, mon combat le plus ardus dans ce "jeu" fût contre les serveurs qui ne voulaient pas me laisser entrer ! ( au final, ils ont raison, n'entrez pas!)
+La partie du jeu la plus gratifiante reste cependant la personnalisation du personnage, j'ai une sale gueule et un regard aussi vide que mon frigo ! Tout moi IRL ! Parfait pour l'immersion!
+
+
+#####
+
+Pire jeu du siècle
+
+#####
+
+Au secours !
+
+#####
+
+Insultant de sortir un jeu comme celui ci en 2023...
+Je passe le problème des serveurs sur-blindés c'est compréhensible mais !
+Un jeu sans vie.
+Changement de FOV inexistant.
+Un mappage de touches vraimennnnnttttt...
+Pas de corps a corps.
+1 z toutes les heures
+In game design qui n'est pas proportionnel a la taille d'un humain
+Une publicité mensongère, des promesses non tenue, c'est un virage a 180.
+
+J’espère qu'ils seront amener a faire faillite, sincèrement <3
+
+#####
+
+Fuyez, pauvres fous !
+
+#####
+
+envie de ce faire arnaqué?? achetez ce jeux....
+
+#####
+
+Scam prévisible et avéré...
+
+#####
+
+caca <--- le jeu
+
+#####
+
+Le plus gros scam du jeu vidéo, les devs mérite la prison ferme sans possibilité de liberté.
+full bugs, ne ressemble en rien à ce qui a été promis, lags de zinzin et des hors map à foison, bref à fuir.
+
+#####
+
+Tout simplement un énorme scam. Le jeu est optimisé avec le cul, tout lag, tout est vide et sans saveur avec des bâtiments fermés partout et 3 skins de "zombies". C'est une horreur, s'il vous plait n'y jouez pas.
+
+#####
+
+Ce jeu est une honte absolue, rien ne vas
+plantage, gameplay aux fraises, contenu maigre...ect
+en plus c'est un mensonge, le jeu n'est ni MMO ni Open world. Demande de remboursement effectué.
+
+les développeurs devraient être en garde à vue à l'heure actuel, faut pas laisser des escrocs en liberté.
+
+#####
+
+Qu'est ce que c'est que... CE TRUC ?!
+
+#####
+
+Fuyezzzzz
+
+#####
+
+Repoussé la sortie du jeu de 2 ans pour ça ???? une grosse douille, des graphismes de 2014 sur UE5, plein de bug et des choses tellement logique a fix ... comme franchir un mur ou escalader, même sauter une pauvre barrière c'est impossible.
+Le jeu est vide, sans âme, tout les buildings sont fermés ou presque. J'ai eu un bon feeling lors d'un fight PVP mais finalement non, car le corps a dépop direct pas pu loot SUPER !!!!! les zombies sont tous copier coller une tristesse ... breff dommage sois disant 5 ans développement intense sois disant pour cette daube, behh merde fuyez !
+
+UPDATE : LE STUDIO VIENS DE FERMER CIAO
+
+#####
+
+Impressions à chaud après 1h30  de jeu : 
+
+- Les serveurs sont difficilement accessibles , j'ai réussi à me connecter seulement sur les serveurs asiatiques et après 1 heure de jeu,  impossible de retrouver une game. 
+- Manque de contenu de la map, la ville semble désertique, on trouve quelques bâtiments ouverts de temps en temps mais c'est souvent des longues rues vides, avec quelques voitures à looter. Je n'ai pas pu explorer toute la map mais sur ce que j'ai vu, c'est très pauvre en terme de contenu.  
+- Le système de 'raid' et de loot est inspiré de tarkov,  mais là on est clairement sur du tarkov de wish, avec des gunfight éclatés au sol, pas réalistes du tout. Il faut parfois un chargeur de 7.62  pour tuer un zombie, même en visant la tête. D'ailleurs parlons en des zombies, ils sont débiles (IA en carton), bugués et très peu nombreux, oubliez les hordes. 
+- Le jeu est bugué, pas adapté aux écrans larges, pas optimisé, ma 3080ti était en pls avec les graphismes en high. 
+- Le système de base avec tous les marchants, c'est pas forcement une mauvaise idée mais ça rend le gameplay un peu lourd, on fait des aller retour au stockage tout le temps, à voir avec le temps comment ca évolue. 
+- Il y a clairement une douille entre ce qui a été annoncé, et la réalité, j'ai le même sentiment que pour la sortie de cyberpunk. 
+
+Le jeu a quand même du potentiel, surtout en coop je pense. Si des mises à jours arrivent rapidement ça peut devenir intéressant mais en l'état c'est vraiment pas top, pas du tout le jeu survival incroyable qui était annoncé.
+
+#####
+
+"The scam before" pas juste before pour le coup
+
+#####
+
+ha le scam 2023
+
+#####
+
+The Day Before est un jeu qui se présente comme un MMO de survie en monde ouvert.
+
+"Dans l'état je suis assez neutre, je ne le recommande pas, et je ne le déconseille pas non plus... (bien lire l'avis pour comprendre)"
+
+Le premier constat est, qu'effectivement nous ne sommes pas vraiment en présence d'un jeu de ce type, si vous cherchez un jeu qui serait le croisement de SCUM et THE DIVISION, vous risquez d'être déçu, nous sommes plus en présence d'un jeu type Vigor, je m'explique.
+Le jeu possède un lobby central  (zone safe) depuis laquelle vous avez accès à l'achat de matériel, stockage de stuff, provisions etc. En vous dirigeant vers la sortie vous avez le choix entre vous rendre sur votre parcelle ou bien visiter la ville:
+
+-La parcelle est une zone solo dans laquelle vous pouvez vous installer, c'est à dire construire votre camp, une maison et l’aménager, ainsi qu'un garage
+
+-La ville se présente sous forme d'arène semblable au fonctionnement d'une DARK ZONE de The Divison ou bien d'une sortie en expédition dans Vigor, vous devez looter dans celle ci et réussir à vous rendre au point d'extraction afin de sécuriser votre précieux butin dans le coffre de votre lobby et ainsi avoir des matériaux dans le but de crafter des armes, stuff etc pour votre survie
+
+Là ou le bas blesse c'est qu'en effet la notion de monde ouvert est bafouée, il nous est parfaitement impossible de passer de la map "ville" à votre petit chez vous en voiture ou bien en randonner à ramasser ce que vous croisez sur la route, il vous sera obligatoire de rejoindre le point d'extraction dans un des 4 coins de la ville afin de rejoindre le lobby pour pouvoir ensuite voyager vers votre parcelle.
+
+Pour résumer, tout n'est pas à jeter, loin de la, rien ne sert de criser sur la difficulté de trouver un serveur ou autre dès les premières heures du jeu sur le marché, nous sommes sur un jeu en cours de développement, il faut l'acheter en connaissance de cause. La déception est la car, oui, ce n'est pas exactement ce que j'attendais, je voulais pouvoir explorer la ville puis remonter dans la voiture pour rejoindre mon campement bien caché à l'abri des regard pour me sentir en sécurité tout en ayant cette tension qu'un autre joueur puisse me piller. Mais en même temps c'est aussi agréable de pouvoir crafter sa petite parcelle en tout sécurité et pouvoir s'y prélasser.
+
+Dans l'état je suis assez neutre, je ne le recommande pas, et je ne le déconseille pas non plus, tout est une question de tolérance et de patience, si vous êtes curieux, essayez le par vous même, il n'y a rien de mieux mais gardez en tête que c'est un accès anticipé, mais ne désespérons pas, je souhaite à ce titre la même évolution que no man's sky, passer d'un jeu éclaté et vivement critiqué à un jeu qui est même supérieur au promesse de base!
+
+#####
+
+Bon j'ai test, je vais attendre de voir l’évolution du jeu. ( remboursement demandé! )
+
+#####
+
+Déçu. Je peux pas dire mieux malheureusement ...
+
+Mon plus gros soucis, c'est qu'on me vend un jeu MMO Survie. Ok.
+
+J'ai effectivement la survie, le PvPvE surtout. Mais il est ou le MMO ? C'est parce que les PNJ te donnent des quêtes ? Mais mis à part ça ... bah t'as rien. C'est le néant.
+
+Donc par la suite, les joueurs PvP s'amuseront sans problème, ils auront de quoi faire. Mais si vous êtes plutôt axé MMO et PvE, passez votre chemin. Ce jeu ne sera pas fait pour vous.
+
+C'est un Infestation mais en moins bien.
+
+#####
+
+Aie aie aie quand on parle de mmo on attend pas un jeu de type tarkov wish....
+Je déconseille pour le moment peut etre que plus tard il va aller mieux mais pour le prix c'est NON point barre.
+
+#####
+
+Jeu de merde HONTEUX, pitié j’espère vraiment qu'aucun développeur n'attentera à leur vie ce serait bête d'en arriver la en tout cas vraiment j’espère qu'il leur arrivera rien ce serait dommage ^^
+
+#####
+
+Le jeu est un mensonge de deux an qui ne respect rien de ce qui a été annoncé. Ce n'est plus un mmo survie qui vas révolutionné le monde du jeu comme annoncé mais un extraction mal fini avec 1 zombie tous les 200 metres . 
+On ne peut pas escalader
+ni découvrir les immeubles comme annoncé, 
+ni combattre à main nue et il n'y a aucune arme blanche. 
+Il n'y a pas non plus de véhicule c'est une grosse arnaque à 38 euros. 
+Mauvais graphismes
+Pas de loot ou de built à faire c'est kill au freshspawn et tu perd tout
+
+#####
+
+The Day Before Deception ! tout est dit le jeux n'as rien a voir avec les bande annonce ...
+j'ai l'impression de jouer a Miscreated qui a facile 8 ans ...
+
+#####
+
+Alors j'ai découvert, c'est quoi ces jeux vidéo ?!
+Vraiment c'est une grosse merde... Je suis vraiment très déçu bien sûr !
+Je veux juste rejoindre mon ami mais ça ne marche pas...
+
+Donc pour moi c'est dommage...
+
+
+#####
+
+scam
+
+#####
+
+C'est un grand non pour 40€ ! 15€ a la rigueur et encore . 
+Ce n'est pas un mmo du tout comme indiqué et ce n'est pas un jeu de survie en monde ouvert aussi, mais un jeu d 'extraction de compo .
+
+Pas de combat au corps-à-corps .
+Pas de horde voir de petits groupes de zombi alors que l on est dans une grande ville?
+Ne comptez pas avoir aussi la satisfaction de coller un headshot sur le peu de Z que vous allez rencontrer, car pour en coucher un il faut plusieurs balles, leur système osseux c'etant renforcé avec la décomposition apparemment.
+
+Sinon le jeu n'est pas moche, c'est peu être le seul point positif.
+
+
+
+#####
+
+La douille de l'année, on s'y attendait...
+
+Le Jeu ne tient pas ses promesses, promotionner, comme un MMO c'est en fait un extraction shooter et un très mauvais qui plus est, bourrée de Bugs de Glitchs et de gros problèmes d'Optimisation le jeu était injouable pour moi,
+
+Le système de connexion et la gestion des serveurs est une insulte à tout jeu en ligne qui se respecte, préparez-vous à redéployer le menu est à spammer à l'infini pour espérer rejoindre une session, et bonne chance à vous pour espérer jouer avec un ami sur le même serveur.
+
+Ne vous attachez pas trop à votre équipement, ou même à votre coffre d'objets Safe à Woodbury, le jeu ayant de gros problèmes de consistance vous aurez parfois de l'équipement qui disparaîtra complètement sans raison, dites au revoir à tous vos précieuses items accumulés au fil de vos sorties !
+
+l'Optimisation du jeu est atroce si vous êtes malchanceux comme moi vous finirez par devoir supporter des freezes incessant et un jeu ne dépassant pas les 40 FPS voir dans certaines situations les 20 FPS avec les paramètres les plus bas possible et une machine bien au-dessus des recommandations !
+je me suis retrouvé à plusieurs reprises avec un jeu complètement épileptique dans les options de réglages, le moteur finissant sous assistance respiratoire avec un diaporama d'une image par seconde ! et un jeu au bord du crash.
+
+Les contrôles du jeu sont immondes, certaines touches sont hard codées ce qui empêche de pouvoir les attribuer, utilisateurs de clavier AZERTY préparez-vous à souffrir, et à devoir re-paramétrer vos touches à chaque lancement de jeu ! 
+
+Le Gameplay et les mécaniques de jeux sont médiocres, des quêtes FedEx dans le but d'obtenir de misérables pièces pour acheter des items peu intéressant, les équipements et les armures n'ont que très peu d'intérêt, et les armes ont tous le même feeling, à croire que d'une arme à l'autre seul le modèle change...
+
+Le Housing ne fait aucun sens et encore une fois n'a aucun intérêt puisque vous êtes coincer dans un bout d'instance qui vous est propre, dans lequel vous ne pouvez vous adonner à aucune activité, si ce n'est remplir une maison vide, le jeu propose 3 modèles d'amélioration pour votre maison qui ne sont que de pauvres modèles fade et ennuyeux qui donne l'impression d'avoir été mis là juste pour ajouter du contenu,
+j'ai été dans l'incapacité de poser des meubles dans le 3e modèle de maison,
+
+l'Économie du jeu vous rappellera les pires heures du communisme, avec des prix exorbitants pour le premier palier d'amélioration du modèle de maison ou même pour le véhicule le moins cher proposé en jeu, je ne vois pas comment c'est humainement possible de pouvoir acheter l'un ou l'autre sans tricher !
+
+Les animations du jeu sont basiques et bancal, le jeu ne vous permet même pas de pouvoir enjamber ne serait-ce qu'une barrière, et les personnages clip bug et sont bien souvent à la vue des autres joueurs coincés dans d'autres boucles d'animation, même quelquefois complètement distordue.
+
+La Map n'a que très peu d'intérêt et manque cruellement d'animation, dénué parfois de tout zombie, pour un jeu de survie zombie c'est quand même le comble ! très mal équilibrée, et les points de sortie et de Spawn sont très mal placé, comme si les développeurs les avaient placés aléatoirement, sans prendre en compte aucun élément de gameplay ou de situation.
+
+Le jeu manque cruellement de consistance en ce qui concerne le déplacement du personnage dans son univers, passer de Woodbury à votre parcelle de terrain se fait comme par magie, comme si l'intérieur du gymnase de Woodbury était à deux pas d'une réserve naturelle en montagne au milieu de nulle part,
+
+En bref, un projet qui ne tient pas ses promesses, qui finit par donner un jeu médiocre mal optimisé vide et buggé avec un gameplay sans saveur,
+
+Quand vous y jouez vous avez l'impression de mettre la main sur un projet Unreal non fini et surtout bien trop ambitieux pour le peu de moyens déployés.
+
+#####
+
+its not open world !
+
+#####
+
+jeu nul
+
+#####
+
+Le jeu est une aberration,
+Il n'est pas fluide, pas beau, trouver un serveur peut prendre jusqu’à 15min.
+
+Si vous voulez un bon jeu de survie avec des zombie, du PVP/PVE acheter DayZ il coûte le même prix et avec les mods le jeu ce renouvelle sans cesse.
+
+Si vous un MMO dans le style monde ouvert The Division fait mieux.
+
+Je pense malheureusement que ce jeu manque cruellement du bonne équipe de dévellopement parce que me vendre un jeu 40€, un jeu qui n'est pas fini et pourtant repoussé 2x pour régler pas mal de soucis c'est soit une équipe d'amateur qui à fait le jeu, soit que les développeur ce foutait de nos gueule depuis l'annonce du jeu.
+
+Pour ma part je pense qu'il faut ce faire rembourser rapidement.
+
+#####
+
+Horrible
+
+#####
+
+nul trop de beug
+
+#####
+
+Gameplay décevant (pour moi), mal optimiser, tu sors de la base tu fais 4m tu es mort Pvp, pas d'interaction avec l'environnement, des zombies où il faut vider un chargeur et si ça ne suffisait pas on vous tire dans le dos, pas de hordes de zombies, des rues désertes, dans tous les cas rien à voir avec les premiers trailer de Fntastic...
+
+#####
+
+CONTINUER A FAIRE DES CINEMATIC VOUS ETE BON CAS SA !!!!!
+BIG SCAM EVER !!!!
+
+
+#####
+
+remboursé directement ça ne vaut pas le détour
+
+#####
+
+au secours !
+
+#####
+
+une belle arnaque dans la lignée de Dead Matter !
+
+#####
+
+Ce jeu est juste une blague voir même une insulte a tous les gamers et consommateurs de Jeux Vidéo. 40 euros pour un jeu vide, full bug, aucune sensation de tir, impossible de sauter, pas de zombies a part 2 ou 3 rescapées, les serveurs vides et pas stable du tout, pas de VOIP, le jeu est incomplet et sans parler que ce n'est pas le jeu que l'on nous a promis. Enfin bref.... n'achetez surtout pas le jeu !!!
+
+#####
+
+Absolument pas un MMO mais un simple extraction shooter. Tarkov sans le côté ultraréaliste (ce qui n'est pas plus mal selon moi), avec une seule map & des zombies en plus. Un jeu qui peut probablement être bon pour les fans du genre, mais forcément une déception pour ceux qui espéraient un Division like.
+
+#####
+
+Les gars vraiment passez votre chemin. 
+
+
+#####
+
+JOUR DE LANCEMENT : AUCUN SERVEUR N'EST ACCESSIBLE. 
+JE ME DIS DONC QUE JE VAIS ATTENDRE QUELQUES JOURS POUR RESSAYER.
+MAIS LA C'EST GRAVE ! SERVEURS TOUJOURS INACCESSIBLES 
+BRUH
+
+#####
+
+Complètement à coté de la plaque, que ce soit du point de vue graphique ou même narratif... Aucune profondeur, je n'ai jamais vu un jeu aussi vide de sens. Tout ça pour essayer d'arnaquer les joueurs du monde entier, qui finissent quoiqu'il en soit par se faire rembourser. En espérant que les frères arnakoffffff seront jugés bien comme il faut !!
+
+#####
+
+Nul
+
+#####
+
+Un Scandale
+
+#####
+
+SCAM - DONT BUY
+
+#####
+
+Merci Steam de rembourser gentiment ce jeu.. comment es ce possible d'avoir un tel jeu vendu au prix fort de 40€ en 2023? Accès anticipé à 40€? ok, pourquoi pas après tout. Justifié? Absolument pas. Je ne sais pas ce qu'est le pire avec ce jeu. Le downgrade graphique peut être.. ou le vide totale sur la map.. ou le vendre comme un mmo mais qui n'en n'est pas un.. Toute les présentations vidéo qu'il y a eu pour teaser le jeu sont faux. Graphiquement très dépassé même au réglage "fantastique"(rien avoir avec les trailers), zombie présent sur la map par groupe de.. 1 tout les kilométres, batiment ouvert peu présent et très très vide.. les serveurs sont catastrophiques (même si celà je l'excuse pour un lancement d'un jeu que beaucoup ont du essayé par curiosité comme moi). Bref, ne l'acheté pas, pas forcément parce qu'il est mauvais, mais pour tout les mensonges donné pour faire parler et vendre le jeu. Même dans 1 an ou plus, je ne penses pas que le jeu seras meilleur.
+
+#####
+
+Ce scam est d'un tout autre niveau !
+Si on m'avait dit que c'est un free-to-play, j'aurais compris. 
+Mais là, payer 40 € pour au final avoir un gameplay différent de ce qui avait été annoncé ... C'est fort !
+
+Le peu de zombies rencontrés se sont injectés du lag pour pouvoir esquiver ou tanker un maximum de balles possible.
+
+Un monde PvPvE, coup dur pour les gens comme moi qui ne veulent que du PvE en mode coopération. Je pensais que ça allait prendre la relève des jeux de survie comme State of Decay 2, mais on est plus sur du Escape From Tarkwish.
+
+D'ailleurs ça se dit MMO, mais je n'ai même pas réussi à jouer avec mon ami parce qu'il faut que tous les astres soient alignés afin de pouvoir se connecter sur un même serveur. Impossible d'inviter quelqu'un à rejoindre son groupe tant que ce dernier n'a pas rejoint le serveur.
+
+En gros, je préfère largement The Teaser Before. Quand on ne pouvait pas encore y jouer, c'était beaucoup mieux !
+
+#####
+
+Bande annonce complètement mensongère , des bugs qui sortent de n'importes ou , des serveurs complètements claqué , une communication désastreuse , tout ça pour un bon tas de merde . Je conseille vivement au personnes de ne pas l'achetés et a ceux qui ont déjà commis l'imparable de le faire remboursé au plus vite .
+
+#####
+
+2 choses à savoir avant d'acheter ce jeu.
+
+1 : Patientez 1h environ pour pouvoir vous connecter à un serveur.
+2 : Une chance sur 2 d'être bug dans le Lobby, donc retour à l'étape 1...
+
+Premier Zombie que vous croisez, ne tirez pas ou votre jeux crash...
+
+il n'y a vraiment rien à tirer de ce jeu, si ce n'est une leçon :
+Prenez vous les consommateurs pour des imbéciles ?
+
+Refund direct.
+
+#####
+
+Juste, ne l'achetez pas.
+Economisez 40€ en vous achetant un bon resto.
+
+#####
+
+The chiass before
+
+#####
+
+A FUIR UNE HONTE 2 HEURES PAS DE SERVEUR QUAND ON DEPLOIS UN JEUX ON VÉRIFIE QUE LES GENS PEUVENT I JOUER CHANGER DE METIER  VENDER DES POMMES PITOYABLE 5 ANS ET PAS UN SERVEUR DE DISPONIBLE J ESPERE QUE LE JEUX FERMERA ET LE STUDIO AVEC
+
+#####
+
+gros scam, jeux d extraction et non un MMO de survie. Grosse déception après plusieurs années de dev
+
+#####
+
+Une honte
+
+#####
+
+Le jeu de la malhonnêteté... je retourne regarder ma série après un bon remboursement des familles.
+
+#####
+
+GROS SCAM
+
+#####
+
+Pitié, n'achetez pas ça. 
+C'est plus rentable de donner de l'argent au prince Saoudien dans vos e-mails.
+
+#####
+
+fuyez, fuyez pauvre fou
+
+#####
+
+Un lancement pire que ce que fut New World. On est devant un jeu vide, mais vraiment vide où rien ne se passe d'intéressant. C'est un jeu qui avaient des ambitions de triple AAA et qui n'est qu'un extraction shooter en early-access à peine capable d'égaler un jour les autres jeux du genre. À ce stade, le jeu n'en vaut clairement pas la peine. Tout ce qui a été vendu était de la poudre aux yeux. 
+
+Nous faisons un big-up à Bakery (et ses multiples identitées), ainsi qu'à ses amis moutons, qui ont, pendant des mois, défendu un produit dont ils n'avaient visiblement aucune connaissance, ont entretenu une toxicité sans précédente dans le seul channel FR du serveur officiel, et ont tenu en otage un channel de par leur forte amitié démesurée en transformant le channel en un second discord de potes. A cette époque, il était facile d'être en nombre et de martyriser les gens. Désormais que tout le monde se ligue contre le jeu, et en expose la vérité au grand jour, je me demande comment vous comptez le défendre  désormais. Bonne chance et force à vous.
+
+PS: le jeu a de bonnes idées, pour rester objectif. Cependant, mal exploitées, pas finies et ont besoin d'un énorme peaufinage qui, connaissant le studio, ne sont pas certains d'arrivés de sitôt, si ce n'est jamais. Le jeu peut très bien être placé à l'abandon avant même de devenir intéressant. Dommage, un vrai gâchis pour un jeu qui aurait pu faire oublier toutes ses promesses non-tenues, s'il avait été un minimum correct à jouer.
+
+#####
+
+Malheureusement la plus grosse arnaque de 2023 et peut-être même du jeu vidéo jusqu'à présent.. Duke Nukem Forever est un excellent jeu a côté de celui ci ! Et pourtant.. Que les développeurs profitent bien de leur argent..de notre argent plutôt !
+
+#####
+
+The refund before. Du jamais-vu !
+
+#####
+
+BIG SCAM , DONT BUY THIS SHIT
+
+#####
+
+30 MINUTES DE JEUX PAS PLUS
+
+LE PIRE JEUX EVER, 5 ANS DE DÉVELOPPEMENT POUR CETTE ARNAQUE LOOL
+Le jeu n'a rien avoir avec le trailer, Les bâtiments sont aussi vide que le cerveau des développeurs.
+38.99€ Pour cette blague, suffit juste de voir les autres avis, et les différents bug, pour certains même impossible de jouer.
+AHH oui est si vous avez pas de chance le jeux crashera en boucle au lancement ^^
+
+Courage Soldats.
+
+#####
+
+Je ne sais meme pas pq le jeu est encore sur steam
+
+#####
+
+The Scam Before est réel !!!! la quenelle de l'année même un aveugle bénévole ferait mieux.
+Mais qu'est ce qu'il c'est dit dans sa tête le mec qui a fait le jeu ? tete de n'oeil et de pied nu tu nous a prit 40 euros pour ce chausson grillé. Merci UE5
+passez votre chemin PEACE
+
+#####
+
+Sitôt acheté, sitôt remboursé :
+Azerty pas compatible.. On a bien acces a du rebind, mais seulement au controle de base (avance droite gauche reculer etc) sauf que... Q & E servent de base a se pencher à droite et a gauche, et il n'est pas possible de rebind
+Ca fait de moi un boiteux qui se penche quand je marche a gauche. La touche Q fait 2 actions en meme temps, se déplacer a gauche et se pencher (qu'on peut pas rebind)
+voila voila
+ 
+Mais le bon point, ce jeu est bien reel
+
+#####
+
+Je suis d'accord que il faut pas aler a lextreme de metre les dev en prison (j'ai lu quelques commentaires), bien sur que non , mais je matendais a un sisteme comme dead side dans une ville bien plus animé, pour sa jetais tres decu , mais le jeux as quelques bonnes idee ,mais je trouve que il y a beaucoup de maison que on peut pas entrer aussi , fim je suis decu , et un peu cher pour la calite actuel. 15€ pk pas
+
+#####
+
+Pire jeu de l'année
+
+#####
+
+A fuir le studio n'existe plus !
+
+#####
+
+SCAM §
+
+#####
+
+Le studio avait de l'or entre les mains avec se jeu, et n'en ont rien fais.
+ 
+Le jeu ne représente pas du tout les trailers qu'il y a eu, de plus, le jeu est trufflé de bugs (Tel que le keybind qui se reset a chaque redémarrage du jeu) ou bien le fait qu'on ne peut pas sortir son armes contre les zombies (Enfin, LE zombie, le seul zombie que j'ai pu voir en environs 60 minutes d'exploration et découverte. 
+
+Même si on oublie tout se que j'ai cité ci-dessus, c'est a se demandé pourquoi les développeurs ne se sont pas posé la question "Tiens, y a t-il assez de Zombies ou d'activité sur la map ?" C'est atroce.
+
+#####
+
+Toutes ses promesses pour ça ? Tous ces trailers pour n'avoir que ça ? Incroyable...
+DEV marketing plan = Mettre peux de serveur afin qu'énormément de joueurs ne puissent pas refund vu qu'ils auront passés plus de 2h a essayer de rentré sur un serveur.
+Ne perdez pas votre temps et votre argent, ils n'y aura surement pas de mise à jour pour avoir un jeu ne serait-ce que ressemblant aux trailers  "in game".
+
+#####
+
+Encore un putain de jeu ou tu sors à peine de la safe zone on te plombe.
+Mais merde sortez nous une option pour choisir ou non le pvp, ou permettez aux gens de faire des servers privés ...
+En ce qui concerne le jeu à l'heure de sa sortie. Le déplacement du perso est dégueulasse, devoir rester appuyé sur la moitié des interactions c'est moderne bravo.
+La construction à l'air simple et efficace. 
+Je ne ferais pas de  critique plus profonde car je ne veux pas manquer le remboursement.
+
+
+#####
+
+dégouté
+
+#####
+
+N'achetez absolument pas le jeu ! Le mot scam est pas assez fort pour définir The Day Before !! 5 ans de développement pour un jeu développer avec du contenu faisable en 4 heures de travail sur Epic Game
+
+#####
+
+Le studio sort le jeu et 2 jours plus tard le studio ferme ses portes quelle honte ! n'achetez surtout pas cette arnaque !
+
+#####
+
+The scam before
+
+
+#####
+
+Multiple bugs, énorme lags, économie éclaté, duplication et j'en passe. actuellement une alpha à ne pas acheter surtout à ce prix.
+
+Remboursement demandé.. on verra s'il sort de la catégorie scam un jour.
+
+#####
+
+Nice Try
+
+#####
+
+Une honte
+
+#####
+
+38.99 euro pour des freez du vole, une pale copie de the division mais en plus vide, impossible de faire un groupe avec des potes, une perte de temps
+
+#####
+
+Non et Non !
+Foutage de gueule ?
+
+#####
+
+EDIT : https://www.youtube.com/watch?v=aQW0hTz7Kh8
+
+N'acheter vraiment pas ce jeu , Fntastic sont des brigands , ne leurs donner pas votre argent , le jeu ne survivra jamais car il ont pas l'intention de le faire survivre , ni les moyens 
+
+
+
+
+
+Même si j'ai demander un remboursement car mes uniques games n'était pas au top , mon 5800x et ma 3080 était en pls pour faire tourné le jeu en médium , pas top . 
+
+Je vais attendre quelques temps avant de le reprendre afin qu'il sois mieux avancé , du moins j’espère que les devs vont tenir la route . 
+
+Je recherchais un tarkov un peu plus arcade et moins try hard , ce jeu me correspond bien , mais pas dans sont état actuels , j'encourage tout de meme avec un avis positif  , cela ne sert  a rien de détruire le game avec vos avis peu constructif 
+
+J'ai au minimum 200h de stream de regarder sur the day before , ne jugez pas mes 30 mins ^^
+
+Parcontre , le mec qui ma give 100000 a peine arriver x)
+
+#####
+
+impossible de rejoindre un  serveur  échec de connexion même sur les serveur faible en population
+
+#####
+
+Horrible moment passé !
+Jeu vide et mal opti.
+
+
+
+#####
+
+nul
+
+#####
+
+Impossible de se connecter allez bien vous faire e n c u l e r . Merci de m'avoir lu jusqu'au bout.
+
+#####
+
+je ne m'attendais a rien et je suis quand meme déçus
+
+#####
+
+what a joke
+
+#####
+
+Le jeu ne tourne pas du tout. Tous les pilotes à jour, tout est ok sur le pc. Je suis à peine à 30 fps, ça freeze toutes les 5 secondes (des gros freezs) , par d'armes de mêlée, les fights pvp sont full bug, les zombies sont débiles. Mais vraiment le pire c'est l'optimisation du jeu qui  est catastrophique... Impossible de jouer dans ces conditions. Un ami peu jouer tranquilou (avec une tres tres grosse config) mais il ne peut pas s'extraire de la zone sous peine de crash. Le jeu est vendu comme un jeu de survie, mais c'est un Shooter looter. Le jeu ne fonctionne pas et je me demande pourquoi il est lancé si tôt. 
+Ma config : RTX 2060 - i7-9700k - 16gb ram ddrk 3600hz + le jeu installé sur SSD M.2 
+Un scandale, comme prévu malheureusement
+
+#####
+
+fdp
+
+#####
+
+de la grosse merde
+
+#####
+
+LA BAFFE DE L’ANNÉE (ils ont pas menti dans un sens)
+Voila maintenant 4 ans que j'attendais ce jeu...
+Je ne veux plus jouer a ce jeu dans son état actuel, je reste persuader que les devs vont se reprendre en mains après avoir encaisser plusieurs millions.  
+Le jeu a du potentiel mais la on en est très loin de ça. O
+
+#####
+
+un mensonge aussi gros ne se pardonne pas
+
+
+#####
+
+alors comment dire, j'ai jouer 1 heure pas plus et encore heureux c'est vide, on peu rien configurer aux niveau des touches, tu sors tu te fait tuer, tu reviens tu te fait tuer, tu loot un zombie tellement long que tu te fait tuer, extraction on t'attend donc tu te fait tuer. en faite c'est un dead and retry et non un MMO de survie,pas de safe zone des bâtiments plus vide les uns que les autres. dieu a crée l'homme, FNTASTIC à crée le gout de la merde.
+
+#####
+
+Beaucoup trop cher pour se genre de gameplay en early acces, beaucoup de travaille à faire
+
+#####
+
+c'est de la grosse se merde .... full bug _ impossible de jouez_ en plus servie avec sont mode PQ ...
+
+#####
+
+bande annonce alléchante mais contenu vide. rue déserte, si on croise un zombie on a de la chance. pas d'histoire, beaucoup de bugs, impossible de configurer les touches clavier, un mélange de day Z et the division en moins bien.
+
+#####
+
+The scam before !! il est ou l'open world ? on est bloquer dans une ville de la taille de Bikini Bottom ! 
+les zombies j'en ai croisé 2 dans la soirée Bref une belle douille a fuir !!!
+
+#####
+
+Très déçu , ce n'est pas clairement pas un MMO , vous êtes juste dans une instance de 24 personnes.
+Vous devez juste looter les véhicules , etc et trouver un point d'extraction pour revenir dans la safe zone si entre temps vous ne mourrez pas par un bug vous faisant perdre totalement votre stuff sans oublier votre arme et votre sac à dos ne vous laissant d'autre choix que de partir looter avec très peu d'espace sur vous.
+
+Des joueurs campent déjà les points d'extraction ... J'ai aussi vu un joueur en safe zone entrain de tirer sur des joueurs ne pouvant pas se défendre vu qu'on est pas censé pouvoir prendre son arme ...
+
+Enfin bref , publicité mensongère , le jeu n'est pas si nul que ça mais c'est un jeu d'extraction et non un MMO survival.
+
+#####
+
+3 serveurs qui sont prévu, et quand il y en a qui sont pas full, vous poireautez pour qu'ils le soient . Une opti absolument DESASTREUSE, un monde vide, une honte absolut. 
+
+The Day i was scam. passez votre chemin vraiment, parce quand l'immédiat, ce jeu PUE LA MERDE.
+
+#####
+
+Extrêmement mécontents de la publicité trompeuse la plus part des trailers meme les derniers 38.99€  54go pour du vide O_o chapo les escros
+
+#####
+
+Désolé mais non pour plein de raisons:
+
+- plein de bugs IG (zombies, visée, etc...)
+- stockage qui disparait ce qui est problématique pour un looter shooter
+- paramètres graphiques, meme en passant par les fichiers du jeu tu peux pas avoir un borderless widescreen propre... pas de parametre IG pour du 3440x1440 etc
+- mappage des touches, il manque des binds donc qwerty obligé et certains binds qui bug sinon
+- serveurs "plein" ou tu galères à te co (je ne parle meme pas d'arriver à jouer avec des amis et donc se co sur le même serveur)
+- la ville est cool, mais c'est une sorte de Tarkov low cost et simplifié (ce qui est pas forcément mal s'il était mieux foutu)
+- trop de batiments où on ne peut pas rentrer
+- pas d'open world, c'est une map de la ville et basta à la différence des trailers qui vendaient du gameplay en campagne aussi etc...
+
+Bref y a d'autres choses mais ca commence à devenir long.
+
+Evidement c'est un Early Access, mais vu le nombre de jeux en Early Access... désolé mais l'excuse de "ca va évoluer" ne tient simplement plus la route. Pour 40 Euros, c'est vraiment beaucoup trop cher pour le contenu et l'état actuel.
+J'aurais bien continué à y jouer un peu plus, mais on ne va pas se mentir, voici 2 raisons qui devraient vous faire réfléchir sérieusement à la question de refund:
+
+- Jeu PvP donc si plus personne n'y joue, ben tu ne peux plus y jouer. (enfin si tu peux toujours free loot et tuer les 3 zombies qu'il y a) En l'état il va durer 1 semaine à tout péter.
+- Le studio est connu pour abandonner ses jeux. (Wild Eight: bon jeu mais jamais terminé / Propnight: bon jeu mais pas eu bcp d'updates) Du coup bon... garder le jeu pour qu'il soit abandonné bof.
+
+#####
+
+Que dire .. juste un Dead Matter like, rien de fini, pas beau niveau graphique et RIEN A VOIR avec les SCREENS.
+Une arnaque x10
+
+#####
+
+https://youtu.be/yE0kyyYM-Hk?si=p-muBW49dZb5s-RS
+
+-Ce n’est pas un MMO, a peine 20 joueurs par serveur 
+-ce n’est pas un open world
+-PVP anecdotique, on croise rarement des joueurs
+-PVE anecdotique, aucune horde de Zombie et ils sont peu
+-c’est un tarkov like ultra rudimentaire
+
+#####
+
+on croise 2-3 zombies, MMO mais que 32 joueurs par serveur... et faut encore les croiser in game ^^ perte du stuff non-stop quand on sort d'une zone pour aller en safe-zone... même dans le "coffre-fort" Wype de la dataBase par les dev plusieurs fois depuis hier.
+
+" The Day Before offre aux joueurs un périple exceptionnel dans un survival MMO post-apocalyptique en monde ouvert,... " si jamais c'est le cas ! c'est pas un monde ouvert !
+
+#####
+
+J'ai perdu 40€ 
+Grosse daube....
+
+#####
+
+honteux
+
+#####
+
+A fuir ABSOLUMENT!!!
+
+#####
+
+Peut-être un des plus gros scam que le monde du jeu vidéo est connu, un jeu que certains ont attendu des années pour au final un jeu tout autre que ce qui a été annoncé.
+Très déçu.
+
+Merci à Steam qui a fait un remboursement en littéralement 10 minutes top chrono et qui a su se montrer compréhensif.
+
+
+#####
+
+On nous a vendu un MMO survival, ce n'est rien d'autre qu'un Extraction Game façon Tarkov avec un skin post-apo et quelques rares zombies qui apparaissent de temps en temps.
+
+On peut leur pardonner les lags serveurs, les problèmes de binding, les touches qui parfois ne fonctionnent pas, les gunfight catastrophiques, les sensations inexistantes et fades avec l'impression en prime de contrôler un 38 tonnes pas foutu de franchir un muret de vingt centimètres... On peut pardonner tout ça à une alpha.
+
+Ce qui est moins pardonnable, en revanche, c'est de vendre ce jeu 40€. Il n'en vaut pas la moitié, aucun décors n'a été crée, tout a été pris au store Unreal. Le jeu est de fait assez joli, mais des assets unreal non-programmés ne restent rien de plus que de beaux décors fixes, on sent la totale absence de maîtrise technique des développeurs qui rappelons-le tout de même, ont dit avoir travaillé 5 années pour au final pondre un simulateur de marche en zone urbaine vide.
+
+On pourrait encore leur pardonner tout ça, si seulement Fntastic (Développeurs) n'avait pas ouvertement menti sur le contenu initial de leur jeu. De fait, ils n'ont arnaqués personne à proprement parler, nul n'ayant payé de kickstarter pour les financer. Or, le jeu n'a rien à voir avec le produit proposé à la base et quand on se penche un petit peu sur leur historique, on remarque qu'ils ont abandonné la totalité de leur jeux alors qu'ils regorgent encore de bugs. Qu'est-ce qui nous empêche de penser qu'ils ne feront pas la même chose avec The Day Before?
+40€ pour une alpha, c'est l'occasion de se mettre un tas d'argent de côté avant d'abandonner ce projet coulé avant même d'avoir vu le jour. Par ailleurs ils prétendent tenir compte des retours de la communauté, mais (d'expérience) toute question qui les met dans l'embarras ainsi que toute preuve statistique (SteamDB, Steamcharts pour exemple) de l'abandon de leur précédents titres vous vaudra un bannissement IP définitif de leur discord, de la part de leur modérateurs zélés (N'est-ce pas Bakery?) et sûrement payés très cher pour défendre aveuglément une daube pareille.
+
+En résumé, je n'ai aucun grief personnel à l'encontre de ce jeu, seulement une immense déception de la part de développeurs enfoncés dans un mensonge dont ils n'arrivent pas à se sortir, et au lieu de faire preuve de transparence, cherchent encore à faire taire les personnes s'interrogeant. Ils en sont à créer de faux comptes (Allez-voir vous-même le nombre de comptes steam niveau 1 avec pour seul jeu The Day Before dans leur bibliothèque) pour remonter les notes Steam avec des évaluations positives, sans se priver d'envoyer des tacles amers à ceux qui les descendent au passage. Ils suppriment également toutes preuves de ce qui était jadis censé être The Day Before, à savoir un MMO Open World survival, fonctionnel, beau, intriguant et immersif, qui est aujourd'hui l'ébauche d'un Battle Royale pitoyable et à peine fonctionnel développé et modéré par une équipe de menteurs pathologiques se complaisant dans un comportement passif-agressif, ternissant à la fois leur image et celle de leur jeu. Une balle dans le pied qu'ils se tirent eux-même, qui signera leur fin.
+
+Une déception, même si je savais que les trailers annoncés étaient forcément très éloignés de la réalité, je ne m'attendais pas à un tel manque de professionnalisme ainsi qu'un tel manque d'honnêteté envers eux-mêmes et les joueurs du monde entier. The Day Before est un enfant mort-né, assassiné par des parents égocentrés ayant préféré l'étrangler avec son cordon ombilical plutôt que de s'ouvrir à l'aide des gens autour.
+
+Le point positif dans tout ça est que l'on peut espérer que, peut-être un jour, un jeu similaire voit le jour en raison de l'engouement que The Day Before aura provoqué, mais si ce jour doit venir, espérons que les personnes le mettant au monde seront aimants, honnêtes, et transparents au maximum.
+
+#####
+
+Jeu bidon,rien à voir avec ce qu'ils nous avait promis,graphiquement à la traine,jeux vide,aucune horde de Z comme annoncé,pas possibilité d'enjamber une barriere en 2023 c'est honteux,un MMO qui au final ce retrouve en extract shooter du pauvre,sans parler des community manager que ce soit sur des forums ou discord qui supprime tout simplement les avis négatif ,bref un jeu à fuir
+
+#####
+
+Pas le jeu attendu ! Très mal optimisé il faut un PC de la nasa pour jouer à un jeu beau. 
+1h à courir sans voir personne et de zombies. Jeu assez vide, peu de loot, tu fais uniquement des missions qui te rapporte de l'argent et tu achètes ton stuff... Juste la 2ème image sur steam est à des années lumières du game réel.
+
+#####
+
+fdp
+
+#####
+
+no comment !! tout a déjà était dit!!
+
+#####
+
+5 % du contenu des premiers trailers ( qui ont été effacés de leur site )
+Le studio après avoir menti et arnaqué des milliers de joueurs se voit mettre les clés sous la porte seulement 3j apres le lancement du jeu.
+
+NE PAS ACHETER
+
+#####
+
+Impossible de se connecter à un serveur pour un jeux online, c'est balo !
+
+#####
+
+Remboursé , quelle arnaque XD c'était prévisible
+
+#####
+
+Pour avoir jouer 23h sans arret et surtout du plaisir. le jeux étais bien malgré tout. beaucoup de bug etc mais avec seulement 4 jours a son actif le studio ferme ses porte et ne feront plus de mise a jour. Les serveur devrais suivre par la suite. Donc en aucun cas je vous conseille se jeux
+
+#####
+
+Un jeu vide, une SafeZone perso qui ne vous apportera rien in-game, a part vous ruiné pour de la merde, des objets inutile qui ne peuvent être utiliser, mais seulement revendu. 
+
+Mais le pire dans tout ça, un Glitch qui vous permet de dupliqué des munition par stack de 1000, pour les revendre, tout le monde est full stuff et roule sur l'or au début même du jeu, il n'y à déjà plus aucun intérêt d'y jouer.
+
+#####
+
+Supprimer votre jeux éclater au sol 2 ans d'attentes pour un jeux a la deadside et encore meme deadside est mieux comparé a votre vieux jeux de merde un tarkov a la 3eme personne nul a chier rien a était respecter rien même pas le minimum c'est juste UNE GROSSE ARNAQUE
+
+#####
+
+C'est une catastrophe Le jeux et horrible Graphiquement et remplie de bug et le fight et complètement nul pour tuer des zombie Faut leur mettre plein de balles dans la tête et encore ul meurt pas avec un chargeur je comprends pas je ne recommande pas.
+
+#####
+
+Que dire ..Ça faisait tellement longtemps que j'attendais ce jeu mais là, ça n'a rien à avoir avec ce qui était prévu ! Tellement déçu, le jeu est vide, c'est lent ... J'ai croisé 2 joueurs pour 2 zombies, c'est tellement pas ceux à quoi je m'attendais, hyper déçu, je pense que c'est une fin de carrière pour FNTASITC.
+
+#####
+
+Nul, on peut pas changer toutes les touches du jeu donc si vous jouez en azerty vous pouvez pas, et en plus des bugs, des fps assez bas et que le jeu est vraiment pas beau,le gameplay est nul digne d'un jeu mobile, ne l'achetez pas.
+
+#####
+
+real shit 2 years for that
+
+#####
+
+Purement honteux,  ces nazes auraient pu faire des betas test, et je parle pas du reste....
+
+#####
+
+SCAM Simulator... 
+Une copie de pleins de jeux mais en plus moche et avec des mécaniques qui sont plus d'actualités. 
+Bug de collision avec le personnage, visuellement il y a la place de passer mais mur invisible. 
+Je parlerais pas des serveurs full car pour le coup ils font comme la plupart des jeux et plus d'une heure d'attente pour jouer au lancement du jeu. 
+Au regard du prix c'est clairement un SCAM. 
+
+
+#####
+
+la plus gros arnaques du jeu vidéo, mmo en monde ouvert mensonge, extraction et pvp a gogo oui, le jeu a des bugs de fou il est instable et pas du tous prêt a être mis en ligne, demande de remboursement immédiat.
+
+#####
+
+Au secours ! Rendez l'argent.
+
+#####
+
+Economisé vos sous ! Meme pas possible de rentrer sur les serveurs. Le peu de game play vu  estvraiment nul a chier ! 
+jeu uniquement en 3e personne. 
+pas moyen de se battre a main nues
+impossible de configurer certaine touches
+
+
+
+A FUIR !!!!!!!!!!!!
+
+#####
+
+ce n est pas du tout un mmo!  payer pres de 40 euros pour un jeu pas du tout finis , vide de contenu , cela ressemble a un jeu de tir bidon...  le monde soit disant ouvert ....  je deconseille fortement
+
+#####
+
+Que dire , sinon que ce jeu est une énorme arnaque. Jeu complètement vide, bien loin des promesses faites il y a 2 ans. Je suis plutôt tolérant d'habitude mais ce studio a déjà arnaquer des joueurs sur quelques jeux auparavant et ils tentent juste de reproduire ce scénario. Donc vote sanction et en plus à 40 euros... UNE HONTE!!!!!!!!
+
+#####
+
+Ce jeu est une arnaque. Les développeurs ont menti, il ne s'agit pas du tout d'un jeu de survie en monde ouvert. La plus grosse arnaque de tous les jeux vidéos.
+
+#####
+
+Le jeu est tous simplement pas se qui ont revendiquer a la base.
+- le jeu n'est pas un monde ouvert
+- Ce n'est pas un jeu de survie juste un jeu d'extraction
+- impossible au lancement de ce connecter a un serveur 
+
+Bref ne l'acheté pas si vous le voulez vraiment attendez quelque mois car actuellement le jeu ne vaux pas 40+ euros
+
+#####
+
+SCAM comme tout les autres jeux du studio.
+
+#####
+
+15 minutes 100% des serveurs full ? sur des serveurs de combien ? du n'importe quoi au lancement d'un jeu même pas une 30 de serveurs ... pas de favoris rien ... a voir dans quelques jours
+
+#####
+
+est ce que steam vas mettre la pression un minimum pour publicité mensongère ? il y a surement des accords a respecter envers la communauté !! je sais pas pourquoi mais ce matin obliger de venir voir cette image de THE DAY BELORE tellement d'attente pour rien 3 ans sans achéter de jeu pour si peu au final, je veux un the day before comme ont nous l'avez promis !!!
+
+#####
+
+nul de chez nul
+
+#####
+
+LA DÉCEPTION de l'année, GG a Vous les Fakers
+
+#####
+
+Scam before!! Jeux de merde!!! Belle arnaque!!
+
+#####
+
+Une m.e r de incroyable en Alpha qui ne vaut pas plus de 5 balles vue le nombres de bugs, mal optimisé, de problèmes, et de configurations à régler. A la hauteur de mes attentes.. un scam irrespectueux à gerber, de l'argent foutu par les fenêtres.
+On voit bien le niveau des développeurs qui au fil des années et avec des technologies de plus en plus puissante, code avec le c u l!
+
+#####
+
+Bonjour, 
+
+Où est le contenue ? 
+Ennuyant.
+La hype au premières minutes.. plus le temps passe pour c'est nul.. résumé de la hype? 10 minutes.
+
+Voilà voilà
+
+#####
+
+tres décevant
+
+#####
+
+SCAMMED
+
+#####
+
+jeu pas bien fait  90% des Bâtiments ne sont pas ouverts 30 min de jeu je trouve aucun zombies ,Je ne recommande pas le jeu en l'état.
+C'est la première fois que je veux me faire rembourser
+
+#####
+
+Le monde sait pourquoi ce jeu n'est pas recommandé.
+
+#####
+
+The SCAM before...
+
+#####
+
+Le studio a fermé avec l'argent.... Reste à espérer qu'un vrai studio reprenne l'idée...
+
+#####
+
+Fermeture du studio. Fin du "jeu". Bref une belle face pour faire un peux d'argent voila :)
+
+#####
+
+studio fermé apres 4 jours bravo !
+
+#####
+
+CATASTROPHIQUE
+
+#####
+
+Je me sens trahi
+
+#####
+
+ok le scam
+
+#####
+
+Ce jeu est une pure arnaque rien n'est optimiser, rien ne vas! Le pire c'est que certains comme moi ne peuvent pas être rembourser car ont as passer plus de 2 heures à rejoindre un serveur lors de sa sortie jeudi à 19h. Fermeture du studio vraiment mériter pour s'être ouvertement autant foutu de la gueule de la communauté.
+
+#####
+
+n'achetez surtout pas !!!!
+je jeu na rien a voir avec ce qui était promis !!!! les graphismes sont très limite pour un jeu de 2023. soit disant que ça devais êtres un open world avec des ordes d'infectés. rien de tout ça !!!
+steam a même retiré les tag après achat des joueurs "MMO" et "monde ouvert" !!!!
+Le studio FNtastic viens de fermé ses portes (preuve sur twitter par un communiqué de leurs pars)
+et pour couronné le tout, steam ne veut pas remboursé !!!! -_-
+ARNAQUE !!!!
+
+#####
+
+NUL GERMAIN !!!!
+
+#####
+
+I must be one of the only ones who really liked the game.
+
+Unfortunately they didn't have time to improve the games and make patches.
+
+#####
+
+assets land :/
+
+#####
+
+bonsoir
+!!!! annonce de fermeture du studio ne pas acheter!!!!! a ce jour
+ oui suis d accord le jeu n est pas a la sortie ce qu il avaient annoncé et il vaut pas les 40 euros (mais rappelez vous de DayZ aux premiers moment..et tout les jeux ou les bug serveurs du premier jour voire des semaine^^).....je passe tout ses détails tellement les retour négatifs se sont fait entendre (MMO ouvert/petite map/bug..etc pas de franchissement d obstacle/pas de corps a corps etc.)
+Je trouve le jeu joli et très fluide(gtx 980ti full option 40 FPS moyenne)
+c'est un jeu d extraction pour le moment mais c'est sympas le pvp est prenant.Au passage les gens qui disent que ça vise mal..mettez vous au tir a la première personne en clic Gauche ça iras mieux .
+Les caractéristique n ont pas l air de monter ils vont surement corriger cela bientôt/J espère voir le VOIP ou un matchmaking  et le combat corps a corps rapidement ainsi que les passages d obstacle...c'est pour ça je lui laisse sa chance  a ce jour ...on verras bien
+la map a pied n 'est pas si petite que ça avec le danger des autres joueurs,faut être attentifs a tout les moment et c'est pas le meilleur stuffer qui gagne le duel.. 
+je m amuse donc ça me va .
+ils pourront agrandir la map..faire plusieurs factions la balle est dans leurs camps
+
+#####
+
+COMMENTAIRE MODIFIÉ APRÈS LA FERMETURE DU STUDIO
+
+Je pensais que "The Day Before" avait du potentiel, contrairement à ce qui se disait dans les commentaires pour un jeu en accès anticipé.
+
+Malheureusement, je viens d'apprendre la fermeture du studio Fntastic et suis maintenant contraint de me rendre à l’évidence : sans mises à jour régulières, le jeu n'a aucune chance de survivre ou de s'améliorer.
+
+C'est dommage, car j'apprécie la sensation d'inquiétude lorsqu'on loot dans ce genre de jeu, ainsi que l'adrénaline que peut provoquer un combat PvP.
+
+Je ne le recommande pas, bien sûr, car c'est un jeu condamné à disparaître avec le temps !
+
+#####
+
+RTX 3080 .... freeez 1 FPS. Jeux saccadé .... J'ai même tenté en 1080P ultra performance. Prise en main horrible *une carte visible en jeux serait pas mal ... on comprend rien, on trouve une quest à faire on ne sait pas comment revenir dans la ville pour revendre ... un connard vous bute... vous n'avez plus rien, ni arme ni sac à dos ( le sac à dos ne devrait pas se perdre. Vous retentez, gros freez une balle dans le dos à moitié chemin de l'objectif. Vous fermez le jeux. Tout simple une grosse daube à 40 € . C'est trop compliqué de mettre une zone pve le temps de comprendre les mécanismes ? C'est vide, et je me dis si je n'ai plus d'argent et vu que je ne peux pas combattre à main nue ? le jeux est fini à peine commencé ?
+
+#####
+
+Ce jeu est un tissu de mensonge.
+Rien a voir avec le trailer de 2022.
+Simplement un jeu d'extraction banal, avec des graphisme banal, des zombie banal, des gunfight banal, et peu de contenu.
+La déception de 2023 est là ...
+
+#####
+
+de la merde sans nom
+
+#####
+
+Comment vous dire à quel point je suis dépité, cela fait tellement longtemps que j'attends la sortie de ce jeu, et finalement on nous sert ce jeu, qui est tout simplement la pire arnaque que j'ai vu jusqu'à maintenant ! 
+Comment peut on passer de trailers qui ont l'air tout droit sorties de 'The division 2" et nous proposer un jeu qui en est visiblement à des années lumières. 
+Sans parler du nombre de crashs, bugs, lags, pertes de fps... On est quand même pas loin du mensonge et du charlatanisme !
+J'en ai assez de voir tant d'éditeurs nous faire croire que l'on va acheter du rêve, pour au final se rendre compte que oui, c’était juste un rêve...
+
+#####
+
+BUG EN JEUX , TOUCHE QUI FONCTIONNE UNE FOIS SUR 10 , RECONFIGURATION DES TOUCHES A CHAQUE LANCEMENT DE PARTIE , ATTENTION JEUX D EXTRACTION ET NON MMO. VRAIMENT DÉÇU. LE GAME PLAY A CHIER TU MEUR DEUX FOIS ET CES FINI TU SAIS PLUS RIEN FAIRE MÊME pas DE SERVEUR PRIVE POUR ETRE TRANQUILLE
+
+#####
+
+tout ca pour ca... je vais meme pas m etendre sur le sujet mais on pourrait condamner ces gens ce serait pas mal.
+
+#####
+
+Je prends un billet pour Singapour... Ça va chier dans le ventilo !
+
+#####
+
+Fuyez ! Pauvres fous !
+
+#####
+
+Le seul avantage de ce jeu c'est qu'il ma redonné envie de rejouer à The division merci. ^^
+
+#####
+
+OUVREZ GRAND VOS YEUX SVP:
+Mon ami a eu la super idée de m'offrir ce jeu pour mon anniversaire , j'etais vraiment emballé a l'idée de jouer avec lui à ce jeu dont j'avais longtemps entendu parlé comme une révélation ..
+Il nous a fallu plus de 3h pour trouver un serveur en commun, plus d une heure pour suivre les discutions et les didacticiel qui ne serviront jamais a rien .. 
+et au final tout sa pour sa ? .... se retrouver dans une ville où rien n'est jouable , tout est compliqué les deplacements sont anarchiques, les zombies court plus vite que vous , il n'y a aucun endroit ou se cacher , si on se fais toucher c'est fini on a une hémorragie ou un bras cassé et nos secondes sont compté inutile de rejoindre une porte de sortie elles sont toujours trop loin ( comme votre argent maintenant ) .. vous perdrez toujours tout ce que vous trouverez et encore je vous parle pas des objets a la noix que se jeux de M* vous procure ..
+les armes? n'en parlont pas.. soit les balles sont en caoutchouc soit ce sont des pistolets a billes.. mes enfants blesserai certainement plus les zombies si il pouvais leur tirer les cheveux .. je vous épargnent les bugs en tout genre d'affichage .. depuis windows 98 je n'avais pas jouer en fenetré cela m'a rappeler des souvenirs ..
+
+Mes amis j'ai environ 30ans de jeu derrière moi et ce que j'ai vecu avec ce jeu c'est pas une arnaque, c'est carrément un viol j'ai sincèrement l'impression que quelqu'un c'est introduit dans le portefeuille de mon ami pour le dépouillé de 40€ et qu'il m'est refilé ce foutu jeu comme un Virus qui a occupé 55go de mon ordi l'espace de quelques heures et a contaminer mon esprit et mon âme aussi vite que lorsque les zombies me traquaient et me touchaient ..
+
+Désormais ce jeu ce logo tout sa me hante et j'ai honte pour l’équipe qui a crée sa, ces gens la devraient aller en prison pour avoir sortit un truc pareil .. Steam devrais rembourser l’intégralité des joueurs et avec les interets pour le temps perdu ..j'espere que mon ami va bien après tout sa, il ne serai pas étonnant qu'il est fais un infarctus suite a la somme débité 2 fois pour ce jeu ..Que dieu le garde ..
+
+#####
+
+le jeux a un potentiel de fou mais pas vraiment jouable pour le moment, je pense qu'il faut attendre un petit bout de temps histoire que le jeux devienne meilleurs, qu'ils corrige les bugs et les glitchs, et qu'ils optimise le jeux un peux mieux
+
+#####
+
+...
+
+#####
+
+what a joke
+
+#####
+
+-loot disparait en jeux et dans la planque
+-pesque pas de zombie
+-bugger au lancement de serveur
+-rejouindre un serveur avec des ami prend 30 min-45 min 
+-la latence est immence lors des fusillade
+-pour le prix proposer c'est un peu cher
+
+#####
+
+nul a chier
+
+#####
+
+une bonne grosse blague ce jeu à fuir, ne gaspillez pas 40 euros
+
+#####
+
+kk
+
+#####
+
+Rien à voir ici ! 
+
+On nous as vendu un MMO / monde ouvert on ce retrouve avec un the division-like donc shooter-extract et encore c’est une insulte envers the division ! 
+
+Un remix de mauvais goût avec des zombi cloner , du loot de brosse à dent , et une map à 90% fermée … vraiment déçu , remboursement demander immédiatement à voir dans quelque années si ça change. Mais j’ai peu d’espoir .
+
+#####
+
+Vraiment loin de se qu'il était prévu se jeux et visuellement moyen le gameplay à travaille 
+les fonctionnalité son pas optimiser je je devrai être a 10 euro pas plus 
+40 euro pour se jeux alors qu'il n'ai pas fini et qu'il  na rien a voir avec l'annonce du jeux et tout se qu'il était avencer 
+part les créateurs
+
+#####
+
+Nope.
+
+#####
+
+C'est une blague ?
+
+#####
+
+Une blague monumentale !
+J’ai juste envie de dire, on s’y attendait…
+
+Heureusement qu’on peut se faire rembourser !
+
+#####
+
+Franchement plus on avance dans le temps , plus on a l'impression que les jeux qu'ils nous sorte sont des produits pas fini , pour se faire de l'argent c'est pitoyable . 2023 toujours attends de déception des jeux qui sorte quand même c'est grave .
+
+Vraiment dommage quand tu vois que des jeux  comme World War Z fais tournais 40000 zombie a vouloir de bouffer le cul et que ta pas de lag , eet que la on te sort un jeux open world avec 3 zombie tous les 600 mètres et t'es a 45 fps Je comprend plus
+
+#####
+
+Comme qui dirait karadok
+"C est de la merde ! "
+
+#####
+
+vraiment déçu du rendu pour tant de temps attendu
+
+#####
+
+une simple bouze , loin de tout ce qui a etez montré ou sont les horde , les virée en voiture et les magasin lotable comme dans le trailer .... beaucoup de vent pour beaucoup de poussiére
+
+
+#####
+
+Tous simplement injouable ! En lag continue. Quand tu bind tes touches pour du AZERT impossible de changer les touche pour se pencher du côté gauche donc tu te penches quand tu tournes... Bref beaucoup de promesses, mais rien de bien optimisé, je testerais de nouveau dans 1 ou 2 ans ...
+
+#####
+
+C'est triste mais c est de la merde...
+
+Les devs ont tués le jeu en créant une hype trop grosse(pendant plus de 2 ans) pour leur capacité a sortir un jeu viable.
+
+#####
+
+Ce jeu est une pure arnaque, à fuir complètement !
+
+#####
+
+pire jeu
+
+#####
+
+Bravo le jeu les promesse de merde vous avez dit nous faire un MMO Zombie mes 2 couilles oui un résidu de chiasse ce jeu menteur que vous êtes sérieux ! déçu comme pas mal de joueurs ici ! 
+on dirait une Dark Zone Géante comme dans (the division) sauf que vous avez ajouter quelque zombie full bug puis des joueurs  par si par la  vraiment je m'attendait à une immersion folle dans un jeu de zombie full pve/pvp avec des possibilité de faire sont camp avec c'est amis ect limite (DayZ) est plus propre niv gameplay ....
+
+#####
+
+C'est juste claqué au sol.
+
+#####
+
+Tout simplement horrible. Cela fait plus de 2 ans que j'attend pour le jeu, sans compter les 5 ans de développement, et c'est tout simplement injouable. Lorsque ce n'est pas inaccessibilité des serveurs, c'est les bugs en jeu qui force la réouverture complet du jeu... Voyez-vous le cercle vicieux?
+
+Pour le moment, The Day Before est un désastre qui ne mérite pas d'avoir mes $40 USD.
+
+#####
+
+Ne pas acheter ce jeux, il est nul et pas finit. J'aurais bien voulu un jeu du genre mais c'est inutile d’espérer, les devs sont des escrocs !!!
+
+#####
+
+Vomitif..
+
+#####
+
+The Day Empty !
+
+#####
+
+2 ans d'attente, déçu en 9 minutes.
+
+#####
+
+Très mauvais jeu.
+
+#####
+
+j'ai acheté, je me suis connecté, j'ai pas pu me connecter, je vais me faire rembourser..
+
+#####
+
+Encore un jeu impossible à lancer day one, fatigant
+
+#####
+
+pas grand chose a rajouter
+
+#####
+
+scam
+
+#####
+
+désolés mais même  a 4€ je ne l’achetais pas une arnaque 40€ pour une promesse non tenue, des graphismes éclatés, un gameplay a chier des zombies invincibles et le tout pour 40€ REMBOURSEZ MOI !
+
+#####
+
+un scam monumental
+
+#####
+
+injouable monde vide 30 minutes pour rejoindre un serveurs impossible de configure les touche correct 
+même Fallout 76 était mieux a sa sortie ....
+
+#####
+
+Concrètement ? J'ai jamais vu un Early acces aussi vide et mal foutu... ils ont tout misé sur la beauté du jeu mais clairement pas sur le gameplay, il ne vaux pas les 40€ aujourd'hui
+A voir si les développeur se bouge et décide enfin d'assumer un jeu vu leur réputation
+
+#####
+
+C'est une arnaque totale, ne gaspillez pas votre argent. J'ai exploré toute la carte, mais il n'y a aucune interaction valable, le PvP est pitoyable, et même le fameux centre commercial est une déception totale.
+
+On dirait qu'un étudiant a créé ce jeu à la va-vite, avec une carte qui ressemble à quelque chose qu'on dessinerait pendant un cours ennuyeux. Vous vous baladez dans une map avec seulement 5 sur 100 bâtiments lootables, c'est pathétique. Même entrer un code dans un magasin pour désactiver l'alarme ne sert à rien.
+
+Au début, le jeu semblait prometteur, mais dès que Steam a commencé à supprimer des vidéos et images qui montraient la vérité sur le contenu inexistant, les développeurs ont retiré le jeu, prétendant des droits non déposés, pour le remettre plus tard. Et devinez quoi ? Maintenant, le jeu est de retour, et il n'y a toujours rien.
+
+Ce jeu est un échec complet, éclaté au sol même.
+
+_______________________________________________________________
+
+It's complete garbage, don't bother buying it. I've explored the entire map, and there's zero meaningful interaction. The PvP is really bad, and even the so called famous shopping center is pure trash.
+
+It looks like the game was slapped together hastily, with a map that resembles something a student might create in a rush. You wander around a map with only 5 out of 100 lootable buildings, it's pathetic. Even entering a code in a store to disable an alarm serves no purpose.
+
+Initially, the game seemed promising, but when Steam started cracking down on fake or misleading videos and images, the developers pulled the game, claiming some supposed unregistered rights, only to reintroduce it later. And guess what? The game is back, and there's still nothing in it.
+
+This game is a complete failure, "une merde infâme" in French.
+
+#####
+
+J'y ai cru, vraiment...
+...malheureusement dès le lancement du jeu, pas de prise en charge de ma résolution 21:9 était annonciateur des futurs problèmes:
+- Ok on peut paramétrer son personnage à la création --> Mais c'est le minimum acceptable.
+- Après avoir réussit à rejoindre un serveur, on découvre un univers, vide, sans caractère... Je ne parlerai pas de bugs car le jeu est en "Accès anticipé".
+
+Mais parlons de cet accès anticipé, je jeux était annoncé sans accès anticipé, puis retardé, puis sorti en accès anticipé. A ce niveau "d'anticipation" pour un jeu qui devait sortir fini initialement, ça fait peur.
+
+Je passe mon tour, j'ai demandé un remboursement.
+
+#####
+
+Eclaté au sol. Nul Germain nul
+
+#####
+
+Refund
+
+#####
+
+De la merde en barre.
+
+#####
+
+nul a chier bug, pire que le launch de son of the forest
+
+#####
+
+The Division suvival, but 30 fps wish .com
+
+#####
+
+Extrêmement déçu du jeu on fait très vite le tour des bugs incroyable, le systeme de sortir de la base pour aller prendre du stuff ouais cest ok mais pas assez approfondie, très  peux d'immeuble dans lesquels nous pouvons rentrer, l'arsenal des armes est très pauvre, pour le bestiaire des zombies j'en parle même pas  1 ou 2 skins copié collé pour tous, mais aussi ( ou alors j'ai pas trouvé) on peut même pas se défendre à mains nues, pour trouver un serveur juste horrible, le clavier qu'on doit mettre en Qwerty pour jouer pleinement enfin bref gardez vos sous ou alors attendez plusieurs mois voir années !!!!!
+
+#####
+
+- Le jeu est complètement vide les gas  5 - 6 Zombie vous êtes la entrain de loot mais pourquoi on sait pas.
+- tu croise 1 - 2 Joueurs  la map est trop grande pour le nombre de joueur autoriser.
+- Je vais même pas en parler des zombies très peu et en plus l'IA est fracasser au sol appart qui court sur toi voila quoi.
+-  Il y'a pas énormement de point négatif car le jeu est vide j'ai vraiment réfléchis pour lui trouver des défault tellement qu'il est vide 
+
+
+Point Positif :
+
+-  Graphisme pas mal en vrai je m'attendais a un truc dégeu mais pas mal ( Manque un peu d'opti )
+- J'ai eu aucun crash une fois ma connexion au serveur
+- Système  modification d'arme a l'air sympas
+-Interface et UI très jolie
+
+
+
+Voila Comme vous avez remarquer il y'a pas beaucoup de choses a discuter car le jeu est complètement vide pour l'instant pour deux ans de développement on sait clairement foutue de notre gueule j'ai l'impression donc je sait pas en tout cas il n'est pas a acheter pour l'instant
+
+#####
+
+Pas de prise en charge des écrans ultra wide un DLSS foireux ?! , des textures de bases d'un moteur graphique bien connu , jeu vide ! Gunfight désastreux , Framerate aux fraises eg j'en passe .... économisez 40€
+
+#####
+
+Franchement pas a la hauteur de sa pub !!!!!!!!On dirait qu'il y a 20% du jeu.Tu campe et le premier qui passe tu le bute,du coup on reste dans un coin a attendre nous même qu'un pigeon passe...Désastreux.
+
+#####
+
+Je ne m'attendais à rien mais je suis quand même déçu...
+
+#####
+
+J'attendais ce jeu depuis des mois (années) et au final....
+Impossible de se connecter (a part sur des serveurs asiatique)
+Pas de corps à corps (sur un jeu de zombie c'est triste)
+Un gameplay mou du *** à base de "F" pour inspecter
+Des batiments quasi tous fermés (et les ouverts sont tous les mêmes)
+Des bugs / des crashs et des lags a plus savoir quoi en faire
+Et les alarmes... MON DIEU LES ALARMES !!
+On est LOIN des premiers trailers que FNTASTIC nous avait pondus...
+UNE HONTE INTERGALACTIQUE
+
+
+
+#####
+
+Le scam est réel pour un jeu "Révolutionnaire" !
+
+#####
+
+Et bah dis donc, on attend dans la file, j'ai essayer je suis tomber dans le vide dans la première salle, pas mal au vu des lives ça promet ! Mais bon c'est vide, c'est lent, l'animation des zombies qui meurt c'est toujours la même, les armes n'ont aucun intérêt pompe, fusil d'assaut, pistolet même animation même ressenti, aucun intérêt et connaissant FNTASTIC ils vont juste abandonné le jeu well done guys ! 
+
+
+
+#####
+
+C'est vraiment de la merde, est je pèses mes mots..
+PVP, PVP, PVP....
+
+#####
+
+Comme prévu, c'est mauvais. 
+Graphiquement très, très moyen, excessivement mal optimisé, et le son n'est pas terrible non plus. Le nombre de bug est impressionnant et ce dès les premières minutes du jeux. J'ai littéralement traversé les murs de la première zone du jeux après avoir pris la porte au début avec le toubib, soit après 3 minutes en jeux ! Pas de support 21/9 non plus.
+Après moins de 30 minutes, remboursé. C'est un scam, comme annoncé et prévu de ce développeur. Il sera abandonné après quelques mois, comme d'hab' avec eux :)
+
+#####
+
+étant rédacteur de jeux vidéo j'étais dans l'éspoire de laissez une note très positif sur le jeux mais j'ai acheter le jeu a sa sortie et j'étais en train de l'installé correctement , mais de puis que j'ai installé le jeu je n'est pas pu rentré dans 1 seul serveur ( au moment ou vous lirez je suis toujours au même point ) je trouve ça regrétable  que pour un jeux qui avais tellement a ce prouvée et t'ellement de bonne choses a proposé qu'il ne soit pas accéssible ou qu'il n'ont pas anticipé la possibilité qu'une t'elle situation allez existé .
+Au début du jeu j'ai étais patient mais par la suite j'ai du reboot ma connexion et ensuite le desinstallé pour le relaod ... et la le jeux me troll en me disant " verifié votre connexion " ... alors que je suis sous fibre et que j'ai tout fait comme y faut ... donc je suis très agacé par la situation ... j'ai pour espoire que la situation ce rétablisse car même pour jouer en communauté avec les collègue sont impossible
+
+#####
+
+Gameplay vraiment pas bon, mécaniques pas bonnes, pour vous dire on peut meme pas equiper un couteau ou ce battre avec les poing next génération mmo ?
+
+#####
+
+THE DEAD BEFORE
+
+#####
+
+Injouable, zombie qui pleure, impossible de ce defendre, pas de combat corps à corps, les loots sont pourri, aucun point d'extraction sécurisé, les joueurs peuvent camper les points de spawn, n'acheter surtout pas cette bouz
+
+#####
+
+THE DAY BEFAILS.... Comme le nom indique. rien à dire.
+
+#####
+
+Franchement, The Day Before, c'est pas le pied du tout. Le monde du jeu est complètement vide, même après la pandémie, c'est plat et sans vie. Les graphismes, c'est pire, ça ressemble à un truc d'il y a 10 ans, pas du tout à la hauteur de 2023.
+
+Et puis, les mecs ont abusé avec les retards. On attendait ce jeu depuis une éternité, mais à chaque fois, ils repoussent la sortie. Ça gave sérieux.
+
+Bref, je regrette vraiment d'avoir mis du fric là-dedans. C'est décevant à tous les niveaux. J'espère qu'ils vont se bouger pour corriger ça, sinon, c'est clair que ça vaut pas le coup.
+
+#####
+
+Rembourser avant de passer 2 heures a essayer tous les serveurs :)
+
+#####
+
+FNTASTIC c'est des mensonges à répétition, des placements de produits et j'en passe.
+
+C'est aussi un discord "officiel" qui ressemble à un serveur communautaire d'ado en pleine puberté. Un modo vacban (un cheater reconnu et banni sur steam pour ceux qui connaissent pas cette appellation) qui parle de sa misérable vie h24 mais qui ban littéralement tout le monde qui oserait discuter du jeu et débattre de celui-ci. 
+
+Force est de constater qu'aucune alpha/beta ni stress-test n'a été fait et que ce jeu est bien une belle merde dont on s'attendait. Dommage qu'il ne soit pas tout juste "jouable" histoire de pouvoir s'amuser quelques jours. 
+C'est juste quelques assets mises les unes sur les autres, un gunplay éclaté au sol, des animations de personnages risibles et des bugs les uns sur les autres (tout le monde dupliquait de l'argent à l'infini au bout de 2h de jeu). 
+
+Au moins grâce à eux les gens arrêteront un peu plus de se jeter aveuglement sur les EA à l'avenir, ça ne fera que du bien au monde du JV.
+
+#####
+
+C'est un gros non. Même Steam est d'accord car le refund après 2 heures fonctionne. Le mieux à faire pour les consommateurs, c'est de supprimer ce jeu en l'état de la plateforme. 
+
+A revoir dans quelques années, ou bien attendre The division Heartland.
+
+#####
+
+Une véritable arnaque, vraiment déçu d'avoir acheté ce jeu. 
+
+Quelques heures jeu rempli de bug, impossible de rejoindre des serveurs, complètement différent de la description, du thriller et des captures d'écran..... AVANT NOEL C'EST PAS COOOL :( :( 
+
+Je compte sur Steam pour un remboursement.
+
+#####
+
+j'ai jouer pendant 2h je tue une personne ou tire le jeux crash donc le stuff de la personne que j'ai tuer sera disparue de plus quand je bouge ma caméra chut fps mal optimiser.
+
+les zombies sont des bots pour chaque arme il doivent prendre minimum 4 balle dans la tete pour crever 
+
+le System de pvp et vraiment à chier du fait que quand je vise parfoit sa me met a la 1 personne et de temps en tant a la 3 personne
+
+jeux développer pendant 3 ans et remplis de bug 
+
+
+
+#####
+
+La plus grosse frustration de ma vie, c'est vraiment une perte de temps, d'argent, et d’espérance de vie, j'me suis fracturer le rétine gauche rien quand lançant le jeu, nan c'est trop la vraiment, même la saison 2 de mushoku tensai ma moins déçus que ca !
+
+#####
+
+Que quelqu'un, un studio ou autre, reprenne ce jeu et le termine SVP !! 
+On tenait là un jeu avec un haut potentiel....
+Dommage...
+
+#####
+
+Une honte le jeu crash des que je sort sur la map, que je tire ou je me fait tuer 4 crash dont le dernier ou j'ai respawn dans la ville après ma morts au lieu de m'envoyer au lobby avec pas de zombie impossibilité de loot et j'ai crash 50 mètres plus loin, j'ai prit le jeu malgré la grosse critique pour tester de mon coté mais je voit qu'il injouable malgré ma grosse config (150 fps in game), ne l'acheter pas s'est du scam et les développeur ce torcheront avec votre argent si vous le prenez.
+
+#####
+
+The Scam Before
+
+#####
+
+Que dire ? Une honte
+
+#####
+
+Pas de serveurs.
+Copie de Tarkov.
+Bugué, drop de FPS, crash, déconnexion.
+Pas de liste d'amis, pas de menu digne de ce nom...cerise sur le gateau, clavier qwerty et pas toutes les touches configurables.
+Aucune innovation, - de 120min, remboursement.
+5 ans de dev pour ça ? vraiment ?
+Salut !
+
+#####
+
+que dire..mon evaluation va etre au niveau du jeu...le néant...
+
+#####
+
+Je vais essayer de rester le plus calme et polie possible.
+3h de jeu, dont 2h à essayer de rejoindre un serveur.
+Puis, des bugs... Des bugs... Enfin vous avez compris le topo. 
+
+La hitbox est éclatée au sol, il faut 18 balles pour tuer un Z, quelques trucs lootables comme les voitures, des shops... Pas de possibilité d'escalader, pas de corps à corps, gameplay et environnement calqué sur Division très clairement mais en plus buggué ! GG Les gars, vous avez réussi à faire pire qu'Ubisoft !! 
+
+Rendez l'argent !!!
+
+#####
+
+40e Pour sa ? Non c'est une dinguerie, comme il pu la merde..Ok c'est une EA, mais s'il vous plait, arrêter de vous foutre de la geule du monde.
+
+#####
+
+franchement, ce jeu n'est pas un jeu. C'est une merde tellement grosse que je comprend enfin pourquoi il sont mit autant de temps a la chier. Oubliez cette daube fuyez.
+
+#####
+
+Not working
+
+#####
+
+je déconseille ce jeu fortement ! Déjà impossible de rejoindre le serveur et c'est vide, les zombie sont tous pareil et les bâtiment c'est la même chose.
+
+#####
+
+Ben non 
+
+
+C'est encore un échec massif , aucun serveur avec de la place le peut de fois ou l'ont arrive a avoir une place première porte qui ne s'ouvre pas ou ont tombe dans le vide infinie . depuis le lancement de New world je pensais pas revoir un échec aussi critique sur un jeux aussi attendue .
+
+la réputation de scammer que le studio a obtenue est ma fois amplement mérité .
+
+oui blabla early acess mais faut ce calmé un moment le jeux est attendue depuis plusieurs année le studio avait connaissance du nombre de joueur en attente derrière , c'est le jeux qui était le plus en liste de souhait de steam il y a pas  d'excuse la ..
+
+Edit : Aprés avoir reussi a enfin trouvé un serveur et finir leur "intro" j'ai rarement vue si fade et l'intro donne le ton .
+
+devinez quelle genre de jeux vous avez entre les main ? le survival MMO apo qui va tout retourné ? 
+
+Ben non un énieme tarkov like sans âme sans texture et pas besoin de 10h de jeux pour sens rendre compte , Putain j'ai encore rêver et espérer mais ce jeux est un mensonge sans nom 
+
+Ce jeux n'est absolument pas un MMO monde ouvert la description es mensongère , serveur 32 personne sur une carte fermé et petite . c'est un extraction shooter .... 
+
+1 : les arme a feu le cœur du gameplay ben sa pue hein ont va pas ce mentir rien de fous 
+
+2 les zombie : ben quoi tu attendais des zombie de fous super immersif ? osef tu est trés loin de l'imersion 
+
+3 : la ville ben je m'attendais pas a grand chose grande ville post apo mais c'est pareille tojour ce gout fade en bouche 
+
+
+En gros vous attendais pas a la claque et la Révolution tant attendue ce jeux na de bonne idée que celle qu'il a volé rien de plus
+
+#####
+
+Vraiment une arnaque, fuyez pauvre fou !
+
+#####
+

@@ -334,6 +334,31 @@ C'est bo et ca fait vroum vroum
 
 #####
 
+OK :
+
+- Beaucoup de voiture 
+- défis journalier .
+- La personnalisation des voiture .
+
+Pas ok :
+
+- difficulté absurde  même en facile  ( une erreur et espéré même pas la premiere place )
+- Le temps de trajet entre chaque épreuve ( sans compter les poursuites )
+- 1 course sur 2 se termine avec une poursuite .
+- Des gain ridicule comparé au prix des pièces .
+- un cycle  jour / nuit qui sers a rien  ( sers juste de refresh au course )
+- Beaucoup de saut qui mène hors de la carte ...
+- la carte pour voir les collectible  coûte  6 euros  ...
+- groupe limité a  4 .
+- Des accident  inexplicable .
+- Personnalisation des personnage .
+
+
+
+Conclusion : NFS heat était largement  mieux  .
+
+#####
+
 Enfin un jeu qui sort sans trop de bug !
 
 Alors évidemment, mon avis ne serra pas super pointu étant donné que les derniers NFS auxquels j'ai joué sont Hot pursuit et Most wanted.
@@ -377,40 +402,9 @@ oui mais pas pour ce prix...
 
 #####
 
-OK :
-
-- Beaucoup de voiture 
-- défis journalier .
-- La personnalisation des voiture .
-
-Pas ok :
-
-- difficulté absurde  même en facile  ( une erreur et espéré même pas la premiere place )
-- Le temps de trajet entre chaque épreuve ( sans compter les poursuites )
-- 1 course sur 2 se termine avec une poursuite .
-- Des gain ridicule comparé au prix des pièces .
-- un cycle  jour / nuit qui sers a rien  ( sers juste de refresh au course )
-- Beaucoup de saut qui mène hors de la carte ...
-- la carte pour voir les collectible  coûte  6 euros  ...
-- groupe limité a  4 .
-- Des accident  inexplicable .
-- Personnalisation des personnage .
-
-
-
-Conclusion : NFS heat était largement  mieux  .
-
-#####
-
 La DA est bonne, clairement trop de drama autour de ça pour rien alors que le VRAI problème du jeu est son équilibrage :
 Bien qu'on sache depuis Payback que la notation des voitures ne retranscrit absolument pas les performances de celle-ci, ici on voit des courses où des voitures qui ont clairement des notes inférieures nous foutent 1km d'avance pendant tout la course. Donc pour arriver premier en fin de chaque semaine il faut perfect TOUT et TOUT LE TEMPS. C'est insupportable. Sans compter que sans raison, une course sur 10, l'IA vire complètement gogole à crasher dans des murs, pas freiner dans les virages... Donc c'est le jeu qui décide si on a une chance d'arriver premier ou si on doit étudier chaque virage de chaque course pour y arriver. Heat avait rendu la police ingérable, Unbound nous permet de les balancer hors route de nouveau mais clairement la progression et l'IA des pilotes frustrent plus qu'autre chose et le mode "chill" ne résous rien : c'est la même IA.
 J'vais rejouer à Payback histoire de pas avoir une pression sanguine folle à chaque session.
-
-#####
-
-Mais quelle purge... La conduite est full arcade, il y a des dégâts (???). Ça n'a aucun sens. Même en "facile" c'est injouable. L'IA est cheaté, même avec une avance considérable lors d'une course, vous vous faites rattraper et les adversaires finissent quand même collés à vous voir devant à la moindre erreur. Parfois même, dans les courses avec un "gros" enjeu (véhicule à gagner), un élément de décor indestructible ou un véhicule apparaît pour vous arrêter net, et donc perdre la course. Le choix du véhicule de départ est purement esthétique, en effet, quelque soit la puissance de celui-ci, vous serez TOUJOURS moins rapide que vos adversaires. On peut se demander à quoi servent les upgrade de perf donc...
-La police maintenant... une vaste blague. Jusqu'au niveau 4 d'alerte c'est un jeu d'enfant de s'en débarrasser. Au niveau 5, c'est impossible. Arrestation à chaque poursuite, les véhicules de police apparaissent comme par magie sur votre route, ils vous suivent partout, même hors radar ils savent où vous trouver... 
-Bref, le jeu n'ai pas équilibré, bourré de bug, aucun plaisir. j'ai le sentiment de m'être fait arnaquer...
 
 #####
 
@@ -423,6 +417,12 @@ Bravo à l'équipe de EA, Criterion, j'ai eu peur de cette sortie de NFS, mais t
 - Les animations, les personnages, et des piétons dans la ville trop bien, le détails qui a toute sont importance ! 
 
 Je recommande vivement ce NFS
+
+#####
+
+Mais quelle purge... La conduite est full arcade, il y a des dégâts (???). Ça n'a aucun sens. Même en "facile" c'est injouable. L'IA est cheaté, même avec une avance considérable lors d'une course, vous vous faites rattraper et les adversaires finissent quand même collés à vous voir devant à la moindre erreur. Parfois même, dans les courses avec un "gros" enjeu (véhicule à gagner), un élément de décor indestructible ou un véhicule apparaît pour vous arrêter net, et donc perdre la course. Le choix du véhicule de départ est purement esthétique, en effet, quelque soit la puissance de celui-ci, vous serez TOUJOURS moins rapide que vos adversaires. On peut se demander à quoi servent les upgrade de perf donc...
+La police maintenant... une vaste blague. Jusqu'au niveau 4 d'alerte c'est un jeu d'enfant de s'en débarrasser. Au niveau 5, c'est impossible. Arrestation à chaque poursuite, les véhicules de police apparaissent comme par magie sur votre route, ils vous suivent partout, même hors radar ils savent où vous trouver... 
+Bref, le jeu n'ai pas équilibré, bourré de bug, aucun plaisir. j'ai le sentiment de m'être fait arnaquer...
 
 #####
 
@@ -602,6 +602,10 @@ Je recommande pas du tout
 
 #####
 
+heat better tho
+
+#####
+
 Jeu sympa, j'étais nostalgique de Underground, et j'ai passé du bon temps. Beaucoup de voitures, et d’innombrables configs.
 
 On est maintenant plus dans l'univers Forza avec un monde ouvert, la jouabilité est toujours typé arcade et demande un peu de temps de prise en main, mais une fois qu'on est l'aise c'est très fun avec possibilité d'accès son gameplay sur le drift ou sur l'adhérence.
@@ -621,6 +625,13 @@ Very grindy game, but once you get through the first difficulties, it goes prett
 #####
 
 Nul a chier. Sérieusement le mode histoire est dégeulasse. Payer pour participer au course pour ensuite gagner seulement 1/4 d'une pièce. Il manque au moins 1 zero a chaque récompense. Tu gagne 1500 sur une course a 3000 avec un coup d'entrée a 1500. Et le mode online juste completement vide. La c'est l'inverse tu gagne trop d'argent pour ensuite juste rien faire avec vu que tu as deja tout en 30 minute de jeu .... Réellement le plus mauvais NFS de la série
+
+#####
+
+çà faisais plusieurs année que j'avais pas autant prix de plaisir sur un jeu de voiture. Malheureusement le gains d'argent est bien trop faible et on a l'impression que c'est pour gonflé la durée de vie, en plus on a des chances de tout perdre lorsque l'on se fais arrêté. Sans parler du fais que l'on passe 5/10min après chaques courses à semer les flics, sympa au début agaçant à la longue. 
+Autre point négatif, y a du challenge oui, mais cela devient vite du cheat de la part des ia, entre la voiture en première place qui roule 2x plus vite alors que je peut pas amélioré plus la voiture sous peine de passer au rang supérieur, et l'unité tout terrain qui arrive à me suivre à 300km/h sur l'autoroute, autant dire que niveau immersion il n'y a que les graphismes. 
+Je n'ai pas essayer le online mais j'imagine très bien et je ne veut pas m'y intéressé. Surtout que j'ai pu amélioré pas mal de point qui me posais problème grâce à des mods que je recommande fortement pour amélioré votre expérience (comme un *10 sur le gain de cash ou un tp vous permettant de fuir rapidement votre 20eme course poursuite de la journée).
+Mais pour 8e je suis content du jeu.
 
 #####
 
@@ -665,10 +676,6 @@ Probablement le pire need for speed de l'histoire
 #####
 
 Pfff... non en fait.
-
-#####
-
-heat better tho
 
 #####
 
@@ -764,23 +771,6 @@ C'est une torture auditive.
 J'ai eu accès au jeu une fois, ça a durer 5 minutes et depuis a chaque lancement ça crash, littéralement injouable pour le moment, je changerai mon avis quand ça sera régler mais il faut que les gens sachent le risque.
 
 Edit: Bon, après avoir attendu quelque temps et quelque MAJ, je peut lancer le jeu, ça y est, j'ai enfin pu entamer le jeu un minimum, et pour l'instant hormis quelque petite pertes de frames par moment quand c'est vraiment le carnage, tout va bien ! Vous voyez EA, ça coute rien de paufiner un peu vos jeu, ça serai encore mieux de le faire avant la sortie, que tout le monde puisse en profiter correctement dès le départ !
-
-#####
-
-Je ne laisse jamais de commentaires, mais là... J'ai le sentiment qu'il faut répondre au bashing dont est victime ce jeu, encourager les développeurs pour les nombreux aspects positifs tout en étant objectif. 
-Il n'est pas sans (gros) défaut, des défauts qui auraient pu être solutionnés par un patch et qu'on peut solutionner facilement manuellement, quand on sait. La sauvegarde est automatique, ça ce n'est pas mauvais en soi, mais pourquoi ne pas permettre une sauvegarde manuelle en plus, surtout quand se faire serrer par les flics (ce qui arrive même avec une voiture S+) met abruptement fin à la journée en cours, et supprime tout l'argent récolté au cours de la demi journée? Alors qu'on a quatre essais maximum par jour distribué sur l'ensemble des courses? OK la fin de la semaine revient à la journée de vendredi en boucle si on s'est loupé (pas assez d'argent) mais ça signifie refaire les mêmes courses encore et encore, ce qui est ennuyeux? Je pense que c'est de là que vient la frustration lue dans de nombreux commentaires. Heureusement il y a deux solutions, une est dans le jeu mais il faut y avoir joué un moment et compris la mécanique pour le savoir, des pièces accessoires pour la voiture qui augmentent les dommages aux autres véhicules (permet de se débarrasser d'un policier niveau un ou deux en un choc). L'autre est une solution pour combler le manque de sauvegarde manuelle, sans supprimer les courses poursuites qui sont une partie intégrante du jeu, et gratifiantes quand on réussit à s'en sortir, ALT-F4 pour quitter la partie de manière forcée si on se fait serrer par les flics. Quand on relance la partie, on est de retour le même jour, sans l'amende. Pareil pourquoi on ne peut pas créer une nouvelle partie depuis le menu une fois qu'on en a entamé une? Là encore on peut y remédier en supprimant la sauvegarde du dossier sauvegardes avec l'explorateur de Windows, on peut aussi créer un backup de la sauvegarde de cette manière par sécurité.
-Bref un des gros défauts du jeu c'est qu'il faut apprendre comment il fonctionne pour l'apprécier, ce n'est pas particulièrement expliqué, il aurait fallu plus de garde-fous (libre aux gens de les utiliser ou pas). Sans sauvegarde manuelle, sans création de nouvelle partie quand on s'est planté la première fois, faute d'avoir compris le fonctionnement du jeu, une téléportation optionnelle vers les courses aurait été bienvenue, pour éviter de risquer la course poursuite à l'issue très dangereuse entre deux courses, d'autant que les gains en cas de fuite sont minimes. Autre chose, impossible pendant une demie-journée de changer la tenue de route de sa voiture, alors qu'une voiture qui dérape trop est mauvaise pour les courses normales, mais nécessaire pour les courses de dérapage contrôlé.
-Maintenant, les points positifs: le jeu est beau. Pas techniquement le plus abouti, peut être, mais la direction artistique est unique et excellente à mon goût. Et pourtant le mélange cell shading + décors et voitures réalistes m'inquiétait, mais là, le résultat fonctionne. Bien que toujours dans la même ville, les environnements sont variés. Les passants qui peuplent la ville même s'ils servent de décor, sautant pour éviter la voiture à chaque fois, c'est plus immersif qu'une ville remplie de voitures seulement. Dans un Need For Speed c'est nouveau et c'est bienvenu.
-L'histoire n'est pas terrible, mais quel jeu de course / de baston a une vraie histoire intéressante? En revanche elle a le mérite d'être là, pour moi c'est mieux qu'un jeu sans histoire, sans début et fin (sauf un nombre de courses à finir). Et je détestais Criterion Games pour ça, Quand Need For Speed est devenu Burnout, ça ne m'a pas plus, je n'accrochais pas à cette série. Aucune histoire, voitures sans pilotes, détail esthétique mais important pour l'immersion. Need For Speed n'a jamais eu de bonne histoire mais une histoire pourrie est meilleure que pas d'histoire. Là Criterion fait... Autre chose que du Criterion, et c'est louable.
-Les musiques sont de la soupe hip hopesque commerciale, j'aime le hip hop mais à l'ancienne, je déteste l'auto-tune, mais c'est à la mode, et ce sont des musiques variées et pas désagréables.
-C'est de l'arcade, je veux un beau jeu fun, pas une simulation réaliste, c'est pour ça que je suis fidèle à Need For Speed. Dommage peut-être de ne pas pouvoir être dans la peau des flics mais le mode histoire s'y oppose (à moins d'une histoire parallèle, être parfois dans la peau de ses ennemis, ou un scénario en plus).
-Bref je compare aux anciens jeux de la série qui sont bien notés. Tout le monde adule Hot Pursuit et je ne comprends pas pourquoi. La version vendue actuellement est le jeu d'il y a dix ans avec une meilleure résolution, et je n'aime pas l'original : musique (pas terrible à mon goût) et décors pas variés, pas d'histoire ce qui rend les courses d'autant plus répétitives, pas de monde ouvert... En fait à mon goût le Hot Pursuit original (Need for speed 3) était meilleur, compte tenu de la technologie de l'époque bien sûr, une époque où aucun jeu de voitures n'était en monde ouvert ni n'avait d'histoire, complètement dépassé aujourd'hui. Pareil pour Underground, toujours la nuit et pas de flics, novateur et fun à l'époque, le concept même est dépassé. Unbound est meilleur que ces deux jeux à tous les niveaux et prétendre l'inverse c'est voir le monde à travers les lunettes roses de la nostalgie.
-A tous les niveaux sauf... l'impossibilité de sauvegarde manuelle malgré des courses poursuites aux enjeux trop sévères entre deux courses, sans option de téléportation, qui peut heureusement être solutionné en "trichant" avec ALT-F4. Le côté "infiltration" (éviter les flics) à la Metal Gear Solid dans un jeu de courses, c'est osé, mais pas inintéressant. Il faut comprendre qu'il est en général préférable d'éviter les flics, à l'origine je les provoquais, dans le but de gagner des points en leur échappant, selon la logique des anciens Need For Speed, mais le niveau de recherche grimpe trop vite, la police est trop agressive (en particulier avec un véhicule moins puissant), les enjeux trop élevés et les gains trop bas pour que cette tactique soit valable, mais il faut le savoir, et si la manière d'apprendre c'est quand ça se termine par une arrestation avec passage immédiat aux 12 heures suivantes et sans méthode officielle pour créer une nouvelle partie, c'est frustrant et ça n'encourage pas à continuer.
-Alors oui c'est très difficile d'avoir la première place et presque impossible avec une voiture qui n'est pas au maximum de son niveau, mais ça ce n'est pas un défaut, c'est bien pour le sentiment de progression, mais il faut le savoir.
-Le mode histoire et en ligne qui ne sont pas liés, je comprends que ça déplaise à beaucoup, pour moi qui ne joue jamais en ligne ça évite l'écueil inverse que serait l'obligation de se connecter pour pouvoir progresser, ou du moins une progression facilitée pour ceux et celles qui jouent en ligne.
-Les micro-transactions, ça ne me plaît pas, mais c'est monnaie courante chez EA comme chez Ubisoft. Tant que ce n'est pas nécessaire à la progression, et qu'il y a suffisamment de choix dans le jeu de base, tout va bien.
-En revanche 70 euros, c'est trop élevé, même si c'est devenu le nouveau standard, surtout avec autant d'avis négatifs, ce qui signifie qu'il y a un problème quelque part, et qu'on prend un risque. Et EA contrairement à CD Projekt Red par exemple abandonne ses jeux dans ce genre de situation au lieu de leur donner une deuxième chance avec des patchs logiciels pour solutionner les problèmes flagrants. A 10 euros en revanche je n'ai pas hésité, je préfère largement avoir ça que Hot Pursuit...
-Si comme moi pas fan de Burnout / Hot Pursuit vous cherchez un "retour aux sources" réussi n'hésitez pas. Mais en gardant en tête que pour éviter une frustration absurde due principalement au manque de sauvegarde manuelle il faut "tricher" à coups de ALT-F4 quand les courses poursuite tournent mal.
 
 #####
 
@@ -1064,6 +1054,23 @@ Les "pilotes" vont bloquer tes trajectoires voir même t'envoyer dans le décor.
 
 #####
 
+Je ne laisse jamais de commentaires, mais là... J'ai le sentiment qu'il faut répondre au bashing dont est victime ce jeu, encourager les développeurs pour les nombreux aspects positifs tout en étant objectif. 
+Il n'est pas sans (gros) défaut, des défauts qui auraient pu être solutionnés par un patch et qu'on peut solutionner facilement manuellement, quand on sait. La sauvegarde est automatique, ça ce n'est pas mauvais en soi, mais pourquoi ne pas permettre une sauvegarde manuelle en plus, surtout quand se faire serrer par les flics (ce qui arrive même avec une voiture S+) met abruptement fin à la journée en cours, et supprime tout l'argent récolté au cours de la demi journée? Alors qu'on a quatre essais maximum par jour distribué sur l'ensemble des courses? OK la fin de la semaine revient à la journée de vendredi en boucle si on s'est loupé (pas assez d'argent) mais ça signifie refaire les mêmes courses encore et encore, ce qui est ennuyeux? Je pense que c'est de là que vient la frustration lue dans de nombreux commentaires. Heureusement il y a deux solutions, une est dans le jeu mais il faut y avoir joué un moment et compris la mécanique pour le savoir, des pièces accessoires pour la voiture qui augmentent les dommages aux autres véhicules (permet de se débarrasser d'un policier niveau un ou deux en un choc). L'autre est une solution pour combler le manque de sauvegarde manuelle, sans supprimer les courses poursuites qui sont une partie intégrante du jeu, et gratifiantes quand on réussit à s'en sortir, ALT-F4 pour quitter la partie de manière forcée si on se fait serrer par les flics. Quand on relance la partie, on est de retour le même jour, sans l'amende. Pareil pourquoi on ne peut pas créer une nouvelle partie depuis le menu une fois qu'on en a entamé une? Là encore on peut y remédier en supprimant la sauvegarde du dossier sauvegardes avec l'explorateur de Windows, on peut aussi créer un backup de la sauvegarde de cette manière par sécurité.
+Bref un des gros défauts du jeu c'est qu'il faut apprendre comment il fonctionne pour l'apprécier, ce n'est pas particulièrement expliqué, il aurait fallu plus de garde-fous (libre aux gens de les utiliser ou pas). Sans sauvegarde manuelle, sans création de nouvelle partie quand on s'est planté la première fois, faute d'avoir compris le fonctionnement du jeu, une téléportation optionnelle vers les courses aurait été bienvenue, pour éviter de risquer la course poursuite à l'issue très dangereuse entre deux courses, d'autant que les gains en cas de fuite sont minimes. Autre chose, impossible pendant une demie-journée de changer la tenue de route de sa voiture, alors qu'une voiture qui dérape trop est mauvaise pour les courses normales, mais nécessaire pour les courses de dérapage contrôlé.
+Maintenant, les points positifs: le jeu est beau. Pas techniquement le plus abouti, peut être, mais la direction artistique est unique et excellente à mon goût. Et pourtant le mélange cell shading + décors et voitures réalistes m'inquiétait, mais là, le résultat fonctionne. Bien que toujours dans la même ville, les environnements sont variés. Les passants qui peuplent la ville même s'ils servent de décor, sautant pour éviter la voiture à chaque fois, c'est plus immersif qu'une ville remplie de voitures seulement. Dans un Need For Speed c'est nouveau et c'est bienvenu.
+L'histoire n'est pas terrible, mais quel jeu de course / de baston a une vraie histoire intéressante? En revanche elle a le mérite d'être là, pour moi c'est mieux qu'un jeu sans histoire, sans début et fin (sauf un nombre de courses à finir). Et je détestais Criterion Games pour ça, Quand Need For Speed est devenu Burnout, ça ne m'a pas plus, je n'accrochais pas à cette série. Aucune histoire, voitures sans pilotes, détail esthétique mais important pour l'immersion. Need For Speed n'a jamais eu de bonne histoire mais une histoire pourrie est meilleure que pas d'histoire. Là Criterion fait... Autre chose que du Criterion, et c'est louable.
+Les musiques sont de la soupe hip hopesque commerciale, j'aime le hip hop mais à l'ancienne, je déteste l'auto-tune, mais c'est à la mode, et ce sont des musiques variées et pas désagréables.
+C'est de l'arcade, je veux un beau jeu fun, pas une simulation réaliste, c'est pour ça que je suis fidèle à Need For Speed. Dommage peut-être de ne pas pouvoir être dans la peau des flics mais le mode histoire s'y oppose (à moins d'une histoire parallèle, être parfois dans la peau de ses ennemis, ou un scénario en plus).
+Bref je compare aux anciens jeux de la série qui sont bien notés. Tout le monde adule Hot Pursuit et je ne comprends pas pourquoi. La version vendue actuellement est le jeu d'il y a dix ans avec une meilleure résolution, et je n'aime pas l'original : musique (pas terrible à mon goût) et décors pas variés, pas d'histoire ce qui rend les courses d'autant plus répétitives, pas de monde ouvert... En fait à mon goût le Hot Pursuit original (Need for speed 3) était meilleur, compte tenu de la technologie de l'époque bien sûr, une époque où aucun jeu de voitures n'était en monde ouvert ni n'avait d'histoire, complètement dépassé aujourd'hui. Pareil pour Underground, toujours la nuit et pas de flics, novateur et fun à l'époque, le concept même est dépassé. Unbound est meilleur que ces deux jeux à tous les niveaux et prétendre l'inverse c'est voir le monde à travers les lunettes roses de la nostalgie.
+A tous les niveaux sauf... l'impossibilité de sauvegarde manuelle malgré des courses poursuites aux enjeux trop sévères entre deux courses, sans option de téléportation, qui peut heureusement être solutionné en "trichant" avec ALT-F4. Le côté "infiltration" (éviter les flics) à la Metal Gear Solid dans un jeu de courses, c'est osé, mais pas inintéressant. Il faut comprendre qu'il est en général préférable d'éviter les flics, à l'origine je les provoquais, dans le but de gagner des points en leur échappant, selon la logique des anciens Need For Speed, mais le niveau de recherche grimpe trop vite, la police est trop agressive (en particulier avec un véhicule moins puissant), les enjeux trop élevés et les gains trop bas pour que cette tactique soit valable, mais il faut le savoir, et si la manière d'apprendre c'est quand ça se termine par une arrestation avec passage immédiat aux 12 heures suivantes et sans méthode officielle pour créer une nouvelle partie, c'est frustrant et ça n'encourage pas à continuer.
+Alors oui c'est très difficile d'avoir la première place et presque impossible avec une voiture qui n'est pas au maximum de son niveau, mais ça ce n'est pas un défaut, c'est bien pour le sentiment de progression, mais il faut le savoir.
+Le mode histoire et en ligne qui ne sont pas liés, je comprends que ça déplaise à beaucoup, pour moi qui ne joue jamais en ligne ça évite l'écueil inverse que serait l'obligation de se connecter pour pouvoir progresser, ou du moins une progression facilitée pour ceux et celles qui jouent en ligne.
+Les micro-transactions, ça ne me plaît pas, mais c'est monnaie courante chez EA comme chez Ubisoft. Tant que ce n'est pas nécessaire à la progression, et qu'il y a suffisamment de choix dans le jeu de base, tout va bien.
+En revanche 70 euros, c'est trop élevé, même si c'est devenu le nouveau standard, surtout avec autant d'avis négatifs, ce qui signifie qu'il y a un problème quelque part, et qu'on prend un risque. Et EA contrairement à CD Projekt Red par exemple abandonne ses jeux dans ce genre de situation au lieu de leur donner une deuxième chance avec des patchs logiciels pour solutionner les problèmes flagrants. A 10 euros en revanche je n'ai pas hésité, je préfère largement avoir ça que Hot Pursuit...
+Si comme moi pas fan de Burnout / Hot Pursuit vous cherchez un "retour aux sources" réussi n'hésitez pas. Mais en gardant en tête que pour éviter une frustration absurde due principalement au manque de sauvegarde manuelle il faut "tricher" à coups de ALT-F4 quand les courses poursuite tournent mal.
+
+#####
+
 bien
 
 #####
@@ -1194,6 +1201,12 @@ Beau graphisme mais les courses poursuite sont nul, les amélioration très bof 
 
 Comme d'habitude les NFS ne vous permettent pas grand chose de nouveau et la qualité du contenu diminue au détriment des visuels et audios.
 C'était le dernier NFS que j'achetait.
+
+#####
+
+jeux pas fluide , bourrer de micro transaction avec el famoso "Volume" qui est un battle pass a 5.99, on en ai au 6 eme sans compter les héro car a 15€ vraiment dommage car il est très bon dans l'ensemble c'est juste Heat Battle pass edition , Merci EA pour votre politique a vomir .
+PS jeux a 5€sur instant Gaming vous faite pas enfler a 59€ ou 79€ (déluxe édition )sur steam .
+
 
 #####
 
@@ -1576,6 +1589,45 @@ Le jeu ne se lance meme pas jai tout essayer ! Passez votre chemin
 
 #####
 
+Pour cette avis , je vais faire simple.
+Si vous voulez un bon NFS , prenez Heat (il est mieux sur tous les points) !
+Fin 😊
+
+#####
+
+
+
+#####
+
+Difficile de concurrencer quand on débute le jeu, même si vous mettez la difficulté au minimum cela reste très difficile de tenir les IA on doit directement tryard le jeu pour accumuler de l'argent, pas top pour ceux qu'ils veulent profiter de l'histoire du jeu...
+
+#####
+
+Je ne peux pas y jouer car la manette ne fonctionne pas ni certaines touches du clavier alors que ce jeu est sortit depuis plusieurs mois déja... voyez comment c'est entretenu...
+
+#####
+
+Je joue à Need for speed Unbound sur steam deck. C'est beau, c'est fluide (60fps) mais ne correspond pas à mes attentes. 
+
+Je n'adhère pas au mélange de cell shading et de modélisation plus classique.
+
+Je trouve la difficulté mal dosée (quasi impossible d'etre 1er (même en faisant très peu de fautes de conduite) et le système de journée pas à mon goût. 
+
+Par contre bande son vraiment sympa.
+
+Par contre je mets une évaluation positive car si vous adhérez aux graphismes et au système de journée, il peut être top.
+
+#####
+
+super
+
+#####
+
+jaime beaucoup, realiste; le mod online et tres bien je ne regrette pas mes 30h de jeux en 3 jour
+
+
+#####
+
 jadore se need for speed
 
 #####
@@ -1607,12 +1659,6 @@ Le jeu est impossible à jouer il est vraiment hyper dur même avec la difficult
 
 -- 
 Je pense que le jeu est intéressant avec une grosse promotion (-10 euros) ou il faut être fan absolu de la licence, sinon il y a beaucoup de choses à revoir pour faire de jeu une grosse masterclass qu'il devrait être.
-
-#####
-
-jeux pas fluide , bourrer de micro transaction avec el famoso "Volume" qui est un battle pass a 5.99, on en ai au 6 eme sans compter les héro car a 15€ vraiment dommage car il est très bon dans l'ensemble c'est juste Heat Battle pass edition , Merci EA pour votre politique a vomir .
-PS jeux a 5€sur instant Gaming vous faite pas enfler a 59€ ou 79€ (déluxe édition )sur steam .
-
 
 #####
 
@@ -2246,56 +2292,6 @@ Go Next !
 #####
 
 jeux plus merdique que jamais vue acheter pas le nfs run est meilleur que cette merguez
-
-#####
-
-vraiment le feu ce jeu , je conseil vraiment !!
-
-
-#####
-
-style de musique pas trop à mon gout, mais bon NFS !
-
-#####
-
-trop bien
-
-#####
-
-Très bon nfs rappelle le most wanted dans certains éléments et très beau et optimisé pour ma part: Ryzen 5 5600 + RX 6600 + B550 gigabyte ds3h + 16 RAM 3200hz  pour aux alentours de 140 fps.
-
-#####
-
-un super bon jeux ou on y passe des heures entière
-
-#####
-
-points fort :
-- il est beau graphiquement
-- système de customisation au top avec des custom legendary (bodykit spéciaux)
-- style graphique un peut BD ou comics pour les personnage avec les effets de la voiture
-- la nitro a un petit "mini jeu" qui change des autre nfs
-
-points négatif :
-- connectivité avec les manettes impossible (sauf si vous trouver un fix pour ça)
-- histoire need for speed ( même style que heat )
-- remplis de bug cassant le jeu
-- temps de chargement parfois infini
-- émotion dans les personnage inexistante
-- crash du jeu complet dans certain temps de chargement
-- ia soit trop facile qui peu devenir imbattable en une fraction de seconde (je suis peut-être mauvais aussi)
-- achat steam qui donne l'obligation de passer par le launcher EA pour lancer le jeu
-- customisation du personnage laisse un peu a désirer
-
-PS : pour la connectivité manette, j'ai tout essayer, le mode big picture, les paramétré et même tenter deux manette différente ( xbox one en filaire et élite serie 2 en bluetooth et en filaire) si vous avez un fix dite moi en com sinon impossible de jouer manette
-
-#####
-
-Vraiment un flop
-
-#####
-
-problème connexion perdue
 
 #####
 

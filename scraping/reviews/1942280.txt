@@ -1,0 +1,1638 @@
+Très solide.
+
+Les bases sont bien là et l'inspiration des talents auto battler change de la concurrence.
+Bon courage pour la phase d'accès anticipé.
+
+#####
+
+Bonjour, que dire a part bravo au dev. Permettre de choisir entre twin stick shooter ou un one stick shooter (vampire survivors like) à l'aide d'un bouton ou de regler la difficultés à la volé (degats, resistance, vitesse).  Un choix imposant de héros avec chacun leur specificité et leurs armes de predilection, de multiples objet. Pour finir je vais dire merci au devs, etant handicapé, je peux m'amusez même avec une seul main. N'hesitez pas a 5€, foncez vous serez pas déçu.
+
+#####
+
+Je joue sur Linux. Version Linux : non. Proton : excellent. Steam Deck : excellent.
+
+[h1]Le jeu[/h1]
+
+Le jeu fait évidemment penser à Vampire Survivors, avec ses monstres qui pop sans arrêt et l'xp ramassée qui nous permet de mieux nous équiper pour les décimer. Mais il est toutefois bien différent, principalement avec son système de vagues. Le jeu a 20 vagues auxquelles il faut survivre, et on dépense la monnaie gagnée entre chaque vague. A chaque nouvelle vague, on recommence sur un champ entièrement clean, avant qu'il se fasse à nouveau envahir par les extraterrestres.
+
+On ne va donc pas se trouver à décimer des dizaines de monstres à la seconde. Non, on va plutôt passer notre temps à slalomer entre eux, pour ramasser la monnaie et ne pas se faire toucher. Ce qui reste par terre à la fin d'une vague est en quelque sorte gardé pour la vague suivante sous forme de bonus x2, c'est bien vu.
+
+On dépense la monnaie dans un magasin, les objets coûté un prix différents, on a le choix entre plusieurs et on peut reroll tant qu'on a de l'argent (chaque reroll coûte un peu plus cher que le précédent... ce n'est donc pas infini). Les objets ont souvent des malus, à nous de faire un build cohérent où les malus ne sont pas si importants. Les upgrades et armes sont très variés. Bien plus que les VS like auxquels j'ai joué jusque là. Il y a une vraie différence entre les armes, chaque run sera différent pour peu qu'on tente un autre build.
+
+C'est un roguelite : on débloque de nouveaux objets pour le magasin, ainsi que de nouveaux personnages, en terminant le jeu avec tous les personnages, et aussi en finissant au moins une fois dans toutes les difficultés. Les personnages sont variés, leurs bonus et/ou malus ont un vrai impact sur le build qu'on va suivre, ce ne sont pas juste des skins différents.
+
+Niveau réalisation, c'est plaisant graphiquement, notre petite patate change graphiquement en fonction des objets qu'on équipe, c'est fun. Un soin tout particulier a été apporté aux bruitages, c'est un vrai plaisir d'entendre ce petit bruit quand on ramasse ce qui tombe, et la musique n'est pas en reste.
+
+[h1]Rejouabilité, achievements[/h1]
+
+La rejouabilité est plus ou moins infinie. Terminer le jeu en difficulté maximum avec tous les personnages n'est pas requis pour obtenir les achievements, mais ça promet de longues heures de jeu si on veut le faire :).
+
+Côté achievements... il faudra finir le jeu avec chaque personnage, et au moins une fois dans chaque difficulté. Rien d'insurmontable !
+
+[h1]En bref[/h1]
+
+Un roguelite très addictif pour de courtes sessions de jeu, idéal sur le deck. Recommandé !
+
+[h1]GNU/Linux[/h1]
+
+Le jeu n'a pas de version native, mais tourne sans problème avec Proton 7.0-5, avec le DualSense & SteamInput activé.
+
+OS: Linux Mint 21, MATE edition.
+Hardware : 5950x, AMD RX 6900XT, 64GB ram.
+Screens : Dualscreen, 1x 4K & 1x 1920x1200, un seul screen X.
+
+[h1]Steam Deck[/h1]
+
+Environ la moitié de mon temps passé sur ce jeu est avec le deck. Il tourne sans aucun problème. La batterie tient relativement longtemps sur ce jeu.
+
+#####
+
+Ce Vampire Survivor-like a l'originalité de nous placer dans la peau d'une... pomme de terre ! Et force est de reconnaître que celle-ci peut devenir une véritable machine de guerre.
+Pour notre plus grand plaisir, elle se décline en plusieurs variétés. Une multitude de personnages sont en effet à débloquer, chacun possédant ses propres caractéristiques, ce qui implique une manière de jouer plus ou moins différente selon nos choix.
+Toute une série d'armes et d'accessoires sont également à découvrir, ce qui représente au final une belle panoplie d'objets pour varier les parties.
+La difficulté est ajustable dans le menu du jeu, via plusieurs critères, [i]Brotato[/i] peut donc s'adapter aux joueurs les plus aguerris comme les plus novices.
+Au cours d'une partie, la progression permet de faire évoluer les caractéristiques de notre personnage ainsi que d'améliorer ses armes afin de parvenir à la victoire.
+De nombreuses heures de jeu en vue au vu de la multitude de configurations possibles en termes de personnages, d'équipements et de caractéristiques.
+
+[b][i]Brotato[/i] est un petit roguelite bien pensé qui permet de passer le temps en s'amusant sans prise de tête.[/b]
+
+[quote=] [h1][url=https://store.steampowered.com/curator/41126012/] Cliquez ici pour découvrir plus d'évaluations [/url][/h1]
+[b]N'hésitez pas à cliquer sur "suivre" si vous appréciez le contenu de ma page de curation. [/b][/quote]
+
+#####
+
+J'aime la patate, la purée et les frites
+
+#####
+
+Après avoir testé presque tous les vampire-like, Brotato se place pour moi au sommet de ce qui se fait de mieux.
+Même en early access, la variété des builds est ahurissante. Tellement de classes et d'armes à tester et combiner Beaucoup plus que dans les autres bullet heavens que j'ai pu tester. Sans compter une musique au top.
+Le gameplay est fluide au possible, les controles réactifs. Les bruitages hyper satisfaisants.
+
+Au final, une rejouabilité vraiment énorme, des parties rapides et dynamiques, avec ce "juste une dernière  partie pour la route" qui te scotche au final des heures devant ton écran.
+
+Pour le prix, un must-have !
+
+#####
+
+Better than Hogwarts Legacy
+
+#####
+
+SURVEILLEZ VOS PATATES !!!
+
+J'ai voulu faire cuir mes patates et l'une d'entre elles est tombée dans le tiroir de mes couverts. 
+Le temps de m'en rendre compte, elle avait déjà 6 couteaux d'équipés. 
+Une galère pour la récupérer !
+
+#####
+
+Depuis que j'ai terminé tous les personnages en danger 5, mes chats utilisent les toilettes (et tirent la chasse), mes collègues me trouvent drôle et intéressant, j'ai du succès avec les femmes et mon boss m'a accordé une augmentation (bienvenu au club des +10k).
+
+Si toi aussi tu veux reprendre ta vie en main, achètes.
+
+#####
+
+On va pas se mentir, c'est pas le jeu incontournable de l'année. Je n'enchaînerais pas des sessions de 8h mais c'est parfait pour faire une run de temps à autre pour se défouler.
+
+La jouabilité est vraiment ultra simpliste : le stick directionnel + l'autofire. J'aurais aimé pouvoir exécuter une roulade ou même un coup spécial... mais non. Ici, on va au plus simple, et c'est super efficace ! C'est dynamique et fun. Les graphismes sont propres et lisibles même avec une foule de mobs à l'écran. Les builds sont très variés et offrent une excellente rejouabilité.
+
+Bref, pour moins de 5€, Brotato est un excellent défouloir !
+
+#####
+
+Shisheyu-Mayamoto ..... Enfoiré .....
+
+#####
+
+Un auto shooter hors du commun !
+Par personnage, vous allez devoir réadapter totalement votre façon de jouer. 
+En effet, chaque personnage a des bonus mais aussi des malus !
+
+Franchement, si le développeur responsable du jeu pouvait continuer à ajouter du contenu, cela deviendra un énorme jeu aussi populaire que Binding of Isaac.
+Je vous le conseille ! il ne coûte pas cher et pour clean tous les personnages à 100% en difficulté 5 et en sans fin, ça va vous bouffer des heures, je vous le dit !
+
+#####
+
+Les ennemis font un bruit comme du popcorn quand on les tuent. C'est rigolo, ça détent, c'est pas cher, c'est bien. Je recommande.
+
+#####
+
+Addictif, rien d'autre à dire 10/10
+
+#####
+
+Very good bullet hell game with perfect gamepad support which is rare on this type of game in EA. We want more!
+
+#####
+
+Après 70 heures de jeu, je ne suis toujours pas lassé.
+
+Le jeu est très riche, 32 personnages jouables qui sont autant de façons différentes d'aborder le gameplay. 
+6 niveaux de difficulté, la courbe est assez raide mais 1) la marge de progression compense et 2) il est possible de régler la santé des ennemis, leur vitesse et leurs dégâts dans les options. Certains crieront au scandale, mais en vrai c'est plutôt une bonne idée. J'ai bloqué de longs moments sur certains personnages en difficulté max, j'ai diminué la puissance des ennemis de 100% à 93%, ça m'a permis de gagner et de me dire "ok j'ai fait à 93 donc je peux faire à 100", au final j'ai recommencé et plié le game.
+J'ai débloqué tous les succès, bientôt full clear tous les persos en danger 5, après ça je pense que j'y jouerai beaucoup moins, voire plus du tout... Jusqu'à la prochaine update, car le jeu est en accès anticipé.
+
+Ccl : pour 5 balles, je ne peux que le conseiller. Ça reste un petit jeu, mais bien codé, avec pas mal de contenu et du challenge. Ce n'est pas parfait, mais normal, ce n'est pas fini.
+
+#####
+
+Une petite pépite ce jeu... Très simple, mais très agréable. Défoule, détend et fais appel à de la réflexion sans forcément forcer à en avoir. J'apprécie énormément !
+
+[hr][/hr] 
+Update:
+[b] Que dire... Ce jeu génère une addiction chez moi @_@... Wahou ! [/b]
+
+Très simple autant dans le principe et les mécaniques que dans les graphismes... Mais pourtant très complet et d'une fluidité franchement kiffante !
+Ni trop facile, ni insurmontable, avec toutes sortes de réflexions diverses et variées à avoir en fonction des personnages qu'on joue (et y'en a un bon paquet, ça fait plaisir).
+C'est un jeu franchement très complet et je tire mon chapeau aux dev !
+
+Si je dois recommander ? Bien sûr que je recommande ! Un de mes meilleurs jeux de l'année <3
+
+#####
+
+Développé par Blobfish, Brotato est un jeu de survie en arène avec visée et tir automatiques.
+
+Je sais que vous avez immédiatement pensé à Vampire Survivors mais il y a pas mal de différences. La zone de jeu est ici bien plus petite et surtout le level up et les achats s’effectuent entre deux vagues d’ennemis. Le but est simple, atteindre la 20ème vague pour éliminer le boss.
+
+Éliminer les ennemis permet de monter de niveau pour récupérer de nouveaux passifs ainsi que de l’argent pour acheter des armes et objets. À chaque montée de niveau vous aurez à choisir entre plusieurs propositions (augmentation de la chance de coup critique, des dégâts à distance, de la portée, de la vitesse de déplacement, etc.). La boutique quant à elle regorge d’armes et d’objets en tous genres. Il y a 17 statistiques différentes, chacune ayant un effet particulier (régénération de vie, chance d’esquiver un coup, vol de vie, chance d’obtenir du butin de meilleure qualité…) et c’est vraiment marrant de voir l’apparence de son personnage évoluer en fonction des objets équipés.
+
+Les armes peuvent être fusionnées pour en obtenir une version plus puissante et par défaut le personnage peut en porter 6 simultanément. Je dis par défaut car une des grosses forces du jeu est de proposer une trentaine de classes différentes possédant chacune un passif et des spécificités (plus gros dégâts au corps-à-corps mais interdiction d’équiper des armes à distance, plus d’xp mais prix des objets plus élevés, plus de points de vie mais plus lent, etc.).
+
+Graphiquement on retrouve le trait de Blobfish avec des personnages très cartoon aux contours noirs épais. Perso j’aime bien et l’action reste lisible en permanence, y compris dans les dernières vagues lorsque l’écran est bien chargé. Chaque victoire est l’occasion de débloquer de nouvelles choses ainsi qu’un nouveau niveau de difficulté ajoutant souvent des ennemis élites ou inédits encore plus vicieux.
+
+Fraichement débarqué en accès anticipé, le jeu propose déjà un contenu solide avec énormément d’armes, d’objets et de classes pour que chaque partie soit totalement différente de la précédente. Et si comme moi vous aimez viser, l’option visée manuelle est disponible dans les options pour transformer le jeu en un véritable twin stick shooter. À moins d’être réellement allergique à ce type de jeu, aucune raison de ne pas sauter immédiatement dessus ou d’au moins l’ajout à sa liste de souhaits, c’est du très très bon !
+
+https://www.youtube.com/watch?v=24cXomd97TA
+
+#####
+
+jeu très c00l 10/10
+
+#####
+
+Magnifique jeu ! franchement bcp plus tactique que on ne peut penser au début. chaque personnage a sa stratégie qu'il faudra trouver et tester selon les statistiques du personnages et des armes disponibles.  
+
+j'ai vraiment adorer ce jeu au point de m'y investir un peu et de le terminer à 100% très délassant et reposant. 
+
+je recommande ce jeu sans hésiter, à ce prix c'est impossible de ne pas y trouver son compte. si jamais le jeu semble trop punitif au début je vous recommande les guides dispo. 
+bcp d'amusement en perspective.
+
+#####
+
+- Petit rogue-like sympa sans trop de prise de tête (mais un peu quand même si t'augmentes le niveau de difficulté)
+- Addictif de ouf. Tu rates ta game ? Tu recommences. Tu réussis ? Tu enchaînes. 
+- Pas cher 
+- Fun pour chasser les succès 
+
+
+#####
+
+just buy this game fast ! but please add Widescreen option the black bar is horrible
+
+#####
+
+une patate et des armes.
+
+#####
+
+excellent petit jeu, on peut y passer des heures à tryhard pour passer les vagues + une grande diversité d'objets, d'armes et de personnages pour ajouter un grand + au gameplay
+
+#####
+
+Le jeu est une bombe meme si on sent que c'est encore une early access
+
+
+#####
+
+Très bon jeu pour les amateurs du genre. Les archétypes/builds sont assez variés et présentent des challenges différents.
+
+Quelques pistes d'amélioration pour la suite:
+- Avoir plus de musiques
+- Endless mode/Grinding mode avec un ladder (pourquoi pas des saisons ?)
+- Diversifier les armes, équipements, bosses, monstres et ajouter un peu plus d'intérêt à la carte.
+
+En bref: la formule est bonne, il faut approfondir et diversifier en contenu, augmenter un peu la rejouabilité et c'est bingo.
+
+
+
+#####
+
+Jeu à 5 balles et du fun en barre!
+
+Dans la lignée des vampires survivors like, brotato apporte sa touche perso et se démarque des autres, parce que déjà on joue une patate, une patate avec des minigun et des lance-flamme! (si ça c'est pas stylé!)
+Une bonne pléthore d'items et de patates qui donnent envie de tester la moindre idée de build qui nous passe par la tête, peut parfois être frustrant (voir même très suivant le tempérament de chacun, dont moi) mais la sensation d'une run accomplie est vraiment top (quasi les mêmes feelings que battre un boss de dark souls dans les niveaux de difficultés élevés, ouais ouais)
+
+Bref pour 5 balles, ça vaut clairement le coup, foncez-y!
+
+
+
+
+#####
+
+Brotato se présente comme un Vampire Survivors Like mais il se distingue par plusieurs aspects distincts.
+La zone de jeu est sensiblement réduite, et les moments de progression, tels que le passage de niveaux et les achats, se déroulent entre les vagues d'ennemis.
+L'objectif demeure simple : surmonter les défis des 20 vagues pour affronter le redoutable boss.
+
+Chaque élimination ennemie résulte en un gain d'expérience qui se finis en montée de niveau, octroyant des compétences passives inédites et des ressources pour l'acquisition d'armes et d'objets.
+À chaque avancée de niveau, une panoplie de choix s'offre à vous, de l'accroissement des chances de coups critiques à l'extension de la portée, en passant par l'amélioration des dégâts à distance.
+La boutique regorge d'objets, chacune conférant des avantages spécifiques, de la régénération de vie à la chance d'esquiver, créant ainsi une diversité ludique et visuelle à votre avatar, selon les objets équipés.
+
+L'aspect fusion des armes pour créer des versions plus puissantes est une caractéristique majeure, le jeu offre une variété impressionnante de patates (classes) bien distinctes, chacune possédant des compétences passives et des caractéristiques exclusives.
+Ces classes varient des bonus de dégâts au corps-à-corps avec l'interdiction d'armes à distance à une augmentation d'expérience au prix d'objets plus onéreux, ou encore plus de points de vie compensés par une vitesse réduite.
+Chaque victoire entraîne le déblocage de contenus inédits ainsi qu'un niveau de difficulté supplémentaire, introduisant des ennemis élites ou inédits, pimentant ainsi davantage l'expérience.
+
+Le style graphique plaira (ou pas) personnellement je trouve ça minimaliste mais pas désagréable.
+Brotato offre un contenu robuste, avec une pléthore d'armes, d'objets et de classes, assurant que chaque partie se démarque de la précédente.
+Un petit rogue lite bien sympathique, pas très cher mais très consistant !
+
+Compter facilement 60 heures de jeu pour obtenir le 100%
+
+#####
+
+Fun et addictif, parfait pour se détendre.
+
+#####
+
+Lovely addicting and last update made it even better.
+
+#####
+
+Simple, fluid, and addictive. The different combinations of skills with each character is refreshing.
+You can play just a few minutes and redeem your stress, or try for hours what is the most interesting build. 
+Good price and good quality.
+Also this game gets the most easiest interface of this genre, easy to learn and to master.
+
+
+#####
+
+I lost at one second of the end
+
+#####
+
+T'es une patate, tu files des patates, ça donne la patate.
+contrat rempli
+
+#####
+
+un auto fighter tout ce qu'il y a de plus qualitatif. Les gimmics des différents perso sont fun, les armes sont fun, la lisibilité devient apocalyptique assez vite mais je dirais que ça reste l'un des auto fighter les plus lisibles tout de même. Les stats sont toutes expliquée en détail quand on met sa souris dessus, ce qui évite d'avoir à deviner ce qui synergise avec quoi (comme dans vampire survivor par exemple). J'ai toujours pas passé le premier boss vague 20 après 5 heures de jeu réel. Bref y'a du potentiel pour s'amuser.
+
+#####
+
+Très addictif et fun ! Une réussite, même si un tuto intégré au jeu éviterait les recherches intempestives sur le wiki dédié !
+
+
+#####
+
+j'adore ce jeu
+
+#####
+
+Tres tres bon jeu, en plus pas cher
+
+#####
+
+Oui !
+
+#####
+
+par contre je pisse sur le pêcheur j'espère il se noie
+
+#####
+
+Des fois on se dit "Tiens ça me dirait bien un petit jeux pour changer" et celui-ci est parfait pour ça. La boucle de gameplay est super, le prix très abordable pour sa rejouabilité (et on peut ajouter des mods). Le sound design est ok, la musique malheureusement courte (il doit y avoir max 5 musiques différentes) ce qui fait peu pour un jeux du type "Allez... Une dernière partie !" mais c'est de l'ordre du détail
+
+#####
+
+simple mais efficace
+
+#####
+
+Super jeu
+
+#####
+
+oué pas mal similaire au jeu pickle pete sur smartphone mais franchement y'a beacoup de perso et de niveaux j'apprécie bcp
+
+#####
+
+Très cool !
+
+#####
+
+Bon jeu, très addictif.
+
+#####
+
+Best 5€ ever invested !
+
+#####
+
+Simpliste comme jeu, mais tellement addictif.
+
+#####
+
+excellent.
+
+#####
+
+Super jeu pour se détendre!
+
+#####
+
+Insane ! même si certaines classes en difficultés 5 sont rageantes :)
+
+#####
+
+Pas grand chose à dire, selon moi le meilleur "Vampire Survivor-like". Gameplay et visuels très simples à comprendre, beaucoup de personnages et de builds différents et une difficulté bien dosée. Et c'est pas cher ! Non vraiment jouez-y !
+
+#####
+
+[h1] Pour ceux qui préfèrent une jolie vidéo plutôt qu'un long texte ennuyant j'ai pensé à vous ! [/h1]
+
+https://youtu.be/cs_zxI7Hgqk
+
+Brotato m'a pris par surprise avec son concept unique et amusant, me permettant d'incarner une pomme de terre dans un jeu roguelike. Ce jeu est un véritable délice pour les amateurs d'originalité et d'humour.
+
+L'une des choses qui m'a tout de suite séduit est le charme de Brotato. Incarner une pomme de terre dans une série d'aventures hilarantes est une expérience inédite et rafraîchissante. J'ai été emporté dans un monde plein de surprises, avec des personnages loufoques et des défis farfelus.
+
+Le côté roguelike de Brotato ajoute une couche supplémentaire de plaisir. Chaque partie est unique, avec des niveaux générés de manière procédurale et des rencontres aléatoires. La difficulté progressive et les divers power-ups à découvrir m'ont poussé à relever le défi encore et encore.
+
+J'ai été agréablement surpris par la profondeur du gameplay de Brotato. Les mécanismes sont simples à prendre en main, mais offrent une variété d'approches tactiques. Les compétences spéciales et les équipements à collectionner m'ont permis de personnaliser mon expérience de jeu, ce qui était vraiment amusant.
+
+Les graphismes adorables et colorés donnent vie à l'univers de Brotato. Les animations sont bien réalisées, et les détails du monde de la pomme de terre m'ont fait sourire à maintes reprises.
+
+La musique entraînante et les effets sonores humoristiques ajoutent une ambiance enjouée au jeu. L'humour est omniprésent, ce qui rend chaque partie de Brotato divertissante et agréable.
+
+En résumé, Brotato est un jeu qui sait captiver son public grâce à son originalité et son humour décalé. Sa jouabilité roguelike et son charme unique font de chaque partie une expérience inoubliable. Je recommande chaudement Brotato à tous ceux qui cherchent à s'amuser avec une aventure rocambolesque et remplie de surprises !
+
+#####
+
+Oui monsieur
+
+#####
+
+Brotato est un jeu vidéo incroyablement divertissant qui offre une expérience de jeu passionnante et stimulante. L'une des principales forces de ce jeu réside dans sa remarquable rejouabilité. Chaque session de jeu est unique grâce à la diversité des choix et des chemins disponibles, garantissant ainsi une expérience de jeu toujours rafraîchissante.
+
+La direction artistique de Brotato est absolument charmante. Les graphismes adorables et colorés transportent les joueurs dans un monde cartoonesque mais sérieux me rappelant The Binding of Isaac (en terme de visuel). Chaque personnage, ennemi et environnement est soigneusement conçu, ce qui contribue grandement à l'immersion dans l'univers du jeu.
+
+Un autre aspect positif de Brotato est le bon nombre de classes disponibles. Chaque classe offre un style de jeu unique et des compétences spécifiques, ce qui permet aux joueurs d'expérimenter différentes approches stratégiques et de trouver celle qui correspond le mieux à leur style de jeu. Cette variété de classes assure une profondeur de gameplay et une rejouabilité accrues.
+
+De plus, la diversité d'objets dans Brotato est tout simplement incroyable. Le jeu regorge d'une vaste gamme d'objets, allant des armes aux armures en passant par les accessoires, offrant aux joueurs de nombreuses possibilités de personnalisation. Chaque objet a ses propres attributs et effets, ce qui permet aux joueurs de créer des combinaisons uniques et d'adapter leur style de jeu en fonction de leurs préférences.
+
+En résumé, Brotato est un jeu vidéo qui brille à bien des égards. Sa rejouabilité exceptionnelle, sa direction artistique charmante, son bon nombre de classes et sa diversité d'objets en font un incontournable pour les amateurs de jeux vidéo. Plongez dans l'univers de Brotato et préparez-vous à une aventure mémorable et addictive !
+
+#####
+
+Super addictif ! Persos vraiment variés dans leur game play
+
+#####
+
+simple, fun, intuitif, que dire de plus, ceux qui aimes les challenges seront comblés, les manche difficulté 5 sont vraiment pas facile ! coup de coeur pour le brotato manchot ! 
+petit conseil pour ceux qui decouvre faites bien tout les perso meme en vague 0 pour débloqué les items
+
+#####
+
+Roquelite fun à jouer et très addictif avec sa multitude d'objets à débloquer. On peut le lancer pour des petites session de jeu , les runs sont d'environ 30 min. 
+Au niveau des graphismes, il est plutôt jolie et les animations sont fluides malgré les hordes de monstres.
+Le rapport fun/prix avec sa rejouabilité quasi infini vaut vraiment le coup pour 5€.
+
+#####
+
+Super, carré comme en Corée comme disent les djeuns.
+
+#####
+
+Amateur de Vampire Survivors, et bien Brotato est beau, rapide. Beaucoup d'arme objet etc, les musiques sont super bref je recommande et mérite son Évaluation extrêmement positives
+
+#####
+
+Très bon jeux, très bonne qualité prix! 
+Je ne regrette pas du tout de l'avoir acheté!
+
+#####
+
+super jeu 
+agréable, satisfaisant et rapide
+bonne surprise
+
+#####
+
+rien a dire se jeux est parfaitement parfait
+
+#####
+
+Hey mon ami, t'aimes ça manger des patates ? 
+Si le dev' veux bien implémenter une nouvelle arme du type "Willi Waller 2006" j'achète le jeu pour tous mes potes !
+
+P.S. : superbe jeu, foncez, need moar contenu.
+
+#####
+
+Véritable banger.
+
+#####
+
+J'adore les PATATES !!
+
+#####
+
+selected brotato <3 <3 <3
+
+#####
+
+Je ne vois pas de défaut. 
+Une game de temps en temps, pur plaisir.
+
+#####
+
+Le jeu s'annonce très bien. En espérant que la rejouabilité ne soit pas basée uniquement que sur l'augmentation du niveau de difficulté.
+
+#####
+
+Lourd.
+
+#####
+
+J’adore!
+
+#####
+
+Totalement recommandé, le jeu est satifaisant et étonnement complexe...
+Le seul manque c'est un mod COOP qui rendrait le tout 5/5 !!
+
+#####
+
+complètement addictif
+
+#####
+
+Great leveling up system
+
+#####
+
+brotato
+
+#####
+
+YES - OUI - SI - SIM - DA - Да - JA - हाँ - 是 - 对
+
+
+
+#####
+
+patate
+patate
+patate
+
+#####
+
+Brocoli oué !
+
+#####
+
+A première vue, [i]Brotato[/i] semble être un petit jeu quelconque comme il en existe beaucoup dans le vaste univers des jeux vidéo. Pourtant, malgré des graphismes 2D et un concept simplissime, ce titre se révèle être une petite pépite extrêmement addictive.
+
+En effet, le but du jeu est très simple : vous contrôlez un personnage (à l'apparence de pomme de terre !) et devrez survivre à 20 vagues d'ennemis dont la difficulté est croissante. Mais il existe une particularité majeure car l'attaque se fait automatiquement et vous ne ferez donc que diriger votre héros pour l'aider à survivre. Par conséquent, vous serez l'acteur principal d'un ballet drôle et cocasse en slalomant entre les monstres pour récupérer les ressources tombées au sol lorsque vous les tuez. Entre chaque vague, il vous faudra dépenser ce butin pour améliorer votre équipement et vos caractéristiques, permettant beaucoup de combinaisons différentes.
+
+Malgré son apparente simplicité, ce titre offre un contenu assez étoffé avec plusieurs niveaux de difficulté ainsi qu'énormément de personnages et armes à débloquer, garantissant un plaisir de jeu durable. De plus, l'échec n'est pas du tout frustrant ou pénalisant car il donne immédiatement envie de relancer une partie.
+
+Concernant les points négatifs, je ne vois que peu de choses à mentionner : seuls les graphismes 2D pourront éventuellement en gêner certains, ainsi qu'un certain déséquilibre entre les différents personnages dont quelques uns sont surpuissants et d'autres vraiment médiocres. Ces petits défauts ne suffisent pourtant pas à ternir l'expérience globale que l'on retire de ce titre.
+
+C'est pourquoi je recommande vivement [i]Brotato[/i] qui est vraiment un jeu amusant et addictif pour un prix absolument ridicule (4 € pour plusieurs dizaines d'heures, c'est un rapport qualité/prix indétrônable).
+
+#####
+
+Un survivor like au top, beaucoup de build possible
+
+#####
+
+RAS Merci la France
+
+#####
+
+simple , fast , fun
+
+#####
+
+À cause de Shisheyu Mayatato, je me retrouve à brasser dans les fécules de pomme de terre.
+Expérience enrichissante.
+9/10.
+
+#####
+
+simple, but addicting and not SO rage-inducing. very fun.
+
+#####
+
+[h1]47,5h et je ne m'en lasse pas[/h1]
+[i]"[u]edit du 03/02/2024 (voir en fin d'évaluation)[/u] : 64h et je ne m'en lasse toujours pas"[/i]
+
+[b]Qui aurait pu penser qu'une patate me tiendrait aussi longtemps en haleine...[/b]
+
+
+Vous jouez une patate qui balance des patates à tout va contre des hordes incessantes d'ennemis dans le but de débloquez d'autres patates et des items vous donnant toujours plus la patate pour avancer et tenter de débloquer les différents niveaux de difficultés.
+
+C'est simple, accessible, rapide, efficace, cartoonesque dans le graphisme, j'adore, mes enfants adorent.
+Ça se déchaîne à l'écran quand on avance dans les vagues et encore plus dans les niveaux de difficulté.
+
+Un vrai "bullet hell" parfois dont on sort la goutte de sueur au front et le palpitant qui commence à peine à s'emballer car oui les sessions/vagues sont courtes, bien qu'augmentant en durée à chaque vague, c'est pile poil la durée parfaite pour commencer à s'inquiéter des capacités de sa patate et quel profil de build adopter.
+
+Il y a des roguelikes/bullet hell comme Enter the Gungeon, vampire survivors, Hall of Torment et j'en passe qui vous accroche d'entrée de jeu.
+
+BROTATO est de cette trempe mais avec sa spécificité propre, une zone réduite, plus ou moins variable suivant le niveau de difficulté, mais toujours quasiment entièrement visible à l'écran en très peu de déplacement.
+
+Et ça suffit, il n'a pas besoin de plus en vérité.
+C'est un défouloir qui réussi sur tout les plans.
+
+Ce n'est pas tout ça mais je n'ai pas encore réussi à terminer le niveau 4 de difficulté.
+Allez hop !
+Vous reprendrez bien un peu de purée ? C'est ma tournée.
+
+[u][b]NB : après 64h de jeu[/b][/u]
+Je viens de parvenir à la vague 28 en "danger 0" avec "le pacifiste" et ce ne fut pas pour moi une mince affaire !
+Bon sang que ce personnage n'est pas aisé à aborder.
+Je ne dévoilerai pas le build ici, il est visible sur une capture diffusée un peu plus tôt dans la journée.
+
+Décidément... on pense partir se détendre cinq minutes sur le jeu et on se fait avoir à vouloir retenter sa chance après une défaite bête et cinglante.
+Au final deux heures plus tard j'y suis encore.
+Un jeu véritablement simple dans son concept mais tellement bien réalisé et bourré d'idées farfelues pour les armes et bonus.
+
+Un énorme bravo au développeur !
+C'est amplement mérité.
+
+#####
+
+Excellent jeu de divertissement. Les graphismes et les artwork sont vraiment spéciaux et originaux.
+
+#####
+
+Vraiment pas adepte de ce genre de jeu à la base. La patte graphique de celui là m'a vraiment tapé dans l’œil!
+Un bon moment à passé dessus, beaucoup de personnage différent avec énormément de gameplay différent. De quoi s'amuser pendant de longues heures, très vite rentabilisé et c'est que le début d'un early acces. 
+Yummy!
+
+#####
+
+.
+
+#####
+
+Incroyable
+
+#####
+
+fun
+
+#####
+
+En résumé : C'EST UNE PATATE AVEC DES FLINGUES donc goty
+
+Brotato fait parti de la vague de clone de vampire survivor. 
+On déplace sa patate et elle attaque seul.
+
+MAIS le jeux est bien plus profond que tout les autres. Les objets qui change les stats plus beaucoup d'arme et de gameplay différent. Vous pouvez partir sur des pistolets ou alors en melet mais aussi en tant que mage pour des dégâts sur la durée et enfin mettre des tourels pour la jouet ingé.
+Il y a beaucoup de stat qui vous pouvez modifié avec les objets et la prise de niveau (vitesse, dégats, vol de vie ect ...)
+Et le twist et qu'il y a beaucoup de personnages et ils sont tous différent. Par exemple un perso qui ne peut pas régénéré sa vie ou même un perso qui ne fait pas de dégats.
+
+Bref ce jeux est une pépites.
+
+#####
+
+On croit que y a que des patates, mais y a aussi du reblochon
+Une saacrée tartiflette
+
+#####
+
+avec mon pote shoumy du 76 on a joué a brotato on s'est tapé des barres xD !! pendant toute la soirée haha ^^ après on a couché ensemble
+
+#####
+
+ très fun à jouer
+
+#####
+
+I LIKES POTATOES
+
+#####
+
+Brotato, sans aucun doute le meilleur jeu du genre et il est un genre à lui tout seul, il a renouvelé le genre survivor avec une formule unique (qui est maintenant copié dans tous les sens sans jamais être égalé), tellement de contenu et de possibilités, et avec un vrai challenge pour pouvoir réussir tous les persos (y en a un ENORME paquet) en Danger 5, trouver le build qui fonctionne avec tel ou tel perso et il n'y a jamais qu'une seule solution, tout dépend aussi de vos choix dans la boutique entre les vagues, souvent j'me faisais avoir parce que je n'étais pas assez selectif, et d'autre fois parce que je l'étais trop, enfin bref, je n'ai qu'1/3 des persos fait en danger 5 et donc encore des dizaines d'heures de jeu, et ça pour 4,99€ au prix fort ?! Sans déconner... c'est donné à c'prix là pour le nombre d'heures de fun que vous allez avoir... Merci au dev pour ce taf, foncez sans hésitez vous n'le regretterez pas !!!
+
+#####
+
+Dans le vaste monde des roguelites, Brotato fait une entrée fracassante, portant la simplicité et l'efficacité à son paroxysme. Bien que je sois un vétéran des titres comme Archero et Survivor.io, Brotato a su me captiver avec une addiction renouvelée.
+
+Les graphismes du jeu, bien que minimalistes voire "moches" selon certains, servent parfaitement son gameplay nerveux. Il nous rappelle que la beauté d'un jeu ne réside pas toujours dans ses visuels, mais dans l'expérience qu'il procure. Les contrôles sont précis, la difficulté est bien dosée et chaque partie est un défi unique qui pousse à en lancer une autre, puis une autre...
+
+Ce que Brotato a réussi à accomplir, c'est de rendre chaque session courte mais incroyablement gratifiante. L'envie constante de progresser, de débloquer la prochaine arme ou le prochain personnage, est un moteur puissant qui alimente l'engagement du joueur.
+
+Le point le plus étonnant de Brotato est sans aucun doute sa durée de vie. Pour un jeu vendu à un prix aussi modeste, le volume de contenu et de rejouabilité est impressionnant. Il est rare de trouver un titre qui offre des centaines d'heures de divertissement pour un tel investissement.
+
+Bien sûr, comme tout jeu, Brotato a ses défauts. Mais la promesse de contenu supplémentaire à l'avenir n'augure que du bon. J'attends avec impatience de voir ce que le développeur, Blobfish, nous réserve pour les prochaines mises à jour.
+
+Si vous êtes un fan de roguelites, ou simplement à la recherche d'un jeu à la fois simple et incroyablement addictif, Brotato est un incontournable. Il n'est peut-être pas le plus beau des jeux, mais il est certainement l'un des plus amusants.
+
+#####
+
+Je viens tout juste de passer environ 4 heures à jouer à Brotato et je dois dire que je suis complètement accro ! Ce jeu est incroyablement addictif avec son combo de mécaniques de jeu intéressant. J'ai été absorbé par l'action et les possibilités de combinaisons. Les heures ont filé à une vitesse folle, je ne me suis même pas rendu compte du temps qui passait. Brotato est définitivement un jeu qui sait captiver et divertir. Je suis déjà impatient d'y rejouer.
+
+#####
+
+J'aime bien les patates mais je préfère les wish lorraine.
+
+#####
+
+My life is potato.
+
+#####
+
+Alors mon pt'it gars,
+Si t'es une petite patate comme moi !
+Ecoutes bien ces paroles,
+Si tu n'veux pas finir à la casserole !
+
+#####
+
+bon pti jeu pour se détendre. j'avais pas envie de me mettre sur vampire survivor mais j avais envie de tester ce mode de jeu, j'imagine que la DA est plus à mon goût ici. Et vu le prix, j'ai pas hésité pour me faire un pti plaisir.
+Bon jeu à tous.
+
+#####
+
+goat
+
+#####
+
+oui, oui
+
+#####
+
+well well well, the progression is not good & boring ...i really dont know why people like this game ...
+
+#####
+
+feel like fries
+
+#####
+
+marrant petit roguelike à la sauce vampire survivor
+
+#####
+
+sympa mais c pour une aprem quoi
+
+#####
+
+PaN PaN LeS PIStoLetS Et COuTEAuX COol
+
+#####
+
+Un petit jeu indépendant plutôt bien foutu dans ses animations, mais il reste encore beaucoup de chose à améliorer à 
+commencer par la musique qui est toujours la même, il faudrait plus de musique dynamique. Ensuite il y a beaucoup trop de personnages à mon goût. J'aurais préféré un jeu qui proposerait moins de personnage mais des personnages plus travaillé avec plus de build différent car dans les vidéos sur la page du magasin ça à l'air génial sur le papier.
+
+Mais dans les faits vous n'avez que trois façon différentes de jouer. Soit vous jouez corps à corps soit vous jouez distance soit vous jouez élémentaire, vous avez des tourelles aussi mais elles font toutes des dégâts physiques. Par contre le terrain est trop petit, j'aurais bien aimé à l'instar de Vampire Survivors avoir des secrets cachés dans les niveaux ou alors des personnages à débloquer comme cela
+
+#####
+
+bon jeu pour tuer du temps
+
+#####
+
+très bon jeu, complètement addictif
+
+#####
+
+partarte
+
+#####
+
+SEs bien
+
+#####
+
+Le jeu a du potentiel, mais il va falloir faire mieux. en l'état plusieurs choses manquent cruellement au jeu :
+
+- une barre de progression a la isaac où on pourrait voir où on se situe par rapport a l'arrivée du Boss histoire de calculer son build efficacement
+
+- pouvoir unlock des armes ou objets grace a des succès, pour l'instant on débloque que des persos avec des differences de stats, le plus souvent inintéressants par rapport au personnage de base, c'est pas engageant.
+
+- un manque d'upgrades ou de modifieurs pour les armes, la plupart des trucs changent les stats, mais n'ont pas d'effet directs, comme des balles rebondissantes ou balles multiples, bref il faut rajouter du fun.
+
+- le boss .... WTF ? un truc qui rush, est un sac a PV, a des orbitaux et tire des projectiles hyper rapides quasi inévitables avec la vitesse de base et qui font masse dégâts ! nan sérieux ça c'est pas fair du tout. et je soupçonne le jeu de n'avoir qu'un seul boss, ou au moins un seul par difficulté, il y a trop peu de variation au niveau des ennemis.
+
+- le loot ... on ramasse de l'argent, qui sert a acheter des trucs entre chaque wave, parfois on ramasse un objet, souvent inutile. encore une fois c'est hyper simpliste, trop même.
+
+- pas de système de progression permanente, tu recommence a zéro quand tu meurs. encore une fois ça donne juste pas envie de continuer a s'investir dans le jeu pour répéter les mêmes boucles de gameplay avec les mêmes builds limités pour aucune avancée dans le jeu a part débloquer des persos pas franchement utiles ou intéressants, en espérant battre un boss un peu trop cheaté.
+
+pour résumer simplement, Vampire Survivors est au même prix je crois, et même si très simpliste aussi, il a bien plus de variété et on ressent du plaisir dans la progression de son build, ce jeu a du potentiel, mais il va vraiment falloir en faire quelque chose, sans quoi il sera juste un énième jeu fade perdu dans les limbes de steam.
+
+#####
+
+Très frustrant, pas si fun !
+
+#####
+
+me suis laissé tenter par les evaluations mais le jeu n et pas si ouf que ca 
+le desgn est cool; on a une patate qui a 6 bras faut faire un mix d armes et les faire evoluer apres on recupere plein plein d equipements 
+au debut je trouvais le jeu nul car trop repetitif mais apres j ai decouvert les differents perso mais surtout les subtilités du jeu deja selon les armes mais surtout t as une multitude d items incroyables et les combinaisons sont quasi infinies 
+le seul regret ce serait qu on ai pas des niveaux et bestiaire plus varié et ce serait cool d avoir des evolutions d armes et d effets de tirs (comme tir double ou zone d impact etc...) ou meme des combo arme  + items qui te donne d autres armes ou effets par exemple 
+
+
+#####
+
+Un auto-battler sans grande originalité. On commence par courir en rond comme un canard sans tête pendant une minute, à la fin de chaque niveau on choisit une ou deux compétences et on achète quelques armes, puis on recommence.
+Ca manque de compétences actives pour avoir l'impression de jouer un minimum, ou d'un côté rogue-lite avec des gains permanents possibles après chaque run pour avoir l'impression de progresser.
+Au final on s'ennuie assez vite, et le contenu de ce jeu bien que peu onéreux ne se démarque nullement (à part par l'absence de pub) de ses équivalents gratuits sur mobile qui encombrent les playstores.
+
+#####
+
+Les ennemies te spawn directement sur le front tout les 1sc. La carte est beaucoup trop petite.
+
+#####
+
+Encore un jeu de Wokes...
+
+#####
+
+Jeu très mal équilibré et injuste.
+Les hitboxs sont très imprécises (on est souvent touché alors que visuellement on n'est clairement pas au contact de l'ennemi).
+Une mécanique de ralentissement parfaitement inutile car les mobs les plus dangereux ne peuvent pas être ralentit, c'est débile.
+Certains monstres élites sont absurdement forts. Qu'importe ton build, si tu tombe contre un élite op, tu as juste perdu.
+Bref, il faudrait ptet que les devs testent leur jeu...
+
+#####
+
+good game
+
+#####
+
+bien naze j'ai perdu 5 balles sur cette daube alors que vampire survivors existe
+
+#####
+
+non
+
+#####
+
+Bon en promo pourquoi pas, petite durée de vie on s'amuse un peu puis on a fait le tour et c'est finit.
+
+#####
+
+Si vous aimez les jeux de hasard, n'hésitez pas une seule seconde.
+
+#####
+
+.
+
+#####
+
+0 Update , Dead Game
+
+#####
+
+Jeu basé essentiellement sur le hasard : pas de bonnes armes, pas de belles parties, ce qui est très frustrant.
+Et le mieux est l'ennemi du bien : trop de choix d'armes et items en empêchent la redondance, laquelle permet de grimper en niveau, c'est donc complètement débile.
+Autre défaut, trop d'informations en même temps, c'est vraiment bordélique. 
+Bref un jeu pas mauvais mais qui souffre d'une tare de conception originelle.
+
+#####
+
+Pas du tout fun en fait, hyper répétitif. À côté du festival survitaminé de Vampire Survivor (jouez-y plutôt), Brotato fait peine à voir.
+
+#####
+
+Amusant les premières heures mais très mal équilibré surtout dans les dernier niveau de danger
+Une fois qu'on c'est rendu compte qu'on est pas obligé de tuer le/les boss on comprend vite que le meilleur des build pour absolument tout les perso c'est un build tank, faire des dégât est totalement inutile, plutôt dommage vu ne nombre de perso différents
+
+Je l'aurai mis en recommandez mais vu les avis "extrêmement positives" alors que la base d'un jeu comme ça c'est justement l'équilibrage pour que tout les build sois jouable, je ne le recommande pas pour "équilibré"
+
+#####
+
+sympa
+
+#####
+
+
+
+#####
+
+un style graphique moyen 
+un gameplay éclaté au sol
+une progression pas ouf non plus 
+jouez a autre chose ce jeux n'as rien d'original
+
+#####
+
+Simple, chill et efficace.
+un perso qui tire automatiquement, des monstres a tuer, et des passifs et objets a sélectionner en fonction de notre classe.
+c'est addictif, graphiquement ultra propre. 
+Si vous aussi vous avez des visio-conf' le lundi matin pour parler des ventes de la semaine, lancer Brotato en arrière plan !
+
+#####
+
+Brotato est vraiment un bon jeu.
+Beaucoup de personnages, beaucoup de manières différentes de " gagner " etc ...
+
+
+#####
+
+SDFSADFCA
+
+#####
+
+big
+
+#####
+
+j aime bien ce jeux
+
+
+#####
+
+Papa qui dit à son fils :
+- Mange tes patates si tu veux devenir plus fort!
+Fils :
+- Waaahh Brotatooo!!!
+- Bon fils!
+
+#####
+
+La pataaaaaaaaate !
+
+#####
+
+Je n'aurais jamais pensé être autant addict a ce jeu en l'achetant. Les armes, les atouts et les differentes stats des persos permettent de nombreuses stratégies ce qui rend le jeu encore meilleur. Les mods de la communauté sont aussi la pour rendre ce jeu encore plus fun.
+
+#####
+
+masterclass akhy
+
+
+#####
+
+super jeu je reco
+
+#####
+
+Can't wait the mashed potato's DLC
+( Be careful with artificer, can be non-epilepsy friendly Lmao )
+
+#####
+
+One of the best game in its kind. Simple, effective and fun to play. And aas a bonus, the soundtracks are so cool.
+
+#####
+
+le mod multi se perfectionne sa fait zizir !
+
+#####
+
+oui
+
+#####
+
+Progression sympa au début et beaucoup de variété entre les personnages et les parties
+
+#####
+
+Best survivor
+
+#####
+
+Perfect !
+
+#####
+
+It quickly becomes super addictive. Like meth but better. It beats many AAA games in the fun department for a few $. Would have gladly paid $20 for it as it's totaly worth it.
+
+#####
+
++
+
+#####
+
+
+
+#####
+
+oui
+
+#####
+
+Incroyable pour joué quand vous voulez faire passer le temps et le système de build différents pour chaque personnage est intéressant. Si vous aimez le theorycraft vraiment cool !
+
+ET FUCK LE PECHEUR
+
+#####
+
+Un bon petit jeu hehehe
+
+#####
+
+Awesome. Add an official multiplayer online mode to be perfect :)
+
+#####
+
+C BIENG BEAUCOUP LE PAN PAN
+
+#####
+
+Excellent. De loin le meilleur jeu de sa catégorie
+
+#####
+
+Banger
+
+#####
+
+Du Challenge, du gameplay simple et efficace, une bande-son cool, une bonne rejouabilité.
+BANGER !
+
+#####
+
+La violence c'est cool
+
+#####
+
+C'est pas mal.
+
+#####
+
+un jeu super. on peut plus arreter d'y jouer 
+
+
+
+#####
+
+c'est sympa, un bon jeux détente pour jouer de temps en temps et se défouler.
+
+#####
+
+
+
+#####
+
+AVIS DONNÉ PENDANT L'ACCÈS ANTICIPÉ
+---{ Graphismes }---
+☐ 144P
+☐ Faut pas s'y attarder
+☐ Mauvais 
+☐ Décent
+✔️ Beau
+☐ Magnifique
+☐ Est-ce la réalité ?
+
+---{ Gameplay }---
+☐ Injouable
+☐ Mal Optimisé
+☐ Mehh
+☐ C'est juste du gameplay
+☐ Bien 
+✔️ Très bien
+
+---{ Audio }---
+☐ Aucun Audio
+☐ Très désagréable
+☐ Pas trop mal ?
+✔️ Bien
+☐ Très bien
+☐ Eargasm
+
+---{ Public ciblé }---
+☐ Enfants
+☐ Ados
+☐ Adultes
+✔️ Tout public
+
+---{ Pc requis }---
+☐ PC Architecte
+☐ PC Streamer
+☐ PC Gamer 
+✔️ PC Famille (Je pense qu'un pc patate suffit mais n'ayant pas testé je ne m'avance pas)
+☐ PC Patate
+☐ Tranquille si Paint se lance
+
+---{ Difficulté }---
+☐ Appuyer sur "Z"
+☐ Facile
+☐ Faut un peu réfléchir
+✔️ Prise en main facile / Difficile à maîtriser (Donne un peu de fil à retordre)
+☐Difficile
+☐ Souls Like
+
+---{ Histoire }---
+✔️ Pas d'histoire
+☐ Moyen
+☐ Bon 
+☐ Très Bon
+☐ Meilleur scénario que ta vie
+☐ Va te faire beaucoup pleurer ou sourire
+
+---{ Temps de jeu }---
+☐ Nouilles Instantanées
+☐ Court
+☐ Moyen
+☐ Long
+✔️ Infini
+
+---{ Prix }---
+☐ Brûle ton argent, au moins ça réchauffe
+☐ N'achète pas ça.
+☐ Si t'as un peu d'économies
+☐ Si c'est en soldes
+✔️ Vaut largement son prix (Franchement pour 5€ j'ai du mal à trouver mieux !)
+☐ Gratos
+
+---{ Bug(s) }---
+☐ Star Citizen
+☐ ARK: Survival Evolved
+☐ Peut-être ennuyant
+☐ Petits Bugs 
+✔️ Pas de Bug
+
+---{ Note/10 }---
+☐ 1
+☐ 2
+☐ 3
+☐ 4
+☐ 5
+☐ 6
+☐ 7
+☐ 8
+☐ 9
+✔️ 10
+
+Résumé: Brotato est un excellent jeu sur lequel je prend énormément de plaisir ! Je vois peu d’investissement aussi rentable que celui-ci. Ce jeu est un vrai défouloir pour moi je ne peux que vous le recommander ! 
+Vous passerez surement de nombreuses heures sur le jeu avant d'avoir clear tous les perso en difficulté 5 ! 
+Je met un solide 10 au jeu car le prix est peu élevé et le gameplay est très bon à mon sens il le mérite largement !
+
+#####
+
+
+
+#####
+
+Highly addictive. It looks like the usual stuff but it has quite a smart touch to it. 
+
+Got 50+ trophies so far, quite a challenge.
+
+#####
+
+nice
+
+#####
+
+Excellent jeu, très facile à prendre en main, la très grande variété de builds possible permet de ne jamais s'ennuyer! Tourne très bien sur le steamdeck, je recommande!
+
+#####
+
+La French
+Brotato (2023) est un petit jeu indépendant développé par Blobfish. Il s’agit de leur troisième jeu sur le thème des pommes de terre, ils doivent définitivement apprécier ce tubercule ! C’est leur troisième jeu mais c’est surtout leur premier vrai succès puisque Brotato s’est plutôt bien vendu et dispose de critiques élogieuses sur la plateforme Steam avec une évaluation moyenne « extrêmement positive ». Je crois pouvoir dire que les développeurs ont flairé le filon. Le filon des jeux Roguelite à tirs automatiques qui fonctionnent bien en ce moment dans le goût de Vampire Survivors, Halls of Torment, Geometry Wars, Greedland ou encore Death Must Die. Vous incarnez donc une petite patate disposant de caractéristiques prédéfinies en fonction des 44 classes disponibles (déblocables au fur et à mesure de votre progression) et vous devez survivre aux hordes d’aliens jusqu’à la vague n°20. Chacune des vagues est entrecoupée d’une phase d’amélioration de votre personnage mais aussi d’achats de nouvelles armes en échange de points d’expériences glanés au cours de la vague précédente. De nombreuses possibilités sont offertes que ce soit dans l’orientation des capacités de sa patate (tirs rapides, plus de vie, plus d’esquive, plus de dégât etc.) ou dans le choix des armes (corps à corps ou à distance). Les différentes vagues montent bien entendu en difficulté crescendo avec parfois des semi boss jusqu’au boss final à la vague 20. Tout l’intérêt du titre se trouve donc dans l’enchaînement de sessions afin de débloquer toutes les patates jouables, de nouvelles armes ou capacités passives. En effet, et c’est un point positif, tout ne sera pas disponible d’entrée de jeu. Il faudra terminer le jeu avec votre patate pour débloquer de nouvelles choses. Comme tous les jeux du genre, Brotato est donc très addictif et procure un plaisir immédiat grâce à un gameplay efficace dès les premières minutes. L’avantage de ce genre de jeu c’est qu’il n’y a pas de « blabla » inutile ou de prise de tête pour réfléchir à sa progression vis-à-vis d’un scénario plus ou moins complexe… Non, vous lancez, vous jouez, point. Cependant, on regrettera quand même l’absence d’objectifs clairs. Brotato ressemble à beaucoup de jeux dans lequel il faut s’automotiver, se fixer soi-même des objectifs notamment grâce aux succès/trophées pour se motiver à relancer des sessions dans la durée. En effet, pas de scénario, un seul mode de jeu, un objectif relativement simple à atteindre, pas de contrainte imposée sur la difficulté (modestement proposée sous la forme de 1 à 5), peu de variété d’ennemis, un seul et unique environnement… Beaucoup de choses qui font qu’on joue parfois sans trop savoir pourquoi si ce n’est remplir son pourcentage de succès Steam. Pour information, il y a un succès à débloquer pour chacun des 44 personnages ayant triomphé de la vingtième vague. Donc pour moi, clairement, tout n’est pas parfait. Après, il faut relativiser car à 5€ plein tarif sur Steam, on a tout de même un très bon rapport qualité/prix surtout si vous aimez le genre et que vous êtes, un chasseur de succès dans l’âme.
+
+
+Pour conclure, si la lourde responsabilité d’incarner une pomme de terre dont la destinée se résume à protéger tous ses brotatos d’une invasion d’extraterrestres ne vous effraie pas, si cette charge s’avère supportable sur vos épaules frêles, alors peut-être, et je dis bien « peut-être » que Brotato est fait pour vous. Que la force du tubercule soit avec vous !
+
+#####
+
+Cool !
+
+#####
+
+top
+
+#####
+
+LES 5 € LES PLUS RENTABLE DE MA VIE
+  je ne met pas souvent d'évaluation mais la je me sentait obliger MEME SANS MOD LE JEU EST PLUS QU'INCROYABLE avec chaque personnage le jeu change d'un coup JE VOUS DIT UNE CHOSE FONCCCCEEEERRRRRR !!!!!!!!!!!!!!!!
+
+#####
+
+love it
+
+#####
+
+Très bon jeu avec pas mal de builds différents.
+
+En plus à seulement 5 euros y'a pas à hésiter si tu aimes les roguelikes
+
+#####
+
+Yep it's good
+
+#####
+
+Addictif
+
+#####
+
+the best survivor
+
+#####
+
+Un bon petit jeu sur le qu'elle on ce fait bien aspirer  je recommande ! 
+jeux testé sur PC et switch !
+
+#####
+
+
+
+#####
+
+Le jeu n'est franchement pas cher assez fun un aspect stratégique intéressent malheuresement peu dévellopée beaucoup de perso a débloqué a chaque fois on essaye de faire mieux que la derniére fois c'est cool mais trop peu de contenue le gros point noir du jeu mais pour le rapport qualités prix franchement respectable
+
+#####
+
+
+
+#####
+
+PATATE !
+
+#####
+
+rigolo
+
+#####
+
+kinda looks like eggs. 10/10
+
+#####
+
+Très bon jeu, surtout si vous aimez les patates.
+
+#####
+
+Vive le 100%. Quel plaisir
+
+#####
+
+Jeu très agréable pour se détendre un peu sur des courtes périodes. Bonne durée de vie tout de même pour finir tous les personnages en Niveau 5.
+Je recommande
+
+#####
+
+Jeu très addictif !
+Petit point négatif : ne pas pouvoir avoir plusieurs parties en parallèles. J'ai une partie en cours qui va très loin, j'ai rarement le courage de l'avancer, ça prend beaucoup de temps (environ 2h pour chaque nouvelles 100 vagues), et en attendant je ne peux plus jouer pour décompresser en testant d'autres builds.
+
+#####
+
+super sympa
+
+#####
+
+fun
+
+#####
+
+Good game
+
+#####
+
+Un classique du genre !
+
+#####
+
+Voici 3 mots pour décrire mon expérience : amusante - simple - drôle
+
+#####
+
+J'ai pas encore tout les succès de brotato mais tres cool pour le prix 
+
+note final :  COOL
+
+#####
+
+Très amusant et rapide à finir
+
+#####
+
+petit jeu fun a jouer seul ou avec des amis grace au mod ;)
+
+#####
+
++1
+
+#####
+
+Meilleur Vampire like
+
+#####
+
+!
+
+#####
+
+banger
+
+#####
+
+Plusieurs dizaines d'heures de jeu pour quelques euros, pourquoi s'en priver !!!
+
+#####
+
+addictif, mais pas trop, on peut se donner des defis interressant/dur ou jouer chill
+
+#####
+
+Simple, addictif, efficace!
+Parfait pour lancer des petites parties rapides le soir, sans se prendre la tête!
+Et dans l'ensemble, une bonne rejouabilité, accrue par les moddeurs et leurs bonnes idées.
+
+#####
+
+Très bon jeu pour se défouler, la musique est incroyable également ♥
+
+#####
+
+very good
+
+#####
+
+Je suis une putain de patate !!!
+
+#####
+
+Petit jeu sympa à grignoter devant la télé, c'est très bien pour le prix. Le jeu étant très clair sur ce qu'il propose et respectant ses engagements, je n'ai rien à ajouter.
+
+#####
+
+Nice
+
+#####
+
+Good game
+
+#####
+
+Best Game for relax
+
+#####
+
+;)
+
+#####
+
+Cool roguelite shooter. A bit too much "wiki" and RNG oriented for me, but still got a lot of fun out of it.
+
+#####
+
+Puré! ce jeu est pas vegan
+
+#####
+
+Un défi corsé, une belle direction artistique, une variété notable entre chaque classe de perso, super jeu.
+
+#####
+
+Sergent Patate au rapport ! Molo sur l'acid techno et les substances tout de même.
+Entre Vampire Survivor, Broforce et M.Patate en a trop pris.
+Et en plus ça se joue avec un doigt ... 😅
+
+#####
+
+Tres bon petit jeu, qui nécessite pas mal d'heure pour le finir et tres complet. 
+
+Rien a dire.
+
+#####
+
+Good game ! very satisfying when you have few time !
+
+#####
+
+Génial pour passer le temps
+
+#####
+
+Excellent Rogue Lite.
+
+#####
+
+pour les amateurs de patate
+
+#####
+
+Si toi aussi tu rêve de devenir une pomme de terre. 
+Le prix au kg est rentable même hors promo et il y a de la patate en tout genre ici, foncez !
+
+#####
+
+Un des meilleurs rogue like au qu'elle j'ai jouer simple à comprendre et à prendre en main tout en donnant un petit défi au joueur.
+
+De plus chaque succès du jeu débloque de nouveau personnage, arme ou accessoire pour augmenter encore plus l’intérêt du jeu une vrais pépite pour les collectionneurs de succès qui en plus de gagner leur saint Graal ce voit récompenser in game.
+
+Si vous aimez incarner une pomme de terre guerrière, magicienne, technicienne ou encore magicien avec un penchant pour le massacre d'extraterrestre violet au profil parfois douteux n’hésitez aussi absolument pas, ou alors attendez les soldes et n'attendez plus. :)
+
+#####
+
+Excellent jeu !
+
+#####
+
+Du fun à l'état pur !
+
+#####
+
+Pas mal.
+Merci
+
+#####
+
+Excellent Vampire Survivors-like game, the variety of the characters and their bonuses make for a great diversity of gameplay.
+
+#####
+
+Potato goes brrr
+
+#####
+
+
+
+#####
+
+insane
+
+#####
+
+Comment y va le BRO TATO ? BRO TATO EEEEEEEEEEEE !!!
+
+Concept simple qui fonctionne, très bon rapport qualité-prix-durée de vie
+
+#####
+
+W Game
+
+#####
+
+,
+
+#####
+
+honnêtement l'un des meilleurs jeux sur la steam deck pour passé les heures tout en s'ammusant de fou ! 
+
+le fait d'avoir des mod dans le worshop peut rendre l'expérience vraiment cool en plus le meilleur jeu pour pas chere
+
+#####
+
+Une Arène, une Patate ... Addictif :)
+
+#####
+
+potato
+
+#####
+
+oui
+
+#####
+
+good game
+
+#####
+
+bien
+
+#####
+
+Tip Top Bagarre, Gestion, Fun, Pas chère (⌐■_■)
+
+#####
+
+Aussi laid que fun... et il est vraiment très laid.
+
+#####
+
+Brotatotally worth it
+
+#####
+
+Top pour se détendre.
+
+#####
+
+Pour le prix d'environ 1kg de patates rissolées Findus, il y a des flingues, des tourelles et plein d'autres trucs.  Un jeu qui donne envie de verser de l'huile sur le feu, et qui défoule bien !
+
+#####
+
+Très sympa. Beaucoup de persos avec des stats (bonus/malus) différentes qui nous oblige à nous adapter à chaque fois. Je recommande
+
+#####
+
+top pour se détendre a la fin d'une journée de taff
+
+#####
+
+très bon petit jeu
+
+#####
+
+Ce jeu caractérise parfaitement l'adage : "Pas de cerveau, pas de migraine !" 
+A jouer sans prise de tête, mais attention à l'heure, ça passe vite une nuit.
+
+#####
+
+Simple et efficace !
+
+#####
+
+le jeu est bien pour passer le temps et très stratégique
+
+#####
+
+super jeu beaucoup de contenu
+
+#####
+
+Potato goes brrr.
+
+#####
+
+Yes.
+
+#####
+
+Un petit jeu pas très compliquer a prendre en main mais avec quand même un peu de challenge.
+
+#####
+
+.
+
+#####
+
+C'est fait avec Godot Engine donc c'est cool.
+
+#####
+
+Un super défouloir avec une rejouabilité infinie.
+C'est encore meilleur sur Steam Deck !
+
+#####
+
+De nos jours la vie est dure, quand on est une petite patate..
+
+#####
+
+.
+
+#####
+
+great game
+
+#####
+
+Très cool !
+
+
+#####
+
+Un bon jeux pour ce détendre et faire une partie vite fait !
+
+#####
+
+Beaucoup de variétés dans les builds, c'est vraiment fun :)
+
+#####
+
+J'ai toujours aimé les frites, mais surtout la purée.
+Et encore, aucun de vous n'a goûté mon gratin dauphinois.
+https://www.youtube.com/watch?v=luKf1SlaYOk
+
+#####
+
+Brrrrrr
+
+#####
+
+Un jeu tranquille qui se joue bien, on s'amuse en pouvant moduler la difficulté. Simple, efficace ET moddable.
+
+#####
+
+Jeu très plaisant à jouer.
+
+#####
+
+Monsieur patate couplé à Schwarzy
+
+#####
+
+.
+
+#####
+
+Meilleur survivor
+
+#####
+
+Grande variété d'avatar, avec différentes stats et différents styles de jeu. Long, très long à 100%. Pour le prix, vaut très largement le coup. Les parties sont rapides et s’enchaînent bien.
+
+#####
+
+Un excellent vampire survivor, parfait pour les parties courtes
+
+#####
+
+👍👍👍
+
+#####
+
+like... POTATOS
+
+#####
+
+Great and relaxing game
+
+
+#####
+
+Très bon jeux !
+
+#####
+
+Très bon gameplay
+
+#####
+
+Gameplay simple efficace !!
+Fun et addictif !!
+
+#####
+
+Vraiment un super jeu ! Ç est le jeu indépendant de l année
+
+#####
+
+fun game
+
+#####
+
+chaque personnage à vraiment une façon différente d'etre jouer 
+et le jeux laisse le choix de la difficulté
+
+#####
+
+Détente
+
+#####
+
+Jeu sans prise de tête, difficultés variables, rejouabilité infini et surtout très amusant !
+Nombreux succès et ça pour moins de 5 euros !
+
+#####
+
+Only doing this for the fall steam sale (but great game tho)
+
+#####
+
+Gameplay varié en fonction des personnages, très addictif
+
+#####
+
+Très addictif !
+
+#####
+
+tranquille pour passer le temps
+
+#####
+
+10/10 would potato again
+
+#####
+
+Excellent petit jeu <3
+
+#####
+
+cool
+
+#####
+
+bon jeu
+
+#####
+
+Pas cher et incroyable.
+
+#####
+
+j'adore ce genre de jeux Chill qui offre une bonne expérience musical <3
+
+#####
+
+Un "Vampire Survivor-like" très addictif et fun ! On retrouve une belle panoplie de personnages permettant différents gameplay et différents combos pour vaincre les vagues d'ennemis les unes après les autres ! Très cool (attention on veut toujours en refaire une) !
+
+#####
+
+Bon jeu pour chill!!
+
+#####
+
+endless simulation of a parallel universe's potato
+
+#####
+
+Génial et addictif !
+
+#####
+
+Fais moins saigner les yeux que d'autres Survivor-Like
+
+#####
+

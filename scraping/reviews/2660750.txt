@@ -1,0 +1,18 @@
+petit jeu agréable à première vu le problème est l'aléatoire du classique qui vas vous obligez à posé des tuiles a des endroit absolument illogique ou le mode défi qui lui vas vous demandez un nombre de point pour avoir vos prochaines tuiles qui des fois ne sera juste pas possible dans la meilleurs des configurations de jeu.
+
+bref au final ce petit jeu paisible devient un retry de l'infini recommencer un niveau 10 fois de suite car les bonnes tuiles ou placement ne veulent pas venir.
+
+#####
+
+Tres sympathique facile a prendre en main
+
+#####
+
+Teku
+
+C'est un jeu calme, un puzzle où il faut poser des tuiles. Si l'on pose ces tuiles sous certained conditions, on marque des points. Lorsque l'on a suffisamment de point, on change d'île de départ et le jeu se complexifie.
+
+Rien d'exceptionnel derrière ce titre indé gratuit, mais il a le mérite d'être bien réalisé et sans bug.
+
+#####
+

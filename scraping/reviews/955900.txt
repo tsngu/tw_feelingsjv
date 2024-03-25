@@ -1,0 +1,475 @@
+"Amazing Cultivation Simulator" est conceptuellement plus compliqué pour les étrangers de comprendre. Il se base sur une culture chinoise très ancienne qui consiste à entrainer sa pensée afin de manipuler aisément une sorte d'énergie. Une fois que l'entrainement =  cultivation terminé, l'immortalité sera obtenue,  elle s'oppose donc au règle de la nature, c'est pourquoi on dit que cette cultivation va à contre courant (à la fin des entrainements, le personnage doit affronter la colère du ciel qui se manifestera sous la forme d'une tonnerre).
+Le but du jeu est bien evidemment de rendre les perso immortels, pour cela il est nécesseraire de collectionner des ressources provenant des monstres ou de l'extérieur , des pilules, de batîr des infrastructures pour rendre l'energie plus dense en ce lieu etc etc 
+Certains perso sont + compétent que d'autre, les personnage sans potentiel peuvent juste être des main-d'oeuvre. Ce que j'adore faire dans ce jeu, c'est de crée un perso extremement nul qui jouera le role du personnage principal et je vais utiliser toute les ressources, tout mon pouvoir pour le rendre invincible ( de toute façon "cultiver" c'est aller à contre courant contre la nature ).
+Je déconseille fortement au non-sinophone et au non-anglophone de jouer pour l'instant, c'est un jeu très très complexe qui est très méchant pour les novices, on est souvent perdu , il y'a bcp d'astuce de techniques qui sont cachés. Néanmoins c'est un excellent jeu, j'ai presque 500h dessus.
+
+
+
+
+#####
+
+Pas mal de gens le compare à Rimworld. Bien que la gestion est assez semblable, ce n'est pas une simple copie.
+Si vous aimez Rimworld ou du moins sa façon de jouer et si vous aimez l'univers des wuxias ou des manhua alors ce jeu est fait pour vous.
+Si vous aimez cet univers alors vous aimerez passer des heures et des heures à créer cotre secte et à développer vos disciples. J'ai joué une cinquantaine d'heures et j'ai encore des choses à apprendre de partout donc je m'ennuie jamais. Mais pas de panique car en suivant simplement le tuto de base, vous pourrez commencer à jouer et à apprendre sur le tas. Ce n'est pas un jeu difficile à comprendre si vous êtes un initié.
+Bref, un jeu plaisant et unique en son genre dans lequel vous pourrez être plus qu'un simple lecteur de wuxia.
+
+#####
+
+C'est un jeu original avec beaucoup de qualités et quelques gros défauts. Il n'est comparable à Rimworld qu'en surface, le gameplay et les mécaniques de jeu sont très différents.
+
+Contrairement aux apparences, Amazing Cultivation Simulator n'est ni un jeu de construction de base, ni un jeu de survie... car ces aspects là sont tellement simplifiés et faciles à gérer qu'on n'y accorde vite plus aucune importance. Vous pouvez très rapidement en début de partie mettre en place une base fonctionnelle et autosuffisante que vous n'aurez plus besoin de modifier jusqu'à la fin du jeu. La production de nourriture est simple et fiable, vous pouvez recruter autant que vous voulez sans craindre la famine. Les ennemis sont faibles, les blessures rarement mortelles et elle guérissent vite sans laisser de séquelles.
+Le seul élément complexe de la construction de base est la nécessité de respecter les règles du fengshui pour l'architecture et la décoration intérieure, mais c'est très facile une fois le système assimilé.
+
+En réalité ce jeu est une simulation d'entrainement d'équipe. Tout tourne autour de la progression de vos disciples, de leurs stats, leur Qi, leur skills et leur build, la planification de leur développement afin de leur fournir tout ce dont il ont besoin pour être au top : les nombreuses pilules rares qui apportent des augmentations de stats permanente, la construction de salles de méditation parfaites qui permettront d'optimiser leur entraînement, la recherche de manuels taoistes rares contenant des skills utiles, la fabrication d'armes et d'artefacts, etc.
+Cet aspect là du jeu est vraiment riche et complexe. Et nécessite de maîtriser un peu d'anglais car il a beaucoup de choses à apprendre et les ressources en français sont rares.
+
+Le gros point faible du jeu à mon avis, c'est le micro-management. Il n'y a quasiment aucune automatisation et on se retrouve souvent à enchaîner par dizaines des clicks répétitifs en mode no-brain. Cet aspect là est vite lassant, puis insupportable, surtout dans une partie bien avancée quand on a le nombre maximum de personnages et de colonies et que des grosses fenêtres de dialogue popent sur l'écran toutes les 5 secondes pour vous demander de cliquer sur un choix qui n'en est pas un car il n'y a qu'une seule bonne solution...
+
+L'autre faiblesse c'est la nullité des description des skills, qui induisent le joueur en erreur. Les mécaniques sont cachées, on ne connait pas les chiffres. Les skills qui augmentent le Qi n'indiquent jamais de combien il augmente, des termes vagues sont utilisés : "Greatly increase max Qi" ou "Slightly increase max Qi" par exemple... et là où ça déconne vraiment c'est que ces termes ne veulent rien dire, sur un même personnage certains skills avec "Greatly increase max Qi" vont me donner +500 Qi, tandis que d'autres vont envoyer du +100000 Qi. C'est comme si le jeu voulait nous pousser volontairement à l'erreur avec des fausses infos dans les bulles d'info... Et c'est comme ça pour la plupart des skills. Pour savoir si un skill vaut le coup ou non, il ne faut pas lire la description, il faut le tester et prendre des notes (et il y a des centaines de skills) ! C'est juste insupportable. C'est la principale raison qui me pousse à abandonner ce jeu, même si je me suis bien amusé certains défauts sont pesants à la longue.
+
+PS. 3 conseils de base pour les débutants :
+1- Tant que vous n'avez pas de nombreux disciples maxés, éviter tous les events qui augmentent la réputation de votre secte. La réputation n'a que des aspects négatifs : la force des ennemis dépend uniquement de la réputation de votre secte.
+2- Eviter aussi tous les events qui modifient l'équilibre bien/mal. Si votre secte n'est pas neutre, cela limite aux options les plus agressives les choix lors des missions de vos disciples sur le territoire des sectes d'alignement opposé, et ensuite ils vous enverront des raids de combattants d'élite.
+3- Coloniser aussi rapidement que possible tout ce qui peut être colonisé. Chaque agence produit des beliefs qui peuvent être récoltés et transformés en xp, et quand chaque colonie est maxée vous pouvez récolter très régulièrement des quantités énormes d'xp, 20 millions par agence, ce qui est très supérieur à l'expérience obtenue durant une vie entière de méditation. Les colonies sont de très loin la première source d'xp et doivent donc être développées en priorité.
+
+#####
+
+Je pige rien mais mes mecs se battent au cerf-volant et ont toujours un bras de cassé.
+
+#####
+
+Alors, ayant joué à Rimworld et étant lecteurs de mangas, manhwa et manhua en tous genres, dont ceux sur le thème de la cultivation, je vais essayer de donner un avis objectif.
+
+Ca ressemble à Rimworld, mais uniquement au début. Il n'y a pas de véritable survie contre les éléments, la faim, la soif. Pas besoin de ressources énergétiques ou de câbler la base dans tous les sens.
+
+Tout le jeu se base sur la cultivation de vos disciples. Il y'a 2 catégories : les outer disciples et les inners disciples.
+Les outer disciples sont les petits bras qui vont faire tourner la base (ferme, mine, cuisine, ménage). Ils deviendront des inner disciples si vous le voulez.
+Les inners disciples ne font rien d'autre que cultiver la force intérieure, et à l'occasion crafter des pillules et des artefacts.
+
+Il est possible d'envoyer les inner voyager dans le monde pour ramener des ressources, de l'argent, de nouveaux disciples, etc...
+
+Votre secte/base est attaquée régulièrement par des bandits, d'autres sectes ou encore des animaux XXL.
+Il est donc nécessaire que vos inner disciples soient suffisamment balèzes pour tenir le choc. Qui plus est, certaines activités en voyageant à travers le monde exigent des mecs costaud aussi.
+
+Bref, développez vos p'tits gars. Comment ? démerdez-vous.
+Voilà, c'est un peu le problème du jeu : vous êtes lâché trop rapidement, les tuto intégrés ne sont pas très utiles ou du moins trop succincts.
+On peut considérer ça comme un parti pris par les développeurs, faire un jeu très riche en options données au joueur, pour peu qu'il expérimente. Sauf que pendant que vous expérimentez, les ennemis sont plus puissants et il arrive un moment où il y'a une vague de trop. 
+
+J'écris cette évaluation après avoir reçu une attaque combinée de 3 disciples d'une secte + 2 tortues géantes. Et j'avais envoyé mon mec le plus puissant en voyage... Les morts ont commencé à s'empiler.
+Mon démarrage a été trop lent, je n'ai pas recruté de nouveaux disciples assez vite, ça a ralenti la progression des anciens.
+Et en plus je les ai développés de manière non optimale....
+Et j'avais probablement mal géré ma réputation (plus votre secte est connue, et plus elle attire les convoitises)
+
+Bref, c'est un jeu riche qui focus tout sur le développement de vos individus. Par contre vous devez utiliser des guides externes comme celui-ci si vous voulez progresser
+https://docs.google.com/document/u/2/d/e/2PACX-1vQ7BV9Pyt4TVv56U7fVAJaPYQAvbHzRJ6uyX-mxbE8fPceI9yFd5pT6kuWfOan-5YmYOLBKMnAiia4C/pub#h.o341ip7zn350
+Et retentez plusieurs fois.
+
+
+Bref, jeu sympa
+
+#####
+
+Un jeu exceptionel qui change du gameplay qu on nous vend d habitude !
+C est dans la lignée de rimvorld dans sa gestion de colonie , mais ...c est tout !
+
+Ici l originalité c est qu on fait en démarant de rien  soit une école , religion , soit une secte tout dépend le nom qu on veut bien lui donner , l un de nos perso deviendra le grand manitoux d une bande d élèves à ça botte !
+c est compliqué à expliquer mais tellement rafraîchissant , aprés tout c est un sandbox donc liberté absolue mais attention de ne pas trop attirer l oeil des voisins qui peuvent attaquer par jalousie si votre succés devient trop puissant , et les attaque c est armes blanches mais aussi via des sorts qui faut apprendre car entre chaque construction , récolte , farming il faut que vos élèves méditent et s entraine à suivre la voix du grand gouroux qui peut évoluer jusqu' a demi Dieu...rien que ça... et je vous passe le passage des attaque de dragons , phénix et autres bestioles légendaire , c est full folklore chinois! et aussi en chinois pour le moment mais, y a un mode pour mettre le jeu en Anglais ! et le 25 novembre 2020 il sort la version full anglais , j espère qu il y aura un mode FRench plus tard mais pour l instant en anglais on se débrouille...
+Alors oui j adore ce jeu car très voir trop complet !!
+
+#####
+
+jeux très bien si vous aimez les histoire de Cultivateur du DAO personnellement je suis ultra fan seul bémol toujours pas de FR dans le jeu
+
+#####
+
+Excellent jeu pour ceux qui apprécient la gestion ( dans le cas de ce jeu gestion de secte) et le type d'univers. Je précise que mes commentaires, surtout ceux basés sur le gameplay ou l'histoire, je m'adressent vraiment à des personnes connaissant l'univers de cultivation oriental. Cependant je conseille tout de même a ceux qui n'y connaissent rien d'essayer ce jeu mais il vous faudra surement plus de temps pour comprendre le tout. Sinon : 
+
+Les graphiques sont bon ainsi que la façon dont le gameplay évolue en fonction de l'avancement du joueur.
+
+La gestion est certes complexe mais avec les plutôt bons tutos ( ils prennent quand même environ 2h ), le jeu reste tout à fait accessible( Regarder un gameplay avant de se lancer peut aider mais pas obligatoire ).
+
+Il est possible de jouer hors ligne
+
+Les evenements sont bien pensés même si les attaques ennemies sont de temps en temps vraiment énervantes et répétitives.
+
+Les mods sont disponibles ce qui est un énorme point fort pour un jeu "récent" et ils sont simples a utiliser tout en offrant de la variété. De plus dans ces mods un francais a déjà commencé a traduire le jeu, a voir comment cela évoluera.
+
+C'est vraiment un plaisir total de gerer une secte si vous êtes comme moi des amateurs d'anims/webtoons/novels !
+
+Quelques conseils :
+
+rejoingnez le discord officiel pour des réponses simples et sur des sujets non traités sur internet vu que le jeu est sortis il y a peu au grand public, et croyez moi vous allez avoir des questions bien plus vite que ce que vous pouvez imaginer.
+
+Dans les para vous pouvez augmenter la puissance d'accélération, passant d'une vitesse max de *3 a une de *4 à *10 (oui j'ai tenté lors de ma premiere partie de jouer en *3 mais le jeu était tellement long que cela m'avait dégouté, et ce serait dommage que il vous arrive la même chose).
+
+Le jeu est plutôt long donc armez vous de patience. Ne pensez pas le terminer après 100, 200 ni même 300 heures de jeu (sauf a rester en *10 mais le jeu perd son interet).
+
+Apres tout jeu a ces points faibles :
+
+Le jeu a grande vitesse ( < *5 ) a tendance a lag et divers bugs peuvent apparaitre.
+
+Le jeu est long, vraiment, mais amusant si on sait quoi faire.
+
+Je n'ai pas les succès steam ce qui est légèrement ennuyant, et donc je suppose que cela pourrait ce produire pour d'autres.
+
+Enfin, et principalement, l'IA est encore vraiment imparfaite principalement sur la gestion des taches avec plus de 20 disciples, ou encore la gestion des besoins ( boire et manger ), vu qu'une personne peut mourrir de faim ou de soif car parti trop loin et est tombé dans le rouge sur le retour. Et oui dans ma secte j'ai eu autant de morts par morts débiles que de tués au combat. x)
+
+Il est possible que j'oublie plein de points essentiels mais pour l'instant je suis satisfait de cette évaluation
+
+Pour récap, c'est un très bon jeu dès maintenant, jouable et à peu près accessible et d'après son évolution, je juge que certains des problèmes majeurs vont être patch, dans un jour pas si lointain. Je ne regrette absolument pas son achat et ceux même si il avait été 10 euros plus cher.
+
+En espérant que ce roman vous ai été utile, bon jeu !
+
+#####
+
+Ça fait longtemps que je recherchez un jeu centré sur la "cultivation", et je l'ai trouvé ! 
+
+Le seul problème est la langue, il existe cependant un mods pour mettre certains textes en Anglais. 
+
+Globalement super jeu, une bonne ambiance de roman Xianxia qui inclus une multitudes de mécaniques des dits roman, comme par exemples la création de sect, la cultivation avec des Royaumes, le raffinage de pilules et d'artefacts etc... !
+
+Très complet en l'état.
+
+#####
+
+Il s'agit plutôt d'une école d'arts martiaux à développer (et pas d'une "secte") bien que tous les élèves ne développent pas forcément tous des compétences martiales. Cela dépend de la Loi qu'il suivent (pour le moment j'ai ai trouvé 6 normales et 2 différentes que j'ai plus de mal à suivre).
+C'est un jeu qui nous en apprend chaque jour (par exemple j'ai failli perdre aujourd'hui toutes mes récoltes de l'année après avoir obtenu un "crimson fruit" d'un combat) ce que j'apprécie. Il y a aussi plusieurs tutoriels développant une bonne partie des choses à connaître dans le menu ainsi qu'un gros dossier d'aide dans le jeu.
+
+Pour le moment il est juste en anglais (en plus du chinois) mais un mod (que je n'ai encore testé) le traduit en français. C'est un bon moyen d'occuper en tous cas.
+
+#####
+
+Gud gayme
+
+#####
+
+Un peu brute sur les bords, prise en main assez difficile et capricieuse. Néanmoins ça reste ce qui ce fait de mieux pour tout fan de wuxia ! Je recommande fortement !
+
+#####
+
+j'y comprends rien mais c'est beau...
+
+#####
+
+Bon, de mon point de vue (le plus objectif du monde !)
+
+Jeu :
+++ en gestion
+++ en DA
+++ en son/doublage VO VA
++ en contrôle (pas très compréhensible souvent)
++ en intuitivité (pas très compréhensible souvent)
+
+Commentaire en français pour ceux qui le serait dans le coin et qui hésite.
+
+Le jeu en général et très bon. (CF Danfield sur YT pour un GamePlay FR).
+
+il manque de quelques touches de polissage par ci par la pour que le gameplay, qui est très proche de celui d'un RimWorld soit parfait sans mods.
+
+Le jeu en soit et tres tres tres complex, je conseille d'avoir des bases solide en anglais et d'aller sur le discord ainsi que de faire les TUTOS EN ENTIER du jeu pour avoir les meilleurs conseils / aides / mods indispensable, pour avoir joue au jeu sans tout ca avec, c'est le jour et la nuit (merci discord).
+
+Les évents sont pour le moment très trop souvent rapides/omnipresent sur le jeu et partent dans tous les sens tout le temps, 
+EX => J3 un évent puis 4 5 6 7 8 9 qui demande d'envoyer un personnage ici puis la puis ici puis un autre la puis puis etc etc.
+donc il faut un niveau en gestion très bon, ainsi que gérer tous les petits trucs qui poke l'écran tout le temps qui n'est pas souvent visible irectmeent sous forme de POPup mais a gauche sur une bar presque infini d'infos....
+
+le jeu est certe en 1.0 trad anglaise incluse, mais il manque des fois des contenu qui sont en chinois, (pas très problématique avec un peu de déduction, mais a souligner tout de même) le souci et le manque d'explication du jeu sur les salles / les bonus / malus de "feng shui" qui sont en gros les ellements des ateliers / objet du jeu 
+EX => les ateliers de "feu" comme la forge a coté de pots d'EAU fait en X matériel évite le feu dans la base, mais la stabilité du QI aussi donc pleins de petits details.
+
+EN GROS
+Jeu super que je recommande pour des joueurs déjà aguerrie dans la gestion et la culture du QI / cultivation chinoise, La DA et sublime petites touche part si par la intéressante, les personnages du jeu évolue bien en général et aussi corporellement avec leurs erreurs... Bras qui manques, blessures graves etc....
+
+#####
+
+complexe mais genial pour peu qu on s y pence serieusement
+
+#####
+
+[b]Attention: Niveau correcte en anglais exigé, traducteur a coté recommandé! [/b]
+
+J'ai joué 1h30 et effectué la plupart des chapitres du tutoriels.
+
+La traduction EN est propre malgré la présence de certaines incohérences, erreurs, notamment dans les tutos. (Rien de rédhibitoire)
+Les mécaniques du jeu sont intéressantes, j'attends de pouvoir les appliquer dans ma partie.
+Ca ressemble a RimWorld mais il y a des différences significatives.
+
+L'apport de la culture chinoise est un plus.
+
+-_-_-_-_-_-_-_-_-_-_-_
+
+[b]Edit 26/11/20[/b]
+
+Pour commencer une partie, il faut d'abord effectuer un tuto sur les commandes de bases qui ne prends que quelques minutes.
+
+Les plus impatients ou ceux souhaitant découvrir le gameplay par eux-même en seront ravis.
+Les plus patients et ceux souhaitant savoir dans quoi ils se lancent pourront effectuer jusqu'à 37 tutos de plus couvrant pas mal d'aspects du jeu.
+
+Je suis quelqu'un de patient et ai préféré tous les faire avant de commencer une partie.
+Cela m'a pris 2H30 environs, chacun durant entre 1 et 5 minutes.
+A savoir que lorsqu'un tuto est finit, il est impossible de continuer d'y jouer pour essayer des choses.
+
+Ce sont des tutos dirigistes, les instructions sont claires, on nous dit et montre où cliquer.
+Il est quasi impossible d'y être bloquer d'autant qu'on peut passer l'instruction en cours. (ECHAP x 2)
+
+Il en ressort que le jeu va demander pas mal de temps et d'expérimentations, la maitrise semble très loin, un plus selon moi.
+
+
+A.C.S propose de nombreuses mécaniques innovantes:
+
+-Feng-shui, les propriétés élémentaires des objets qui s'influencent les uns les autres,
+Un bon feng-shui aidera les persos à mieux s'entrainer.
+
+-Les 5 éléments et leur équilibre: eau, terre, métal, feu, bois.
+Chaque élément en nourrit un autre et en bat un autre.
+C'est un aspect  central du jeu puisqu'il influence de nombreuses mécaniques: combat, feng-shui, entrainement ect...
+Si un perso dont l'élément de sa "classe" bat l'élément de l'adversaire, c'est du bonus au combat, si c'est l'inverse, aie!
+Il est aussi possible d'équiper des objets altérant l'élément du perso -> adaptation face à la menace.
+
+-Entrainer des persos qui deviendront des demi-dieux, voleront, lançeront des sorts!
+
+Il y a tant à dire, je compléterai plus tard, je vais commencer ma première game!
+
+#####
+
+I mean the game is good but you have to play it multiple times before having a good game, it's kinda complicated
+
+#####
+
+Excellent jeu, difficile a prendre en main, mais une fois fait, c'est du pur plaisir !
+
+#####
+
+La prise en main est complexe mais ça vaut le coup. J'adore mes élevages de Shaolins.....
+
+#####
+
+I love the game, and i recomend it but maybe i like it because i read so many cultivation novels.
+
+#####
+
+Relaxing but still challenging
+
+#####
+
+Jeu cool, des ressemblance de gameplay avec rimworld, mais reposant sur des principes et des enjeux très différents.
+
+Certains concept et principe du jeux sont plutot obscure au début, tant il sont teintés de la culture chinoise, mais une fois intégré, le jeux est très agréable.
+
+#####
+
+Pour un "vieux" joueur  c'est un vrai voyage un dépaysement total en terme de culture,
+Doté d'une profondeur insoupçonnée et d'un gameplay sortant clairement des sentiers battus, il vous faudra des centaines d'heures pour maitriser ce jeu.
+
+De nombreux points forts :
+- Graphisme propres et cohérent.
+- Style de Gameplay très Diversifié avec de nombreuses possibilitées. 
+- Apprentissage de la Complexité offrant énormément de choses à tester.
+- Une empreinte culturelle dépaysante et peu vue.
+- Des centaines d'heures de jeu en perspective pour un jeu "Long terme" Construire et développer ses Cultivator vous donnera un réel sentiment d'accomplissement.
+
+
+Pour les plus pointilleux, trois petits points noirs :
+
+1) Les musiques bien qu'intéressantes sont peu variées et on du mal à bouclier (Même avec les options cochées). On préférera l'excellente B.O de Age of Wushu pour se mettre dans l'ambiance ou d'autres du même style.
+2) Certaines contraintes propres au jeu peuvent légèrement inhibé la créativité en terme de construction (Feng Shui) ou de création de personnages (Les Yaoguai et leurs tribulations avec la difficulté inhérente à celle ci).
+3) De part son origine culturelle différente et certaines méchaniques complexe le jeu peut être difficile à appréhender pour les nouveaux joueurs, conseil NE PASSEZ PAS LES TUTORIELS. Sauf si vous aimez souffrir.
+
+
+#####
+
+Destiné aux conaisseurs du monde de la cultivation chinoise, car très complet et très complexe. C'est un pur régal qui mériterait d'être bien plus connu des autres pays non sinoculturels.
+Une montée en puissance progressive, un tutoriel qu'il faut absolument faire afin de comprendre au mieux les mécaniques complexes du jeu.
+
+#####
+
+Ce jeu est vraiment très complet et original.
+
+#####
+
+Musique exceptionnelle. Richesse du monde. Enfin un jeu sur les arts martiaux. Possibilité de rejouabilité. Que du bon.
+
+#####
+
+Très bon jeu, juste dommage qu'il y ai très peu de niveau de cultivation :)
+
+#####
+
+Turns out CK3 is simpler than your old NOKIA phone Snake game compared to ACS.
+
+#####
+
+cool
+
+#####
+
+Le jeu était bien au début.
+Puis un ours en golden core est apparue, Mes disciples sont allez sauvé une grenouille (et j'ai rien pu y faire) et aller se suicider un par un sur l'ours qui ne bougeait pas à la base. Puis mes inner core sont allez chercher les disciples mourrant et sont allez se suicider sur l'ours à leur tour sans que je ne puisse rien y faire. (et il ne faisaient clairement pas le poids)
+Au total, 15 disciples et le maitre de la sect sont mort et je ne pouvais que regarder cars on a pas moyen de les empêcher d'aller chercher ceux qui sont déjà entrain de crever. Ma sect éradiqué (jusqu'au dernier) car ils sont trop con. S'ils avaient laissé ce p***n d'ours tranquille, tout le monde seraient en vie... 
+Alors ce message est pour les devs : Il faut permettre le fait qu'on empêche une action, il y a bien l'option mais quand on annule ce qu'ils font, et bas, ils y retournent et en redemandent, du coup on ne peut pas annuler...
+
+#####
+
+Ouïgour Simulator
+
+
+#####
+
+nul
+
+#####
+
+Good game, Unfortunately you need to follow guide in order to make any meaningful progress. If they added ways to make things more straigthforward, it would be an awesome game.
+
+#####
+
+Great RW like
+
+#####
+
+super les fan de cultivation sont bien servi
+
+#####
+
+Garbage graphics BUT deep and enjoyable gameplay.
+Every feature that most EA games of the style barely scratch by the time they release, are fully developped here.
+Heartwarmingly recommend.
+
+#####
+
+370 heures de jeu actuellement, quête principale terminée et pourtant je n'ai pas toujours pas été au bout de tout le contenu que ce jeu peut offrir.
+
+On suit les guides, on se concentre sur ses cultivateurs pour les voir, tout à tour, mourir bêtement après cinquante heures de jeu car le premier a bouffé un médicament ou un aliment trop chargé en Qi, un autre car le Feng Shui de sa chambre n'était pas suffisamment bon, un autre car la température de sa chambre était de -273°C à cause de la perle maladroitement déposée sur le sol et qui contient l'âme d'un démon. On observe ensuite sa secte se faire éradiquer en quinze secondes car on a mal géré son niveau de réputation et qu'on se fait attaquer par des demi-dieux alors qu'on cherche encore la définition du mot "feng shui" dans le dico.
+
+On recommence une partie et le jeu nous a rendu suffisamment maso pour qu'on se retrouve à faire ça avec le sourire.
+
+Plaisanteries à part, le jeu est prodigieusement riche en contenu. Il n'est clairement pas simple à prendre en main au départ et on va fréquemment aller consulter des guides ou le wiki (ou encore mieux, le Discord officiel) pour comprendre les différents mécanismes qui entourent la cultivation, les quêtes, le Feng Shui et la température, les boss, etc. La communauté est heureusement particulièrement motivée et active et pour un genre (xianxia/wuxia) souvent mal représenté dans le monde du jeu vidéo, ACS est une perle rare.
+
+21/20
+
+#####
+
+Un jeu.. étrange.
+Une expérience de... mélanges ?
+Sans regret d'avoir acheté ce petit ange :)
+
+#####
+
+Juste génial l'univers des wuxia est incroyable le jeux est addictif à fond vous voyer 24h de jeux... bah pas vraiment je suis surement à plus de 60h x) et si vous aimée voir vos personnage évolué tranquillement alors ce jeux est fait pour vous en plus de ça il ont annoncée un Amazing cultivation SImulator 2 en 3D oui en 3D !!!! jouer aux jeux et vous comprendrez pourquoi je suis vraiment à fond dessus ! 
+
+petit conseil ne vous attaché pas trop à vos disciple on sait jamais ce qui peut leur arriver :)
+
+#####
+
+The path of the Martial Dao awaits you, will you reach his peak?
+
+#####
+
+J'aime les manhwa et les webtoon donc ce jeu m'a beaucoup plu
+
+#####
+
+Ce jeu est incroyable.
+Un peu difficile a comprendre au début du fait d'un tutoriel volontairement lacunaire mais une fois passé l'étape d'incompréhension vient l'étape de la découverte.
+Le jeu n'est pas parfait, certaines mécaniques font controverses mais le jeu est modable ce qui permet de palier à toutes incompatibilités avec un mécanisme de jeu ou un autre, de plus ses qualités vous ferons vite oublié ces petits détails.
+Pour finir le jeu est dense et ce dernier prend toute sa saveur dans les niveaux de difficulté les plus élevés ce qui lui offre une grande rejouabilité ainsi qu'une grande durée de vie. (j'en suis a 450h de jeu au moment où j'écris ces ligne et n'ai toujours pas fini le jeu)
+
+#####
+
+tu kiff les xianxia , ce jeu est pour toi !
+
+#####
+
+moi qui suis normalement pas fan des jeux de gestions celui ci est vraiment adictif...
+
+il est assez complet 
+
+- gestion des ressources
+- évolutions des personnages
+- aventure
+- craft
+- humeurs de nos petits villageois
+- fantastique
+
+combat etc...
+
+ce jeux bouffe du temps mais on le voit pas passer oO' 13 h dessus j'ai l'impression que c'était 3 .. bref très bon jeu... mais faut comprendre l'anglais (y a un mod FR je l'ai pas test) vu les cotes qu'il a ça doit être pas mal et c'est dispo dans le workshop... 
+
+un grand oui :)
+
+
+#####
+
+Formidable !
+
+-Un univers Wuxia/Huxia naturel en extrême-orient  qui nous change de la traditionnelle fantasy occidentale.
+-Des graphismes pas trop poussés mais soignés, rendant une scène mignonne et jolie, cohérente avec l'univers.
+-Des gameplays très riches, promettant de nombreuses heures de jeu et de découvertes.
+-Une interface agréable, aisément prise en main, à l'usage agréable.
+-Un scénario minimal mais bien dosé et trouvé pour nous lancer dans la partie en toute cohérence.
+-une modabilité intégrée offrant toujours plus de contenu, permettant même de créer facilement des contenus personnels simples.
+
+(tout) Petits points négatifs,
+-Le tutorial, riche et complet, apprend plus l'interface que les mécaniques de jeu. A contrario, cela offre le plaisir d'essayer, et de retenter pour faire mieux et plus efficace.
+-La langue, bien qu'il est heureux que l'anglais soit disponible, n'offre guère le français. Cela offre une occasion pour les non-anglophone (et non-sinophones) d'apprendre l'anglais.
+En outre, ce jeu, parmi la masse de jeux d'extrême-orient jamais traduits, est quand même édité avec une langue occidentale disponible, et cela, c'est chouette !
+
+#####
+
+super jeux de gestion très complexe et vraiment prenant
+
+#####
+
+J'ai joué 26 heures à ce jeu, et je suis loin d'avoir vu toutes la profondeur du jeu en lui-même. Mais je vais quand même donner mon avis ahah ^^'
+Franchement, ce jeu est génial, un fois qu'on a compris comment il fonctionnait, parce ce jeu est dure au départ. Il n'est pas dur en prendre en main en soit, si on a fait tous les tutoriels, mais c'est surtout à cause de beaucoup de in-game mécaniques qu'on doit découvrir et surtout retenir. Heureusement, il y a la possibilité de voir les conseilles des autres joueurs, ainsi que d'en poster soi-même lorsqu'on découvre comment fonctionne quelque chose. Le reste se fait à tâtons.
+Un autre petit bémol, c'est qu'il n'est pas traduit en français, et donc si on est pas un minimum bilingue, il devient très vite très difficile d'y jouer. 
+Sinon, le jeu est vraiment très sympathique qui permet beaucoup de chose ! Que se soit en mode normal, où on joue le jeu normalement, ou le mode créatif qui permet de construire des structures sans se soucier des ressources, il permet beaucoup de liberté ! Et les mods disponibles augmentent nos champs d'action encore plus !
+Bref, je recommande ahah !
+
+#####
+
+a
+
+#####
+
+On me demande si je recommande le jeu et bien sûr que je le recommande comment ne pas.
+
+Pour résumer juste incroyable. Je suis fan à l'origine de la fantaisie chinoise Huaxia mais je pense que même sans cela le jeu est dément. Il est ultra complet et regroupe à peu près tout ce que les fan du genre peuvent imaginer appartenir au monde de la cultivation. Et je dis à peu près parce que je ne suis pas un expert et que j'oublie peut-être des choses mais vraiment c'est dingue de contenu et de possibilités. 
+
+Pour les autres sachez qu'il y a de la gestion de ressource, de la diplomatie, des quêtes, des combats, de la construction (avec une bonne dose de Feng Shui), du crafting et j'en passe. Mais dites vous que tout ce que je viens de citer ce passe dans l'univers de la fantaisie chinoise donc pensez également alchimie, artéfact, Qi, art martiaux, "sort", lifespan, bêtes spirituelles, etc. 
+
+Et encore une fois tout ça non pas du point de vu de la culture occidentale mais chinoise ce qui est ultra dépaysant et complexe pour nous occidentaux sans toute fois être inabordable. Le jeu est d'une telle complexité avec une myriade de possibilité et des heures et de heures jeu suites auquel on à toujours envie de recommencer en jouant mieux ou simplement d'une autre manière tant il a de chose à apprendre et à perfectionner.
+
+Enfin si il y une chose à retenir de mon long monologue c'est que je ne peux que vous le recommander.
+
+#####
+
+Bonjour/Bonsoir
+
+J'ai découvert ce jeu en début de semaine. Je ne m'attendais a rien. Je me suis dis "encore un énième jeu rimworld like"
+
+Et bah mon erreur aurait pu être encore pire si je m'étais arrêté là.
+
+J'ai rarement vu un jeu aussi complet, il y a énormément de choses à faire et de temps a prendre. 
+Quand j'y joue je ne vois pas les heures passer.
+
+Et a chaque fois que j'atteins un nouveau stade je recommence une partie pour être sûr de m'améliorer.
+
+Et vous savez quoi ? C'est même pas frustrant. Non car on apprend, on teste. Et on explore les mécanismes de ce jeu. Vraiment c'est une pépite je recommande a tout le monde ce jeu. Vraiment. Il faut néanmoins avoir un petit niveau en anglais. Mais rien d'inaccessible.
+
+Espérons qu'une traduction française pointe le bout de son nez.
+
+Pour moi c'est un 20/20 !
+
+#####
+
+tres bon jeu
+
+#####
+
+Good fun game for all wuxia fan out there.  The mod support is good saddly there is not enough english modder so it's mainly in chinese, so if you speak mandarin it's good or like me you can click on everything to see what it does.
+
+#####
+
+Sympa, j'adore. Bon, maintenant j'attends les évolutions des mods communautaires. :]
+
+#####
+

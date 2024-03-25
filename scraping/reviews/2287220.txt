@@ -1,0 +1,1002 @@
+Comparativement au précèdent opus Managers F1 2022, le nouvel opus semble avoit eu pleins d'améliorations tél que
+-Une vue cokpit immersive !!!
+-Selon les visiéres les couleurs sont plus ou moins chaudes/froides/ternes.
+-Une meilleurs prise en compte des différentes gommes et de leur statistiques ( rouge,jaune,blanc ) pour une efficacité plus authentique.
+-Lors de crash divers, freinage tardif, ceux si impactent fortement la dégradation de l'état du pneu.
+-La dégradation des freins selon le mode utilisé, ainsi que leurs surchauffe si votre monoplace suit trop longtemps une autre, ce qui augmente le risque de sortie de piste...
+-Les pilotes subissent ou non des regains de moral tout du longt des courses ( en confiance, un peu, bcps, élevée, total ) qui fluctue selon les événements, accidents, sortie de piste, influant grandement sur le rythme de course visible en temps réel.
+-Différentes couches ont été ajouté pour le moral du pilote avec son matériel, selon l'avancé des EL 1,2,3, apportant une osmose entre le pilote et la monoplace ( selon réglage ).
+-Une amélioration quand à la gestions des pneumatiques ( surchaufe, ou non...)
+-Une physique différentes des monoplaces lors des courses.
+-Un mode ERS revue et repensé proposant quelques modes supplémentaires comme l'assiste aux dépassements.
+-Les voitures sont plus en capacité de creusé les écart entre elles ( c'est plus flagrant selon l adhérence du pneu )
+-L abrasion des pistes est prises en compte.
+-De nouveaux évent liées aux contrats en lien avec les sponsors.
+-Une interface remanié, qui offre une meilleurs visibilité des informations.
+-Des entrainement ont été mise en place pour l'équipe des stands pouvant etre modifier et agencé selon un emploie du temps au mois ( repos le matin, ou l'am, total, configuration voiture, sport, arret au stand...)
+-L équipe du stand à également un moral ( comme les pilotes ) et leurs résultats sur les arrets aux stands en découle ( géré la fatigue sur la saison...)
+-Différents soucis dans la voie des stand tél que : problème avec la fixation d'une roue, efficacité des arrets plus ou moins lents...
+
+#####
+
+Gros step up par rapport à F1 Manager 2022 
+
+Fini les GP en full accéléré il faut gérer la température des pneumatiques pour avoir le meilleur pace possible
+
+La Difficulté à été revu après 1 saison avec Mclaren on ne vise plus le titre en saison 2 
+
+Certains niveaux des pilotes est à revoir notamment Piastri qui est le pilote le plus faible de la grille
+
+Niveau Infrastructure l'amélioration devient plus difficile à cause de l'argent oui l'argent vous allez devoir choisir entre amélioré un concept amélioré les infrastructures ou alors tout simplement fabriquer des pièces car oui nouveauté les pièces ont un % d'usure les ailerons suspensions fond plat etc ...
+
+Bon courage à vous tous et bonne carrière :)
+
+#####
+
+En tant que fan de la franchise F1® Manager (J'ai beaucoup aimé la première version) j'ai été impatiemment enthousiasmé par l'arrivée de la version 2023. Cependant, après avoir passé un certain temps à explorer ce jeu, il est devenu de plus en plus évident que le développeur n'a pas fait grand-chose pour améliorer l'expérience par rapport à la précédente itération, le F1® Manager 2022.
+
+Commençons par les quelques points positifs que le jeu a à offrir. Le jeu demeure globalement amusant pour les fans de Formule 1 qui aiment gérer leur propre écurie. Les graphismes sont attrayants, avec des détails soignés sur les voitures, les circuits et les pilotes, et la vue cockpit est immersive. Cependant, ces éléments ne parviennent pas à masquer les lacunes majeures de cette version.
+
+Le principal point de déception réside dans le système de confiance des pilotes. Dans une tentative de rendre le jeu plus réaliste, les développeurs ont introduit un mécanisme de confiance des pilotes qui, malheureusement, nuit considérablement à l'expérience de jeu. Les pilotes des petites équipes, comme Alpha Tauri, se battent pour obtenir de bons résultats, mais même lorsque vous faites de votre mieux, votre pilote peut perdre confiance pour des raisons parfois totalement incohérentes. Cela peut conduire à des frustrations, car il est difficile de garder le moral de l'équipe au beau fixe. Les dépassements venant des équipes plus riches sont démotivants, même lorsque votre pilote fait de son mieux.
+
+Le manque d'innovation générale est manifeste. Le jeu semble plus une simple mise à jour de la liste des pilotes et des écuries qu'une nouvelle version. Les fonctionnalités de jeu n'ont pas vraiment évolué, et l'on se demande pourquoi il est nécessaire de payer pour cette version lorsqu'une grande partie du contenu reste inchangée par rapport à la version précédente.
+
+Au niveau technique, F1® Manager 2023 laisse également à désirer. Les replays des accidents et des dépassements manquent de réalisme et d'impact visuel. Le développeur a clairement mis l'accent sur l'apparence du jeu, au détriment de la mécanique de jeu et de l'aspect technique.
+
+En conclusion, F1® Manager 2023 est une déception pour les fans de la franchise. Si vous possédez déjà la version 2022, il est difficile de justifier l'achat de cette mise à jour, car les changements sont minimes et les nouvelles fonctionnalités introduites, comme le système de confiance des pilotes, peuvent être plus frustrantes qu'amusantes. Il est préférable d'attendre la prochaine itération du jeu, espérant qu'elle apportera des améliorations significatives tant au niveau de la physique que des fonctionnalités de jeu. En fin de compte, F1® Manager 2023 ressemble davantage à une version 2022.1 qu'à un opus à part entière.
+
+#####
+
+Beaucoup de bug comparé à l'année dernière. Des nouveautés, mais si minces comparé à ce que l'on pourrait attendre à ce prix. Des possibilités de changer d'équipe toujours pas présente (j'attends le patch).
+
+'Fin bref, Frontiers commence à faire du EA avec F1, je n'aime pas du tout ça et même si je vais y jouer, faute de concurrence (bientôt MM2 prions) je ne peux pas le recommander en l'état actuel. Je dois être à 20 ALT F4 à cause des pbs d'affichages pendant la course (tu ne peux plus rien faire) et une 10 aine de crash unreal engine. Désolé mais c'est non pour moi.
+
+#####
+
+j'ai presque 200h de jeux dessus et je trouve que le jeux a bien évoluer par rapport a sont prédécesseur les nouvelles fonction  sont super je trouve mais  je vois pas mal de petite choses qui pourrait rendre le jeux plus vivant 
+je pense que ça manque de tour de formation qui donnerait une sensation de grand prix 
+je trouve que les dans les paddock c'est ultra vides et je trouve ça très dérangeant rajout des personnages sur le murée des stands 
+il faudrait rajouter un niveaux de difficultés comme des casse moteur est des abandon pour cause mécanique  car je trouve que on n'a pas de casse moteur est c'est ultra pas simulation 
+j'aimerais que les pilotes de ton écuries puisse trouver d'autres contrat ailleurs est que les autres équipe essaye de prendre t'es pilotes car a partir du moment ou tu à t'es pilotes il resteront jusqu’à la fin de sont contrat et c'est dommage car il pourrait partir selon les objectif du pilote,pareille pour notre carrier je trouve que tu peut changer d’équipe trop facilement il faudrait que en cours de saison on reçoit des mail de autres équipe voulant nous proposer un poste de team manager et non choisir ou on vas on pourrait au démarrage de votre partie choisir votre équipe   
+
+
+
+
+#####
+
+Je poste rarement d'avis mais j'ai décidé d'en poster un aujourd'hui car j'aime vraiment ce jeu et je veux le voir s'améliorer. Pour du contexte j'ai énormément jouer au premier (260h) et un peu moins a celui ci (120h)
+Tout d'abord, les modifications qui ont été faites sur les parties courses sont super sympa, j'aime beaucoup la possibilité de régler l'agressivité en piste du pilote et les nouvelles façons de gérer la course
+Le mode de jeu de Race Replay est un bon bonus aussi, je n'y ai pas énormément joué mais pour faire une course ou deux comme ça, c'est sympa
+Le jeu reste très agréable mais assez similaire au premier, c'est pour ca que j'aimerais suggérer des choses pour le 3ème
+D'abord, ca serait bien de respecter les formats de la saison. Le jeu sort en milieu de saison, je pense qu'il y a le temps d'adapté au format sprint de la saison en cours. Cet année par exemple, nous jouons avec le format sprint de la saison 2022, ce que je trouve dommage.
+Ensuite, pour moi le plus gros point noir et le monde extérieur. Certes cet aspect là à été améliorer avec les interviews des autres teams principals mais on a l'impression que 9 équipes vivent et que nous sommes en retrait. Pourquoi ne pas avoir de relations avec la presse ou l'ont pourrait prometre des choses, debrief une course, etc... Ce qui pourrait se relier a un système de fans qui pourrait augmenter ou non afin d'attirer des sponsors ou non, etc...*
+Pour faire un pont sur la vie du paddock, les pilotes sont aussi trop transparents. On pourrait imaginer un système de moral plus élevé, des pilotes déçu d'être traité en numéro 2, de ne pas avoir les améliorations, etc... et aussi par conséquent développer du dialogue à l'intérieur des écuries, ce qui à déjà commencé avec les questions par mail mais il y en a 4 qui tourne. Il faudrait aussi réfléchir à l'affinité avec les pilotes. Imaginons on quitte une écurie pour rejoindre une autre, nous restons proches de nos anciens membres d'équipes et il serait plus simple de les réembaucher par la suite.
+Il y a aussi les essais qui ont été modifié mais je trouve toujours ça très ennuyant et passif. Il faudrait soit réfléchir à une liste d'objectifs à accomplir, soit préparé un programme d'essais et pouvoir simuler la séance sans que tout soit fait n'importe comment. 
+J'aimerais aussi qu'il soit possible, comme sur les jeux F1, de faire ses armes en F2 avant de passer à la F1 en ayant la possibilté de gerer une équipe de F2, ce qui pourrait même servir de tutoriel. 
+Pour finir, j'aimerais parler des deux choses qu'il faut voir absolument dans l'édition 2024 à mes yeux: 
+En premier, la modification de l'ordre des circuits. A l'inter saison, sortir un peu du RP et avoir la possibilité de changer les circuits d'ordre pour changer un peu d'une saison à l'autre, ou, à la manière des jeux F123, de rajouter et d'enlever des circuits, comme le Castellet, Portimao, Shanghai, etc..
+Et enfin, la création d'écurie. Pour moi, la création d'une onzième écurie me semble évident pour un jeu comme ça. On pourrait la créer dès le début ou au fur et a mesure du jeu, au moment ou en change d'équipe, ce qui pourrait faciliter la création si nous sommes déjà réputé avec les points qui nous permettent de changer d'équipe à l'inter saison
+Quelques dernières remarques/idées en vrac : la gestion des équipes des stands est une très bonne idée mais un peu brouillon, merci de nous avoir écouter pour la possibilité de changer d'équipe, faire attention aux notes des pilotes qui sont trop basses ou trop hautes, et aussi, je rêve d'un mode multijoueur !!
+J’espère que ce message va être lu par les équipes. Je passe du bon temps sur le jeu et j’espère sincèrement que ces idées peuvent être prises en comptes
+
+#####
+
+Ce bon vieux ioooooooooooooooonss !!!!!!!! du V6
+Cependant je regrette de m’être moquer des stratèges Ferrari car c'est pas facile (en vrai ça va)
+
+#####
+
+J'ai l'impression de m'etre fait arnaqué. 
+
+Je ne vois aucune amélioration par rapport à  F1 22: les memes interfaces, les memes options, memes messages radios, les memes bugs.... Genre celui ou le mécano pilote annonce à ton pilote qu'il écope d'une pénalité alors que c'est un autre pilote qui s'en est pris une et que ton pilote n'a absolument rien à voir avec l'incident. 
+
+Je viens de finir ma sixième course. Stroll a remporté la pole position à Imola (!!!!!!!!!!) et a gagné la course. 
+Ok, j'arrete de jouer à ce jeu tout pété et je ferai comme tout le monde : j'attendrai la sortie de Motorsport Manager 2.
+
+#####
+
+Would be great to correct bugs that force you to reload the game after HUD has crashed. Here for weeks but still nothing ?? Nearly every race. That is SOOOOOOO frustrating !
+
+#####
+
+dans l'ensemble le jeu est pas mal mais tellement de choses bizarre viennent gâcher le gameplay crash a presque tout les grand prix si on ce base sur le jeu les pilotes de F1 se crash presque H24 et ne savent ni doubler ni defendre, pas d'indication de niveau d'eau sur la piste tu chausse des pneu au hasard une imbécillité pour prévoir une strat . Le pire point c'est que certaines écuries sont détruite par le jeu (ex : Alpine avec Esteban et gasly a en croire le jeu se sont des pilotes débutant extrêmement nul pourtant Gasly a quand même presque 90 de note, aucune concurrence redbull ferrari et Mercedes tjrs en tête (on sent qu'il on bien rincer le jeu) ils remontrent comme des fusée sans raison pneu plus usée que toi. Bref Frontier corriger sa sinon arrêter le massacre on en a assez des fifa merde commencer pas avec F1 manager
+
+#####
+
+Si fan de F1 vous êtes, vous apprécierez de retrouver l'ambiance de cette univers de gestion à tout niveau
+le seul souci que je mets sur ce jeu, c'est qu'il faut arrêter d'utiliser une IA d'il y a 20 ans.
+Le jeu est extrêmement mal codé, les IA font souvent n'importe quoi, établissent des chronos 3s sur un secteur alors que même gomme et usure, même niveau de monoplace et même usure moteur que vous et vous rattrape en 3 tours alors que vous aviez 15s d'avance. Accident stupide voir ridicule comme très peu réaliste.
+Un accident de mon côté à chaque GP ( je précise que j'en suis à ma 2ème saison et demi et que réellement à chaque gp un accident d'un de mes pilotes.); ce qui fait que je ne peux pas améliorer l'équipe puisque sans arrêt entrain de faire de la gestion sur la fabrication de pièces
+Absolument pas réaliste. Le 2022 était bien mieux équilibré même si bien trop facile.
+En plus des nombreux crashs du jeu.
+Très déçu.
+J'attend un énorme patch de la part de Frontier pour régler tout ses problèmes parce que là ce n'est pas possible en 2023.
+
+
+#####
+
+Pas de bug de mon côté déja pour commencer, ensuite le jeu est complet et technique, si vous ne suivez pas trop le milieu de la F1, bonne chance^^ 
+
+Beaucoup de paramètres à gérer hors course et en course et en complément l'usure du matériel, + la fabrication, + la réglementation ahhhhh c'est hard!  Perso j'ai pas réussi sur 1 saison à ne pas être sanctionner car j'avais utiliser du matériel moteur neuf mais tout le reste était abîmer, bref pour les fans de F1 y a de quoi faire! 
+
+Bon jeu :) mais jeu difficile ^^
+
+Personnellement je vais opter pour un arrêt au stand ou une sortie de piste et on verra quand je reprendrais les essais de qualification :D
+
+#####
+
+meilleur jeu de management F1 pas encore parfait mais il s'en approche, pleins d’amélioration par rapport au 22. on en veut encore plus on veut une vraie gestion d’écurie!!!!!!!!! je recommande vivement pour les fans
+
+#####
+
+J'ai pré-commandé le jeu pour au final ne réussir à jouer que 5 minutes part 5 minutes tellement il crash.
+
+
+#####
+
+Mieux que l'an passé, et ça c'est pas tous les jeux
+
+#####
+
+Très bonne évolution du 22.
+
+#####
+
+Au top, rien à dire
+
+#####
+
+Parfaitement bien développé, plus compliqué et réaliste que F1M22, il est parfait
+
+#####
+
+Encore quelques bugs mais franchement pas mal ...
+
+#####
+
+incroyable comme d'habitude, quelques modifications par rapport au 22
+
+
+#####
+
+Parfait jeux, parcontre il faut avoir des bases solides sur la f1 (aero etc)
+
+#####
+
+bien
+
+#####
+
+Oui,
+
+#####
+
+j'ai aimé la maniabilité du jeux et même pour un novice comme moi en jouant d abord avec le mode débutant on peut faire des performances bonnes  assez rapidement
+
+#####
+
+BIEN
+
+#####
+
+Meilleur jeu de gestion F1
+
+#####
+
+si tu kiff la f1 et la gestion fonce !
+
+#####
+
+3h de jeu et 15 crash, le jeu n'est pas terminé je pense ou alors il me manque le DLC "Stabilité".
+
+Edit : Après avoir réinstaller Windows 11 (parce que juste réinstaller le jeu ne changer rien), j'ai enfin résolu mes problème de crash. Probablement un programme en conflit. Cela dit c'est quand même chiant de devoir réinstaller Windows pour un jeu.
+
+#####
+
+impossible de jouer, car images saccadées, et invisibilité de la barre de contrôle permettant de quitter
+d'enregistrer de modifier......
+merci de votre réponse, 
+sinon cela semble être très intéressant 
+
+
+#####
+
+J'avais dit que je ne me ferai pas avoir...
+Et je comme un bon fan idiot je me suis quand même fait avoir...
+Ce jeu est une très légère évolution du précédent facturée le prix très fort. 
+C'est joli, il y a la license les images et la musique, mais le fond manque cruellement... Exemple tout bête impossible de faire une Q1 sans être géné au moins une fois dans un tour rapide.
+Si comme moi vous voulez vous lancer dans la gestion 'Alpha Tauri soyez prévenu que vos pilotes vont faire des erreurs en permanence. Après quatre courses De Vries a fait 2 accrochages et 3 sorties de piste, et Yuki 1 seul accrochage pour 5 sorties de piste. Et oui je surveille la température des pneus et l'attaque. De toute façon impossible d'attaquer avec ces deux pilotes.
+Bref si vous aimez la F1 passez votre chemin s'il est encore temps
+
+#####
+
+bien mais julien988 ne ma pas bien expliquer ce fdp
+
+#####
+
+
+
+#####
+
+
+
+#####
+
+.
+
+#####
+
+Ce jeu s'adresse  pour moi qu'a de pur connaisseur de la F1 il est difficile de s'amuser si on a pas beaucoup de connaissance, c'est  surement un bon point pour une simulation,
+
+#####
+
+très prenant , on perd la notion du tps , fidele aux sensations d'une vrai course
+
+#####
+
+je prend red bull je leur dis de se mettre a fond sur tout pneux carburant etc je me de fais double par williams j'échange avec williams ( en pensant bah que c'est 1 déséquilibre) mais j'arrive a finir 19 et 20 eme avec williams ( en mode carriére et que sur la premiere course et j'ai essayer plusieur fois avec les ou pas les meme ecurie et paramétre
+
+#####
+
+Meilleur voiture du paddock avec Redbull ( Verstappen et perez )  Mais à chaque course alors que je suis a pleine puissance , Aston Martin et Ferrari me bouffe , Leclerc qui me double Perez et verstappen sur le même virage et me claque 9s en 2Tours , il y a pas un problème la ? Est le jeux qui fait que crash lors des courses... 
+J'ai essayé plusieurs écuries ( Redbull Ferrari Mercedez Alpine j) j'ai quasiment toujours la meilleur voiture mais au fur a  mesure du temps l’équipe se dégrade complètement sans aucune raison
+
+#####
+
+Bonjour ...
+
+Alors je veux bien parler de graphisme , de nouveautés etc etc  ... mais le jeu fonctionne 3 mins et bloque donc je veux bien 
+être sympa avec les petits studios surtout pour leurs premier jeu et le début d'une série mais frontier n'es pas un lapin de 3 semaines de plus c'est la 2eme série F1 manager  donc les gars merci d'être compétant parce que si j'étais votre patron c'est lettre recommandé et licenciement .... donc merci je vous bouger les .....  pour avoir une superbe MAJ
+
+#####
+
+...
+
+#####
+
+The Tire management is impossible, it will always overheat and you will get passed on easily. Broken game
+
+#####
+
+its fun
+
+#####
+
+epic
+
+#####
+
+Aucun plaisir. Jeu lent. 30h de jeu pour gagner 1 place au classement. Nul.
+
+#####
+
+bien
+
+#####
+
+Il veut tout le temps des nouveaux graphics
+
+#####
+
+Je ne recommande pas le jeu car il manque de beaucoup de guidage pour les nouveaux joueurs. Étant une personne n'ayant jamais joué a un jeu de ce type avant, je n'ai pas tout compris lors de ma première course' je manque peut etre aussi d'éxperience ou même de niveau. Bref je ne recommande pas ce jeu pour les nouveaux joueurs.
+
+#####
+
+il serait quand même bien d'avoir le "vrai " système des sprints de cette année....
+
+c'est quoi l'utilité du jeu a part avoir las vegas et sargeant du coup?!!!!
+
+et clairement il faut jouer 50h pour faire gagner alpine et donc je préfère jouer a un autre jeu que ça
+
+en tant que fan de de F1 je déconseille fortement et je le désinstalle
+
+#####
+
+Franchement le 2022 était sympa mais celui ci est injouable. Première saison fait avec McClaren objectif 7eme, j'ai fini derniers sans pouvoir rien pouvoir faire, même en optimisant bien les pièces l'écuries ne fait que régresser. Le niveau de Piastri est mal évaluer, sur le jeu il est vraiment le plus mauvais sur la grille. 
+
+Le seul bon point c'est le changement d'usure des pneus qui est plus réaliste et qui a vraiment son importance, car bon dans le précédent opus tu pouvais tout gérer avec des medium ou dure sans voir trop de différence avec les tendres. 
+
+Sinon deuxièmes saison avec Alpine, objectif 5eme, facile a respecter, mais compliquer de faire mieux vu que à chaque grand prix un des deux à un accident, si c'est pas les deux. Tu arrive à mis saison tu as quasiment plus de pièces de ERS, de boite de vitesse et de moteur, et le prix du moteur 5million laisse tomber pour t'en sortir. 
+
+En conclusion je n'y trouve aucun plaisir dans cette opus, ce n'est que de la frustration et tu as vite envie de changer de jeu. Je pense que des MAJ changerons tout ça, mais dans l'état le jeu n'est pas fun.
+
+#####
+
+No pre download in 2023 issou
+
+#####
+
+!
+
+#####
+
+incroyable
+
+
+#####
+
+I encountered a problem during my game which is that the game does not detect my mouse whereas in other games my mouse works well, do you have any idea why it does not work?
+
+#####
+
+Jeu excellent
+
+#####
+
+Un bon jeu de gestion pour commencer
+
+#####
+
+good
+
+#####
+
+franchement une tuerie dans son domaine , bien pensé et abordable .
+
+#####
+
+
+
+#####
+
+Jeu très cool a jouer avec les mods c'est encore mieux.
+Point négatif les states de pilotes sont pas très bonne
+
+#####
+
+Vraiment une simulation de haut calibre! Rien ne manque, malgré que cette simulation soit très complexe elle vaut la peine d’être acheter.
+
+#####
+
+Bon en avant par rapport a l'Edition 2022 :
+
+On peu vraiment développer tout l'aspect de la monoplace, mais également l'aspect usine et développement derrière, et surtout attention à ne pas dépasser le budget cap.
+Le jeu est extrêmement bien fourni en terme de possibilités, ont peut gérer vraiment son écurie de A à Z est c'est vraiment bien.
+
+On peut fabriquer de nouvelles pièces pour ces monoplaces, changer les pilotes et le staffs, construire de nouvelles infrastructures pour améliorer la réputation de son écuries.
+
+Positifs :
+
+- CAMERA INTERIEUR
+- AMBIANCE DU JEU
+- DEVELOPPEMENT DE LA MONOPLACE
+
+Négatifs :
+
+- QUELQUES BUGS
+- BEAUCOUP DE CRASH EN FIN DE SAISON
+
+#####
+
+Bon jeu de gestion de formule 1, complet je recommande.
+
+#####
+
+Jeu qui crash souvent, beaucoup de bug mais plus de MAJ
+
+#####
+
+poltronesofa artisane de la qualitad et voilaa
+
+#####
+
+bien pour le fan de la f 1
+
+#####
+
+Jeu très sympa, mais plusieurs bug dans la partie course (écran qui se fige, une partie qui n'est utilisable
+
+#####
+
+le manager 2023 est plutôt bien fait niveau graphique et game play  avec quelques petit bug , mais surtout le point négatif c'est que le jeu plante toujours après  3 à 4 courses se qui donne moins de plaisirs à jouer...en espérant un patch pour améliorer ça  ..je vais mettre un pouce bleu vu que le jeu était en promo.
+
+#####
+
+JEU TRES REALISTE 
+
+
+
+
+
+
+
+#####
+
+Sympas
+
+#####
+
+un peu mieux que le 2022 mais rien de vraiment neuf quelque détail se sont pas foulé!
+
+#####
+
+trop bien pour les fou de f1
+
+#####
+
+demande une certaine config mais très bon jeu
+
+#####
+
+oui
+
+#####
+
+bon jeux
+
+#####
+
+
+
+#####
+
+très bon jeux
+
+#####
+
+jeux très sympa pour les personne fane de f1
+
+#####
+
+
+
+#####
+
+Très bon jeu de gestion
+
+#####
+
+Really good but please someone tell Ocon and Gasly to stop crashing into each other
+
+#####
+
+Jeux moyen. à prendre uniquement si vous êtes fan de F1.
+
+#####
+
+Bon jeu dans l'ensemble 
+Mais saison 2023 IRL a revoir
+
+#####
+
+bien meilleur que sont prédécesseur sur tout les point.
+
+#####
+
+si vous hésitez à le prendre parce que vous avez le 22 franchement ça vaut le coup
+
+#####
+
+.
+
+#####
+
+trop de bugs, dont certains bloquant toute progression du jeux, de mon coté je ne peux pas recruter de pilote de reserve en fin de saison et puisque que j'ai mis mon ancien pilote de reserve en voiture je ne peux plus avancer dans le jeux
+
+#####
+
+Super jeu
+
+#####
+
+une nette amélioration par rapport au F manager 2022.
+Il demande à être encore plus étoffé mais le plaisir est là
+
+#####
+
+très bien
+
+#####
+
+tout est bien
+
+#####
+
+C'est top, parfois un peu répétitif mais pour ceux qui aiment la F1, foncez !
+
+#####
+
+super quand on aimes la gestion
+
+
+#####
+
+Super jeu. Le seul problème technique rencontré ce sont les sons de la radio des pilotes inaudibles parfois. Sinon, hyper prenant. Si quelqu'un sait comment économiser les gommes, je prends, car je fais toujours un pit-stop de plus que mes concurrents. Et là, c'est dur. :)
+
+#####
+
+très bon jeu juste quelque bug mais dans l ensemble très amusant
+
+#####
+
+Super jeu de gestion un peu redondant mais j'adore
+
+#####
+
+Le jeux est franchement moyen. C'est une grosse mise à jour avec la correction des bugs du drs du 2022. Le reste est assez similaire sans franchement de vrais ajouts demandé par la communauté. 
+Le développement de la monoplace est mieux fait, le changement d'écurie aussi même si cela reste basique dans le fonctionnement. 
+
+Le gros point noir pour ma part, c'est le manque de l'option de créer son team. Il avait été promis, il ne sortira pas ... C'est bon, on a fait la promesse, certains se ce sont fait avoir, on a gagné notre fric, le reste on s'en fout. 
+La partie évolution des pilotes n'est pas non plus très réaliste à mon goûts, ça plafonne vite autour de 87 et les autres pilotes atteignent vite ce niveau pour finir avec un plateau qui a presque les mêmes notes.
+
+Finalement, j'ai été patient, j'ai attendu les mises à jour avant de donner une note et c'est la déception. 
+
+C'est fade avec le sentiment d'avoir été pris pour un c... avec la fonction my team qui n'arrivera pas.
+
+Le 2024 se fera sans moi et au vu des commentaires, sans beaucoup de monde ...
+
+#####
+
+le jeu est bien mais trop de choses a géré pendant les cours c'est un jeu de manager tu géré une équipe qui géré les pilotes là trop a faire sur une cours.
+
+#####
+
+bon jeux
+
+#####
+
+super
+
+#####
+
+nul
+
+#####
+
+Redondant, une fois avoir fais l'agreable découverte avec le 1er opus, le 2eme n'apporte rien de bien niveau immersion ou simulation, ils manque beaucoup de chose dans f1 manager pourtant basique dans le monde de la f1, motorsport existe depuis des années est apporte autant avec les mods que f1 manager 2023, autant rester sur le 2022 et utiliser un mod qui met a jours les équipes.
+
+Bref de l'argent perdu
+
+#####
+
+tres bien pour les fans
+
+#####
+
+Bon
+
+#####
+
+very good
+
+#####
+
+Jeu vraiment cool commande facile à comprendre top
+
+#####
+
+Très bon jeu
+
+#####
+
+bien
+
+
+#####
+
+Ne l'achetez pas . le f1.22 est tous aussi bien et plus gérable . donc étant grand fan je suis particulièrement deg 
+des bug non corrigé .une mise a jour qui aurait du être sur 2022 . HE dans tous ca .la dernière mise a jour n'est pas correcte non plus . blocage dans les tour de qualif par les concurrent incessant est pour les fan d alfa romeo il devait faciliter l objectif mais même avec ca. ca suffit pas .3 saison je parle de la 1er et tu te fais viré car même en changeant les développement usine etc dans leur sens . c'est limite atteignable . donc dans les 3 1er grand prix marque des points sinon t virer a la fin de la saison . safety car moins souvent ces pas top non plus car ça donne moins de chance niveaux stratégie . la différence de gestion des pneus et peu changeante par rapport au 22 ou alors ces moi ^^............... enfin attendez 3.4 ans d ici ils nous auront sortie un truc complet .
+
+#####
+
+Excellente simulation de management !
+
+#####
+
+Trop de crash entre les voiture c'est abusé et surtout loin d'être réaliste ; des beug; pour un jeux vendu aussi cher ca fait chier
+
+#####
+
+still lacks depths, designing new parts always garanties more performance even with low level facilities, life's not that easy. Maybe add difficulties before starting season, if u don't want to make it too hard for new players...
+
+#####
+
+le meilleur jeu de strategie et pour les passioné
+
+#####
+
+J'ai pas mal joué à f1 manager 2022. Il y avait beaucoup de defauts bien que le jeu soit un bon début.
+Dans f1 manager 2023, les developpeurs ont su reparer beaucoup de soucis de l'opus précédent.
+
+La difficulté a été revue à la hausse. Il est plus dur de rester dans le budget du sponsor, on ne peut plus recruter un pilote très capé en tant que petite équipe, et espérer gagner dès la deuxième saison. L'ajout d'usure sur les éléments aero est un gros plus.
+Le fait de pouvoir gérer l'agressivité du pilote en course est une très bonne idée, ça nous permet d'avoir un pilote bien plus performant mais qui fait beaucoup d'erreurs, je trouve ça très équilibré.
+
+Le développement des pilotes est aussi mieux fait, je trouve enfin un interet à embaucher un pilote de f2 dans mon équipe.
+
+Maintenant que tous les points positifs à mon sens ont été dit, j'aimerai parler des choses que j'aimerai voir dans un jeu officiel de la F1.
+
+- Il n'y a pas de filière jeune pilote. On devrait pouvoir créer une infrastructure pour jeunes pilotes, qui sont en f3 / f2 voir meme catégories avant type freca
+- Les pilotes sont très exigeants en salaires. Un pilote qui a un salaire de 2M, en fin de contrat, ne bougera pas chez vous pour un salaire bien plus élevé !
+- Pas de blessure en cas de gros crash, certe c'est rare, mais le pilote de développement ne sert absolument à rien...
+- Il manque de la politique, proposer des règles etc (comme motorsport manager), placer un jeune pilote dans une autre écurie etc
+- Les autres écuries n'essaient jamais de débaucher nos pilotes 
+- Et un truc super important, pourquoi on ne peut pas créer de team ? Ce serait génial !
+
+#####
+
+Aucuns efforts des développeurs pour mettre à jour les livrées et châssis. De plus de nombreux Bug vous oblige à Alt F4 en plein GP
+
+#####
+
+++
+
+#####
+
+Le jeu est bien à jouer juste les graphiques visuelles de certains circuits qui ne sont pas dingues comme Monaco ou Baku. Sinon la nouvelle mise à jour qui permet de changer de team permet vraiment de jouer à un jeu de gestion même s'il reste beaucoup de fonctionnalité à rajouter
+
+#####
+
+zz
+
+#####
+
+
+
+#####
+
+
+
+#####
+
+5 min de jeu en course et déjà un crash ça promet
+
+#####
+
+,
+
+#####
+
+incroyable
+
+#####
+
+parfai't
+
+#####
+
+Gameplay loop and difficulty have been improved, great.
+
+The game is littered with bugs:
+- Sometimes the game just freezes during a race, must start over !
+- Sometimes the game server crashes: you can interact with menus and everuthing, but click unpause and nothing happens !
+- The management UI has incorrect numbers in some places, or straight up no numbers where they should be
+- Many more ! discover them at your own expense (please don't)
+
+#####
+
+ENORME!
+
+#####
+
+génial
+
+
+#####
+
+Top
+
+#####
+
+Au même titre que le 2022, avec quelques nouveautés, reste un bon jeu de gestion malgré qu'il plante régulièrement
+
+#####
+
+jeux intéressant mais reste beaucoup de belle opportunité de modification pour le rendre encore meilleur. SInon pourrait devenir moins intéressant avec le temps.
+
+#####
+
+Dommage qu'il n'y ai pas le championnat F2... Peut etre lors d'une mise a jour ?
+
+#####
+
+très bon jeu ! beaucoup plus dur que celui de l'an dernier donc, moins lassant = meilleur jeu
+
+#####
+
+Très bon jeu, bien meilleur que le 2022, beaucoup plus réaliste
+
+#####
+
+très bon jeux il faut avoir une bonne connaissance en F1 puis il y a beaucoup chose a faire pavant course et pendant la course on doit bien géré son staff et ses pilotes et faire évolué ses monoplace F1 pour ce qui bien la simulation et stratégie est que vous aimer les imprévue pendant la course allez y mieux que le premier
+
+#####
+
+Excellent, complet, super jeu sur la gestion d'une écurie de F1
+
+#####
+
+Très bon jeu
+
+#####
+
+top du top
+
+#####
+
+Super sympa dans l ensemble juste les haas qui font h24 des accidents sur tout le monde
+
+#####
+
+Je valide.
+
+#####
+
+cool
+
+#####
+
+Trop peu de nouveautés comparé au jeu de 2022. Toujours + de bugs qui gâchent l’expérience de jeu, par exemple :
+- Concours de qui bloquera le plus de voiture en tout rapide lors des qualifications sans pénalité évidemment
+- Des pénalités données au hasard, on se fait percuter mais on prend 5 secondes 
+- dans une crash, les retardataires vont percuter les voitures déjà a l’arrêt 
+- la multitude d’incidents/accidents en piste jamais vu en vrai
+
+#####
+
+Magnifique, première course tour 42, plantage du jeu, obligé de recommencer tout.  Merci quoi !
+
+#####
+
+incroyable immersion
+
+#####
+
+fff
+
+#####
+
+Je n'ai pas joué à la version 2022, donc je pourrais pas vous dire ce qu'il fait de mieux, ou moins bien.
+J'ai pris le jeu pour ce qu'il est, tout en ayant déjà joué au classique Motorsport Manager.
+
+On est ici sur de l'officiel, avec une équipe de dev expérimenté eeeeetttt je m'attendais simplement à mieux.
+
+Une liste de choses qui me déçoivent : 
+- Les séances d'essais sont chiantes (c'est peut être comme ça en vrai pour les écuries également, mais on est sur un jeu vidéo, si je voulais un jeu chiant, je jouerai à un "jeu du travail" simulator)
+- Le moteur 3D est dégueulasse, les plans de caméra mettent parfois bien en avant des textures bien low def, et les modèles 3D de pilote sont méconnaissables (paramètre Ultra)
+- Il y a un effet de flou dégueulasse également, non désactivable.
+- Certaines musiques agaces, j'ai coupé les musiques du coup.
+- Les menus sont pas toujours pratiques ou adapté. Par exemple lors de la production de pièce, pas d'accès au calendrier, on doit revenir en arrière et refaire la démarche de fabrication en calculant les dates. Mais globalement, les menus sont pas pratique.
+- Le tutoriel est incomplet. Entre le fait qu'il n'explique pas le fonctionnement de l'entrepot et sa corrélation avec le % des pièces. Au début le tutoriel te dit qu'il va revenir vers toi pour t'expliquer le fonctionnement des courses sprint, et au final rien, ou encore l'intérêt d'avoir du stock de pièces. Bref on apprend souvent sur le tas, en faisant des erreurs, et en cherchant sur les forums.
+- Le "vivier" de personnel est limité et sa gestion "grossière". Pour le côté limité, je vais prendre l'exmple de mon ingé aéro, il est nul, je veux le remplacer, et bien c'est impossible, ils sont tous engagés, et même les pires ne veulent pas négocier.
+- Pas de possibilité de créer sa propre écurie.
+- La gestion de l'ERS par les pilotes, en mode tout ou rien, cela oblige a faire du micro management dessus, c'est chiant. On a parfois besoin de gérer les pneus ou le carburant, mais pas au même rythme.
+
+
+Malgré tout, je ne peux pas non plus le déconseiller :
+- Oui c'est moche, mais ça tourne bien, pas de bug, pas de plantage pour ma part. J'ai commencé le jeu après les patchs.
+- Le jeu semble équilibré pour l'instant, et j'ai un sentiment de progression.
+- Le jeu fait le minimum requis, dans une période ou nous n'avons rien d'autre.
+- Les menus sont jolies, a défaut d'être pratique.
+- Les chargements sont rapides.
+
+On peut se dire qu'il y a plus de mauvais points que de bons, mais certains sont liés à des attentes personnelles.
+On paye clairement la licence pour que le contenu, Motorsport Manager a autant de contenu, mais en ayant les lacunes liés à son age et prétention.
+
+Si il avait eu des problèmes techniques, j'aurais noté négativement, mais je trouve que la stabilité est devenu très important après une période compliqué ou tous les jeux tournaient misérablement.
+
+#####
+
+pour tous les fans de f1
+
+#####
+
+Pas d'équivalent à ce niveau de graphisme donc difficile de faire la fine bouche mais on est loin du jeu fini. Dans les stands tu arrives et à part ton équipe y a personne !!! bonjour le réalisme. Les crashs c'est tellement ridicule que clairement ils ont du faire totalement l'impasse sur le développement, en fait quand les voitures ont un accident il y a des confétis sur la piste !! on peut donner la main au pilote sur l'ERS mais c pas flagrant, le systéme doit être revu......ça manque encore clairement de communications radio, et pourtant il y a du mieux mais on est vraiment encore loin du résultat qu'on peut attendre. Ce type de jeu devrait être vendu au prix fort et les années suivantes ils devraient faire un forfait pour ceux qui ont acheter le jeu, d'une aller à l'autre faut repayer le prix fort alors que clairement ils s'agit d'une simple mise à jour et disons les choses, même si le jeu est bien on est encore sur un produit non fini !!!
+
+#####
+
+il est tres bon
+
+#####
+
+Super ! Le jeu a bien évolué, bon en soit le gameplay ne change pas bien sur, le principe reste le même mais on peut pas vraiment demander plus pour les jeux de ce type comme NBA, FIFA, MADDEN, ect...
+L'IA a été beaucoup amélioré, meilleur défense, meilleur stratégie (gestion pneu, carburant, arrêt au stand).
+Le développement de la voiture aussi, plus de conception disponible, ce n'est plus cheaté niveau stat comme sur le 2022, avant c'était développement fond plat à fond et bout de la saison 2 tu jouais le titre avec Williams. 
+La façon de jouer, on peut choisir comme sur le 22 de pousser à fond sur les pneus, carburant, ERS mais maintenant on a la possibilité de dire au pilote de défendre normalement, beaucoup ou pas du tout et la même pour les dépassement, on peut le rendre encore plus agressif sur son attaque et tout ça en augmentant le risque d'accident et inversement. 
+Classement F3 et F2 qui est une bonne améliorations pour le recrutement de nouveau pilote.
+Les accidents sont beaucoup plus réaliste ce qui manquait au 22. 
+Bref un opus avec une net améliorations que je valide !
+ 
+
+
+
+#####
+
+Très bon jeu.
+
+#####
+
++
+
+#####
+
+bon jeu mais encore trop de bug!
+crash trop récurrent dernier en date impossible de cliquer sur quoi que ce soit obliger de fermer le jeu en force
+
+#####
+
+Super jeu, bien meilleur que le précédent.
+
+#####
+
+Si vous avez aimé F1 manager 2022, vous allez également aimé celui la.
+
+#####
+
+Le jeu est bien plus équilibré que l'an dernier. Le plafond financier sert à quelque chose, développer des pièces est plus difficile et leur usure apporte quelque chose.
+
+En course aussi c'est mieux, il y a moyen d'élaborer des stratégies décalées.
+
+On peut enfin recruter pour l'année prochaine et pas forcément immédiatement.
+
+Bref plein de petites améliorations qui en font désormais un bon jeu, plus intéressant sur le long terme !
+
+#####
+
+Mieux que le 22
+
+#####
+
+NICE
+
+#####
+
+Encore un très bon jeu avec de nettes améliorations malgré quelques bugs et la non compréhension dans l'achèvement d'une pièce
+Gameplay meilleure et plus réaliste offrant une difficulté supplémentaire comparée au précédent opus
+
+#####
+
+Meilleur que le 22 c'est clair. C'est toujours aussi amusant. Une nouvelle vue appréciable celle du casque, ça met dans l’ambiance. j'aime bien Alonso, alors j'ai changé d'écurie, d’Alpine a Aston Martin. Bref ! Plein de bonne chose et d'amélioration. le jeu est bien suivi pour l'instant par les devs, deux patch à ce jour. C'est assez pointu de s'occuper d'une écurie F1, faut faire pas mal de chose, sinon tes viré ^^
+
+je conseille ce simulateur..
+
+#####
+
+Le jeu plante complet 1 fois par week-end de course minimum, c'est insupportable et injouable ! A ce prix la c'est abusé !!
+
+#####
+
+Génial
+
+#####
+
+Pour les adeptes de la gestion et du management c'est le jeu parfait, surtout si en plus de cela vous aimer le sport automobile. 
+Ce jeu est fait pour vous ! 
+Le jeu est extrêmement bien fourni en terme de possibilités, ont peut vraiment gérer son écurie de A à Z avec plusieurs possibilités de développement.
+On peut fabriquer de nouvelles pièces pour ces monoplaces, changer les pilotes et le staffs, construire de nouvelles infrastructures pour améliorer la réputation de son écuries.
+Honnêtement là dessus je n'ai rien redire sur la possibilités de gameplay à faire.
+Même les graphismes ou je m'attendait pas à quelque chose d'extraordinaire par rapport à EA F1, j'ai été surpris, ils sont pas mal.
+Je le recommande réellement si vous aimez sa la gestion et le management.
+
+#####
+
+inc
+
+#####
+
+First hours of play, serious improvements gamewise. I was not expecting this version to be worth it, but the races are more realistics, the additional features are a great improvement. So far it's a positive step.
+
+Cons: -sprint race is the 2022 format. An update to the new fortmat would be cool.
+
+#####
+
+bobo
+
+
+#####
+
+Masterclass sans nom
+
+#####
+
+Incroyable ! 
+
+FORZA FERRARI :D
+
+#####
+
+super jeu 
+
+
+#####
+
+bien
+
+#####
+
+Le meilleur jeu de management
+
+#####
+
+très bon jeu rien à dire
+
+#####
+
+J'ai donné le bénéfice du doute au dév, mais il n'y presque pas de MAJ et le jeu est bugué. Très décevant.
+
+#####
+
+Malgré une réelle sensation de réalisme, j'ai pour ma part la même impression de guidage linéaire que sur des jeux F1 EA aux niveaux des améliorations et du fameux nivellement par le bas. 
+
+Après avoir raté mon développement et mettre fais virer d'Alpha Romeo je peux dire que le jeu n'est pas facile ce qui est bon. Mais malheureusement je trouve que niveau re-jouabilité à part le mode carrière c'est un peut light.
+
+Plutôt mitigé dans l'ensemble.
+
+J'ai vraiment l'impression de ne pas évoluer dans ce jeu malgré des bons coups stratégique du développement...
+
+#####
+
+le jeu fais que crash, peu d’amélioration et de correction de bug par rapport a l'an dernier ...
+ce jeu aurait simplement du être une mise a jour du premier, mais bon on arrête jamais l’incompétence
+
+#####
+
+Bonjour, j'ai remarqué que sur certain Grand prix l'IA n'utilisais qu'une seul gamme de pneu en faisant 1 seul arrêt en mettant medium/medium cela est interdit dans la vie réel il doit y avoir deux sorte de gomme utilisé lors d'un grand prix quand il ne pleut pas. Est-ce un bug de jeu ou alors un patch va être fais pour résoudre se problème?
+
+#####
+
+Je prend un grand plaisir a jouer au jeu
+
+#####
+
+Le premier était bon le deuxième encore meilleur, il corrige nombre de défauts, plus complet et surtout plus difficile que le premier un régal
+
+#####
+
+incroyable
+
+#####
+
+très bon jeu avec beaucoup de réalisme surtout au niveaux des crash mais quelque bug encore a résoudre mais reste un excellent jeu de simulation et de stratégie
+
+#####
+
+J'ai adoré le f1 2022 et le f1 2023 est encore mieux. Du plaisir depuis sa sortie. Le niveau de jeu est bien plus compliqué mais on aime ca.
+
+#####
+
+tres bien mais a améliorer
+
+#####
+
+Un jeu formidable, bon il y a des petits bug (du moins la ou je suis avec Mercedes) 
+Bon jeu dans l'ensemble, des changements par rapport au précédent qui sont très agréable, beaucoup plus d'agressivité, de suspens. par contre la conception a était radicalement revue ou les améliorations apporter ne se ressent qu'au bout de la fin de saison
+
+#####
+
+jeu passionnant avec un excellent graphisme
+
+#####
+
+Très belle suite réussie de F1 Manager 22. 
+
+Plusieurs petits changements assez mineurs mais qui additionnés en font un jeu original. A voir sur le long terme si il y a d'autres nouveautés (intersaison modifiée, plus de difficulté, etc) pour donner une grosse durée de vie au jeu. 
+
+Gros point positif par rapport au précédent : apparemment on peut changer d'écurie dans la même carrière sans user de mods. Juste un petit point négatif : on est pas censé être sur crashtest simulator...
+
+A acheter les yeux fermés pour les fans de F1 et de gestion à la fois (surtout si vous n'avez pas fais le 2022) !
+
+#####
+
+comme le 2022 mais avec beaucoup plus de features et des IA beaucoup plus perfomantes
+
++Ia très bien
++enfin le Sprint !
++mode attaque (qualifs avec hard, medium, soft)
++graphismes très beau
++gestion des stands beaucoup mieux
++meilleur developpement du personnel/pilote
+++++++ CAMERA PILOTE DANS LE CASQUE !
+
+- encore qlq bugs
+- pas ricciardo dans l'intro :(
+
+#####
+
+oui
+
+#####
+
+Excellent.
+
+#####
+

@@ -50,6 +50,44 @@ Bon jeu !
 
 #####
 
+[h1][b][u]La Mer des Étoiles.[/u][/b][/h1]
+
+[b][i]J'avais entendu dire, par le studio lui-même, que Sea of Stars se passait dans le même univers que The Messenger, sans vraiment y croire. J'ai tout de même joué à ce dernier pour y découvrir son univers et ainsi tenter de faire le lien entre les deux jeux et je ne regrette pas d'avoir fait, car c'est un bon jeu et il m'a permis d'avoir les références présente dans Sea of Stars. De plus, le Studio préparerait un DLC qui mettrait en lien The Messenger et Sea of Stars de façon plus explicite.[/i][/b]
+
+
+[b][i]Sea of Stars[/i][/b] est un jeu incroyablement joli et probablement le premier jeu en [b][i]Pixel Art[/i][/b] sur lequel je me suis dit aussi souvent [b][i]"Waaaa, c'est trop bow !"[/i][/b]
+Le [b][i]design[/i][/b] de tous les personnages est réussi, leurs portraits sont également plutôt beaux, mais ce qui est par-dessus tout magnifique ce sont la beauté des environnements et des paysages.
+Les [b][i]animations[/i][/b] sont, elles aussi, d'une qualité incroyable et cela est d'autant plus remarquable que le bestiaire est colossal. Tout est fait avec soins et détails, il n'y a rien à redire.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3060916453
+L'[b][i]interface[/i][/b] est simple et plutôt intuitive. Les développeurs ont par ailleurs soigneusement construit leur interface afin de préserver un maximum de surprises, ce qui est bien trop rarement le cas pour ne pas être mentionné.
+
+Les [b][i]combats[/i][/b] sont sympathiques et exigeants, mais ils évoluent très peu et manquent de diversité. L'utilisation des compétences est agréable et les [b][i]attaques boostées[/i][/b] sont un petit plus, cependant, les possibilités sont assez limitées ce qui rend les combats assez répétitifs. De plus, les [b][i]attaques ultimes[/i][/b] infligent relativement peu de dégâts par rapport à certaines compétences ou [b][i]attaques combinés[/i][/b]. En revanche, être sollicité lors des attaques, des parades et lors de certaines compétences, est vraiment appréciable. Enfin, les combats de Boss sont cool et vraiment stylés.
+Le [b][i]système de verrou[/i][/b] est une mécanique de gameplay intéressante. Lorsqu'un ennemi prépare une attaque spéciale, un cadre, appelé [b][i]"verrou"[/i][/b], apparaît au-dessus de lui. Composé de plusieurs cases, ce [b][i]verrou[/i][/b] se brise lorsque l'ennemi subit tous les types de dégâts correspondants aux éléments présents dans le cadre. Malheureusement, le [b][i]système de combat[/i][/b] reste essentiellement le même du début à la fin. Un système de placement et des attaques plus variées, comme des attaques de zones en ligne, en cercle ou en cône, auraient été parfaits.
+
+La [b][i]montée de niveaux[/i][/b] est plutôt sympathique, bien que quelque peu anecdotique. En effet, après chaque montée de niveau, il est possible de choisir une statistique, ce qui donne le sentiment de pouvoir orienter ses personnages selon ses préférences. Finalement, il n'en est rien, puisque chaque statistique peut être amélioré un nombre défini de fois. À la fin, il ne reste que ce qui n'a pas encore été choisi, ce qui est dommage.
+
+L'évolution de l'[b][i]équipement[/i][/b] est linéaire et peu satisfaisante. Les nouvelles armes et armures n'offrent qu'une simple hausse de statistique par rapport à la version précédente, toutefois, toutes les armes n'ont pas la même couleur. Le minimum aurait été d'avoir deux types d'armes et d'armures afin de pouvoir orienter ses personnages vers un style de combat physique ou magique. Seuls les [b][i]accessoires[/i][/b] apportent un peu de personnalisation, ce qui est bien dommage. Il y a également un emplacement d'accessoire spécial qui permet à chaque personnage d'équiper un [b][i]accessoire doré[/i][/b] avec des bonus qui affectent tout le groupe.
+
+L'[b][i]histoire[/i][/b] est bonne et se démarque des récits habituels. Elle est plutôt originale et offre quelques rebondissements inattendus. Les défis auxquels notre groupe est confronté sont proportionnels à leur capacité à les surmonter, ce qui ajoute une cohérence appréciable. En ce qui concerne les personnages, bien qu'ils évitent les clichés, ils manquent globalement de profondeurs. [b][i]Zale et Valer[/i][/b] sont trop semblables, leur caractère n'est pas assez prononcé, ils manquent d'un développement personnel et d'une petite étincelle pour les rendre vraiment mémorables. On ne connait pas grand-chose de leurs envies, souhaits ou désirs, et au contraire [b][i]Garl[/i][/b] prend pour tous les autres et est dépeint de manière excessive, avec un caractère exagérément joyeux, naïf et insouciant. Malgré ça, j'ai globalement apprécié tous les personnages.
+
+Les [b][i]dialogues[/i][/b] sont corrects, même si quelques fautes viennent se glisser par-ci par-là. Mais encore une fois, aucun personnage ne se démarque réellement au travers des dialogues, mis à part [b][i]Garl[/i][/b] et son insouciance.
+
+Les [b][i]énigmes[/i][/b] des donjons manquent clairement de challenge. Elles sont si simples qu'elles ne constituent en rien un véritable obstacle. Leur résolution ne nécessite que peu de réflexion, ce qui rend leur aspect pseudo-complexe quelque peu décevant.
+
+Le [b][i]système de Reliques[/i][/b] est intéressant puisqu'il permet au joueur d'activer ou désactiver les différents bonus offerts par les Reliques. Toutefois, certaines Reliques sont clairement conçues pour faire office de [b][i]mode facile[/i][/b]. Par exemple, la première Relique que nous récupérons, la [b][i]Relique de Narration[/i][/b], double les points de vie et régénère la santé de nos personnages après chaque combat. Il y a également une Relique qui permet de réduire les dégâts reçus et une autre qui, en contrepartie d'un petit malus, permet d'attaquer deux fois sans avoir besoin de synchroniser son attaque. Ces Reliques auraient pu être des récompenses gratifiantes ou des bonus pour le [b][i]New Game +[/i][/b]. Ce qui me dérange ici, c'est que le mode facile n'existe pas et que toutes les Reliques peuvent être activées et désactivées sans conséquence. Lorsque je joue à un jeu, je préfère respecter les règles établies plutôt que de les modifier pour qu'elles me conviennent. Si je trouve un jeu trop dur, je baisse la difficulté.
+
+[b][i]Sea of Stars[/i][/b] nous propose un mini jeu appelé la [b][i]Roulette[/i][/b]. Je vous épargne les détails des règles, mais sachez que ce jeu n'est pas du tout équilibré, du moins au début, car tous les joueurs n'ont pas la même roulette. Notre première Roulette ne dispose d'aucune case double, alors que les adversaires en ont plusieurs et parfois même des triples. Bref, même si le jeu de la [b][i]Roulette[/i][/b] est plutôt amusant, il est trop aléatoire et pas du tout équitable.
+
+L'[b][i]OST[/i][/b] est tout bonnement incroyable. Pratiquement toutes les musiques ont deux versions, une pour le jour et une pour la nuit, certaines bénéficient même d'une version "Pirates" particulièrement plaisante.
+
+
+[b][i]Sea of Stars nous offre des environnements exceptionnellement magnifiques et une OST d'une qualité remarquable. L'histoire est bonne et ne s'engouffre pas dans le "toujours plus" dont nous a habitué ce type de jeu. Le système de combat est sympathique, mais trop répétitif. Je trouve qu'il lui manque un aspect stratégique pour réellement en faire un bon système de combat. Le choix des statistiques lors des montées de niveaux est anecdotique et plutôt décevant, tout comme l'évolution simpliste des armes et armures qui ne permet pas de véritablement optimiser ses personnages. Enfin, les fans de The Messenger seront ravis de découvrir les clins d'œil présent dans Sea of Stars, que ce soit à travers les lieux, les compositions musicales ou même les boss. Je ne peux que vous conseiller de jouer à ce jeu, les dev le mérite et vous aussi ![/i][/b]
+
+[code]Si l'avis vous a plu, vous pouvez en trouver d'autres [url=https://store.steampowered.com/curator/36900571/] ici. [/url][/code]
+
+#####
+
 [h1]Pourquoi une revue négative ?[/h1]
 Soyons clairs : [b][u]le jeu est bon[/u][/b]. Il a été nominé meilleur jeu indépendant aux Game Awards pour une raison.
 Cependant, il m'a vraiment déçu. Je suis d'accord avec beaucoup de revues négatives que je lis, et pour moi malheureusement, ça contrebalance tout ce qu'il y a de positif. Et [b]ça m'énerve de ne pas aimer ce jeu[/b]. Alors, pourquoi ?
@@ -100,44 +138,6 @@ Et aussi, un point original qui aurait pu être très bien mais qui est gâché�
 Sea of Stars est un bon jeu. Après avoir goûté à la démo, j'avais tellement envie d'apprécier le jeu complet : mais les 5 premières heures de jeu passées, je me suis lentement englué dans une marée noire de marasme.
 Je suis tellement déçu.
 
-
-#####
-
-[h1][b][u]La Mer des Étoiles.[/u][/b][/h1]
-
-[b][i]J'avais entendu dire, par le studio lui-même, que Sea of Stars se passait dans le même univers que The Messenger, sans vraiment y croire. J'ai tout de même joué à ce dernier pour y découvrir son univers et ainsi tenter de faire le lien entre les deux jeux et je ne regrette pas d'avoir fait, car c'est un bon jeu et il m'a permis d'avoir les références présente dans Sea of Stars. De plus, le Studio préparerait un DLC qui mettrait en lien The Messenger et Sea of Stars de façon plus explicite.[/i][/b]
-
-
-[b][i]Sea of Stars[/i][/b] est un jeu incroyablement joli et probablement le premier jeu en [b][i]Pixel Art[/i][/b] sur lequel je me suis dit aussi souvent [b][i]"Waaaa, c'est trop bow !"[/i][/b]
-Le [b][i]design[/i][/b] de tous les personnages est réussi, leurs portraits sont également plutôt beaux, mais ce qui est par-dessus tout magnifique ce sont la beauté des environnements et des paysages.
-Les [b][i]animations[/i][/b] sont, elles aussi, d'une qualité incroyable et cela est d'autant plus remarquable que le bestiaire est colossal. Tout est fait avec soins et détails, il n'y a rien à redire.
-
-https://steamcommunity.com/sharedfiles/filedetails/?id=3060916453
-L'[b][i]interface[/i][/b] est simple et plutôt intuitive. Les développeurs ont par ailleurs soigneusement construit leur interface afin de préserver un maximum de surprises, ce qui est bien trop rarement le cas pour ne pas être mentionné.
-
-Les [b][i]combats[/i][/b] sont sympathiques et exigeants, mais ils évoluent très peu et manquent de diversité. L'utilisation des compétences est agréable et les [b][i]attaques boostées[/i][/b] sont un petit plus, cependant, les possibilités sont assez limitées ce qui rend les combats assez répétitifs. De plus, les [b][i]attaques ultimes[/i][/b] infligent relativement peu de dégâts par rapport à certaines compétences ou [b][i]attaques combinés[/i][/b]. En revanche, être sollicité lors des attaques, des parades et lors de certaines compétences, est vraiment appréciable. Enfin, les combats de Boss sont cool et vraiment stylés.
-Le [b][i]système de verrou[/i][/b] est une mécanique de gameplay intéressante. Lorsqu'un ennemi prépare une attaque spéciale, un cadre, appelé [b][i]"verrou"[/i][/b], apparaît au-dessus de lui. Composé de plusieurs cases, ce [b][i]verrou[/i][/b] se brise lorsque l'ennemi subit tous les types de dégâts correspondants aux éléments présents dans le cadre. Malheureusement, le [b][i]système de combat[/i][/b] reste essentiellement le même du début à la fin. Un système de placement et des attaques plus variées, comme des attaques de zones en ligne, en cercle ou en cône, auraient été parfaits.
-
-La [b][i]montée de niveaux[/i][/b] est plutôt sympathique, bien que quelque peu anecdotique. En effet, après chaque montée de niveau, il est possible de choisir une statistique, ce qui donne le sentiment de pouvoir orienter ses personnages selon ses préférences. Finalement, il n'en est rien, puisque chaque statistique peut être amélioré un nombre défini de fois. À la fin, il ne reste que ce qui n'a pas encore été choisi, ce qui est dommage.
-
-L'évolution de l'[b][i]équipement[/i][/b] est linéaire et peu satisfaisante. Les nouvelles armes et armures n'offrent qu'une simple hausse de statistique par rapport à la version précédente, toutefois, toutes les armes n'ont pas la même couleur. Le minimum aurait été d'avoir deux types d'armes et d'armures afin de pouvoir orienter ses personnages vers un style de combat physique ou magique. Seuls les [b][i]accessoires[/i][/b] apportent un peu de personnalisation, ce qui est bien dommage. Il y a également un emplacement d'accessoire spécial qui permet à chaque personnage d'équiper un [b][i]accessoire doré[/i][/b] avec des bonus qui affectent tout le groupe.
-
-L'[b][i]histoire[/i][/b] est bonne et se démarque des récits habituels. Elle est plutôt originale et offre quelques rebondissements inattendus. Les défis auxquels notre groupe est confronté sont proportionnels à leur capacité à les surmonter, ce qui ajoute une cohérence appréciable. En ce qui concerne les personnages, bien qu'ils évitent les clichés, ils manquent globalement de profondeurs. [b][i]Zale et Valer[/i][/b] sont trop semblables, leur caractère n'est pas assez prononcé, ils manquent d'un développement personnel et d'une petite étincelle pour les rendre vraiment mémorables. On ne connait pas grand-chose de leurs envies, souhaits ou désirs, et au contraire [b][i]Garl[/i][/b] prend pour tous les autres et est dépeint de manière excessive, avec un caractère exagérément joyeux, naïf et insouciant. Malgré ça, j'ai globalement apprécié tous les personnages.
-
-Les [b][i]dialogues[/i][/b] sont corrects, même si quelques fautes viennent se glisser par-ci par-là. Mais encore une fois, aucun personnage ne se démarque réellement au travers des dialogues, mis à part [b][i]Garl[/i][/b] et son insouciance.
-
-Les [b][i]énigmes[/i][/b] des donjons manquent clairement de challenge. Elles sont si simples qu'elles ne constituent en rien un véritable obstacle. Leur résolution ne nécessite que peu de réflexion, ce qui rend leur aspect pseudo-complexe quelque peu décevant.
-
-Le [b][i]système de Reliques[/i][/b] est intéressant puisqu'il permet au joueur d'activer ou désactiver les différents bonus offerts par les Reliques. Toutefois, certaines Reliques sont clairement conçues pour faire office de [b][i]mode facile[/i][/b]. Par exemple, la première Relique que nous récupérons, la [b][i]Relique de Narration[/i][/b], double les points de vie et régénère la santé de nos personnages après chaque combat. Il y a également une Relique qui permet de réduire les dégâts reçus et une autre qui, en contrepartie d'un petit malus, permet d'attaquer deux fois sans avoir besoin de synchroniser son attaque. Ces Reliques auraient pu être des récompenses gratifiantes ou des bonus pour le [b][i]New Game +[/i][/b]. Ce qui me dérange ici, c'est que le mode facile n'existe pas et que toutes les Reliques peuvent être activées et désactivées sans conséquence. Lorsque je joue à un jeu, je préfère respecter les règles établies plutôt que de les modifier pour qu'elles me conviennent. Si je trouve un jeu trop dur, je baisse la difficulté.
-
-[b][i]Sea of Stars[/i][/b] nous propose un mini jeu appelé la [b][i]Roulette[/i][/b]. Je vous épargne les détails des règles, mais sachez que ce jeu n'est pas du tout équilibré, du moins au début, car tous les joueurs n'ont pas la même roulette. Notre première Roulette ne dispose d'aucune case double, alors que les adversaires en ont plusieurs et parfois même des triples. Bref, même si le jeu de la [b][i]Roulette[/i][/b] est plutôt amusant, il est trop aléatoire et pas du tout équitable.
-
-L'[b][i]OST[/i][/b] est tout bonnement incroyable. Pratiquement toutes les musiques ont deux versions, une pour le jour et une pour la nuit, certaines bénéficient même d'une version "Pirates" particulièrement plaisante.
-
-
-[b][i]Sea of Stars nous offre des environnements exceptionnellement magnifiques et une OST d'une qualité remarquable. L'histoire est bonne et ne s'engouffre pas dans le "toujours plus" dont nous a habitué ce type de jeu. Le système de combat est sympathique, mais trop répétitif. Je trouve qu'il lui manque un aspect stratégique pour réellement en faire un bon système de combat. Le choix des statistiques lors des montées de niveaux est anecdotique et plutôt décevant, tout comme l'évolution simpliste des armes et armures qui ne permet pas de véritablement optimiser ses personnages. Enfin, les fans de The Messenger seront ravis de découvrir les clins d'œil présent dans Sea of Stars, que ce soit à travers les lieux, les compositions musicales ou même les boss. Je ne peux que vous conseiller de jouer à ce jeu, les dev le mérite et vous aussi ![/i][/b]
-
-[code]Si l'avis vous a plu, vous pouvez en trouver d'autres [url=https://store.steampowered.com/curator/36900571/] ici. [/url][/code]
 
 #####
 
@@ -309,6 +309,12 @@ Je recommande Sea of Stars quand même aux amateurs de JRPG des années 1990 à 
 
 #####
 
+Superbe jeu! Je savais qu'il etais bien coté, mais il vaut tout les beaux commentaires!
+J'adore et je recommande le jeu sans hésiter!
+Ca faisais longtemps que je n'avais pas joué a un jeu d'aussi bonne qualité!
+
+#####
+
 tres bon jeux fesais longtemps que javais pas eu ce feeling je le recommande a tous le monde 
 
 
@@ -386,16 +392,6 @@ Le pixel art est magnifique.
 
 #####
 
-Si vous avez adoré le style chrono cross  et que vous aimer les RPG alors Sea of Stars est pour vous. Il es innovant dans son style de combat , l'histoire excellente jusqu'à maintenant. Et le côté artistique est fabuleux ainsi que sa merveilleuse trame sonore. Je recommande sans hésiter.
-
-#####
-
-Superbe jeu! Je savais qu'il etais bien coté, mais il vaut tout les beaux commentaires!
-J'adore et je recommande le jeu sans hésiter!
-Ca faisais longtemps que je n'avais pas joué a un jeu d'aussi bonne qualité!
-
-#####
-
 Généreux!! Tellement!
 Ce jeu déborde de générosité! Il est fignolé dans ses moindres petits détails. Il y a besoin d'une animation spécifique, une écran entier magnifique juste pour illustrer une petite scène de 10 sec riche de sens, et bien vous l'aurez! 
 Ce pixel art est incroyable, jamais rien vu d'aussi beau depuis longtemps! Les animations sont du même acabit! La musique de même, entêtant et somptueuse! (La musique de l'usine cyber... rrrr top!).
@@ -405,6 +401,10 @@ Et pleins d'activité secondaire sympa et surtout des achivements qui humaine fa
 Et puis il y a plein de quêtes cachées super cool! Un conseil, une fois que vous débloquez le moyen de vous déplacer TRES TRES vite, faite un petit feu de camps et allez discuter avec vos compagnons, vous ne saurez pas déçu... 
 Une pépite! Foncez!
 Et les 1ier heures peuvent paraître assez redondante, mais très vite la variété va arrivé, plus de combo, de persos, de pouvoir, d'outils. Un vrai bonheur!
+
+#####
+
+Si vous avez adoré le style chrono cross  et que vous aimer les RPG alors Sea of Stars est pour vous. Il es innovant dans son style de combat , l'histoire excellente jusqu'à maintenant. Et le côté artistique est fabuleux ainsi que sa merveilleuse trame sonore. Je recommande sans hésiter.
 
 #####
 
@@ -778,6 +778,19 @@ A faire peut être, mais à acheter en promotion.
 
 #####
 
+Mais quel grande idée de mettre juste 4 compétences par personnages ... niveau gameplay en 2 h on a fait le tour ... ridicule pour un RPG ...
+
+#####
+
+Un énorme scam, le sort de boomrang on pensait qu'il y'aurai autre chose apres mais nan.. le meme sort en boucle pendant tout le jeu.. 
+J'abuse car il y'a vraiment beaucoup de chose que je n'ai pas aimer dans le jeu mais ce detail me hante.
+
+Au dela de ca, le trailer spoil de fou la fin et ca cest pas normal !
+
+L'OST par contre toujours aussi incroyable !
+
+#####
+
 I've been fooled by the positive reviews.
 Mid gameplay
 Mid characters
@@ -921,6 +934,10 @@ If I compare that to the intro of GS1 it's inferior on all levels.
 
 #####
 
+Parfait.
+
+#####
+
 Un très bon jeu, mais un RPG à proprement parlé à revoir sur certains points.
 
 les +: 
@@ -957,19 +974,6 @@ Super jeu avec un style rétro, des bonnes mécaniques. Qui te font vraiment jou
 #####
 
 J'ai vraiment aimer le jeu , il est pas parfait les combats "classique" sont assez vite répétitif et comme c'est un action rpg ca peu être ennuyeux mais les boss sont vraiment incroyable. Les combats de boss sont vraiment prenant. L'histoire est prenante le début sera lent et générique mais plus ca va plus on s'attache au perso.
-
-#####
-
-Mais quel grande idée de mettre juste 4 compétences par personnages ... niveau gameplay en 2 h on a fait le tour ... ridicule pour un RPG ...
-
-#####
-
-Un énorme scam, le sort de boomrang on pensait qu'il y'aurai autre chose apres mais nan.. le meme sort en boucle pendant tout le jeu.. 
-J'abuse car il y'a vraiment beaucoup de chose que je n'ai pas aimer dans le jeu mais ce detail me hante.
-
-Au dela de ca, le trailer spoil de fou la fin et ca cest pas normal !
-
-L'OST par contre toujours aussi incroyable !
 
 #####
 
@@ -1046,7 +1050,7 @@ beaucoup de contenu, une histoire simple mais sympa, de bons combats, une bonne 
 
 #####
 
-Shillin
+It's a nice game, not very hard. More like a storytelling 2D with turn based somewhat strategy implemented. Would recommend so sit back and relax, just enjoy the story.
 
 #####
 
@@ -2101,11 +2105,6 @@ Une formidable expérience avec pleins d'idées originales et un système de com
 #####
 
 JRPG de notre époque, super hommage à Chrono Trigger. Je recommande
-
-#####
-
-Un RPG tour par tour qui porte l'attention sur l'histoire, les détails et un système de combat dynamique.
-On sent clairement la passion dans ce jeu, bravo à toutes les personnes impliquées, le pélican à pondu un œuf doré/étoilé. <3
 
 #####
 

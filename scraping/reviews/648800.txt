@@ -389,7 +389,7 @@ On améliore notre bateau, notre équipement, notre survie pour justement pouvoi
 
 Le système de sauvegarde est vraiment génial, de voir toutes les sauvegardes et d'y revenir comme on en a envie, est un gros +. À l'époque, tu avais un soucis, soit tu recommençais, soit tu continuais avec le bug. Sans réellement savoir où et comment le bug est apparu. 
 
-Conclusion :
+[h1] Conclusion : [/h1]
 
 [b] Je recommande clairement le jeu ! [/b]
 
@@ -635,6 +635,12 @@ Pendant plusieurs semaines je me suis pris pour Robinson Crusoé
 
 #####
 
+Fan des jeux de survie comme Strandeed Deep, Subnautica ou encore the long dark, j'ai acheté Raft en promo, après avoir regardé quelques vidéos de youtubeurs y jouer à plusieurs. J'ai commencé la partie avec une amie, plusieurs heures passées simplement à crafter, chercher , recommencer une partie car le radeau avait disparu .. (oui, faites attention aux îles en début de jeu, tout radeau non ancré continuera son voyage sans vous ...!)
+Puis, j'ai recommencé une partie seule et j'ai réussi à débloquer les quètes ; très prenant, musique apaisante, univers relaxant ... Une belle réussite graphiquement parlant ! 
+Pour les novices du genre, ne vous attendez pas à être guidés avec des points de quètes ou des indications précises : il faut observer, fouiller, essayer, vous jeter à l'eau (littéralement).
+
+#####
+
 jaime leau
 
 #####
@@ -763,12 +769,6 @@ Un jeu prometteur dans son ensemble, à voir ce que les futurs M.A.J apporteront
 #####
 
 Très bon jeu avec beaucoup de potentiel, j'y joue depuis la sortie avec un ami, il se complète petit a petit ce qui en fait un jeu excellent, le fait qu'il ne soit pas fini permet de découcrir au fur et a mesure le lore, nous laissant le temps de découvrir les ajouts a notre rythme. Malheureusement, le jeu deviens lassant au bout d'un moment si on est seul, si vous hésitez a l'acheter, je vous déconseille de l'acheter pour jouer en solo, on s'en lasse très vite, sinon, je le recommande grandement pour jouer avec un ami!
-
-#####
-
-Fan des jeux de survie comme Strandeed Deep, Subnautica ou encore the long dark, j'ai acheté Raft en promo, après avoir regardé quelques vidéos de youtubeurs y jouer à plusieurs. J'ai commencé la partie avec une amie, plusieurs heures passées simplement à crafter, chercher , recommencer une partie car le radeau avait disparu .. (oui, faites attention aux îles en début de jeu, tout radeau non ancré continuera son voyage sans vous ...!)
-Puis, j'ai recommencé une partie seule et j'ai réussi à débloquer les quètes ; très prenant, musique apaisante, univers relaxant ... Une belle réussite graphiquement parlant ! 
-Pour les novices du genre, ne vous attendez pas à être guidés avec des points de quètes ou des indications précises : il faut observer, fouiller, essayer, vous jeter à l'eau (littéralement).
 
 #####
 
@@ -1079,20 +1079,6 @@ Ce jeu est plutôt bien en soit. Cependant je vous deconseille de l'acheter si c
 
 #####
 
-jouer seul c'est bien, a deux c'est mieux ! je recommande
-
-#####
-
-Ahah, un petit jeu bien sympathique.
-
-J'ai pas encore découvert grand chose, mais j'arrive déjà a me débarrasser du requin sans trop de mal, reste les mouettes qui me casse les cou*****. Faire son petit radeau est très amusants, nettoyer les océans est piles dans le theme écologique du moment ! explorer les fonds marins a la recherche de métal et de glaise n'est pas sans risque, sachant qu'il n'existe aucun timer pour vous aider ! et l'absence de boussole rend la navigation très difficiles ! vivement qu'on puisse faire un "poste de navigation" ou l'ont pourra cartographié des trucs ! Pourquoi pas même à la main ? ou trouver un GPS pour nous aider a noter des coordonnées. ça serait super.  Pourquoi pas aussi varier un peu, en nous proposant un poste de recyclage pour démonter nos vieux crafts et démonter des crafts qu'on trouverait (un peu a la fallout) ça donnerai un aspect plus poussé au jeu ! 
-
-D'autre ennemis aussi, genre une balleine géante visible de loin pour qu'on puisse l'eviter, ou carrément un léviathan qui apparaitrait sous certain condition, et a combatre avec des armes plus évolué (un lance grappins?) Voilà c'est juste des idées comme ça.
-
-En tout cas oui je recommande le jeu qui est déjà très sympa à son niveau actuel. il manque juste quelque indication supplémentaire pour avoir un fil rouge intéressant. Et en plus c'est Multi joueur, (par contre je sais pas si on peu jouer a plus de deux)
-
-#####
-
 Raft est en soit un bon jeu, et j'adore y passer du temps à farm, construire mon radeau, et chasser du requin.
 L'ambiance y est bonne, calme et je conseillerai à chacun qui aime les jeux de survie d'y jouer au moins une fois.
 
@@ -1105,6 +1091,20 @@ Le contenu rajouté pour l'aspect survie et construction du radeau est faible. E
 Il y a un trop grand manque d'évolution dans le jeu, il stagne plus qu'il avance.
 
 PS: Le passage au chapitre 2 a fait disparaître les 8 animaux de l'enclos peuplant mon radeau. (Cela faisait des mois qu'ils vivaient dans la pâture sans soucis. Ils avaient toute la nourriture nécessaire, aucun point de blocage, c'est bien un bug. Et à noter que mon jeu à crash 2 fois, à Caravan Town.
+
+#####
+
+jouer seul c'est bien, a deux c'est mieux ! je recommande
+
+#####
+
+Ahah, un petit jeu bien sympathique.
+
+J'ai pas encore découvert grand chose, mais j'arrive déjà a me débarrasser du requin sans trop de mal, reste les mouettes qui me casse les cou*****. Faire son petit radeau est très amusants, nettoyer les océans est piles dans le theme écologique du moment ! explorer les fonds marins a la recherche de métal et de glaise n'est pas sans risque, sachant qu'il n'existe aucun timer pour vous aider ! et l'absence de boussole rend la navigation très difficiles ! vivement qu'on puisse faire un "poste de navigation" ou l'ont pourra cartographié des trucs ! Pourquoi pas même à la main ? ou trouver un GPS pour nous aider a noter des coordonnées. ça serait super.  Pourquoi pas aussi varier un peu, en nous proposant un poste de recyclage pour démonter nos vieux crafts et démonter des crafts qu'on trouverait (un peu a la fallout) ça donnerai un aspect plus poussé au jeu ! 
+
+D'autre ennemis aussi, genre une balleine géante visible de loin pour qu'on puisse l'eviter, ou carrément un léviathan qui apparaitrait sous certain condition, et a combatre avec des armes plus évolué (un lance grappins?) Voilà c'est juste des idées comme ça.
+
+En tout cas oui je recommande le jeu qui est déjà très sympa à son niveau actuel. il manque juste quelque indication supplémentaire pour avoir un fil rouge intéressant. Et en plus c'est Multi joueur, (par contre je sais pas si on peu jouer a plus de deux)
 
 #####
 
@@ -1618,6 +1618,10 @@ tres beau jeux avec des graphyque tres sympatique les crafting est tres bien fai
 
 #####
 
+Tellement d'idée de différent bateau à construire ! j'aime défoncer ce requin de merde :D
+
+#####
+
 Bon jeu et c'est trop bien de chasser le requin sah 
 
 
@@ -1628,10 +1632,6 @@ Un jeu très intéressant du point de vue de la survie et du crafting.
 Les graphismes sont plutôt beaux et la mécanique du jeu agréable.
 
 Toutefois, l'histoire est vraiment quelque chose de repoussant déjà par la façon qu'elle est conté (en chapitre) et qu'elle n'est guère intéressante (bien qu'elle pourrait l'être) ainsi que certains passage, long et ennuyant.
-
-#####
-
-Tellement d'idée de différent bateau à construire ! j'aime défoncer ce requin de merde :D
 
 #####
 
@@ -2196,12 +2196,12 @@ en multijoueur comme en solo très bon jeu.
 
 #####
 
-Good co op game 
-
+genial
 
 #####
 
-genial
+Good co op game 
+
 
 #####
 
