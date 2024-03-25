@@ -1,0 +1,2475 @@
+Bon pars où commencer ? [Version 4]
+
+Alors je sais, vous allez me dire que le jeu est en early acces, mais bon cela n'excuse pas tous ! Il faut arrêter de vendre des jeux totalements bugger avec la seul excuses que le jeu est en early acces.
+
+Ma Note : 2/10
+
+Brefons je vais vous donner les points positif et négatifs du jeu (que j'updaterais si il y à du changement)
+
+Pour les points positifs :
+
+- Créations des montagnes russes faciles à prendre en main et rapidement domptable (on peut faire pas mal de choses cool avec les montagnes russes)
+
+- La bonne ambiance du jeu avec des bonnes musiques qui rappellent les bon moments dans les parcs d'attractions
+
+- La possibilité avec SteamWork d'ajouter du contenu (donc ne pas payer surement les futurs DLC niark niark niak)
+
+- Une gestion du parc assez complet avec pas mal de fiche tehnique comme la gestion du bonheur ou des finances par exemple
+
+- Une personnalisation vraiment poussé, jusqu'au choix de la couleur des chemins (via un panel de couleur comme sur photoshop)
+
+- Beaucoup d'élément de décors comme des plantes, des arbres, des contructions etc...
+
+
+Passons aux points négatifs 
+
+- Une construction du parc laborieux, les routes se mettent n'importe comment...
+
+- Des graphismes qui piquent les yeux (Back in Time au début de la 3D) Même Thriville, jeu sorti sur Wii en 2007 est plus beau (très bon jeu de gestion de parc d'attraction en passant)
+
+- Une nuit/jour totalement nul, qui ne sert à rien (le jour dur 5 minutes alors que la nuit 30 secondes...) [CORRIGE]
+
+- L'ajout de décors que l'on doit faire un par un (super de posée des buissons sur un parc de plusieurs hectar #BonWeekEnd)
+
+- Le manque crucial de manège (seuelement 10) ainsi que d'élément de décors... 
+
+- Quand vous construisez et que un élément vous barre la route vous devez le "raser" donc tous quitter et raser ce petit buisson de MERDE qui empêche la construction du boulevard...
+
+- Un jeu qui crash tous seul (en faisait un bluescreen au passage c'est plus drôle)
+
+- Au bout de quelques heures de jeux sur votre parc, vous subissez une chute de FPS 60>15 super intéressant (on dirait un parc avec que des robots) [NEW -> Il suffit de 3-4 attractions et le jeu passe à 10-15 fps]
+
+- Puis après 3 heures à travailler durement sur votre parc (où vous vous êtes fais chier à planter un par un tous vos petit buissons), le jeu va commencer à ramer et freeze, pourquoi car tous simplement il va vous pomper 13,5Go de RAM, oui oui vous avez bien lu, 13,5Go de RAM donc oublier votre fierter avec vos 16Go de Ram et allez vous en acheter 16 de plus pour pouvoir jouer 3 heures supplémentaires.
+
+- En parlans de matos informatique parlont du processeur, j'officialise que le jeu bas tous les records (même GTA V et ARK) en prenant 95% de mon processeur (i7 4790) ce qui ne favorise pas, bien entendu la fluidité du jeu... 
+
+- Les PNJs vomissent et se pissent dessus tous le temps (même les adultes, alors je sais pas dans quels pays le jeux à été créer mais je ne pensent pas qu'il pissent librement dans leur bureau de création)
+
+- Quelques bugs d'affichages (mais on oubli très rapidement avec le reste...) [Corrige]
+
+- Le chargement du parc au début prend une plombe (plus de 4 minutes à savoir pourquoi...)
+
+- Des crash répétitifs du jeu (9 crash en 20min de jeu) [Corrige]
+
+Donc comme vous avez pu le remarquer le jeu n'est absolument pas optimiser pour les PC (peut être à la base une otpimisation pour la DS qui à foirer..). Même si le jeu est en early acces cela n'excuse pas tous. J'espère que les prochaine mise à jours vont pouvoir corriger les différents bugs car pour ma part, je ne peut plus costruire quelques choses dans mon parc sinon le jeu crash... Attendez quelques mois pour que le jeu soit stable.
+
+#####
+
+Ce jeu j'en attendais tellement ... Quelle deception !!!! 
+
+Les negatifs :
+
+- L'impossibilité de poser des elements (banc, poubelle, lampadaire) sur des grandes allées alors que ceux du steamwork oui.
+- La creation des chemins forcée sans aucune logique...
+- Un manque cruel d'attraction & de decors...
+- Les visiteurs qui decendent d'une attraction forte s'amusent à vomir partout (un remake de l'exorciste) malgré les toilettes, poubelles ... Les agents d'entretien qui n'arrivent pas à tous ramasser tellement il y en a ...
+- La qualité graphique n'est pas au rendez vous pour un jeu en 2016!!!
+- Lorsque vous souhaitez poser une attraction alors que des arbres genent, au lieu de supprimer les arbres automatiquement et de poser l'attraction vous serez oblige de les virer 1 par 1...
+- Une optimisation à la ramasse ....
+- Son nom sans le contenu et sans la magie des opus precedents
+
+En point positif :
+
+- Le jeu est en early access
+- Outil de creation des montagnes russes sympa
+- Son nom 
+
+Pour faire simple, si vous aimez l'aventure, foncez et tester le jeu en esperant des ameliorations dans le futur. Dans le cas contraire attendez un peu voir ce que va donner le jeu et au pire vous pourrez toujours vous rabattre sur Planet Coaster qui sort en fin d'année si Roller Coaster Tycoon World vous decoit.
+
+Merci d'avoir prit le temps de me lire.
+
+#####
+
+Que le jeu soit plutôt vide de contenus ne me dérange pas outre mesure étant donné que c'est une early access. Mais le jeu a à mes yeux un gros problème et un problème inadmissible.
+Le gros problème est que les attractions ne détruisent pas automatiquement les arbres et les herbes (comme dans les versions précédentes) et que l'outil supprimer est ingérable. Il faut supprimer les décors un par un!!! Autant dire que c'est au moins une demi heure pour avoir 1/9 de son parc nivelé et sans arbres.... Une vraie galère....
+Le problème inadmissible est que le jeu ne charge pas les parties enregistrées!!! 
+Je sauvegarde ma première partie après cinq heures de jeu (dont une et demi a enlever les arbres) et le lendemain impossible de la charger!!..... Quelle déception....
+
+Pour les bons cotés les gens sont biens moins bêtes que dans les versions précédentes et ne restent pas à l'entrée du parc quand des attractions sont tout au fond. 
+Le concepteur de montagnes russes est juste ennorme!! Un peu dur a prendre en main au début mais une fois qu'on a compris le truc quel bonnheur de pouvoir modifier toute l'attraction sans rien supprimer! On peut régler la hauteur, l'angle et cie après avoir construit le manège. Par contre impossible de faire les tests en continu comme avant en construisant les rails ce qui fait perdre pas mal de temps et laisse la valeur du parc bien retomber juste le temps de bien réussir a régles l'excitation au max en faisant les tests.
+En bref le jeu est bon mais vide et plein de beugs... J'attends avec impatience la version définitive!
+
+
+#####
+
+Tout d'abord, respect à tous ceux qui, comme moi, ont acheté ce jeu, en croyant trouver le digne successeur de RCT3, et ont eu une énorme déception...
+
+Concernant le jeu maintenant (ou l'espece de démo qu'on a en lieu et place...) : c'est moche, sans optimisation, et en retrait par rapport à RCT3 sur bien des points !
+
+honnêtement, des graphismes comme ça en 2012 ça passait déjà moyen, mais en 2016...
+
+Et puis l'optimisation, alors la je dis chapeau ! Entre ma R9 290X, ma Radeon 7950, et la GTX 980 d'un ami, c'est la fete ! JAMAIS du 60 fps constant ! toujours des drops, des freezes, ou des lags, souvent injustifiés (du genre le jeu qui freeze quand un coaster freine, wouah trop dur de calculer une réduction de vitesse !). Enfin bon, pour un jeu sous Unity c'est pas encore trop étonnant (quoique Parkitect n'a aucun soucis pour tourner, mais lui est en PRE-ALPHA !). Le placement catastrophiques des objets / coasters / locaux, je crois que tout le monde est d'accord sur le fait que même RCT2 est plus précis et poussé...et surtout fonctionnel ! On m'explique le restaurant ou personne ne va, alors qu'il est ouvert, relié à un chemin, et sur un lieu de passage ? 
+
+Parlons maintenant de la Coaster Cam : ça serait sympa de ne pas avoir de glitchs quand on a un train du style locomotive dans un Wooden. 
+
+Je n'ai pas encore tenté de décors, donc je ne saurai dire si cela fonctionne bien (à priori pas vraiment au vu des autres avis...)
+
+Ce qui est fou aussi, c'est que la zone de notification d'évenements a réussi a m'énerver en seulement cinq minutes de jeu ! Oui, il me semble avoir compris qu'aucun mécanicien n'a la présence d'esprit d'aller réparer ma grande roue, pas besoin de le répéter 12 fois en 2 minutes (et je n'éxagère même pas !)
+
+Et quelle idée d'avoir changé complètement l'interface du jeu ? Celle de RCT3 était bien plus intuitive dans bien des cas ! 
+
+Passons maintenant aux points positifs ! (Si si, je vous jure, il y en a !)
+
+-L'éditeur de coasters est vraiment sympathique, on prend plaisir à créer un ride comme on le veut, en évitant les soubresauts que l'on pouvait avoir dans RCT3 à cause de l'unique mode pièce par pièce (qui était quand même bien sympa, il faut le reconnaitre !). Néanmoins, il serait judicieux de proposer davantage de pièces toutes faites (à l'instar des loopings entre autres), qui peuvent dans certains cas faire gagner un temps fou !
+
+-Le ressenti dans un Wooden est, je trouve, assez réaliste (en passant outre les bugs de jeu / coaster cam).
+
+-La nouvelle gestion du personnel via des locaux est assez intuitive, car elle permet de regrouper intelligement les employés par pôles, la ou le besoin est le plus important (même si dans RCT3 on pouvait définir une zone de patrouille, le fait de créer des locaux est pour moi davantage représentatif).
+
+-Le fait de pouvoir créer des crémaillères inclinées est un vrai plus pour l'originalité des coasters (même si je doute que ce système soit réalisable en réalité : EuroMir et EuroSat, deux attractions que j'affectionne, ont des montées en colimaçon, mais n'utilisent pas de crémaillères), et permettra je pense de faire des tracés assez hors du commun (enfin bon, on verra quand je dépasserai le cap des 20 fps !)
+
+-On a enfin une vue d'ensemble des bénéfices en mode bac à sable malgré l'argent illimité ! Ce qui est pour moi très pratique afin de réaliser des tests de rentabilité.
+
+
+
+Bref, vous l'aurez compris, pour le moment j'ai l'impression que Atari commençait à manquer d'argent, a décidé d'embaucher des devs complètement random, pour bosser sur un ersatz de moteur de jeu au rabais, pour nous pondre au final une démo buggée de ce qui pourrait être un excellent jeu avec un vrai travail dessus et de l'implication (sérieux, même dans la desc il y a une faute ! "adptes"). Il y a de bonnes idées c'est clair, et sur quelques points, comme la création de coasters, ce jeu a les moyens de ridiculiser Planet Coaster. Mais mon conseil pour l'instant, est de regarder le jeu évoluer au fil de l'Early Access, et de ne pas se précipiter pour l'acheter si vous voulez un produit fonctionnel, car ce n'est clairement pas le cas pour l'instant...
+
+#####
+
+Bonjour,
+Après plusieurs heures passées sur ce jeu, j'ai pu constater que ce jeu est un jeu de gestion réaliste et non un jeu pour enfant. 
+Je suis fan des rollercoaster tycoon car les montagnes russes font de bonnes sensations. (phrase avec aucun sens)
+--------------------------------------------------------------------
+Comme tous les jeux il y a des avantages et des inconvénients !
+
+les aventages sont :
+-La gestion du parc est assez compliquée (représenté à peu près comme dans la réalité)
+-Création montagnes russes à notre volonté (la création des rails peuvent se faire dans toute les directions et dans n'importe quel sens)
+-Les scénarios sont bien présentés et ils sont compliqués a gérer
+-Le parc du jeu peut atteindre une taille impressionante !
+
+Les inconvénients :
+-Beaucoup de bugs
+-Jeu qui requiert un assez bon PC
+-Pas assez de montagnes russes pour le moment
+-Les personnages du jeu sont complètement stupides (Ils crèvent de faim mais ils vont dans une attraction)
+-La nausée est rapidement élevée
+
+Conclusion, ce jeu est bien mais le développement n'est pas terminé. Si vous achetez ce jeu dites vous que cela ressemble à une beta tant qu'il est en early access. 
+
+--------------------------------------------------------------------
+
+Je tiens a ajouter que les personnes postant des commentaires négatifs sur ce jeu ont souvent très peu d'heures de jeu car les personnes ne découvre pas le jeu à 80% ils y jouent et après 1h ou 15 min (-_-) ils se disent que le jeu est nul.
+
+J'ai donné mon avis car après plus de 48 heures à avoir joué au jeu et à avoir essayé toutes les maps, la campagne et 3 scénarios j'ai maintenant la note que je mets au jeu. En ce moment je lui met 16,5/20.
+
+Merci d'avoir lu mon avis de cet Early Access après la 3ème mise à jour.
+
+Tim05369
+
+#####
+
+Est annoncé comme le successeur de RollerCoaster tyconn 3 sorti en 2004 et ayant eu un énorme succès (10 millions de copie vendue).
+
+Mensonge !!!! car ce n'est pas la même équipe qui a développé ce jeu, c'est le même éditeur du jeu mais pas la même équipe.
+
+Et franchement c'est un fiasco ce jeu, déçu de l'avoir acheté en pré-vente durant son développement, c'était de l'arnaque car j'ignorais que c'était une équipe différente, des les première minutes ont accroche difficilement au cpncept j'ai espéré que c'était parce que ce n'était qu'un jeu en cours de développement mais sa sortie finale (la veille de son concurrent) n'est que l'achevement de ce dévelopement chaotique. 
+
+C'est simple vous voulez savoir ou est parti l'équipe original du jeu ??? Il suffit d'aller jeter un oeil sur Planetcoaster, et oui la vrai équipe est celle qui a développé cet autre jeu... et le moins que l'on puisse dire c'est que lui il casse la barraque. Des les 10 premières minutes ont est enchanté.
+
+Fuyez RollerCoaster Tycoon World et foncez sur PlanetCoaster.
+
+#####
+
+plante constament, je part chez le concurent.
+Ceux qui n'ont pas encore acheter : fuyer pauvre fou et aller voir du coter de planet coaster ;-)
+
+#####
+
+J'ai attendu avec beaucoup d'impatience ce nouveau volet des RollerCoaster... et mon dieu quelle déception ! C'est tout bonnement injouable ! Les graphismes sont déjà datés (avec un clipping monstrueux ! on est en 2016 les gars...) ainsi que des bugs dans tous les sens, toujours sur les graphismes. Niveau jouabilité et accessibilité, c'est franchement mauvais ! L'installation des routes, des attractions, ABSOLUMENT rien n'est intuitif ni "réaliste". Les mises à jour n'arrangent vraiment rien à tout ça, très honnetement ce nouveau volet de la saga est bien triste comparé à son prédécesseur qui fait encore largement le boulot, qui est beaucoup plus complet ET surtout moins bugué et plus complet en terme d'optimisation de l'espace. Je ne vous conseille pas Roller Coaster Tycoon World, je vous conseille le précédent !
+
+#####
+
+Je me suis fait avoir. J'etais tellement impatient que je l'ai acheter en Early Acess pour finalement me rendre compte que jamais ce jeu ne seras a la hauteur de Planet Coaster.
+
+#####
+
+Bon par où commencer !
+
+Bon voila je vais essayer de compléter mon avie aprés 3h30 de jeux.
+
+Alors pour commencer je lance gentiment le jeu en 4k réglage max ( whaou) Niveau graphisme je viens de prendre 10 ans de moins, je pense revendre mon Pc pour retourner sur mon P4. 
+
+Graphisme:
+
+-L'optimisation du jeu est toute simplement à chier. Des baisses de FPS de 60 à 14 avec ma config .
+- Les textures plus que moyennes, le jeu est horrible pour un jeu de 2016
+-Dans les attractions les textures sont bof 
+-En mode zoom et dézoome burk burk
+- Les ombres en mode je saccade
+
+J'adore aussi la transition entre le mode nuit et jour en 3 secondes
+
+Animations:
+
+-Les visiteurs sont comment dire saccadé comme des robots. 
+- les animation dans les attraction  sont à mourire de rire ( mention spéciale pour le toboggan pour enfants)
+
+Construction de bâtiments etc :
+
+-Niveau construction de bâtiments, on retrouve exactement le même système pour les standes que dans RC3, Des standes préfabriqués, avec quelque variante. Où est la personnalisation ?
+-La construction de routes qui est simple qui aurait pu fonctionner mais en fait non .
+- Pour ce qui concerne le placement de décorations, il est difficile de placer des barricade le long des chemins le mode quadrillage fonctionne pas du tout, beaucoup de message "EMPLACEMENT INVALIDE " alors qu'il n'y a rien autour .
+-Obliger de placer les bancs les luminaires et autres derrière le chemin impossible de placer quelque chose desus.
+
+Construction de montagne russe
+-Déja l'entrée et la sortie sont défini impossible de les modifier 
+- Un petit + pour les fan des premiers opus . Le mode classic de construction mais pas complet 
+-Le mode libre sympas mais ultra merdique
+-L'outil pour terminer le tracer automatiquement (ultra lol) 
+
+
+
+Après niveau contenue pour la déco il y a pas mal de chose , mais si vous avez jouer à Planet coaster le jeux prend 10 ans de retard (encore). 
+
+Les bon point pour finir 
+- La gestion du parc , il y a des batiments pour les employer maintenant 
+-Les nombreux graphique aussi bien pour vos attractions que pour les finances
+Les émoticones des visiteurs dans les attractions 
+
+Matos
+I7 6700K 4.4 Ghz
+Msi gaming 980TI
+16 GO de ram (ddr4) 2666mhz
+
+Enfin voilà je joue a roller coaster depuis le 1er . Là on voie clairement que les développeurs du jeu ne sont plus là.( ils sont chez frontier)
+
+Pour info
+Je joue depuis la sortie de l'alpha à planet coaster , je peux vous dire que le niveau est vraiment mais vraiment plus haut. 
+
+Même avec beaucoup moins de contenue le jeu me donne envie de jouer 
+
+Voila à voir d'ici 1 ans
+
+#####
+
+Malheureusement, j'ai prit ce jeu pour le nom en souvenir de mes jeux d'enfance. Ne faites pas cette erreur.  Malgré ma volotonté de croire en son amélioration, ce jeu me décoit beaucoup. Il entreprend de beaux projets, des idées originlaes, un gameplay entièrement renouvelé, des graphisme plutot bien travaillés. Que du rêve.
+
+C'est après quelques heures de jeu qu'on se rend compte que rollercoastertycoon world n'est tout simplement pas fini. Je ne parle pas de corrections de bugs sur une sortie précipitée comme skyrim, je parle d'un jeu fini à 50% !! Seulement 3 thèmes possibles, des attractions trop limitées dans leur nombre, à en oublier leur qualitées, des montagnes russes qui se ressemblent beaucoup trop pour ne pas ètre juste des éléments de personnalisations les unes des autres. Il suffit de 2 ou 3 heures de jeu pour en faire le tour ! En 10 heures c'est l'abandon par lassitude.
+
+Très décu je recommande d'éviter ce jeu, j'attend les soldes steam pour planetcoaster car j'ai l'impression de m'être fait volé le prix d'un jeu à sa sortie.
+
+#####
+
+Franchement achetez planet coaster
+
+#####
+
+Développement chaotique. Sortie repoussée pour ensuite la précipiter pour concurrencer Planet Coaster. Optimisation aux fraises. Prise en main finie à la pisse et j'en passe...
+
+Prenez planet Coaster si vous avez aimé RCT 3. Prenez Parkitect si vous avez aimé RCT 1 & 2. Ne prenez pas cette insulte à une license que j'aime depuis l'enfance.
+
+#####
+
+Plus il y a de mises à jour, moins le jeu fonctionne correctement...
+
+#####
+
+Franchement ce jeu ne mérite pas d'être autant rabaissé. 
+Alors oui d'accord y'a Planete coaster qui défonce tout mais RCTW n'est pas mauvais !
+Bon c'est mon avis mais ce jeu, Bas je me suis bien éclaté dessus, moi qui suis un grand fan de RCT3 Le changement ne ma pas déranger et surtout le plus important qu'Il ne faut pas oublier c'est qu'il n'est qu'en early access!
+
+Oui je sais ça n'excuse pas tout et effectivement l'optimisation est pas terrible mais pour moi qui a une config moyenne 
+(i5-4460, GTX750 ti, 8GB de RAM), et bien je tourne plus facilement RCTW que Planete coaster ! 
+
+La création du parc est cool y'a deja pas mal de choix
+
+Les Rollercoaster (une fois que t'as compris comment ça marche) sont juste GÉNIAUX a crée, le seul truc qui est chiant 
+c'est qu'une fois que tu regardes la caméra de ton roller coaster on ressent pas vraiment la vitesse :/
+
+Les graphisme c'est pas se qu'il y'a de mieux mais franchement ça va nickel pour se genre de jeu.
+
+Bon y'a un truc qui est grave chiant, c'est quand ton park commence à avoir plus de 300 visiteurs 
+à partir de là les fps sont en chute libre pour finir a 20fps quand t'as 1000 visiteurs.
+
+Pour finir, je recommande se jeu que aux grands fans de RCT car faut avoir la patience de tout réapprendre comment ça fonctionne (ça change beaucoup du 3) et si tu veux te lancer dans la série des RCT va acheter le 3 
+
+Voila hihi
+
+#####
+
+Honteux de vendre un jeux pareils en 2016!!!
+-Graphiquement pas pas terrible mais arrive quand meme a laguer.(Mauvaise optimisation)
+-Gestion comme d'hab. rien a dire.
+-Niveau element décoratif c'est vraiment pénible aussi.
+-Les chemins de COASTERS ne peuvent plus passer dans le sol ou a travers des montagnes...?!?!
+-Trop peus d'attraction de toute sorte.
+-Manque d'élément dynamique
+Enfin voila je suis dégouté d'avoir acheté cette DOPE... RTC3 est plus complet hormis l'aspect graphique ... 
+J'ai un doute malgrés des MAJ annoncé, pour que le jeu sois plus attrayant il en faudra du travail.
+
+#####
+
+Cette chose n'arrive pas à la cheville de RCT3. Horrible, injouable, baclé...D'accord, early access...mais ça ne donne pas l'impression d'une évolution favorable. Au contraire...
+
+#####
+
+Bonjour, 
+
+après plusieurs heures sur cette early access, c'est difficile de trouver du positif malgré mon attachement à la licence face au concurrent planet coaster:
+
+les +:
+l'outil de conception des grands huits
+la possibilité via steamworks d'ajouter du contenu gratuit fait par la communauté
+
+les - :
+early access donc les accès aux manèges, boutiques, décors et coasters sont très limités
+les graphismes même en full font peur, on dirait de la PS2... on espère que c'est lié à l'early access
+le côté cartoon a disparu par rapport aux précédentes versions RCT2...
+Pas d'attractions aquatiques ou parc animalier (ça sent le dlc comme soaked ou wild de l'époque :()
+
+#####
+
+Suite au nombreux commentaires très négatif à l'encontre de ce jeu , je souhaiterais donner mon avis.
+
+tout d'aborde ce jeux est en ACCES ANTICIPE !!!!; il ne faut donc pas s'attendre à un jeux qui marche parfaitement sans aucun BUG puisqu'il est encore en développement.Pour ma part,j'ai jouer plus de 72h dessus,j'ai un parc qui accueil plus de 2000 visiteurs et je pense donc être apte à donner mon avis.
+
+Les points forts:
+- Ce jeu propose de gérer un parc d'un manière très réaliste.
+- Les graphismes sont acceptables.
+- Les nombreuses options en cours de jeu sont très bien pensées.
+- En bref l'idée de base est très bien trouver
+
+mais comme tout jeu , il a ses défauts :
+- très mauvaises gestions des ressources (ram,mémoires vidéos ...)
+- Comportement des PNJ un peu hasardeux et donc non prévisible (mécanos,balyeurs ...)
+- trop peu d'attraction (mais j'espère que sa viendra avec le temps)
+
+---------------------------------------------------------------------------------------------------
+En conclusion,Ce jeu me plait particulièrement malgré les nombreux BUG qui n'empêche pas des sessions de jeux plutôt agréables.Je vous conseil d'acheter ce jeu si vous appréciez le style de gameplay que celui-ci propose et que vous êtes prêt à rencontrer quelques BUG de temps en temps.
+
+Merci d'avoir pris le temps de lire mon commentaire :)
+
+ps: PC avec faible configuration s'abstenir (-8G de ram ou - de 2G de mémoire vidéo)
+
+#####
+
+Try just to use your brain: https://www.youtube.com/watch?v=TQOn2aWe35Q
+
+#####
+
+RCT World tu acheteras  ! dans l'cul tu l'auras !
+
+Bugé, limité, mal optimisé, tout simplement raté !
+
+Me parler d'Early acces tu oseras ! Une mandale tu te prendras !
+
+Et pourtant j'en ai des Early dans ma bibliotheque de jeux steam tous aussi codés avec le rectum...
+
+Mais celui ci c'est un foutage de gueule, j'ai joué à tous les RCT et cet opus n'en est pas digne, ni d'un jeux 2016 d'ailleurs, encore moins d'un prix exorbitant steam, heureusement payé bien moins chere j'attend un patch d'environ 90% du jeu restant pour revoir mon avis... qui n'arrivera probablement jamais, ou par petits DLC arnaques à 15 boules ? 
+
+Manquerais plus que des ajouts de caisses pigeons pour drop des items et là on a le fist de l'année !
+
+De grande chance que je me tourne vers planet C, qui rien qu'avec son alpha ridiculise les Devs de RCT world
+
+#####
+
+¤¤¤ ** Edit du 07/04/16 : 2 beaux + viennent rendre des points à RCTW, il s'agit de 2 améliorations majeure arrivées dans la 1ere Maj du jeu depuis sa sortie en EA ;
+
+1 - Un gros effort a était produit aux niveaux des graphismes, certe ce n'est pas un Up graph hallucinant mais quand même, le jeu a une meilleur gueule depuis et pique du coup moins les yeuz. 
+2 - amélioration de l'angle de courbe pour les chemins et autres placements d'objets, un trés bon point assurement ; Bien sur il ya d'autres améliorations dans ce 1er patch mais hein je vais pas m'étendre dessus, y à qu'a lire le notepatch.
+
+Bref continuez comme ça les devs, pour l'instant (normal tout nouveau, tout frais) vous semblez être a l'écoute de la com et semblez être réactif à la correction des "gros" problèmes dont souffre votre jeu dont vous en etes parfaitement consciens, bossez bien et bon courage lol. ¤¤¤
+
+Bon au début, je comprennais pas les gars qui flinguais fort le jeu dans leurs évaluations, après quelques temps de jeu, je les comprends et les rejoinds sur pas mal de points. Pour préciser un truc, je ne peut pas le comparer à tel ou tel jeu de la licence car je n'est jamais joué aux autres RCT. Cependant j'ai matté des video de gameplay de son futur concurent "Planet Coaster", et faut dire qu'il y a pas photo !
+
+Donc, on vas commencer par les points forts de RCTW :
+
+* La gestion du parc assez interessante
+* Le contenu de création (pour un EA, il y a deja de quo faire pour créer un parc unique et personnel)
+* La facilité de création des grand 8 (pour un noob comme moi dans les RCT, je n'est ue aucun mal a créer une RC.
+* Euhhh, c'est tout ??? humm bah je crois oui !
+
+Les points négatif :
+
+* Les graphismes, ne vous fiez pas aux photos de la page du magasin steam, énorme déception quand j'ai lancé le jeu, j'ai cru un moment que le jeu c'est tappé un down graph, la bonne blague, le jeu est moche faut le dire, dépassé, retour aux année 90 sérieux, en zoom max, ca passe mais dès qu'on recul la cam, ca deviens hideux.
+
+* Stabilité: le jeu est trés mal optimisé, en mode scenario et campagne, ça tourne pas mal, quelques chutte Dfps par moment mais pas trop gênant, par contre en mode "bac a sable" (ressources illimitées), l'horreur commence, aprés 3 chemins posés et 2 barrières le jeu deviens ultra lourdddd, il lague ca soeur a un point qu'il en deviens imposssible a poser quoi que ce soit, tellement ca freeze, bref injouable (un comble pour le meilleur mode du jeu).Le plus gros point noir à mon sens (quoique...)
+
+* La création : autant pour les RC, c'est un jeu d'enfant ; pour créer des chemins, faire des délimitations avec des haies, barrieres,faire des arondis ou autre, bref dès que ca deviens un peut technique, le cauchemar commence, peut être du fait de mon manque experience que  je galère pour aligner 4 haies, mais je pense pas, me faire chier 1 heure pour faire une rangée de 10 metres, non merci. Et ceux, malgrés l'utilisation de la grille et de la pose auto.
+
+* Les bugs en tout genre : EA oblige, RCTW n'est pas l'exeption, il y en a un paquet donc j'évite de les détailler.
+
+* Son prix : à ce niveau là, ne perdez pas votre temps...passez votre chemin.
+
+En résumer, RCTW est quand même intéressant dans son ensemble, pas mal de contenu actuellement pour une EA, dommage que l'experience est gachée par ses graphismes dépassés et son optimisation catastrophique ! Donc pour l'instant je ne le recommande pas, une fois tous ses problèmes corrigés, le jeu sera sans nul doute exellent (s'ils sont corrigés un jour hein .....)
+
+#####
+
+Alors là !!!! J'ai 46 ans, je connais les rct depuis de le début, et bien là je rêve éveillé !!! C'est quoi cette daube de "jeu" ? Je suis déçu à un tel point....... Autant d'anées d'attentes pour ce résultat ! Je ne trouve plus mes mots pour décrire ma déception, mon épouse était super contente pour moi, maintenant elle râle car je râle..
+
+
+#####
+
+Bon petit jeu !
+
+Ceux qui cherchent à créer simplement un parc pour s'amuser ne seront pas déçus. Des attractions sympathiques, bien réalisées. Du choix dans la création de décors, ... pas mal de bons petits points.
+
+Mais n'attendez pas trop non plus pour les fous furieux de la création...
+
+De nombreux ralentissement dans le jeu avec une config soit en ultra, soit en basse, c'est à ne plus comprendre parfois tant on est réduit niveau fps.
+
+Reste pas mal de bugs avec l'eau qui inonde une zone, des employés qui marchent dessus façon Jésus (alors qu'il y a un trou creusé hein). 
+Des bugs avec des décors comme les bancs dans les allées qui n'apparaissent que lorsque l'on cherche à en créer d'autres ! 
+
+Malgré des problèmes de maturité dûs à sa très grande jeunesse, ce jeu est bien cool et permet de passer du bon temps dessus.
+
+#####
+
+Jeu abandonné par ses développeurs au profit du jeu sur mobile.
+
+Jeu incomplet (pas de transports ni autres attractions pourtant annoncés)
+
+De plus, ce jeu est mal optimisé et pleins de bugs
+
+#####
+
+Acheté en début d'early access, je me suis bien fait avoir comme tout le monde je pense !
+Le jeu n'arrive pas à la cheville de planet coaster. Pas d'optimisation, bug à gogo, crash du jeu malgrès ma config.... Bref passez votre chemin et orientez-vous vers planet coaster :)
+
+#####
+
+Nul.
+Gestion de la physique des montagnes russes minable.
+Etant un grand fan de Rollercoaster, je suis d'autant plus déçu.
+Accès anticipé ou pas, je ne pensais pas que sortir une bouse pareille était autorisée.
+Si quelqu'un à une idée pour se faire remboursé je suis preneur.
+Ce jeu est déjà mort avant d'être sorti. Merci d'avoir détruit une si belle license.
+
+#####
+
+ce jeu me prend la tete aucune amelioration sur l'optimisation ni sur le game play !!!
+vraiment deçu de voir comment on peut detruire une tel license !!!
+
+
+
+#####
+
+j'ai acheté ce jeu a 40e lors de l'accès anticipé en me disant "oui mais c'est une Early access donc ça va s'ameliorer..."
+
+non. il est maintenant a 5 euros (soldes) et pour moi il est encore et toujour execrable...
+c'est dommage, car bon potentiel au debut.
+
+ j'ai ensuite acheté planet coaster pour le meme prix et il est bien meilleur, acheter celui la a la place.
+
+#####
+
+Après avoir testé ce jeu à sa sortie puis aujourd'hui je peux dire qu'il n'a pas bien évolué.. Certes il y a moins de bug mais je ne retrouve pas l'engouement que j'avais à jouer avec Roller Coaster Tycoon 3 dans celui ci.
+Trop restrictif, je déconseille ce jeu, pour moi ce n'est pas la suite de RCT3.
+
+Cependant je vous conseille de suivre le développement du jeu Planet Coaster qui lui sort le 17 Novembre et m'a l'air plutot bon sur le papier et selon les alpha
+
+#####
+
+pas au gout du jour et ne se lance plus depuis la dérnière mise a jour passer vôtre chemin et aller vers planet coaster un vrai jeu 2016
+
+#####
+
+Le track builder est plutôt réussi et la possibilité d'importer des objets soi même ou à partir du workshop est intéressante. C'est à peu près tout ce qu'il a pour lui. Sinon, il n'est pas bien beau, pas bien fini, récalcitrant sur le placement des objets et ne propose pas un contenu satisfaisant par rapport à ses concurrents et par rapport à RCT3 ou 2... ou 1 ! Et malheureseument la communauté à déjà fait son choix depuis longtemps donc le futur s'annonce sombre et vide pour ce RCTW.
+
+Conclusion : il vaut mieux aller voire chez la concurrence ou se replonger dans sa bibliothèque d'anciens jeux.
+
+#####
+
+J'ai bien remarqué que le jeu était plein de remarques négatives, mais j'ai quand même décidé de l'acheter, ça ne coutait que 3€ en passant par la revente. Mon expérience du jeu a été plutôt rapide, puisque le jeu fonctionne mal.
+
+Il donne l'impression de jouer sur une mauvaise résolution, sauf qu'en regardant dans la paramétre, je suis bien sur du 1900 x 1080, et c'est bien là le problème. Totalement injouable, on ne peut rien faire avec, le jeu est complétement flou. Sur internet, certains en posent la question, mais aucune réponse. Si quelqu'un sait comment me sortir de ce problème, je suis interessé ...
+
+En attendant, je ne peux pas jouer au jeu pour lequel j'ai payé, donc un gros pouce rouge.
+
+#####
+
+Ne perder pas votre temps et votre argent dans ce jeux Acheter plutot Planet Coaster
+
+#####
+
+bon que dire en restant correcte ...
+(attention je suis pas la reine de l'orthographe donc bon vous etes prévenue hin ^^)
+
+le jeux sava il est pas mal question graphisme je connais bien mieux mais sa passe 
+la gestion est bien le contenue manque mais bon je mets sa et je l'espere sur le early acces
+(plus de boutique de decort et de manege sont les bienvenue)
+
+alors j'ai tester ce jeux sur deux pc bien different un gamer et un PC type normal  
+sur le pc gamer je joue a ARK le jeux qui demande pas mal question graphisme et autre , mais le jeux passe 
+et je joue sans soucie sur mon second PC le jeux tourne mais avec 10FPS 
+donc pas terrible meme si je suis tous en low pour moi c'est pas jouable
+
+Vous allez me dire aucun rapport en faite c'est pour vous faire comprendre que les deux pc ne ce vale pas 
+et pourtant ....
+
+le jeux RCT World lui !!! 
+il ce fou de ta config ! bonne ou pas il tourne sur les deux pc avec 1 a 7 FPS pas plus 
+mais attention sa c'est pour le mode campagne, avec quelque attraction et quelque client seulement 
+
+mais une fois le parc avec pas mal d'attraction et plus de 4 milles client WTF le jeux une grosse bouze
+sur le pc gamer je lance ma campagne mais sa reste bloquer je ne peux plus jouer car 1FPS plus rien ne tourne 
+sur l'autre pc RIP sa passe plus du tous 
+
+alors oui on ma dis mais baisse les graphisme la blague de 2016 
+vous avez le jeux ?
+si oui aller dans option pour les graphisme et la TADA rien nada on peut rien baisser WTF 
+mais c'est une grosse blague 
+
+bref un amis a voulu test avec sont pc bien plus performant que le miens (mon pc gamer je parle) 
+et la surprise OOOOOHHHH mais c'est pareil 
+donc bon oui le jeux est bien mais de la a ce qui ne tourne plus des l'évolution de notre campagne sa fou les boules 
+graphisme perso je m'attendais pas a mieux les photos et vidéos sont toujours contractuelle une fois le jeux lancé 
+sa a rien a voir pas moche mais pas non plus WTF
+
+ATTENTION mes nerfs lache
+
+mais mince quoi il ont lancé une premiere béta et des gros probleme comme celui des FPS n'est pas réglé le jeux donne l'impression qu'il ne tourne que sur les pc des dévellopeurs faut arreter 45€ une grosse arnaque 
+
+même a 17€ le jeux mais les boules en 2016 même en version EARLY ACCES faut arreter de ce foutre des clients 
+ton jeux ne tourne pas sauf pour les devellopeurs bin ma foie ne le sort pas attend !!!
+
+réglé sa c'est le minimum avant de le sortir !!!!!!!!!!!!!
+
+
+bon aprés comme plusieurs remarque qui ont été faite les chemin une blague , y'a de l'idée mais bon 
+c'est mal fais on peut pas les placer ou on veut comme on veut pour je ne c'est qu'elle raison 
+sa passe pas ou du moins pas comme il le faut
+
+les decors MDR 
+non non !!! 
+ne vous attendez pas a les mettres vraiment ou vous le voulez sa ... lol
+c'est aléatoire !!! ^^
+si le jeux veut alors peut etre ! tu le placera a la place désiré 
+et oui c'est pas toi qui décide (NAN mé OH) lol 
+
+dans le RCT3 les boutique si tu la place prés d'un chemin sa ce raccorde seul sauf si c'est loins 
+mais c'est bien plus manipulable 
+que dans RCT World 
+et attention meme si ta boutique ou attraction on va dire et bien placé tu crois que tu va posé un chemin pour le raccordé comme tu veut MDR (ta de l'espoire)
+alors la dans tes reve le chemin ne sera pas forcément raccordable avec celui juste devant c'est yeux et oui c'est sa 2016 plus tu lance de la mer... et mieux tu te porte 
+
+oups je déborde 
+
+désolé mais apres 10ans d'attente 
+1ans de blabla 
+de belle promesse 
+et au final le jeux coute un bras 
+(sauf si tes intelligent mais je n'en dirais pas plus hin ) 
+
+OUI en gros sa gonfle 
+peut importe ton PC le jeux tourne comme si t'avais un PC windows 98 avec 2go de ram et une carte graphique dépasser
+
+l'impression que si tu veut jouer a ce jeux faut tu te rachete un pc qui coute au moins 10 mille euros pour qui tourne avec 10FPS 
+
+
+j'ai oublier : sur RCT 3 pas de perte de place ou du moins trés minimim mais alors la !!! c'est la fete a la perte de place des endroit plein de place initulisable pour rien juste car le jeux et mal foutu rien d'autre 
+
+
+BREF !!! 
+
+encore une belle arnaque des paroles pire qu'en poli....... vous voyez de quoi je parle 
+sa corrige soit disant des bug ptdr oui bin faut me dire ou !?
+car malgré les mise a jours les gros probleme ne change pas d'un poil ^^
+
+en résumé meme a 17€ ne le prend pas dépense le dans autre chose sa t'évitera de jeter ton argent dans une poubelle 
+
+BYE désolé pour l'orthographe =) 
+
+PS : NON NON pas méchante réaliste marre de perdre de l'argent dans de la Dobe 
+et d'etre pris pour des porte  monnaie ambulant ce foutre a ce points de s'avoir si sa fonctionne ou pas 
+tant qu'il vende c'est le principal hin ...
+
+^^
+
+#####
+
+Grand Fan des Roller Coaster Tycoon , j'ai beaucoup espéré , je l'ai acheter dès la version EARLY ACCESS , puis j'ai découvert le concurrent direct PLANET COASTER récemment c'est à dire quand il est sortis en béta et là je me suis dit merde quoi, j'ai passé plus de temps sur planet coaster en une semaine que roller coaster tyccoon en 7 Mois ... 
+Niveau graphisme je suis déçu , le point positif c'est que les visiteurs sont moins embétant (je viens d'y jouer à la version final) mais non, mon avis n'est plus positif. Si PLANET COASTER n'existerait pas il serait bien mais malheuresement il existe... A voir dans les FUTURS? MAJ ? GRATUITES ! Pour l'amélioration de l'ensemble du Jeu.
+Les + et les - par rapport à PLANET COASTER  : 
++ Beaucoup d'attractions mais manque les principaux transport et nautiques
+- Pas de FAST PASS
+- Pas de groupes de gens comme dans RCT3
+- Textures qui n'ont pas évoluer depuis RCT3
+
+Sinon faites votre avis mais attendez LES TESTS des spécialistes des JEUX VIDEOS :)
+
+#####
+
+NUL ! Redirigez-vous vers PLANET COASTER imméiatement ! 
+
+
+#####
+
+A EVITER ! 
+
+Malgré un PC plus que puissant, je me retrouve avec un jeu qui demanderais 10 fois la puissance disponible pour afficher 3 pauvres images...
+
+BUGS en cascades, jouabilité proche de nul... rien de bon dans ce jeu. J'ai perdu des euros et mon plaisir de cette série... allez tiens je vais reinstaller le 3, c'est pas pire !
+
+#####
+
+Le sentiment de s'être fait arnaquer... j'ai payé 55€ pour la version deluxe.
+J'avais testé la beta, la sortie avait été repoussée, je m'attendais donc à une refonte et un vrai mieux. C'est PIRE !
+
+je suis fan de la saga Roller Coaster depuis le début, je m'attendais au même esprit, mais là, le jeu est fade.
+Graphiquement c'est horrible quand on recule la caméra, c'est moche et pas optimisé du tout.
+Beaucoup de bugs, c'est pas du tout au point.
+
+Les plus :
+- Contruction de montagnes russes amélioré par rapport à la beta : on galère moins à faire un coaster qui ne deraille pas.
+C'est tout ! désolé mais rien d'autre de positif.
+
+
+les moins :
+- Pas intuitif du tout
+- Menu pas clairs (surtout les stands de nourriture et boissons)
+- On ne peut pas construire une attraction ou de chemin si il y a des arbres ou des pierres, obligé de les détruire un à un avant de construire.
+- Parc sale malgrès beaucoup de maisons de nettoyeurs
+- Maisons de nettoyeurs, mécaniciens, médecins (WTF !!??) ca prend le la place et il en faut 50 pour que le parc soit propre
+- Gens qui se pissent dessus et vomissent constament 
+- C'est moche graphiquement (et encore plus moche quand on recule la caméra)
+- Chemins bugés, raccords et croisements foireux, passent parfois sous l'herbe. J'ai meme eu des chemins qui disparaissent 
+- Caméra bugée, je suis sorti du terrain de mon parc et impossible de revenir dessus, je me balade dans la nature... loin!
+- Les visiteurs du parc ont des yeux enormes par rapport a leur corps, ils n'ont aucune âme et ils font peur !
+- On s'ennuie très trés vite
+- Et encore j'en passe, decors, vegétation difficile à poser, pas joli....
+
+Je vais tenter une demande de remboursement, c'est inexcusable, surtout pour un jeu qui présentait des lacunes et qui nous reviens plusieurs mois aprés encore pire que pendant la beta.
+Je ne recommande vraiment pas !
+
+#####
+
+J'adore la série RCT.
+J'avais mis beaucoup d'espoir dans le early access de RollerCoaster Tycoon World mais il n'y a pas de fun dans le jeu.
+La gestion est abominable.
+J'ai beau essayer d'y retourner régulièrement la magie n'est plus là.
+Je suis aussi Parkitect et les développeurs sont très à l'écoute de la communauté.
+D'après ce que j'ai vu Planet Coaster a l'air bien plus fun.
+Si je pouvais me faire rembourser je le ferai !
+
+#####
+
+NE L'ACHETEZ PAS !!!
+
+Ce jeu est une pure Daube comme on en voit très rarement... Digne des pire bouses estampillées EA.
+- Jouabilité à chier
+- Bug/crash régulièrement
+- Graphiquement à la ramasse
+- Freeze même avec une GTX 1080
+- Bibliotèque d'objet relativement naze
+- Grille de placement vraiment très mal optimisée
+
+Dommage que je ne l'ai pas acheté sur Steam, je ne peux même pas me faire rembourser.
+Franchement, si vous voulez un jeu style Rollercoaster Tycoon 3, dirigez-vous vers Planet Coaster qui est une pure merveille.
+
+#####
+
+Après plus de 70h à me battre avec le jeu (oui je suis maso) je dois jetter l'éponge, l'avant dernière mission ne veut pas se lancer, impossible de finir le mode scénario.
+
+Messieurs les développeurs, cessez de faire du contenu il y en a assez, faites en sorte que votre jeu soit stable et ne plante plus. 
+
+Dans l'état le jeu est très bien et complet, mais il est injouable plus de 1h30 de suite.
+Il faut sans cesse sauvegarder pour ne pas tout perdre et il faut se limiter à 500 de pop dans le parc pour éviter le crash.
+Le seul moyen est de fermer le parc quand on a trop de monde pour se retrouver à 500.
+
+Bref si vous avez un excellent pc et de la patience il peut être bien sinon passez votre chemin tant qu'il reste instable
+
+#####
+
+Plus les mises-à-jours avancent, moins le jeu fonctionne bien. Beaucoup de bugs. Je n'arrive plus à ouvrir mes parties enregistrées. le jeu prend des années à loader (meme sur un SSD). J'adoooore les jeux roller coaster tycoon, depuis le premier je joue. Celui-ci est définitivement le pire. L'outil de création de manège pourrais être interessant s'il fonctionnait correctement... Malheureusement, je déconseille ce jeu...
+
+#####
+
+6h de joué depuis le mois d'avril. 6h de trop. Et je peux même pas me faire rembourser car j'y ai cru.
+Allez sur Planet coaster, tout est mieux, sans exeption.
+Enfin, c'est pas très fairplay d'essayer de voler des client avec cette sortie 24h avant le concurant. RCTW est nul, vous avez pris vos clients pour des cons (la nouvelle mode des jeux vidéos) sauf que là ils vous ont fait un doight!
+
+#####
+
+Jeu de merde completement bugé payer 28€ je ne recommande pas d'acheter ce jeu pour le moment. Plus de 10ans après le RollerCoasterTycoon3, c'est a se demander se qui foute en 10ans de temps. Je conseil plutot Planet Coaster.
+
+#####
+
+A l'achat du jeu je me suis dit, cool une suite !!
+Mais apr_s quelques mise à jours, me suis dit 'pourquoi j'ai acheter ça moi ? "
+Je suis Fan de la licence mais là j'ai jamais autent étais déçus par une franchise que je soutien à font.
+J'ai qu'une seul chose à vous dire, n'achetez pas ce jeu, coute trop cher, et tellement mieux que celui là !
+Passé vite votre chemein !
+
+#####
+
+"Mouais" me semble être l'évaluation la plus pertinante pour cette espèce de version mobile chelou qui souille la mémoire des légendaires RC Tycoon.
+
+#####
+
+Je vais donner mon évaluation final et verdicte oui c'est un bon jeu  il faut etre objectif et arrèter de placer planet coaster sur un pied d'estale certe ce dernier et exelent et pousse loin dans la simulation mais rct World n'en ai pas pour autant mauvais et meme meilleur sur certain point ! Comme l'editeur de chemin et de montagne russe que je trouve plus intuitif sur rctw, graphiquement il n'est pas moche . Le seul gros point negatif de rctw qui j'espere sera corrigé (et sans payer ) c'est le manque d'attraction ( plus de flat ride , attraction aquatique , montagne russe pour enfant et bien sur les attraction de transport ! ) mais a part ça la version final tient la route. 
+
+En résumé si vous voulez de la simu pur et dur de parc d'attraction passer votre chemin et achetez Planet Coaster 
+Par contre si vous recherchez la simplicité d'utilisation et construire un parc sans prise de tête Rctw fera parfaitement l'affaire !
+
+#####
+
+par raport a rct3 ou frontier etait present , c'etait beaucoup mieux.
+
+#####
+
+jeu ultra beugué depuis le lancement en 2016...aucune mise à jour n'est venu corriger les problémes, ce jeu est inutilisable...
+
+#####
+
+Jeu Très très très décevant ! Fan de la Franchise "Roller Coaster Tycoon" j'ai été choqué de la nullité et le manque de fun de cette opus ! Très entousiaste à son annoncement et déçu lors de son "Early Acces" (mais je m'était dis : oh, mais ce sera mieux en version finale mais non) La version finale n'ajoute pas des nouveaux élément mais des bbugs ( EA Des personnage débile, disparition des Wagons et Bien plus encore !). En plus, Une nouvelle fonction à été ajouté : le réalisme ! ça casse complètement les codes de RCT, le fait de créer des attraction Folles. à Cause de cette fonction, si votre coaster est trop biscornu, le train déraillera ! dernière chose, le jeu est complètement abandonné par ses développeurs !
+
+Je déconseille ! Allez sur planet coaster !
+
+#####
+
+Plante constamment
+
+#####
+
+Affligeant pour le moment, les graphismes ne sont pas présents, aucune fluidité, les gens saccadent quand on les voit marcher, bref, vous l'aurez deviné, Planet Coaster est le seul et unique successeur dla franchise RCT.
+
+RCT World est realisé par des amateurs à mon goût.
+
+5/20
+
+#####
+
+[b]RollerCoaster Tycoon World.exe ne répond pas...[/b]
+
+C'est avec un certain regret que je rédige cette évaluation aussi précocement par rapport à mon temps de jeu...
+
+Etant un très grand fan de la première heure de Rollercoaster Tycoon, je me réjouissais du tout nouveau jeu de la franchise que j'affectionne particulièrement, à savoir Rollercoaster Tycoon World.
+D'un naturel curieux mais plutôt méfiant, j'ai attendu quelques temps avant de me le procurer.
+Premièrement, le choix commercial (entendez pas là, une livraison d'un jeu non fini promis depuis longtemps et en accès anticipé qui plus est) ne m'avais pas forcément plu et deuxièmement le nombre considérable d'avis négatif m'avais quelque peu refroidi.
+
+Cependant, les avis étant trop subjectifs à mon goût (en voici encore un), j'ai décidé de sauter le pas, de me procurer le fameux jeu et de me faire mon propre avis pour vous en faire part par la suite.
+Aurais-je mieux fait de m'abstenir? Certainement!
+
+Les premières heures étaient, comme dire, jouissives! Oui, j'ai retrouvé les sensations du premier opus (je les compare tous à celui-ci qui reste pour moi, sans conteste, le meilleur), les chemins et files d'attente un peu capricieux dans leurs mises en place mais avec un peu de jugeote, on parvient à faire de jolies choses, le contenu assez satisfaisant même si je le répète mon temps de jeu ne me permet pas d'en juger et l'optimisation pas dégueulasse du coup, à part les effets de clipping en zoom notamment sur les visiteurs... Bref, de nombreuses heures en perspective en se disant que les joueurs sur Steam sont tous des cons ou jouent avec des PC datant de RCT!
+
+Mais que fut ma douleur après un repas chaud (par ce doux temps d'été, aussi doux que cet euphémisme)...
+Le chargement de la sauvegarde s'effectue correctement (quoique un peu long sur un disque dur traditionnel), je dois à présent tester mon grand 8 afin de vérifier si mes loopings et mes vrilles sont dignes d'un architecte exerçant à Dubaï...
+Et là, le jeu se met littéralement à afficher 1 pauvre image par seconde...
+Je suis confiant et persévérant...
+Le chargement de la sauvegarde s'effectue correctement (j'aurai du l'installer sur mon SSD), je dois à présent tester mon grand 8 afin de vérifier si mes loopings et mes vrilles sont dignes d'un architecte exerçant à Dubaï...
+Et non, le jeu me refuse...
+Je suis persévérant...
+Le jeu est relancé (j'aurai du l'installer sur ce satané SSD), la sauvegarde de la partie est chargée (j'aurai vraiment dû...)...
+Il m'est impossible de faire quoi que ce soit sur cette sauvegarde...
+Je suis d'un naturel curieux, j'ouvre le gestionnaire de ressources et là, stupéfaction, le jeu consomme plus de 12Go de mémoire vive, le jeu se ferme sous mes yeux, ébahis...
+Une fuite mémoire comme une vieille incontinente...
+
+Il est temps pour moi de rédiger mon évaluation, apporter ma pierre à cet édifice déjà si grand... et si regrettable...
+Je ne peux pas laisser faire une chose pareille, je ne peux pas m'empêcher de vous alerter, de vous convaincre même de ne pas l'acheter même si comme moi, il vous prend l'envie de vous faire votre propre opinion...
+
+Les antonymes de recommandable sont: condamnable et indésirable, 2 mots tout trouvés pour ce jeu en l'état!
+
+#####
+
+Roller Coaster Tycoon serie is dead!
+
+#####
+
+trses mauvais jeux arnaque sur arnaque avec des mise a jour pourrie  un renvoie de contact inexistant et  pas defort  pour les develloppeur de nvizzio
+
+#####
+
+Accès anticipé ne justifie pas tout... là je ne vois que des cartes trop petites, des ralentissements, des trucs extremement chiants qui n'ont rien à voir avec la pré release (enlever tous les arbres un par un pour construire une attraction par exemple, si si comme dans RCT1...)
+
+Ajoutons à ça des trucs comme la construction d'allées parfaitement à chier (malgré un large choix), ou pire le fait de devoir bouger l'écran AU CLAVIER (en tout cas la souris en bord d'écran ne fonctionnait pas chez moi)... bref, pré release ou pas... ça sent pas très bon... du moins suffiamment mauvais pour que je demande le remboursement dès aujourd'hui après une heure de jeu...
+
+Si j'ai tort (et dans le fond je l'espère étant amoureux des RCT) je le rachèterai, mais je ne vois que peu de raisons d'être optimiste
+
+#####
+
+Il a fonctionné 5 h... et depuis gros bug, le curseur reste au millieu de l'ecran et clignote ! attendé la fin de l'année et acheté le concurent. celui la c'est juste une coquille(le nom du jeu) vide a l'interieur !!!
+
+#####
+
+Le pouce rouge reste, mais je modifie l'évaluations puisque les mises à jour récentes ont résolues quelques problèmes. Bon niveau performances ça s'amliore. Je tourne à 30 fps avec 1400 personnes dans le parc et 15 avec 2200. avant c'était avec 300 personnes, donc je ne vais pas faire la fine bouche. Mais ça n'empèche que avec un coreI5 et une GTX 970 Strix, avoir ce genre de performances sur un jeu comme celui-ci, fait par une boite ayant une grande epérience, c'est tout à fait innaceptable, même pour un acces anticipé. Comme je le disais, je ne comprends pas pourquoi ce jeu demande des ressources qui feraient tourner deux GTA V en même tant. 
+
+Pour les bugs, si vous comptez jouer les scénarios ou campagnes, sachez que la physique du jeu a été mise à jour pour les montagnes russe... Mais pas les constructions déjà faites. Donc vous aurez le doit à des voitures qui ne peuvent pas finir leurs route et autre trucs du style. Il y a toujours des bugs graphiques évidemment... J'ai aussi fait la mise à jour de windows 7 vers 10 (je me sens sale) et ça a à peine résolu mes bugs de gestion de Ram. Le jeu a vraissemblablement été optimiser pour Windows 10 et c'est tout. 
+
+Par contre pour les fan de la série qui ont joué aux autres du même nom, je dois avouer être agréablement surpris par le systeme de construction des montagnes russe et du placement des objets qui permet une grande liberté de création malgré le manque d'objet de décor. Oui niveau décor il n'y a pas grand chose, mais bon à la limite ça c'est excusable. Il n'y a toujours pas d'attractions aquatique nis la possibilité de faire passer des chemins ou attractions en souterrains.
+
+Je finirais par un Problème avec le workshop qui fait que le jeu ne reconnait pas les objets ajouté . 
+
+Donc baah go mode sandbox pour avoir un avant gout du jeu et stresser son procésseur pis rager quand le jeu commence à sacader.
+
+#####
+
+Passez votre chemin, prenez Planet Coaster qui est tenu à jour avec des développeurs qui suivent le jeu et une communauté grandissante.
+
+RCTW semble être abandonné par les dév, on n'attend même plus de patchs malgré les graphismes qui sont largement en-deça, une intelligence artificielle moins futée qu'une huître, une personnalisation ridicule, même sur RCT3 on était plus libres ! Si la licence Roller Coaster voulait disparaître, elle est en bonne voie, on est loin des 3 premiers opus. A la rigueur, dirigez-vous même vers la version mobile (RollerCoaster Tycoon Touch).
+
+#####
+
+le jeu est nul car pas trop interressant , crache presque tous le temp du coups je vous le déconseil
+
+#####
+
+Je suis vraiment TRES déçu par ce jeu.
+Technologiquement je me sens l'impression d'être revenu à l'âge de pierre et le gameplay n'est vraiment pas intuitif. La création d'un grand 8 sur mesure est totalement impossible, ce n'est pas jouissif.
+
+#####
+
+Un mauvais jeu par rapport à la concurrence. Les graphismes ne sont pas terrible, le gameplay reste  à désirer et l'optimisation du jeu est à revoir complètement. Mon PC n'est certes pas récent mais les temps de chargement sont exagérés, voire le jeu plante. Assez déçu
+
+#####
+
+Si le jeu serait gratuit, ça passerait. Mais ça ne vaut pas la peine de payer pour ça. Autant economiser pour PlanetCoaster qui est 100x mieu
+
+#####
+
+Malgré l'avoir eu à moitié prix sur un site dont je ne ferai pas la pub ici, et bien le jeu est bof, il n'est pas mauvais mauvais mais il est bof. En l'état il ne vaudrait pas plus de 20 euros.
+
+Points positifs :
+-Gestion de l'argent du parc
+-Nombre déjà conséquent d'attractions
+Lol j'ai du mal à en trouver sur le coup...
+
+Points négatifs :
+-Peeps bizarres, moches...
+-Graphismes mal optimisés, et pas au top
+-Placement de chemins buggé ( comparé à Planet coaster cest le jour et la nuit )
+-des bâtiments pour les mécanos, les agents de propreté, les comédiens et les infirmiers qui fait perdre une place folle
+-le jeu qui ne prend pas en compte les abonnements sur le workshop
+-Peeps qui vomissent trop souvent, qui jettent leurs ordures par terre malgré les poubelles c'est des vrais saligauds et des petites natures.
+-Décors pas terribles et qu'on ne peut pas placer comme on veut (alors que dans planet tycoon c'est le cas)
+Et j'en passe et des meilleures...
+
+Bref Nvizzio n'ont pas l'air compétents et j'ai l'impression que ce n'est pas prêt de s'arranger, vivement que les moddeurs nous viennent en aide. Faites vous plaisir en vous offrant l'alpha de Planet Coaster fait par Frontier, qui est déjà beaucoup, beaucoup mieux. Il est cher mais super prometteur.
+
+#####
+
+Manque malheureusement de profondeur par rapport à son grand concurrent Planet Coaster.
+
+L'avis pourrais changer le jour où on pourra également jouer sur un tas de détails sur les décors !
+
+EDIT : Jeu baclé, malgré l'attente avant de rejouer ! il n'est pas le descendant des fameux RCT, les vrais, c'est plutôt Planet Coaster qui continue dans cette lignée !
+Bref, un FLOP !
+
+#####
+
+Après moult essais, le jeu ne décolle pas, sa lag, sa met du temps à charger malgrès ma config...
+J'ai du appercevoir un soupçon de park au bout de plus d'une heure de manip pour le lancer...
+Passez votre chemin, car mm après les MAJ qui ont été faites, le jeu lag toujours autant.
+Peut-être qu'avec une machine à 2/3 milles balles sa tournera, mais pour ma part c'est mort.
+A jetter !!!
+
+#####
+
+quel deception ...meme gratuit ca vaux pas la piene de l installer......encore une fois , on utilise la reputation des anciens rtc pour vendre une grosse merde qui a ete travaillé 1/2 h par un programeur camerounais....
+en bref ....
+laid
+tourne comme une grosse merde 
+apres 2 h de jeux et une dixaine de manége ...ca tourne plus du tout ...16 ram ,gtx 970 ,4x4ghz
+buger a mort ..ce qui rend limite injouable
+mission completement idiote
+graphiquement juste degeulasse
+rtc3 etais bien mieux graphiquement  pour la difference d epoque
+
+#####
+
+Depuis la dernier mise a jour le jeux ne démare plus, (pilote graphique pas a jour) qu'il sont a jour.
+
+#####
+
+trop de bug
+
+#####
+
+Super jeux de gestion,
+Un peu plus d'objet de décorations serait mieux, mais apar ça il est énorme !
+
+#####
+
+il y a trop de bug pour ce jeux les graphisme font mal au yeux meme en 1980-1080 le jeux plante tout le temp meme avec bonne config pc  plus de mise a jour depuis longtemps le jeux est dans l oubli des dev je le conseil pas du tout si vous l acheter a vos risque et peril (de l argent perdu pour rien )
+
+#####
+
+Planet Coaster is better, dont buy this shit
+
+#####
+
+R.I.P
+
+#####
+
+les améliorations suives, le jeu est prometeur et offre déja de quoi bien s'amusé.la dernière mise a jour offre la possibilité de créé des batiment "mur par mur",un grand pas en avant.j'èspère que l'équipe continuera dans se sens.
+
+#####
+
+Après quelques heures de jeu, je me permets enfin de faire une évaluation...Et elle est bien méritée. JEU A FUIR !
+Il m'a pris la tête, trop de bug et de chose illogique ! Sincèrement, passez votre chemin pour un autre jeu ou revenez aux bons vieux RollerCoaster !
+
+#####
+
+tellement de bug sur window 10 on se tanne de toujours redemarrer sana aucun resultat
+
+#####
+
+Le jeu n'arrête pas de planté, c'est dommage car c'est un jeux amusant.
+
+#####
+
+Vraiment moins bien très déçu .... les jeux précédents sont de meilleurs qualité niveaux détails des attractions etc... le seul point fort de ce jeu en comparaison des précédents ce sont les graphismes
+
+#####
+
+le jeux plante toutes les 30 secondes , on s'ennuie rapidement , le graphisme  a été mal confectionner pendant le rendu et mal mis au point , le chargement mais 20 minutes ou plante .
+
+
+#####
+
+Mauvais jeu, les graphismes sont très en deça de ce que l'on pourrait attendre d'un tel jeu. RCT3 était bien plus divertissant et plus abouti.
+Il y a un manque criant de réalité concernant les coasters. 
+Si vous souhaitez mettre de l'argent dans ce type de jeu, je vous recommande vivement Planet Coaster...
+
+#####
+
+Il est bien loin le temps où Rollercoaster Tycoon régnait en maître sur les jeux de parcs d'attractions...
+La coche est ratée et c'est bien Planet Coaster qui remporte le match sur tous les niveaux !!!
+
+#####
+
+Pas optimisé, injouable et moche.
+
+#####
+
+Plante régulièrement peu importe la config du pc, mal optimisé, je déconseille fortement.
+
+#####
+
+Woooah jeu soit disant magnifique .
+Bah ne l'achèter pas !!! I5-7600 GTX 1060 6go et de la place dans le pc avec 8go de RAM bah ça bug ... Vite une mise à jour pour optimiser tout ça car tout les joueurs l'ont acheter et ne l'utilise pas car il bug alors soit vous nous remboursez soit vous nous faites une mise jour d'enfer !!! Merci . 
+Prenez planète coaster sa bug pas .. en tout cas chez moi ça passe bien et le jeu est magnifique
+
+#####
+
+Je précise avant toute chose que je joue a planet coaster depuis l'alpha. J'ai pris le jeux en promo steam pour pouvoir comparer et me faire une idée des deux jeux.
+
+Hum que dire ... Très déçu. 
+
+Niveau graphisme : Je trouve cela honteux qu'a l'heure actuelle, ils puissent sortir un jeu comme ça. Je suis au graphisme le plus haut et on dirait (pour être gentil) les graphismes les plus bas sur PC et encore. Ils ont quand même améliorer la face des guests par rapport aux vidéos que j'ai pue voir à la sortie du jeux. Les comportements laisse vraiment a désirer.
+
+Le contenu est très pauvre. Le mode construction, j'en parle même pas. Il y a 5 pauvres toîts, 3 pauvres tuiles, déco et lumières hahaha, la bonne blague. C'est vraiment très pauvre. Le placement d'objet en mode construction d'un décor pièce par pièce est très limiter. Bref un mode construction a chier.  Pour tourner les pièces, les manèges, tout objets c'est par angles de 5 degré pas le choix de mettre 46 degré si j'en ai envie
+
+La musique c'est dans le même genre que le mode construction, çad rien. 2 hauts parleurs et 5 musiques qui se ressemble ... et qui en plus sont agaçante.
+
+Il n'y a pas beaucoup d'attractions (9 au total), je n'ai pas encore regarder pour la construction des grands huits mais en préfabriquer, il n'y en a que 2 ...
+
+Il y a tout de même quelques bonnes chose comme les batiments des services, je trouve l'idée bien sympathique, petit bémol sur le choix des animateurs car tu ne peux pas choisir si tu veux un panda ou un crocodile ... Les nettoyeurs tu ne peux pas choisir non plus ce qu'ils peuvent faire comme juste brosser ou arroser les plantes. Impossibilité de délimiter une zone.
+
+En ce qui concerne la gestion, je me suis pas trop attarder dessus. Mais je n'ai pas trouvé ou voir l'ensemble des employers, il a juste la finance, ce qui tu gagne et ce que tu perds comme argent ...
+
+La carte des fréquentations est plutôt pas mal, en tout cas l'idée est bonne. Elle permet de voir de façon rapide les lieux les plus fréquenter avec des couleurs bien distincts.
+
+J'ai juste jouer en mode bac à sable. Je n'ai aucun plantage et aucun freeze pour le moment.
+La traduction en français n'est pas fini ... lol et puis forcement comme le jeux n'est pas top, le workshop est pauvre en comparaison a PC.
+
+Ce que je retiens de ce jeux est une déception sans nom. Il y a encore du boulot !
+
+Planet coaster est loin devant sans aucune hésitation
+
+#####
+
+Assez decue par le RCTW. je l'ai acheter pendant la Aerly access, et j'ai attendu que le jeu soit fini pour y jouer. avec ma config (2500K 4.2Ghz, 8Go RAM, 660Ti) impossible de jouer sans Lag. bon c'est pas le plus grave! on est pas sur un fps et quelques chute de framerate peuvent passer. par contre les crash regulier et les ressources consommer c'est juste allucinant:
+
+impossible de jouer plus de 1h d'affiler sans que le jeux plante. et impossible de faire autre chose, puisque le CPU turbine a 100% d'utilisation en permanance. 
+
+bref assez decue, d'autent que le jeu avait bonne presse avant ce sortie et en Aerly access...
+
+#####
+
+Ce qui est vraiment de la ....... c'est que tu dois te taper toute la campagne et vraiment trop d'heures pour débloquer les attractions et tout le reste pour pouvoir avoir du plaisir en sandbox. c'est vraiment plate et sa donne pas le goût d'y jouer.
+
+#####
+
+C'est de la marde; NE PAS DÉPENSER POUR ÇA!
+
+#####
+
+ne surtout pas l acheter j 'ai un pc MSI apache gaming le jeu ne se lance jamais il crash sans arrêt impossible de jouer au mode bac a sable et malgrée la modification de compatibilité en win 8 et win 7 et vista rien a faire il crash, il crash et re-crash un jeu totalment buguer impossible a jouer la seul fois ou j ai pu jouer j ai fait 1 partie quand j ai voulu la relancer il la trouvais pas le chargement restait bloquer a 100% sans lancer la partie désinstaler réinstaller toujours pareille jeu impossible a jouer alors que je l ai payer 40 euro ....
+
+#####
+
+Un mot : Passez votre chemin. Incroyable a quel point aujourd'hui on peut faire des jeux tels que ça... On te donne des notifications mais impossible de cliquer dessus par exemple... codé par des clodos
+
+#####
+
+Je joue à un seul jeu sur mes écrans et c'est Roller Coaster Tycoon depuis 2000 (1, 2 et 3). Ca faisiait un sacré moment que j'attendais la suite de RCT3, ca y est elle est là! Enfin en Early Access certes, mais beaucoup de choses restent inexcusables. La franchise de ce jeu appartient à Atari, on voit bien que les développeurs débutent dans le milieu de la simulation d'un parc d'attraction, ca se sent vraiment, les développeurs de la franchise sont chez Frontier.
+
+Non, je regrette mais comparé à Planet Coaster qui est en version Alpha, ce jeu est médiocre. Selon moi, seul l'outil de construction de MR est simple, intuitif et efficace. Le reste est à reprogrammer. Je ne doute pas du travail des développeurs mais votre jeu court à la catastrophe si vous ne proposez pas une nouvelle version.
+
+Voici mes gros points négatifs (ca reste mon avis personnel) :
+
+* Des ressources graphiques beaucoup trop importantes
+* Des chargements  à n'en plus finir
+* Des menus et des onglets pas clairs, ni sympathiques à naviguer
+* Des visiteurs pas réalistes du tout
+* Peu de prise en compte des décors sur une attraction
+* Pas de fast-pass proposés
+* Un onglet de management vraiment trèèèèès léger
+* Des construction de UGC très difficile et pas intuitives
+* Une bande son trop simplette et répétitive (sauf la crémaillère des MR qui est aboutie, ainsi que les remix musicaux pour chaque thèmes)
+
+Non, vraiment très déçu, mais je me dit qu'avec le temps... Heureusement que Planet Coaster est là.
+
+#####
+
+Non
+
+#####
+
+-meilleurs graphisme
+-plus réaliste
+-meilleur interface
+-mais trop de bugs , dés qu'il y a trop de choses dans le parc le jeu ne fait que ramer
+
+#####
+
+5h de jeu et il ne m'en faut pas plus.
+
+Mauvaise physique des coasters
+La disposition des decors, la thematisation est pénible au possible .....
+Mauvais graphisme et physique général .....
+Et malgré cela ... Lag de fou ....
+Fan de la licence ..... Restez sur RCT3 ! Ou attendez un éventuel PlanetC....... Qui sera je l'espere mieux car "FRONTIER" ;) Mais bon je l'attends au tournant aussi. Wait and See. En attendant, passez votre chemin et jouez à rct3 platinum ;)
+
+#####
+
+☼ Je recommande :
+
+☐ Je ne conseillerai pas ce jeu même à mon pire ennemi
+☐ Les enfants
+☐ Les fans du genre 
+☐ Les casual gamers
+x Tout public 
+☐ Les hardcore gamers 
+☐ Les PGM sud-coréens 
+
+☼ Graphismes :
+
+☐ À vomir par terre
+x Très mauvais
+☐ Mauvais
+☐ Corrects 
+☐ Bons 
+☐Très bons 
+☐ Beaux à en chialer
+
+☼ Qualité/prix : 
+
+☐ Il faudrait me payer pour y jouer
+x Attendez une promo 
+☐ Abordable
+☐ Pas cher 
+☐ À ce prix là c'est cadeau 
+☐Gratuit 
+
+☼ Configuration PC recommandée :
+
+☐ L'ordi à ma grand mère 
+☐ Entrée de gamme 
+☐ Milieu de gamme 
+x Haut de gamme [Le jeu rame tout seul ]
+☐ Un PC de la NASA
+
+
+Planet coster
+
+#####
+
+J'aurais dû suivre les conseils et les avertisements des joueurs. 46 € jétés par la fenêtre. Je suis un fan de RTC de 1 à 3 et de No limits.... Cette nouvelle mouture est pitoyable d'ennui, d'absence d'interêt, même plus de tir de feux d'artifice.
+A fuir d'urgence !!!
+
+#####
+
+Bonjour
+
+Je suis mitigé sur ce jeu.
+
+J'ai plusieurs points
+Construction:
+La contruction des attractions par exemple, le coté finir une attraction automatiquement plutot bien
+Mais une fois qu'il est completé il est impossible de couper le circuit au mileu afin de rajouter quelque chose
+De plus avant de le tester au ne peut pas voir la force du virage du coaster
+
+Le personnel:
+La gestion du personnel est mauvaise, quand on met un centre de mecanisien on ne voit pas du tout sa zone d'action et c'est pareille pour les balayeurs ou autre
+De plus on ne peut pas les former pour qu'il soit plus efficace.
+
+Le vomi:
+Quand un vomi est par terre, toute les personnes qui passent sur ce chemin vomissent c'est pas normal 1 ok mais
+
+En général
+Le roller coaster tycoon 1 et 2 meme si il était en 2D ils avaient un coté fun que beaucoup de monde ont apprecié comme moi.
+Dans roller coaster tycoon 3 avec le passage à la 3D y'a eu du changement mais c'est resté fun cela ma fait passer de tres bon moment
+
+Roller coaster tycoon world, je trouve qu'il manque de fun. Il a perdu ce coté amusant que l'on avait dans les precedant jeux c'est dommage, Pour moi je trouve qu'un jeu est fait pour s'amuser si il devient trop serieux il peut perdre son ame.
+Je pense que c'est ce qu'il s'est passé ici avec la dernière version.
+
+J'espère qu'une mise à jour arrivera afin de regler les différents problèmes
+
+Bonne continuation pour la suite, j'espère que vous y arriverez.
+
+Cordialement
+Sébastien
+
+
+#####
+
+Belle et bonne surprise que ce Rollercoaster Tycoon World, jeux stable pour une early access, tres suivi par les developpeurs. Tres bon jeux de simulation, gestion de parc d'attraction.
+Je vous le recommande si vous aimez les jeux comme theme park etc... et si vous souhaitez soutenir les developpeurs ainsi que le jeux.
+
+#####
+
+J'adore ce jeux mais il manque des trucs qui se trouvait dans RCT3 comme aller faire les train sous terre et ou sont les attractions a eaux?!
+
+#####
+
+J'adore la série, mais ici, même pour une Early Access, c'est buggé, et ça manque cruellement de contenu. Le jeu est pauvre, terriblement vide, 80% du travail semble avoir été investi sur le créateur de montagne russe qui s'avère finalement etre une déception. Peu maniable, beaucoup de bugs et aucune option de personalisation. Après avoir passé une heure dessus, et pour remplir le reste du parc, il vous restera trois attractions qui se courent après, et une série de stand tous identiques dont le nombre est demultiplié de manière malhonnete en utilisant des styles différent (batiment western, futuriste, etc)
+
+Il manque tellement de choses a ce jeu, mais il lui manque surtout une âme. Les parcs que l'on créé manquent de vie, et la pauvreté des attractions font qu'ils se ressemblent tous.
+
+En conclusion, foncez sur Roller Coaster Tycoon 2, moi après une telle déception, j'y suis retourné, et j'ai retrouvé un jeu beaucoup plus abouti, beaucoup plus riche, et beaucoup plus complet que cet opus.
+
+#####
+
+Se Jeu est formidable, Intuitif. Un mélange parfait entre City : Skyline est L'ancien RollerCoaster Tycoon.
+Certains points négatif, certe, comme : Les personnages saccadé et un manque de contenus. Mais des efforts sont là et les bug facilement corrigable je pense avec mon expérience en développement.
+
+Je pense que se jeu a du potentiel !
+
+#####
+
+Je vais faire court, horriblement moche, pas au point, prenez plutot Rollercoaster tycoon 3.
+
+Ou mieux attendez Planet Coaster (la vrai suite de ce jeu formidable qu'est RCT3)
+
+#####
+
+Le system de création de grand 8 est vrmt compliqué !!! Il faut y passer des heures pour vrmt le gérer parfaitement ....
+
+#####
+
+Bonjour a tous,
+Comme beaucoup un grand fan de RCT depuis le premier mais un deception pour celui-ci.
+Amis développeurs j'espère que vous lirez ces lignes.
+
+Côté négatif : pour commencer toutes les entrées sont les mêmes avec un bon gros bloc de béton des l'entrée du parc un peu dommage, beaucoups de saccades, des visiteurs qui se téleportent au lieu de marcher comme tout le monde. Pour ce qui est des attractions beaucoup trop peu mais admettons c'est un early acces. Idem pour les décors très peu de marge de manoeuvre decors simplet des arbres a taille unique, Dieu sait qaue la nature est uniforme ;). 
+Par contre des bugs sont present, amis gamer de RCT supprimer un banc où des visiteurs sont assis même Copperfield ne sait pas faire. Et je ne recite pas tout les autres mentionné par mes amis joueurs de RCT. Et faites quelque chose pour les chemins c'est juste hoorible par moment
+
+Cher devs il manque des fonctionnalité indispensable !!! Pub ? Zone de travail pour nos employés ? Peinture sur les attractions ? Je ne veux pas vous vexer mais regarde le concurrent Planet Coaster rien que la possibilite de décor et la liberté d'action sur celle-ci est superbe la marge de manoeuvre et la liberté est énorme.
+
+En espérant une amélioration significative ou bien ce titre qui m'était cher ne sera plus dans ma bibliothèque Steam.
+Mesdames Messieurs les Devs bon courage pour loptimisation, l'ajout de contenu et de fonctionnalité. Nous attendons un vrai RCT World.
+
+Amis joueurs j'espèere que ca vous aura été utile et a voz souris pour créer le parc de vos rêves .
+
+
+
+
+#####
+
+A ce jour, encore énormément de bug franchement stupide.
+
+-Les peeps sont completement paumé la plupart du temps ne sachant pas ou aller.
+-Le nouveau model de montagne russe inutile.
+-Le coaster builder encore blindé de bug avec les angles.
+-Les valeurs de test qui change de 11.5 à 5.0 pour 2km/h de moins sur une section de 3m.
+-Les valeurs de test similaire pour des model de coaster différent ( un coaster en bois équivalent a un hypercoaster...)
+-Les chemins toujours aussi catastrophique au moindre croisement ou pour relier un autre chemin.
+
+Récement : 
+- Disparition de la gare du nouveau model de coaster.... juste disparition du coup les mécano peuvent pas réparé et le coaster est toujours éditable mais sans gare.
+
+-Toujours des effets graphique inutile, franchement il ferait mieux de mettre tout leur studio sur les bugs et le developpement du jeu.
+-Contenu toujours extremement réduit.
+-aucune nouvelle carte
+-1 nouveau manege tous les 4 mois
+
+Franchement faudrait redressé la barre tres vite parce que a la sortie du jeu sinon je me fais remboursé.
+Quand on vois ce que planet coaster arrive a faire alors que dans RTCW les mecs bossent sur le graphisme.
+Toujours pas de constructions souterraine.
+
+Lamentable!
+On en attend beaucoup de the RTCW et pour l'instant c'est loin d'etre satisfaisant.
+Et dire qu'il va se vendre plus chere plus tard, faudrait résoudre tous ces bugs et se sortir les doigts du ... quoi la !
+
+#####
+
+J'essaye d'y jouer sur un PC gamer et ce jeu bugue à chaque partie ! Je déconseille ce jeu, mieux vaut continuer de jouer à ce bon vieux RCT3 qu'à celui-ci :/
+
+#####
+
+Ce jeux est inférieur à Planet Coaster pour les raisons suivantes:
+- Temps de chargement interminables
+- Gros ralentissement qui nuit à l'expérience lorsque le park dépasse deux tuiles
+- furustration dans la décorations (impossibilités de concevoir ses propres décorations
+- Pas de gestion des tunnel pour les grand-huit
+- comportement irréaliste et bugé lors de l'ajout de frein pour la gesion de plusieurs train
+- nombre de grand-huit différent très limité (environ 6-8 contre une 20ème dans Planet Coaster)
+
+Planet Coaster n'a pas ces défauts et permet de créé ses propres bâtiments. 
+Ce jeux ne rivalise pas avec Planet Coaster
+
+
+#####
+
+jeu nul, développeur qui se sont trompés de métiers, nvizzio vous étes a chier, jeu truffé de bug en tout genre, injouable, indigne, voleur
+
+#####
+
+j'ai acheter le jeu dans les premiers... et celui ci n'a jamais fonctionner... super!!!
+
+chargement à 52% et plus rien...
+
+des mois et des mois apres l'achat je ne peut toujours pas y jouer.... merci atari!!! aucune mise à jour...!!
+
+décu!!
+
+#####
+
+Première fois que je joue a la licence et je me suis beaucoup amusé. Les graphisme sont passables, et les possibilité de façonner son parc très étendue. Sauf que... j'ai pu jouer pendant 7 heures sans problème, et puis d'un coup le joue a décidé de crash à répétition, de freeze pendant 10 minutes, de se fermer tout seul. Autant dire injouable.
+
+Je suis completement déçu d'avoir dépensé de l'argent dans ce jeux.
+
+#####
+
+Attention, en l'état actuel des choses, le jeu ne vaut pas + de 10-12€... Il est opti avec les pieds, le système de routes est bancal et buggé, le système de création des grands huits est approximatif...
+Pour les fans de la 1ère heure de la franchise, repartez sur RCT3, passez votre chemin, vraiment.
+
+Après quelques heures de jeu, il rame toujours autant malgré les mises à jour, il crash de temps en temps (c'est le seul de mes jeux qui crash soit dit en passant).
+
+J'ai eu affaire à un chemin qui, une fois posé, ne pouvait plus être supprimé par l'outil destruction, bloquant ainsi une partie entière de mon début de parc.
+
+#####
+
+Aucun intéret... Gameplay nul, niveau gestion pour enfant de 6 ans... Déçu et pas juste parce que c'est en prime access... oui les graphismes s'amélioreront surement, mais l'esprit du jeu n'exsite pas et n'existera pas
+
+#####
+
+Aucun problème pour ma part.
+
+Très bon jeu. Il reflete les autres. Un temps d'adaptation est nécessaire, mais cela reste très intuitif.
+
+Je le recommande.
+
+#####
+
+bonjour, super jeux ! très prométeur !
+ pas mal de bug mais ce n'est qu'une beta a se comprend !
+le jeux beaucoup plus fluide !
+exéllent travail !
+dernière mise a jours, plus aucun bug :)
+
+#####
+
+Bon aprés plusieurs heures ! C'est RCT 3 en moins bien ! Un comble ! Mais c'est un accés anticipé donc je reste neutre.
+
+Je commence :
+
+- Les employés qui ne sortent pas bosser ou aléatoirement (moi les versions upgrade des concierges, mécano etc ne fonctionnent pas du tout) et impossible de leurs affecter des zones de travail.
+
+- Attractions qui tombent en panne toutes les 5min même si vous reglez sur 10min le temps de maintenance (les mécano sont des arnaqueurs c'est bien connu hihi)
+
+- Impossible de supprimer plusieurs objets à la fois (la galére de cliquer sur chaque foutus buissons !)
+
+- Pas de dosage des ingrédients des stands de nourriture-boissons (plein de sel pour les faire boire plus c'était fun).
+
+- Sentiments des visiteurs totalement aléatoire, ils semblent être furieux d'acheter des souvenirs, d'autres semblent être des zombies ou blessé, j'en passe...
+
+- Placement des routes et objets aléatoire aussi, un coup c'est possible et 30cm à coté c'est emplacement invalide... Why ?
+
+- Cycle nuit qui passe en 3 secondes montre en main, pas de pluie ou d'intempéries.
+
+- Visiteurs qui vomissent et salissent tout même avec 36 poubelles au m² et autant d'agents d'entretiens.
+
+- Construction des Grands 8 laborieuse et peu permissive.
+
+- Les graphismes pas top qui font souffler mon GT70 au taquet alors que Fallout 4 en Ultra le fait à peine titiller...
+
+Bref j'en oublie surement...
+
+Je vais tester encore quelques heures et me réinstaller le 3 !
+
+Ne le payer pas plein pot en tout cas il n'en vaut pas la peine à l'heure actuelle... 
+
+
+#####
+
+OMFG !
+
+Je crise avec ce jeu ! Et quand je vois ce qu'on peut faire avec son concurent, Planet Coaster, qui sort tout juste son alpha payante...
+En soi, RCTW est fun mais il y a beaucoup de bugs, de tous types. Et le contenu est pauvre ! En y ayant joué près de 22h, j'ai déjà fais le tour depuis un petit moment. De plus, les graphismes sont moches, les mécanismes de gestion sont quasi sans-intérêt, la prise en main n'est pas du tout intuitive et demande une certaine "adaptation".
+
+Bref, je croyais qu'on était en 2016. Mais quand je joue à RCTW j'me dis qu'on m'a menti quelque part...
+En fait, c'est un peu la même histoire qu'avec le dernier SimCity... Une grande licence, qui sort un nouvel opus, qui fait d'la merde et vous connaissez certainement la suite...
+
+Early Access ou pas, RCTW sucks !
+
+#####
+
+jeu inadapté pour les vétérans des parcs d'attractions.
+Graphismes grossiers et rempli de bugs.
+La gestion est très limitée idem pour les choix d'attraction. 
+
+Cela ressemble plus à un jeu d'attraction casual plutot qu'à un jeu de gestion.
+Sensation que le produit a été baclé pour faire de l'ombre à la concurrence.
+
+#####
+
+Avoir mis des années pour sortir ça franchement c'est du foutage de gueule
+
+#####
+
+Malgré les avis négatif je m'amuse pleinement sur ce jeux il es fun , graphiquement bien évoluer certe il a planter deux fois sur mon pc pendant une session de 3-4h mais cela reste une Early access je recommande ce jeux :) pouvoir créé ses montagnes russes es trop genial !!
+
+Pour info les personnes qui parle du prix excessiff sont des neophytes en achats de jeux video car je l'ai pour ma part payer 17 euros et non 46 :) je suis satisfait de mon achat!!
+
+#####
+
+Ce jeu est d'un nul.. Optimisation zéro ! N'achetez pas cette daube c'est finit à la pisse. Et maintenant que Planet Coaster est sortit, je n'ai qu'un commentaire à faire à propos de RCTW, R.I.P ! A dieu !
+
+#####
+
+J'aurais bien aimé pouvoir noter correctement ce jeu SI SEULEMENT J'AVAIS PU FINIR UNE ATTRACTION AVANT QU'IL NE CRASH
+
+#####
+
+Dommage que ce jeu au grand potentiel soit si mal géré... Je m'explique, je n'ai pas pu jouer plus d'une heure de jeu normal avant les premières mises à jours qui ont déclenché des lags et des bugs à répétition... Autant en jeu que dans les menus!
+J'ai été très déçu, moi qui aime tant ce genre de jeux...
+
+#####
+
+En toute honnêteté... N'achetez pas ce jeu ! Le rct3 qui a plus de 10 ans fait 1000 fois mieux ! C'est vraiment dommage parce que le design est la ... Mais y'a que ça ! Plus de coaster aquatique, des lags permanents, j'ai commencé une campagne ... Impossible de la continuer parce que le jeu plante au lancement ... Je suis vraiment decu d'avoir mis 40€ dans un jeu qui ne fonctionne meme pas ! Fuyez pauvres fous !
+
+#####
+
+Vachement déçu de ce jeu il aurait été sympa s'il était sorti il y a 7, 8 ans mais là ce jeu ne vaut n'y le prix n'y le temps d'y passer du temps dessus...
+
+#####
+
+Impossible de jouer plus de 45/60 min en continu le jeu ralentit puis freeze ne donnant meme pas la possibilité de sauvegarder 1h de boulot. Graphiquement ça reste bon sans casser des briques non plus, le contenu est interessant mais affreusement limité, bien que le workshop pallit a ce problème. 
+
+Au final de bonne idées et ambitions mais jeu completement injouable ! 
+Toi qui lit ce message, fuis ce jeu 
+
+Bientôt la sortie de Planet Coaster par le dev Frontier (RCT3), un jeu encore plus prometteur, moins cher et pas en alpha ^^ Vivement le test
+
+#####
+
+Excellent!!!
+
+#####
+
+Franchement, en l'état, ce n'est vraiment pas terrible. Contenu très pauvre et en regression par rapport à RCT3, idem pour les fonctionnalités. Assez moche et plat graphiquement. Et ne parlons même pas de "l'optimisation". Quelle optimisation ? Des temps de chargements assez longs ; des ralentissements pas possibles dès que le parc prend un peu d'ampleur...
+Et il ne faut pas oublier que le jeu devait sortir en novembre 2015 en VERSION FINALE !
+La bonne blague ! Retardé plusieurs fois pour finalement sortir en Early Access... pour faire rentrer l'argent probablement...
+1 an plus tard le truc est encore loin d'être terminé et je ne sais pas s'il le sera vraiment un jour.
+Vraiment très déçu. J'ai joué à tous les autres RCT avec plaisir mais là...
+Je viens de tester Planet Coaster et bien... c'est le jour et la nuit ! J'abandonne définitivement RCTW pour lequel je n'en attends plus rien !
+
+#####
+
+ce jeu n'est pas du tout optimiser ni developper il vaut mieux jouer a PLANET COASTER
+
+
+#####
+
+Trés bon jeux moin gourmand que planet coaster, contrairement à se qui est est dit on s'amuse bien avec, vraiment super, je vous le recommande. 
+
+De plus on retrouvent l'esprit roller coaster qui n'a plus rien à voir avec planet coster, les deux jeux ne sont plus comparable car il ne propose pas les même idées, à vous de vous faire votre opinion. franchement il est vraiment sympas. :)
+
+#####
+
+Le jeu n'est pas assez fluide.
+Pas assez de contenu.
+Pas assez personnalisable.
+Mauvaise prise en main.
+Graphismes hideux.
+Cordialement
+
+#####
+
+Moi qui n'avait plus joué à un tel jeu depuis longtemps mes premiers jours ont été une agréable surprise, et je comprenais mal les critiques.
+Mais rapidement on s'aperçoit que le jeu est très limité, peu de manèges, on gagne toujours de l'argent, il y a plein de bug, beaucoup de choses sont à finir ... sauf que depuis les dev ont décidé de la sortir officiellement or là je non Stop, c'est pas possible, sortir un jeu fini à moitié c'est du foutage de gueule, et donc une arnaque.
+Depuis, j'ai acheté Planet Coaster et franchement c'est le jour et la nuit, j'ai du refaire mon commentaire pour vous dire que RCTW est une arnaque, un jeu non fini, et si vous voulez un beau jeu, bien fini, qui évolue, très bien équilibré et avec une énorme communauté qui propose des workshop, allez plutot sur Planet Coaster, ne dépensez pas votre argent pour celui ci.
+
+#####
+
+Pas grandes évolutions depuis le dernier RCT, graphiquement je m'attendais a mieux, on dirait un RCT 3 1.5 . Pas beaucoups de nouveautés pour le moment. Bref vivement une MAJ voir une version finale, mais dans l'état je ne vais pas m'attarder dessus
+
+#####
+
+Une sortie encore trop "early"...
+Trop de petits détails frustrants :
+-Impossibilité de placer des bâtiments au bord des routes
+-Bâtiments placés un niveau trop haut sur l'aperçu, puis qui "tombent sur le sol", pas très pratique
+-Des bâtiments/coasters trop gros, de même que certains décors qui se placent loin du reste du coup
+-Un système de route pas pratique pour un sous, on peut pas relier certaines routes on ne sait pas pourquoi...
+-Des animations pas top
+-Une personnalisation des attractions encore trop faiblarde (c'est une EA, mais à la base le jeu devait sortir en décembre 2015...)
+-Un système d'employés pas très convaincants, et dont on ne comprends pas trop le fonctionnement (un bâtiment bien fat pour 3 employés ??) ou sa zone d'étendue.
+-Un didacticiel qui ne nous apprend rien (faites ceci faites cela, mais démerdez vous pour savoir de quoi on parle et où il faut cliquer)
+...
+
+bref beaucoup de défauts, quelques qualités tout de même (interface propre et légère, tourne bien, pas eu de bugs personnellement)  mais globalement un gros sentiment mitigé. C'est une Early Access, mais encore une fois, le jeu aurait déjà du sortir en GOLD, donc le contenu fait un peu tâche. Surtotu comparé à Planet Coaster qui me fait bien envie et qui semble presque aussi complet en Alpha (seul le prix pour l'accès à l'alpha me rebute)
+
+
+
+#####
+
+Bonjour, je suis un fan de RollerCoaster Tycoon depuis que j'ai 5 ans et vraiment je n'est jamais auant été déçu d'un RollerCoaster ! Même le 3 était meilleur c'est pour vous dire. 
+
+N'oublions cependant pas que c'est un early acces MAIS payer 46€ pour cette chose c'est vraiment mais alors VRAIMENT nous prendre pour des cons. ( Excusez mon language quelque peu grossier)
+
+Heureusement, il y a un système de remboursement. Bref, si vous pensiez l'acheter ne le faites pas ! 
+
+
+#####
+
+nul nul et nul jeux qui a marche 1h depuis il freezer des le demarrage !
+
+#####
+
+Que de bug.. Ne l'achetez pas. C'est injouable.
+
+#####
+
+Pour l'instant le jeu est très très buggé! 
+L'outil pour les routes est juste dégueulasse, on ne peux pas placer une route comme on veut, on dirait un quadrillage géant, et le raccord entre deux route ne peux se faire que dans des cases et pas ou on veut.
+
+Les animations des personnages sont vraiment moche, les caméras pour les coasters sont tout aussi dégeu. 
+Les batiments pour le personnels sont une plutot bonne idée, cependant je trouve qu'il y  a un problème de proportion entre la taille des batiments et celle de la map. 
+
+Les montagnes russes sont très mal faite (l'outil). On ne peut pas choisir ou placer les entrée et sortie (ducoup pour faire un parc un peu cool faut oublier a cause des allées de merde). L'outil libre est une bonne idée, mais alors c'est vraiment pourris, ce système de segment est très galère. De plus la moindre attraction fait vomir tout le monde. (il faudrait pouvoir demander une intervention d'un concierge etc) 
+
+Le jeu est en alpha, alors pas de panique, mais développez un peu plus quoi... ca vaut même pas une alpha la. 
+
+
+
+
+
+#####
+
+NUL vraiment TROP TROP NUL!! graphisme moche, jouabilité nul.... Rien a voir avec les anciens RCT....
+
+#####
+
+Très décevant ! 
+>> Beaucoup trop de crash en début de jeu et beaucoup de freez par la suite !!!
+
+Impossible pour moi de démarrer le mode "campagne" (qui t'apprend comment jouer). Du coup, je démarre le mode "bac à sable" mais là encore il y a beaucoup trop de "freez" en jeu quand on clique trop vite sur une icone. :( 
+
+Domage car j'aime beaucoup ce jeu. C'est chouette de créer soit meme ses manèges et de gérer le tout ; C'est assez facile de s'y retrouver même sans le tuto, mais trop d'attente : j'y ai joué environ 2h.... dont 1h (facile) à attendre que ça "décongèle" en mettant les paramètres au plus bas !
+
+2 conseils : ne l'achetez pas ou soyez trèèèèèèèèèèèèèèès patient(e) !!!
+
+Merci d'avoir lu.
+
+#####
+
+A part crash le jeu ne fait pas grand chose !!
+
+#####
+
+Le jeu s'est grandement amélioré depuis quelques temps. Néanmoins la mauvaise optimisation persiste... J'espère vraiment des mises à jour pour améliorer ça :(
+
+#####
+
+Nvizzio Creations je vous crache à la gueule j'ai pas plus constructif bande d'en.... j'ai testé planet coaster et il est bien mieu
+
+#####
+
+Bonjour, cejeu et parfait que se soit en terme de realiste ou de graphique le seul petit probleme de ce jeu et que les personnages sont completement con ce qu'on retrouver ausi et encore dans rct3 mais le jeu reste super il y a une grande varietede manege et de roller coaster. je m'attender en jouent a ce jeu un jeu comme planete coaster qui et tres limiter mais non on dirait que ce jeu et deja sortit! et je ne sais pas qui a copier l'autre mais le placement de chemin et exactement le meme que planete coaster je recommande aussi vivement ce jeu pour LA GESTION qui et deja disponible dans la version avec acces anticipé. je fait un petit comparatif des 3 jeux que j'ai cité ici (mon preferer et rctw)
+ (v = oui x = non - = semi V = extreme)
+
+                   RCT 3                                                RCTW                                                         PLANETE COASTER
+graphique HD
+                      x                                                           v                                                                             v
+steam
+                      v                                                           v                                                                             x
+deplacement des personnages logique (perssonnage intelligent)
+                      x                                                           x                                                                             v
+chemin courbé
+                      x                                                           v                                                                             v
+lags
+                      x                                                           x                                                                             x
+3D
+                      v                                                           v                                                                             v
+early acces (alpha/beta du jeu)
+                      x                                                           v                                                                             v
+systeme de gestion
+                      v                                                           v                                                                             x
+manege varié
+                      V                                                           v                                                                            -
+montagne russe
+                      v                                                           v                                                                             -
+senario
+                      v                                                           v                                                                             x
+campage
+                      v                                                           v                                                                             x
+sandbox
+                      v                                                           v                                                                             v
+achat de terrain supplementair
+                      x                                                           v                                                                             x
+picine/zoo
+                      v                                                           x                                                                             x
+personnalisation du decor (decorer le decor)
+                      x                                                           x                                                                             v
+promet beaucoup d'heur de jeu
+                     V                                                           v                                                                             x
+spectacles
+                      -                                                           x                                                                             x
+point que marque le jeu
+                    11/18                                                13/18                                                                        8/18
+note personel
+                    14/20                                               16/20                                                                       13/20
+merci d'avoir lu cet article jusque au bout
+
+#####
+
+Ce jeux ne veux pas ce lancer depuit sa sortie le 17 Nov. 2016, Écran noir ( BLACK SCREEN ) à sont lancement, et ce problème est survenue aussi durant l'early acces,
+
+dsl, pour moi je lache cette franchise pour Planet Coaster.
+
+Ce jeux a du potentielle, mais il est peux etre un peux tros précipité, il reste encore du travaille a faire !!! voir prochaine mise a jour.
+
+Merci
+Bon jeux a vous
+Nature_whish
+
+#####
+
+Nice game / Super jeux manque d'optimisation j'ai aussi Planet Coaster il est bien mieux mais celui la est top aussi sur certain point!
+
+#####
+
+Passer derrière Planet Coaster n'était pas simple, et Nvizzio s'est bien planté avec ce RCT.
+Alors oui beaucoup vont dire que ce n'est qu'une Early Access, mais les soucis de ce jeu sont tellement nombreux qu'il va être difficile de corrigé le tir.
+
+Mon Avis : gardez votre argent pour Planet Coaster.
+
+#####
+
+Certe se jeu a des problème MAIS il est Amusant
+
+#####
+
+Malheureusement tout ce qu'il reste de la licence Roller Coaster Tycoon est le nom. En effet tous les dev du RCT3 sont partis pour la concurance. RIP RCT.
+
+#####
+
+tres décu, le jeux plante depuis sa sortie final ....
+
+#####
+
+Ce jeu est vraiment incomplet, n'achetez pas ce jeu
+
+#####
+
+Jeu assez plaisant et qui est totalement la suite logique des jeux de Chris Sawyer!
+Si vous avez aimé les Roller Coaster et Roller Coaster 2, vous aimerez ce jeu.
+
+Après 12 heures de jeu, mes 2 seuls regrets sont que le jeu manque quelques outils de gestion qui étaient dans les anciens opus, comme par exemple la vue d'ensemble des manèges, qui permet notamment de fermer et d'ouvrir certains manèges et aussi, je trouve que les graphismes ne semblent pas très optimisés...
+
+Bonne partie!
+
+#####
+
+Très bon jeux.
+Cependant manque de contenu. en esperant que sa viendra avec le temps.
+
+#####
+
+jeux mediocre qui ne se lance meme plus, et du vague souvenir qu'il me reste le jeux n'avait rien d'incroyable, aller plutot du coté de planet coaster!!
+
+#####
+
+Ne l'acheter pas, c'est de la merde
+
+#####
+
+Suite a la nouvelle mise a jour je suis bien plus satisfait du jeux il manque toujours des attrctions aquatiques et un peux plus de liberte dans les maneges tels que dans le 1,2 et 3 et malgre le fait que le systeme d'achat ne marche pas le jeux remonte dans mon estime car son futur semble prometteur suite a la sortie de erly acces il ne vaut pas encore son prix mais je pense que ca va arriver et qu'il risque de ne plus rien a avoir a envire a Planet coaster
+
+#####
+
+Bonjours je suis mitiger au niveau de l'appresiation car il y a du bon mes aussi tu beacoup moin bon comme le fait est que mon jeu plante mes totat je passe a 2/3 fram a la seconde se qui me fais quitter et si je n est pas sauvgarder ben aurevoir la sauvgarde obliger de tout recommencer apres il y a le probleme de positionnement des manege ou meme voir tres fregament les route (omg) une fois sur 4 sa plante le manege ne veut pas de cette route a coter ou alors la fils dattend bug et ne me permer pas de le recoller a la route a coter obliger de la mettre en bier ou meme de faire un contour car elle ne veut pas etre la donc pas mal de point negativ apres il y a plus les manege aquatique gros deseption apres peut etre que je les pas encore debloquer.
+ah et aussi j ai eu des probleme graphique donc on ne sais pourquoi il y un pique qui apparait de terre juste cas 80m et impossible de rabaisser le sol  celui n empeche rien mes bon cest derangeant mes dans l encemble j ai je jeu donc je mes pouce vert =)
+
+#####
+
+Le jeu vient juste de sortir , il est en accés anticipé et je remarque beaucoup de lags au niveau du jeu ( il droit être mal optimisé ) pourtant j'ai 8 GB de ram , un core i 3 4005 u et une gt940m 4gb vram , il devrait très bien fonctionner , vivement les prochaines mises à jour . pour l'instant je vous conseille de ne pas acheter le jeu , attendez un peu ; ) .
+
+#####
+
+NUL
+
+#####
+
+i got a house of mechanic just beside a coater that been broken and no mechanic is show to repair u need to have the option like the other game to call a mechanic to the ride fps problem peep walk like robots when i got a overwiew of the park still need a lot of work before i recommend this
+
+#####
+
+jeux remplies de bug j'ai commencé une campagne au bout d'une heures de jeux je me retrouve dans  un coin de la map a plus pouvoir bougé j'ai essayé toutes les techniques .......
+
+#####
+
+Alors là, je tiens à dire que c'est frustrant??!! Pourquoi? Tout simplement parce que le jeu crash au bout de 57% de chargement, c'est vraiment casse pied, et oui mon pc est assez performant pour faire tourner le jeu... 
+
+Libre accés c'est bien ça? Et bien corriger ce bug parce que je ne lpense pas être la seule personne dans ce cas
+
+Merci 
+
+PS: Je me positionne aucunement qur le fait de recommander ce jeu car je ne peux pas me décider
+
+#####
+
+jeux marche pas
+
+#####
+
+Le jeux pour le moment et a un stade embryonnaire sa va que c'est une early access mais sa s'annonce mal je trouve. Graphiquement c'est laid mal optimisé, roller coaster 3 et même bien plus beau je trouve. L'aspect gestion de parc et mitigé en effet les pnj ont tout le temps faim, donc miser tout la dessus pour une bonne rentabilité,par contre les boutiques de souvenir pas trop leur truc. Les coaster priviligier les votres sous peine de les voir boudé ils veulent que des sensations extreme. Quelques bugs aussi ont ne voit pas toujours les pnj dans les vagons ou bien il bug a l'interieur. Ceci dis il y a un potentiel a condition que atari se bouge pour proposer un jeux finis car la concurence sera dur (j'ai pris planet coaster mille fois mieux pour le moment) bref jeux sympa mais pas tip top pour le moment
+
+#####
+
+Malheureusement pour moi mon avis sur ce jeu n'es pas tres bon :-\ question graphique une amélioration es vue comparer au roller coaster tycoon 3 certe pas du grand art mais bien quand meme.  Mais meme avec un pc haute technologie les personnages sont saccadé et la nouvelle mise en place du personnel dans des bâtiments ça devient un peu bof bof.  Maintenant le jeu garde un potentiel mais n'est pas pousser. Maintenant 46€ pour une aerly acces ca fais chere donc attendre la version final du jeu avabt d'acheter ce jeu
+
+#####
+
+Ce jeu met fin a la licence RCT, c'est une blague énorme le jeu a des graphique digne de 1998,trop trop peu de diversité d'attractions 4 thèmes et c'est limite, le mode campagne n'est pas agréable et il y a toujours autant de beug alors que le jeu vient d'être "libéré". Les gens, les fans passez votre chemin cela évitera les regrets...
+
+#####
+
+Tres Bon jeux
+
+#####
+
+Le jeu est beau toutes les options au maximum,nous avons bien de très beau effets de lumière et reflets et les manèges sont bien animés (j'aurai aimé que les visages des gens soient plus expressifs comme son concurrent planet coaster) il y des bugs pour placer certaines allées ou route mais en changeant soit sur une diagonale ou soit sur incliné ,on y arrive sans probleme ,(des bugs d'affichage la pince au dessus de certaines personnes ,des attractions montagnes russes qui se bloquent alors que c'est l'attration deja assemble et proposé ,bon je pense que ceci sera réglé avec un patch terminé) l'ambiance des rollercoaster est bien la ,par contre il manque des agents de sécurité la micro gestion des zones pour les balayeurs et les mécaniciens.aucune option sur les manèges pour agrandir les tours .attention pour un parc a 6 cases compter minimum 8 go ,j'ai une carte R9 290X et 16GO processeur I7 le proc tourne a 44% ,on regrette de ne pouvoir creuser ,faire des tunnels,ah oui pour moi impossible de faire les montagnes russes manuellement ,l'outil est toujours merdique ! après le premier patch: bug récurent les gens sont centrés au mileu des allées on dirait des fourmis et certains ne font plus rien,sont immobiles!!!!! et bug de collision sur manège existant ,c'est très agaçant du coup mon fils et moi meme arretons de jouer......
+
+#####
+
+ayant jouer y a tres longtemps au version anterieur de ce jeux je me faisait une joie (malgres le prix) de l acheter 
+j'ai vite arreter c'est pas en beta mais une alpha et encore je suis gentil  ya rien de bien l ergonomie de jeux est totalement a revoir.(jouer 3 h)
+aucun plaisir a jouer je deconseil d acheter ce jeux pour le moment 
+a voir sur une version final
+
+#####
+
+pk le jeu ecrit rctw a cesse de fonctionner ?
+
+#####
+
+des beug a corigee
+
+#####
+
+Le jeux n'est clairement pas poussé. Certe mon temps a jouer est très court, mais rien que sur cette base on rencontre beaucoup de limite ! Vos allées n'iront absolument pas ou vous voulez, les visteurs ne sont pas fluides (et je peux vous assure que cela ne vient pas de mon PC il fait tourner GTA en haute définition sans aucun probleme), les attractions sont peux nombreuses et vous retrouverez vite ceux des précédents RCT.
+
+Pour un fan, j'attendais énormément de RCTW, mais voila ....
+
+Bref si vous avez jouer au premier RCT il y a de forte chance que vous soyez déssus. Malheureusement, j'ai peur que seul planete coaster devienne une bonne valeur sur ce type de jeux. On peux comparer ces deux jeux à City Skyline face a SimsCity: Le petit dernier détrone le leader
+
+#####
+
+bloque au bout d un moment . sur la 7 mission .sympa mais au final si a chaque fois  sa bug c nul
+
+#####
+
+Beaucoup trop de bug lags et autre souci graphisme.
+Très dessus
+
+#####
+
+
+
+#####
+
+BEAUCOUP TROP DE BUG ET PAS ASSEZ  DE CONTENU PAR RAPORT AU ROLLERCOASTER 3
+
+#####
+
+le jeu ne se lance pas 16H apres l avoir acheté si quelqu un peut m aider ca serai sympa, si non il est sympa.
+
+#####
+
+Pour l'instant, je trouve le jeux qui a du potentiel, cependant, des bugs et un manque de contenu mais c'est un accès anticipé donc j'attend la suite !
+
+#####
+
+Après une bonne année d'attente, ce jeu à reçu des améliorations mais reste injouable... Je prend plus de plaisirs dans une file d'attente de 45 min à Disneyland qu'à jouer à RCTW ! Une très grosse déception et une énorme frustration. Fuyez !!!
+
+#####
+
+NUL decu par la qualite de ce jeux !!! A EVITER
+
+#####
+
+Je ne recommande également pas ce jeu. Sérieusement, je ne vois pas ce que certains y trouve de positif. Aller voir du côté de Planet Coaster ou encore Parkitect ou même RCT3 . N'espérer pas trop de ce RCT World , vous allez certainement être décu.
+
+#####
+
+Pour le moment ça sera non ! Vraiment dommage j'ai jouer a tout les Roller Coaster et la c'est vraiment la deception pour le moment ! J'y est jouer deux heures sans soucis ! Maintenant impossible de le lancer ! Bug avec la souris, quand on est dans le jeux ! Sinon sur les deux heures que j'ai pu jouer j'aurai bien aimer avoir des statistique sur les client du parc un peu plus poussé ! Car il est un peu dur d'analyse les pensées des clients une par une ... lorsqu'il des centaines dans le parc ! Autres choses je n'ai pas trouver comment modifier les montanes russes tout faites ! Donc a amélioré rapidement ! Sinon niveau graphisme par rapport au commentaires, cela me choque pas ! Donc en attente de mise à jour rapide ! Merciii
+
+#####
+
+Le jeux est super mais il y a quand meme quelque beug, c'est dommage.
+
+#####
+
+a ne pas acheter absolument !!!
+
+#####
+
+Super jeu avec different scenario, ideal pour les fans de rct; certes il ne faut pas comparer a planet coaster qui pour jouer il faut un pc gamer; celui ci tourne bien avec un pc de base avec un minimum de memoire vive et une carte graphique.
+
+#####
+
+C'est tout simplement une grosse arnaque. Atari a fait confiance à une autre société que Frontier Development, Nvizzio qui d'après moi n'a encore rien sorti de très connu, suffit d'aller voir sur leur site http://www.nvizzio.com/home, à part RTCW il n'y a rien... Moi je leur envoie regulièrement des emails afin de les persuader de changer de métier, il faut qu'ils arrêtent, ça sert à rien à part nous voler notre argent. Faites de même à cette adresse : info@nvizzio.com 
+Il faut qu'ils comprennent, en plus le prix du jeu est prohibitif, et moi je l'ai acheté en boite dans un magasin, ou la seule info que le jeu est encore en développement se trouve sur le livret dans la boite... Donc impossible de le savoir sans l'acheter. 
+Par contre Frontier Develoment va sortir en novembre 2016 Planet Rollercoaster qui sera certainement le vrai Rollercoaster tycoon World que tout le monde attendait. 
+En tout cas j'attendrai les critiques avant de me lancer dans l'achat d'un prochain jeu. Parce que aujourd'hui je me sens arnaqué. Et le pire c'est que tout le monde s'en fout !
+
+#####
+
+Rassurez-moi, piquez-moi, frappez-moi faites ce que vous voulez mais dites moi que ce jeu est une alpha ! Mais quelle blague sérieusement ... l'optimisation est à chier, j'en ais vu dans ma vie des jeux pas optimisés mais, je crois que celui-là c'est la perle de la décennie ! On est en 2016 !! Et des éditeurs sont encore capables de pomper des trucs comme ça, sérieux ! C'est François Hollande qui vous a formé ou quoi ? Et que dire de la gestion des chemins, c'est vraiment catastrophique, je ne sais pas qui sont les développeurs de ce jeu mais, il va falloir se penser sur une restructuration ou de demander à vos développeurs de se sortir les doigts de là où je pense ! Même avec un PC à 2000€ ne comptez pas sur le fait d'aller à + de 3000 visiteurs, même avec les graphiques BAS !
+
+Parce que le pire dans tout ça, c'est que le jeu a un énorme potentiel, mais c'est IN-JOUA-BLE ! C'est un jeu qui devrait même pas être sorti, il devrait être encore en version développement ! Quel carnage !
+
+Bon, heureusement qu'il y a planet coaster à côté ...
+
+#####
+
+Trop bugé
+
+#####
+
+where is the final release, We are on November 16 we still can not download the final version? I buy my games at fnac and I was told it was the official game I'm always on early access
+
+#####
+
+du foutage de geule
+
+#####
+
+nul
+
+#####
+
+le pire de tous les temps, la vrai suite de roller coaster c'est planet coaster .
+developper par frontier.
+si vous tenez vraiment a faire tous et n importe quoi ,orientez vous plutot sur planet coaster qui est mis a jour tous les mois.
+
+#####
+
+Early acces with almost no development...
+
+#####
+
+le realisme des coaster est mal fait
+
+#####
+
+Bon jeu, faut pas cracher dessus comme beaucoup font, ils tournent sur mon PC Portable modeste en performance, il manque de fluidité ça c’est clair même sur une bonne machine mais c’est pas horrible. Les graphismes sont pas mal, loin derrière Planet Coaster, mais c’est pas comparable. 
+
+Le prix aujourd’hui est attractif en plus, et je pense qu’à 15€ ce n’est pas un mauvais achat.
+
+#####
+
+J'ai acheté le jeu en Beta Test. Ca ne m'a pas posé problème de constater des bugs. Mais là, ca fait 5 mois que le jeu n'est plus en test, et ca plante toujours. A chaque fois, je dois reseter mon ordi, et je constate des lenteurs. Graphisme bof également. Je pars tenter l'aventure Planet Coaster.
+
+#####
+
+Je ne peux qu'être d'accord avec les autres commentaires récents.. le jeu est pénible, buggé, rien n'est résolu ils en ont eu marre et l'ont juste sorti buggé tel quel.
+Il rame, les chargements sont ignobles, les sets de base sont pauvres ( et le mot est faible ), tout est compliqué et on s'y ennuie.
+
+Graphiquement il est moche, quand on dézoom c'est plus des personnages 3D mais des sprites 2D tout dégueulasses, tracer des chemins c'est l'enfer.
+
+Mais la cerise sur le pompon, ça reste les manipulations à faire avec windows pour "profiter du jeu", en allant dans les reggedit..
+Le workshop est à l'image du jeu : pauvre. On ne peut pas en vouloir à la communauté de ne pas avoir envie d'ajouter de la chantilly sur un étron.
+
+Et si ça ne vous a pas rebuté, le cœur du système : la création des les grands huit.. non seulement ultra compliqués à créer mais en prime il faut faire des combinaison de shift+molette avec des Ctrl+1 2 ou 3 pour.. on sait pas vraiment changer quoi en fait c'est tellement fouillis.
+
+Je l'aurais bien conseillé durant la béta avec une bonne dose d'espoir, mais ça n'a qu'empiré. Bref à vos risques et périls, PlanetCoaster est beaucoup plus sûr et sûrement plus fun !
+
+#####
+
+J'adore ce jeu mais les graphismes sont vraiment trop mal fait. Désolé de dire ça mais j'attendais beaucoup mieux de ce côté là.
+Concernant la dernière mise à jour, je ne peux plus jouer au jeu. Lorsque je charge ma partie, sa freeze. Je ne recommande pas ce jeu!
+
+#####
+
+Ce n'est pas un jeux. C'est un truc informe, sans vie. Pas amusant. 
+Je vous recommande d'attendre planet coaster qui est bien plus prometteur.
+
+#####
+
+PS : Au sujet des coups de lags sur votre parc, pensez a definir vos options graphiques comme les devs vous l'on expliqué point par point (vous chercherez dans les logs, 2ème ou 3ème MaJ sauf erreur de ma part parce que c'est facile de crier "AkeSaLag" si vous ne faites rien pour régler ça...)
+PS2 : Si mon avis ne vous semble pas complet ou que vous n'êtes pas d'accord, laissez un commentaire plutôt que simplement un "dislike". ;)
+
+Avis suite à la 2ème grosse mise à jour POST-Release :
+========================================
+
+J'ai pu remarquer que les développeurs ont écouté les joueurs et corrigé bon nombre de bugs même s'il en reste encore quelques uns. Ils ont également fait quelques améliorations au moteur graphique comme, notamment, à la durée de vie du jeu qui proposait en Early Access que quelques petites missions pour se faire la main.
+Maintenant, vous vous retrouvez avec une campagne solo vraiment complète et variée en plus des défis déjà très présent depuis l'Early Access.
+
+Pour ma part, ce jeu fonctionne de manière fluide, sans aucun freeze ou bug des manèges/grands huits/personnel/visiteurs (un grand bon en avant par rapport à l'Early Access) et mis dans les paramètres graphiques élevé/ultra. Bizarrement, contrairement aux autres commentaires que j'ai pu lire, ma configuration qui pourtant est moins musclée que certains, j'arrive à faire tourner plus fluidement, à du 60 FPS constant et avec des graphismes plus élevé.
+
+Les temps de chargements, vous n'y échapperez pas mais merci à l'optimisation ENFIN faite par les développeurs puisque sur le coup, votre jeu ne se chargera plus qu'en 1 minute maximum !
+Au revoir les 5 minutes de l'Early Access ! :D
+
+De plus, au niveau personnalisation, du contenu supplémentaire c'est ajouté.
+D'accord, c'est pas encore tout à fait un contenu immense qui vous est proposé ici mais le Steam Workshop est compatible et les développeurs promettent des mises à jours ajoutant du contenu !
+
+Pour ceux désireux de connaître ma configuration (jeu fluide en graphismes Elevé/Ultra) :
+Carte-mère : ASUS P8H77M PRO
+CPU : Intel Core i7-3770 3.4GHz (Turbo Boost 4GHz)
+GPU : ASUS STRIX GTX960 2GB OC
+RAM : 4x4GB DDR3 Kingston
+
+
+Avis du temps de l'Early Access :
+=========================
+
+Un jeu qui garde l'esprit original des premiers opus et qui vaut très largement le détour !
+
+Bien entendu, il manque pour le moment un peu de contenu et n'est vraiment pas bien optimisé (votre jeu peut soudainement être figé voir même crasher mais ce n'est pas fréquent) mais ça, c'est le cas pour tout jeu en Early Access.
+
+Sinon, il est vraiment amusant, on passe facilement plusieurs heures en mode campagne a construire notre propre parc et à le rendre à la fois attractif par rapport aux attractions et aux prix mais également attractif par rapport aux thèmes et nombreux types de Grand Huit déjà proposé dans cette version "Early Access".
+
+Le principal défaut que je peux faire est que les attractions chutent en fiabilité mais malgré avoir plusieurs mécaniciens, ce pourcentage de fiabilité ne monte pas et reste, par conséquent, bloqué à 0% une fois atteint... Quelqu'un aurait-il la solution ?
+
+EDIT: Depuis l'update 8, mon parc a fait banqueroute car même quand les mécaniciens sont placés aux attractions qui demandent à être réparé, ils ne font que "Resting"... Bref, les travailleurs préfèrent se reposer apparemment ^^ En espérant que ce bug soit rapidement corrigé !
+
+#####
+
+euh c est quoi cette interface IG on peux pas modifier la taille c est affreux sa prend tout l ecran navigation a la souris degeulasse , peut on etre remboursé ?
+
+#####
+
+Il est cool mais il prend de la place sur le pc
+
+
+#####
+
+Très bon jeux laissons le temps aux développeurs d affiner ce jolie jeux certes du changement par rapport aux développeurs plus du tout frontier .cela fait 2 jeux de coaster  dans une même année de quoi s occuper. Planet coas. .. sera fait d une autre manière et avec d autres beugs .
+Les jeux auront toujours des beugs à la sortie .positive malgré des crash et autres beugs bon jeu à vous pedro.
+
+#####
+
+ ce jeux ne marche pas jattend une mise a jour
+
+#####
+
+Au départ j'était septique sur ce jeu en early acces : les commentaires étaient mauvais et l'équipe semblaient se moquer des retours.
+Acheté il y a peu j'ai été surpris de voir qu'un premier patch est disponible depuis le 6/04/16 et corrige un grand nombre de problèmes remontés. Du coup les devellopeurs semblent écouter les retours/souhaits.
+De plus, contrairement à certains commentaires, le jeu est tout de même niveau graphique à des années lumières de RCT3 et propose une bonne 3D pour un jeu de gestion (les meilleurs jeux de gestions n'ont pas forcément les meilleurs graphismes, a bon entendeur...). Par contre il y a encore de nombreux bugs nottament sur les ombres et le moteur graphique semble très lourd (I7 4770k, 16go, 780gtx). Mais bon en early acces je pardonne pour l'instant.
+
+Niveau contenu c'est déja très fourni avec pas mal d'attractions et surtout un mode de gestion déja présent (contrairement à la concurence).
+
+Donc pour l'instant agréablement surpris par cette early acces.
+
+#####
+
+Tres bon jeu, pour  ma part, je trouve que les graphismes sont très bons, et se sont améliorés, pour avoir joué à RCT3. Malgré quelques petits bugs, le jeu tourne normalement sur mon ordinateur, je n'ai pas de ralentissement. Je me régale à placer des fleurs, des arbres, des décors.
+Dommage, qu'on ne puisse pas encore construire des batiments, je pense que celà viendra plus tard, avec les mises à jour.
+Effectivement, si on le compare à RCT3, il n'est pas complet, il manque des choses, notamment la gestion du personnel, la construction des batiments, la personnalisation de la musique par attraction, la gestion de plusieurs trains par attraction, mais je pense que les mises à jour vont y remédier et que le jeu complet sera superbe.
+
+Pour l'instant, je n'ai pas de regret dans mon achat.
+
+#####
+
+tres bon jeux je le recommande a tous mais ou sont les attraction  aquatique
+
+#####
+
+C'est simple, je me suis fais rembourser.
+Avec max 2h de jeu et avant 14 jours apres l'achat, vous pouvez vous faire remboursé.
+Donc tester le 2h et apres demande remboursement si le jeu ne vous convient pas, et je suis quasiment sure qu'il ne vous conviendra pas.
+
+Si vous êtes fan des RCT, prenez le jeu Planete Coaster (ce sont les mêmes dev que tout les RCT)
+
+#####
+
+j'ai bien aimé le nouveaux système de construction mais il y a quelque bug comme avec le bateau pirate qui traverse le beton et les poutre qui se place sur la voi mais aussi non j'ai vraiment bien aimer celui-ci
+
+
+#####
+
+médiocre, décevant, mal codé dire que des gens ont été payés pour faire ça...
+
+#####
+
+encore une belle merde qui coûte la peau du cul
+
+#####
+
+Bon dur dur de commenter cet un early acess donc jaten de voir
+
+#####
+
+la bate marche pas c oriblement chiant de ouf. ca me fait que des black screen de ##### quand je lence mon parc.
+
+#####
+
+Ne perdez pas votre argent... 
+
+Une blague... 
+Même RCT1 est mieux
+
+#####
+
+Pas du tout optimisé rien de nouveau
+
+#####
+
+BORING!!!!!
+
+#####
+
+bine
+
+#####
+
+Trés bon jeux addictifs 
+
+Petit probléme de graphisme pour la GTX 770  sinon Niquel
+
+#####
+
+Pas facile au premiers abords, mais ont s'y habitue vite.
+
+#####
+
+Ce jeu est génial puisque c'est un jeu de simulation d'attractions vraiment réaliste, j'adorais que cela soit en VR car ça serait sensationelle...
+
+#####
+
+Très bon jeu. Malgrès les beug récurant de route et de personnage.. 
+
+Il manque aussi de choix a mon gout au niveau des attraction.
+
+Mais il est super prenant et rapide de prise en main. ^^
+
+#####
+
+Bonjour, 
+
+   Ce jeu lag vraimment beaucoup, le plassement de décors et vraimment à chier, par exemple, on ne peu pas placer des haies parfaitement bien les long d'un chemin comme on le voudrais (et ce n'est qu'un exemple). Les graphisme Bof . Le système de construction de montagne russe est mal fait, les visiteurs font presque que vomir (même sur les petite attractions) . Le système de chemin est vraiment mal fait . En gros, tout est mal faity dans ce jeu, je m'attendais à ce qu'il soit quand même un minimum bien, mais je me demande même parfois si RCT3 n'est pas mieu . Il y a un très petit choix d'attraction . Je conseillerez plutôt Planet Coaster ou là c'est super bien fait ...
+Franchement, n'acheter pas ce jeu (surtout pour le prix) !!!!
+
+#####
+
+
+Hoptimisation nul...
+
+#####
+
++ Mode campagne
+
+- Manque d'évolution graphique (date de 10ans)
+
+Je m'attendais à mieux pour un jeu de 2016
+
+#####
+
+mon ordi passe dayz, arma 3, ark... mais roller coaster a beaucoup de mal, 5 min de jeu et ca commence a saturer ( mal optimisé ). donner mon argent a des plaisantins, branleurs de clavier .
+
+#####
+
+C'est une grosse blague, même un jeu en Alpha est plus joli et plus fluide. Je veux bien que ce soit de l’early access, mais payer ce prix-là pour avoir des graphismes aussi dégoutants, des lag dans le jeu, des bugs graphiques lors de tests de grand huit, les pnj sont tout simplement horribles et bug en marchant ou dans les attractions, un joli lag de loin sur les pnj aussi. Je pense que c'est vraiment se moquer des gens que de demander un prix pareil pour du early access aussi mauvais !!! 
+
+Je précise, j'ai un i7 4790K avec une GeForce GTX Titan Black 6GB et 16 GB de RAM, un PC qui devrait faire tourner sans problème ce jeu.
+
+Au départ j’ai acheté ce jeu en pré-commande (le 9 mars 2016) et il n’était absolument pas question d’un jeu en early access. Avoir payé aussi cher pour être un béta testeur, c’est sans moi les gars !
+
+Je vais aller tester Planet Coaster voir ce que ça donne, sur le trailer et les différentes vidéos ça a l'air bien. Au moins je sais pourquoi je paye, pour être béta testeur sur de l’Alpha, mais je le sais, pas comme RCTW ou j’ai l’impression que les gens qui ont pré-commandés se sont fait voler.
+
+Bref en conclusion, passez votre chemin, rien à voir avec les anciens RollerCoaster Tycoon.
+
+
+
+
+#####
+
+une vrait blague
+
+ps : Planet Coaster sera le vrai roller coaster tycoon.
+
+#####
+
+ne me correspond pas
+
+#####
+
+Cet early access est juste une catastrophe...
+Bugs, lags, freezes et j'en passe...
+Dès que votre parc est un peu trop grand, le jeu plante.
+Le Tycoon 3 propose bien plus d'options et bien plus simples à utiliser.
+
+Passez votre chemin et attendez Planet Coaster.
+
+#####
+
+injouable. il crash au bout d'un moment quand on veut construire de nouvelles attractions. 
+pas optimisé du tout.
+pas très jolie non plus.
+Plein de bug de partout.
+
+#####
+
+Toujours autent de bug
+
+#####
+
+Je vous conseilles la véritable sortie du jeux car pour l'instant c'est pas terrible. (désolé rct)
+
+#####
+
+sur windows il rame facilement il suffit de  mettre deux troix manege et un peut de decor et sa rame a fond il faut au moin du 8G de rame pour quilfonctionne corectement mais je suis curieux de savoir pour quand il va sortir sur pour mac car une chose est sur la au moin il ramera pas ...
+
+#####
+
+trop de la merde une vrai arnaque  passer votre chemin graphisme pourris meme le roller coaster 3 est mieux fait je suis degouté d 'avoir acheté cet daube fini. Remboursé moi !!!!!!!!!!!!!!
+
+#####
+
+Déçu vivement planet coaster
+
+#####
+
+trop de bugs
+
+#####
+
+nul à chier !
+
+#####
+
+Sorry for the team dev.. but they miss it.
+
+#####
+
+Un jeu qui excelle la perfection
+
+#####
+
+Trop de bug.. c'est abuser..
+C'est la mort pour faire la campagne ou juste jouer normalement...
+
+#####
+
+Etant un grand fan de RCT3 je me devait d'évaluer celui ci.
+Je vois mal ce qu'il aurait pu ajouter de plus d'un un tel jeu.
+Mis à part le menu que je trouve asser peu pratique, et certains point très secondaire comme le plassage des barrières ou des objets des chemins (poubelles, lampadaires, banc etc...) qui aurait été mieux en plassage automatique par exemple.
+Ce jeu est et fera toujours partie de la grande et belle réussite de la saga RCT.
+18/20
+
+#####
+
+Jai adoré!! Super
+
+#####
+
+Jeux pourris...
+Acheter en early acces pour 40€ et maintenant cette daube est à 5€
+
+Go planet coaster
+
+#####
+
+bug
+
+#####
+
+MON DIEU MAIS ARRACHER MOI LES YEUX !!!
+
+qu'es ce que c'est que ce graphisme ? O.O c'est flou et horrible >.<
+
+j'ai un i7 avecune carte graphique correcte et c'est horriblement moche.
+
+le jeux est meme pas capble de ce mettre en pleine ecran sans que la barre demarrer passe devant !
+
+je vien d'acheter le jeux, et j'y est meme pas jouer !
+
+il faut 4 minute 30 avec un SSD pour charger le scenario 1 ... 
+
+c'est injouable ... si je pouvais me faire remboursser je le ferai sur le champs !
+
+#####
+
+bien
+
+#####
+
+LOL
+
+#####
+
+Bonjour, alors j'ai jouer pas longtemps, et vraiment je l'attendez comme beaucoup. Je voulais poster un comm parce que les gens dise il ne fonctiopnne pas bien ou il lag mais il sont raison, moi j'ai un pc de ouf qui fait tournez tout et en ultra et c'est pas parce que il est en erlay acces que il faut les pardonnez ?? NON.
+Il nous on promis un beau jeux avec quand même des années de DEV et l'experience en plus, pour mieux faire !!!!
+Tout se qui on fait c'est mette des manege magnifique MAIS il a constament des frisse en ultra pourtant tout va bien pour mon pc,Beug de Texture et des animation , PK mettre de telle qualiter quand il y a tout qui ne suis pas....
+
+Ensuite point de vu gestion Completement nul comparait a ceux d'avant, moi je chercher la gérance d'un parc pas cliquer sur 2 bouton simplifier.
+Et il manque tellement de personnalisation, gestion d'apres les ancien roller coster qui eux était mieux même le roller 3 et mieux pour dire : n'achetez pas ET surtout pas a 45€ c'est de l'abue claire et nette pour SA !!!!
+
+#####
+
+RollerCoaster Tycoon World est parti de loin, mais on se retrouve au final avec un jeu plutôt joli graphiquement, stable, et surtout, fun. Bravo aux équipes de développements qui ont tenus compte des remarques des utilisateurs de l'alpha.
+
+#####
+
+Aprés +1h de jeux 
+
+J'ai commencer avec rct2 et rct3 
+
+Tout d'abord rctw est une version early access les gens !!
+
+Donc soit vous attendez pour l'acheter soit vous acceptez les defauts pour le moments qui sont franchement pas désastreux 
+
+
+Je suis déçu des commentaire négatif du jeux et sa ne m'as pas empecher de l'acheter tout de même
+il est tres bien assez fluide pas trop mal opptimisé j'ai une gtx770 2 go il tourne bien en full 50 fps et tres bien en moyen .
+
+Il n'y a pas énormement de batiments , décors , magazins etc ..mais sa va venir c'est sur !
+
+le jeux et trés bien conçu et bien pensé 
+ 
+les allées sont mieux que rct3 tres facile à utilisé tout comme les modifications du décors ( rajout d'eau etc ..) rien de compliqué j'adore 
+
+je pense que si on laisse tranquillement les dévelopeur nous apporter des modifs ont en aura encore plus pleins la vue !
+
+C'est le probleme des Early Acces les gens pense que tout est acquis mais non .
+
+Aprés les gens sur ce genre de jeux il faut laissé part à l'imagination et à la créativitée ! 
+c'est nul de juste placé un objet et puis c'est tout . Il faut être imagninatif !
+
+Sorry pour les fautes !
+
+Bon jeux et surtout soyez patient !!
+
+
+#####
+
+☐ Je ne conseillerai pas ce jeu même à mon pire ennemi
+☐ Les enfants
+☐ Les fans du genre ou de la franchise 
+☐ Les casual gamers 
+☑ Tout public
+☐ Les hardcore gamers
+☐ Les PGM sud-coréens
+
+☼ Graphismes :
+
+☐ À vomir par terre
+☐ Très mauvais
+☐ Mauvais
+☐ Corrects
+☑ Bons
+☐ Très bons
+☐ Beaux à en chialer ( Quand tout est en Ultra )
+
+$ Qualité/prix : 
+
+☐ Gratuit
+☐ Il faudrait me payer pour y jouer
+☑ Attendez une promo
+☐ Abordable
+☐ Pas cher 
+☐ À ce prix là c'est cadeau
+
+$ Configuration PC recommandée :
+
+☐ L'ordi de ma grand mère
+☐ Entrée de gamme
+☐ Milieu de gamme 
+☑ Haut de gamme
+☐ Le PC d'Amixem
+
+☼ La prise en main
+
+☑ Inné
+☐ Nécessite quelques heures
+☐ Difficile
+☐ Nécessite l'implantation d'un nouveau bras
+
+$ Durée de vie
+
+☐ Moins longtemps qu'une mouche
+☐ Breve
+☐ Plusieurs heures
+☑ Plusieurs dizaines d'heures
+☐ Plusieurs centaines d'heures
+
+@ Niveau de la traduction
+
+☐ Non traduit
+☐ Traduit par une vache espagnole
+☐ Pas mal d'erreurs
+☑ Nickel
+☐ Traduit dans toutes les langues
+
+§ Bug
+
+☑ Le jeu est une sorte de gros bug en phase terminal
+☐ Les bugs gène le gameplay
+☐ Les bugs ne gène pas le gameplay mais sont présent
+☐ Quelques bugs
+☐ Le jeu est codé à la perfection
+
+% Optimisation & Update
+☐ Vraiment mauvaise
+☑ Mauvaise
+☐ Acceptable
+☐ Correct
+☐ Optimus Perfectus
+
+* Avis général
+☐ N'y jouer pas
+☐ À vos risques et périls
+☑ À essayer
+☐ Ne perdez pas plus de temps et jouer-y!
+☐ Un must!
+
+#####
+
+Alors oui je recommande RollerCoaster Tycoon World si toutefois l'optimisation est pris en considération dans un futur proche. J'ai beaucoup hésiter mais sincèrement je ne suis pas déçu.  Je soulignerai qu'il faut comparer ce qui est comparable exemple comparer ce jeu à Planet Coaster s'est abusé. Quoiqu'il en soit s'est un bon rapport qualité prix.
+Pour finir malgré mon pc portable à bas prix le jeu fonctionne relativement bien, se lance correctement, sauvagarde.
+
+#####
+
+Bon jeu dans l'ensemble
+
+#####
+
+cool
+
+#####
+
+Très bon jeu de gestion mais trop de beugs. le jeu plante tous le temps et impossible de recharger sa partie.
+
+#####
+
+Bug Bug Bug, que des bug, je déconseil fortement, injouable!!!!!!!!!
+
+#####
+
+j'ai toujours adoré la franchise des roller coaster tycoon mais la j'ai été totalement déçus.
+
+Depuis 2018 ce jeu n'a plus reçus de mise a jour qui aurais pus l'amélioré, mais non le jeux plante après 15 minutes de jeux et le redémarrage ne règle rien. Plus on y joue et plus on découvre des bugs au point que sa rendre l’expérience utilisateur néfaste.
+
+
+#####
+
+Un jeu qui est amusant les premières heures, puis devient énervant pour la suite, il n'est pas du tout optimisé, beaucoup de bugs, peut être très lent, chute de FPS assez fréquentes. Je le déconseille, ne gaspillez pas votre argent dans ce jeu, car il est très mal optimisé.
+
+Personnellement, je lui donne 4/10 (Après, si vous voulez vous donner un avis, achetez-le, le prix n'est pas excessif)
+
+#####
+
+Très bon jeu de construction de park d'attraction
+
+#####
+
+faire les manèges en teste
+
+#####
+
+Je conseille fortement ce jeu pour les fans de Roller Coaster
+
+#####
+
+jeu devenu injouable , dans le sens qui ce lance plus et reste sur un écran noir pendant plus 1h, le seul moyen c'est de télécharger un patch unofficiel de rctw sur nexus
+
+https://www.nexusmods.com/rollercoastertycoonworld/mods/3?tab=description
+
+#####
+
+c'est un très bon jeu de gestion que je vous recommande
+
+#####
+
+Le jeu est full bug je ne le recommande pas
+
+#####
+
+Trop peu de contenu ( on cherche à creer des zones à themes avec trois décors ??? ), plus de possibilité de créer des moyens de transport, bugué par moment et crash plusieurs fois en 1 heure. Je regrette mon achat, j'ai demande un remboursement pour racheter RCT3 qui est largement superieur en tout point.
+
+#####
+
+Le jeu est très plaisant jusqu'à ce que le bogue arrive. Il bogue presque à toutes les parties et impossible de retourner sur des parties déjà commencées.
+
+Très fâchant de tout perdre !!!
+
+#####
+
+:( Tellement dommage
+
+#####
+
+Le jeu est complètement buggé. Impossible de finir une partie !
+
+#####
+
+Les premiers m'avais plu , mais celui la est nul , il manque une chose mais quoi
+
+#####
+
+Une honte
+
+#####
+
+Jeu sans support, beuggé
+
+#####
+
+ca arrete pas de buger
+
+#####
+
+merci
+
+
+#####
+
+un seul mot MAUVAIS. Acheter plutot planet coaster.
+
+#####
+
+super jeu, aurais adoré le mode parc aquatique et zoo, pour la prochaine surement
+
+#####
+
+Plein de bugs déçue
+
+#####
+
+L'idée du jeu est bien en soi, mais il n'y a dans un premier temps clairement pas assez d'indications concernant l'optimisation des parcs, et on se retrouve très facilement en déficit sans même connaître l'existence de certains onglets essentiels pour y palier. J'ai passé bien 2 heures à essayer de comprendre le comportement que je pensais totalement injustifiés des PNJ. En plus de ça, dans mon cas, le jeu ne fait que de crash (je fais pourtant tourner facilement des jeux bien plus gourmands). Pensez donc aux sauvegardes ! C'est vraiment déprimant de perdre 5 heures de jeu parce que ce dernier crash pour la troisième fois de la journée (j'ai réinstallé le jeu deux fois et me suis assuré que le problème ne venait pas de moi). Grosse déception, donc.
+
+#####
+
+Bon jeux, j'ai était assez décu a sa sortie mais faut prendre le jeux pour se qu'il est.
+Sa reste un assez bon jeux.
+Sympa a jouer ;)
+
+#####
+
+Ne l'achetez pas, il ne fonctionne pas, il crash dès la fin du chargement, je regrette de l'avoir acheté
+
+#####
+
+Un bon jeu de gestion solo :)
+
+J'ai pas mal joué a roller coaster 1 & 2 autre fois donc je ne peux pas dire que c'est un mauvais jeu.
+
+#####
+
+Un jeu très lourd graphiquement qui fait planté même les bons PC. En deux jours de jeux il a freeze plus de 5 fois dont 3 sur un bon PC. Ca rend le truc vraiment moins fun. Je n'ai pas encore tout vu, mais contrairement à RCT3, ça à l'air beaucoup plus compliqué de faire un parc vraiment thématique. On ne peut plus choisir les entrées et sorties des attractions, ce qui complique vachement la création des allées ou des files. La construction des montagne russe n'est vraiment pas instinctive et il vaut mieux la réussir du premier coup. La modifier c'est un peu l'enfer et vous oblige à tout supprimer si vous n'avez oublié ne serait-ce qu'un morceau de rail spécifique. Un peu cher pour ce que c'est, vraiment déçue, RCT3 était finalement un peu mieux. J'ai la sensation de n'avoir payé que pour des graphismes améliorer avec lesquelles je ne peux de toute façon pas jouer puisque je n'ai pas de config' digne de celles de la NASA.
+
+#####
+
+j'ai vraiment essayé mais NON
+
+#####
+
+horrible la grosse déception crash en permanence
+
+#####
+
+Perso je le trouve vraiment bien avec beaucoups de possibilité de thèmes ! =)
+
+#####
+
+Franchement déçu par ce jeu... quand j'étais jeun je me suis éclaté sur les rct là ce jeu n'est même pas au niveau du 3...
+Il aurait été bon pour les développeur de jouer au 3 pendant des heures histoire de voire quel genre de choses il devait faire !
+Le mode carrière est mauvais certaine mission ne peuvent pas être faites sans avoir débloqué des attraction avec les "point tycoon" qu'on gagne en faisant les missions de carrière.
+On ne peut pas faire de tunnel pour passer ces belle montagnes russes, les magasins fonctionne en mode "enfants, ado et adultes" ridicules 
+Bref après 82h de jeu j'en sors plus déçu que contents ! bien trop loin de son ancienne version qui était génial RCT3 ! 
+Voila comment on enterre une licences ! merci atari
+
+#####
+
+Le jeu est plutôt sympa et visuellement très beau.
+beaucoup de mission et terrain, didacticiel assez bien.
+Un peu prise de tête pour les sauvegardes et bâtiments crée sauvegarder, impossible de les supprimer :(
+
+#####
+
+Le jeux ce met a ne plus répondre au bout de 20mn, et plusieurs fois..
+Donc je ne recommande pas dans l'immédiat, sinon c'est un très bon jeux de gestion, et si vous adorez les manèges c'est un régale quand il fonctionne a 100%
+
+#####
+
+La pire blague du jeu vidéo ? 
+
+Une raison de l'acheter ? Vous avez de l'argent à perdre et passer quelques minutes à rigoler sur cette destruction de franchise... Atari vient de faire le pire choix de sa carrière. 
+
+Pour la petite histoire, Frontier étaient les développeurs des précédents opus, et étant réputés comme les meilleurs jeu de gestion de parc d'attraction. Donc on ne pouvait s'attendre qu'a mieux ! Vous avez raison, sauf que la ... ce ne sont pas les mêmes développeurs qui développent ce jeu... 
+
+Le jeu est bien en dessous de RTC3, ( le dernier qui était sorti avant celui la ) et en dessous de bien d'autres sur TOUS les aspects.
+
+Crash sauvegarde, bugs omniprésents, pratiquement aucune attractions, je les comptes sur les doigts des mains.... c'est misérable... Les graphismes sont en dessous, la personnalisation est inexistante et il n'y a aucun suivi sur le jeu au bout de 2h ( si cela ne crash pas et que vous avez sauvegardé ) on s'ennuie on a déjà fait tout le tour du jeu. 
+
+Les devs ont essayé de régler les bugs et de refaire du contenu durant l'early acces, et ont définitivement laissé à l'abandon l'étron qu'il ont laché sans tirer la chasse d'eau. Effectivement tu as beau essayé de laver ou de mettre du parfum sur ta grosse commission, ça restera de la m.e.r.d.e 
+
+
+
+#####
+
+jeux nul remplit de bugs, impossible de faire un chemin sans défaut, file d'attente bloquée sans savoir pourquoi, attraction beaucoup trop grande par apport a la map.
+
+jouez à planet coaster si vous etes un fan.
+
+#####
+
+Mon avis est très mitigé, je crois que je regrette mon argent mis dans ce jeu.... Le gameplay basique comparé au 3 parrait très bien, mais il manque tellement de choses, la galère de faire chemin droit même avec la grille, mettre des interdictions qui au final ne servent à rien, les gens transpercent tout. Une bride sur les attractions... Un je ufait pour l'argent et qui gâche la franchise... Assez déçu et malheuresement je ne peux pourrais pas être remboursé (acheté en Clé CD)
+
+#####
+
+N'arrête pas de crasher
+
+
+#####
+
+trop de bugs, mal finis, ce jeu fait honte a la licence RCT
+
+#####
+
+produit excellent
+
+#####
+
+dommage que plus de mise  à jour  , moi je suis fan depuis le premier  , alors faites des efforts ATARI
+
+#####
+
+Je n'arrive même pas à ouvrir le jeu! il plante et je dois redémarrer mon ordi
+
+#####
+
+Plante toujours au bout d'un certain temps de jeu. Je déconseille.
+
+#####
+
+Le jeu manque énormément de contenus comparé a RCT3. C'est bien dommage, sinon il est assez plaisant mais je pense a mon goût, qu'il est vite voir même très vite lassant.
+
+#####
+
+Worst game ever , Bugs everywhere
+
+#####
+
+Ce jeu ... +/- 5h et 6 fois relancé puisque planté.
+Le jeu en soit peut être intéressant pour passer son temps, à condition qu'on puisse aligner plus de 2 structures avant de lire "RollerCoaster Tycoon ne répond pas".
+On pense à une auto save de son ridicule parc qu'on était en train de bâtir après 20 min (auto save toutes les 5min soit disant) : ET BIEN NON ! Ton parc a disparu, pouf, perdu dans le néant distordu.
+Après lecture des autres commentaires qui se plaignaient des bugs, j'ai tenté l'achat (entre 5 et 7 balles sur G2A), je me disais que ces bugs dataient de l'accès anticipé ... Et bien il semblerait qu'on soit encore sur une Bêta Test (qui, vu les coquilles dans les "astuces" de l'écran de connexion, la qualité du building et leur campagne foireuse qui plante ou force à recommencer, aurait pu être donnée gratos).
+J'repescte ceux qui ont passé plus de 10h sur ce jeu, j'imagine qu'ils ont eu plus de patience que moi à tout recommencer :)
+
+#####
+
+ce jeux bug trop souvent !! c'est vraiment chiant ...
+
+enormément de plantage
+
+#####
+

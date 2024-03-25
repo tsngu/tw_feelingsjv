@@ -1,0 +1,2302 @@
+Oh ! Un jeu complet à sa sortie, sans accès anticipé, sans DLC, sans microtransactions fait avec amour, très fun, difficile mais pas injuste. Il y a peut-être encore de l'espoir...
+
+La bande son est géniale.
+
+#####
+
+Dire que ce jeu est difficile serait une littote.
+Dire que ce jeu est beau serait un euphémisme.
+Dire que ce jeu est le plus marquant de sa catégorie depuis des années serait une évidence.
+A quand la suite ?
+
+#####
+
+En Die & Retry réussi, Cuphead a le talent d'arracher des jurons par paquets de mille, mais d'aussi procurer des instants jouissifs , comme cette sensation particulière de dépassement de soi lorsqu'un niveau est bouclé ou un boss vaincu !
+
+Je commencerai cependant par quelques remarques :
+-C'est cool d'avoir des phases de shoot'em up, mais pourquoi les items de tir achetés ne sont pas intégrables à ces phases?
+-Chez moi, quand je meurs pile en même temps qu'un boss en animation de changement de pattern, le jeu continue de tourner indéfiniment en "oubliant" que mon perso est mort. Dès lors, Esc ou Start ne fonctionnent plus, et pour sortir, un Alt+F4 est nécessaire.
+-Ce bug arrive aussi parfois en revenant à l'écran titre.
+-Certains décors de 1er plan cachent parfois les projectiles, notamment dans des phases d'avion (Robot, Jockey...)
+-La dangerosité (ou pas) des "sprites" n'est pas toujours évidente : des trucs innoffensifs ont l'air dangereux, et vice-versa.
+-Je ne sais pas si c'est un bug ou si c'est voulu, mais (sans spoil) la phase "ondulée" du boss final tape au delà de sa hitbox, depuis hors de l'écran. J'ai vérifié : ce n'est pas un projectile ni rien d'autre, juste une frappe "invisible". (Saut + dash pour l'esquiver - mais bon, ça craint).
+
+Un autre point me saoule énormément dans Cuphead, et je vais le développer TRÈS largement (pour zapper ce passage, allez à *** ) :
+Son dédaigneux mode "facile" qui n'en est pas un, puisqu'il ne permet PAS de finir le jeu.
+Ce mode supprime apparemment [u]des phases entières[/u] de gameplay sur les combats de boss (le rendant donc sans intérêt), et ne fournit PAS les clés nécessaires pour atteindre les derniers niveaux! Cuphead oblige donc littéralement à jouer en mode "Regular" pour être terminé.
+Du coup, quel est l'intérêt de proposer un mode "facile" non seulement incomplet, mais même paradoxalement punitif et frustrant envers ses éventuels utilisateurs? Incompréhensible.
+
+J'ai donc fait comme tout le monde et terminé le jeu en "Régular" (bien obligée), mais très sincèrement, j'aurai nettement préféré parcourir Cuphead dans un VRAI mode "easy" plutôt que de galérer à refaire parfois 30 fois certains Boss. (Ne fut ce que pour mieux profiter de la DA plutôt que de garder les yeux rivés en permanence sur des ellipses de projectiles). J'y aurai pris beaucoup plus de plaisir, et y serai même revenue ensuite au lieu de me dire à chaque level trop péniblement bouclé : [i]"Ouf! Plus jamais ça!".[/i]
+C'est typiquement le genre de jeu ou tu te bat avant tout contre ta fatigue et tes propres nerfs, à t'acharner 20 fois sur un niveau sans jamais aboutir juste parce que t'es crevée par ta journée, et à boucler ledit niveau du 1er coup le lendemain "à tête reposée".
+Or, dans la mesure ou tout le monde n'a pas le loisir (ou plutôt le luxe) de jouer systématiquement dans des conditions optimales, l’absence de modes de difficultés se fait très désagréablement ressentir.
+
+Il aurait suffi d'un rien : un VRAI mode "facile" COMPLET, avec 2 vies en plus et des mouvements d'ennemis ralentis de 25%, et même carrément un mode "Débutant" qui ajouterait ENCORE une ou deux vies supplémentaires, ainsi que des DPS augmentés de 20%...
+C'est RIEN à faire, et ça aurait TOUT changé : le jeu aurait soudain été abordable et potentiellement adapté à tous, y compris à ceux qui apprécient la difficulté du mode Régular qui serait naturellement resté le mode "par défaut", reflétant donc la vision initiale des devs sans rien trahir...
+Je ne comprends pas cette absence pénible dans un jeu pourtant si fignolé, et le gros foutage de gueule de ce mode "Simple" inexcusablement condescendant dans sa selection tronquée des phases de jeu, en plus d'être très abusivement "bloquant" ! C'est vraiment d'un mépris injustifiable !
+
+Vous l'aurez compris, je déplore personnellement cette tendance des jeux qui s'imaginent "élitistes" juste parce qu'ils imposent une difficulté de masos, souvent afin de masquer une durée de vie qui serait un peu maigre si on parcourait les niveaux "normalement" au lieu de les recommencer 50 fois. Il n'y a pourtant rien de déshonorant à proposer un jeu court et abordable par tous, tant qu'il est bon. Alors qu'en revanche, c'est extrêmement casse-burnes de subir le challenge hyper mal dosé d'un jeu "trop facile" ou "trop difficile", juste parce que les devs ne sont pas foutus d'inclure des modes de difficultés pensés logiquement. (Concept pourtant maîtrisé depuis des décennies, et simplissime à mettre en place, pour permettre à chacun(e) de s'amuser en fonction de ses capacités et/ou de ses attentes...)
+
+***
+
+Par chance, le jeu a un peu une mentalité "Dark souls" : Bien qu'hyper exigeant, ce n'est jamais injuste. L'apprentissage et la patience seront suffisants la plupart du temps, même si certains passages demandent pas mal de dextérité, de calme, et de skill. (Sachant que parfois, la chance peut également aider en déclenchant les phases d'un boss d'une façon favorable - particulièrement au Casino, seul niveau où des bonus de vies supplémentaires sont disposés aléatoirement sur certains combats de Boss...)
+
+Malgré ses 6 niveaux de plate-forme, Cuphead est à 80% un jeu de combats de Boss, dans l'idée d'un "Furi" qui aurait des mécaniques de "Metal Slug".
+
+Pour un studio indé, la réalisation impressionne à absolument tous les niveaux. Je ne m'attarderai pas trop sur la claque visuelle et la DA génialissime: si vous lisez les évals, vous avez probablement déjà vu les screens du jeu.
+L'animation, la musique, le son, le HUD aussi discret que lisible, l'interface globale... Tout est impeccablement pensé et réglé, jusque dans les options permettant de refaire ses touches. (Ça n'a l'air de rien, mais pouvoir mettre le dash sur "RB" au lieu d' "Y" m'a pourtant pas mal changé la vie!)
+Même le prix est franchement correct vu la qualité globale du truc, rien à dire de ce côté là.
+Le jeu est dans un anglais plutôt abordable même pour les anglophobes je pense, et de toute façon, ce n'est clairement pas pour son scénar qu'on y joue...
+
+La jouabilité est nickel, le perso est impeccablement réactif, les sauts vifs, et heureusement, vu son gameplay hyper punitif n'autorisant que 3 erreurs par stage.
+
+Les pièces récupérées dans certains niveaux de plateforme vous permettront d'acheter divers bonus interchangeables à volonté une fois acquis, et à équiper judicieusement en fonction du niveau auquel vous vous attaquerez, puisque vous ne disposez que de 5 emplacements d'items : Un tir de base, un tir secondaire, une attaque "EX", un item de confort, et zou, à l'abattoir.
+Par exemple, c'est SOIT un cœur supplémentaire, SOIT le dash invincible, mais pas les deux cumulés. Du coup, si ces bonus sont indéniablement utiles, ils n'ont jamais le pouvoir de trop "faciliter" l'aventure par cumul. [i](Le(s) coeur(s) supplémentaire(s) incluant par exemple une baisse d'efficacité du tir de base, ce qui est à mes yeux moins rentable qu'un dash invincible sans contrepartie.)[/i]
+
+Chaque mob a son pattern vicieux qu'il faudra apprendre à contrer. En cela, Cuphead est étonnant, car certains boss (pas tous cependant), vont d'une tentative à l'autre se comporter différemment en déclenchant de nouvelles attaques, ou en alternant l'ordre de leurs routines!
+
+Chaque stage a l'intelligence d'être relativement court, tout en étant extrêmement intense, avec l'initiative appréciable d'indiquer au joueur (à chaque échec) quel a été son degré de progression dans le niveau...
+
+En coop locale, le jeu a le bon goût de ne pas imposer des points de vie communs : chaque perso a 3 HP "à lui", et chaque pièce reçue se dédouble pour être disponible dans les porte-monnaies indépendants des deux joueurs au magasin. Naturellement, les PV des Boss sont en revanche augmentés en conséquence...
+
+Bref, Cuphead, c'est 90% de rage pure, bizarrement rendue satisfaisante par les quelques pépites d'intense jubilation qu'il distille, et par son emballage incroyablement classieux.
+Étonnamment addictif.
+
+#####
+
+Ce jeu est un pure chef d'oeuvre ! vous allez vous régaler et malgré tout vous faire botter le *** :D
+Je précise que c'est un jeu pour les hardcore gamers qui aiment le run and gun & les boss fight avec pas mal de passage plateformer :) 
+La bande son est juste incroyable et colle parfaitement à l'univers cartoonesque ainsi que la direction artistique qui est vraiment au top et à de quoi vous laisser bouche bée :O
+Le jeu contient une majorité de bosses qui sont vraiment réussis et originaux :)
+Reflexe, lucidité et  perseverance seront vos meilleurs atouts pour venir à bout de ce jeu cartoon plutôt dangereux :p
+
+Have fun sur ce petit bijou ;)
+
+#####
+
+"Cuphead ça s'appelle ? Oh mais ça a l'air super, ce jeu me rappelle les dessins animés des années 1930 ! En 2D en plus, comme Mario, ça doit être trop bien, en plus on peut jouer à deux, ça faisait longtemps que j'ai pas joué à un jeu familial, allez j'achète !"
+
+Et pourtant, ce jeu est parfaitement l'inverse, il ne conviendra pas à tout le monde, surtout à cause de sa difficulté.
+
+Cuphead est un jeu créé par deux frères où l'on incarne Cuphead ou Mugman. Après avoir perdu au casino, le diable lui-même vous demandera d'aller botter les fesses de plusieurs ennemis qui doivent rembourser leurs dettes.
+
+Le scénario est un simple prétexte puisqu'il enrobe un gameplay très riche et vraiment poussé. Vous aurez à votre disposition plusieurs tirs différents : visée automatique, tirs multiples, effet "boomerang", sans parler des différents passifs que vous pourrez avoir comme une vie en plus, un dash invincible... Évidemment, vous devrez adapter votre arsenal au type de boss en question.
+
+Ce jeu a la particularité de ne pas afficher la barre de vie des boss, seulement une barre de progression lorsque vous avez perdu. Autant vous dire que cette barre sera plus source de frustration que de moyen de visualiser sa progression dans le combat.
+
+Le jeu possède une courbe de difficulté vraiment bien maîtrisée et la possibilité de jouer les niveaux en "easy" permet aux moins initiés de trouver un moyen plus paisible d'analyser les différents mouvements des boss. On regrettera surtout le fait que ce mode "easy" retire carrément des phases entières des boss, comme par exemple le boss "abeille".
+
+Niveau maniabilité, bien heureusement c'est très bien réalisé et le contrôle sur notre personnage est total, malgré le fait que le dash est sur la touche Y. Certes, ça rappelle les vieux jeux sur SNES, mais la possibilité d'assigner le dash à une des gâchettes n'aurait pas été de trop.
+
+Niveau HUD et interface, ça fait le taf sans non plus être exceptionnel. Au début, on peut avoir du mal à devoir jeter le regard vers le coin de l'écran pour voir notre minuscule nombre de vie et de cartes, mais on s'y fait grâce à quelques subtilités vraiment intéressantes : le petit son lorsqu'une carte est prête aide à ne pas forcément devoir regarder, ce qui est vraiment ingénieux de la part des développeurs. De la même manière lorsque les cartes clignotent quand l'ultimate est prêt, et donc nous permet d'avoir cette information dans notre champ de vision.
+
+Le fait de "parry" est une mécanique qui n'est pas aboutie, des fois ça passe, des fois ça passe pas, des fois la cible rose fait mal, des fois non, jusqu'au bout du jeu ce système m'aura bien agacé ! Peut-être est-ce volontaire...
+
+Même si le gameplay est vraiment bon, on en vient maintenant aux deux principaux points forts du jeu, en commençant par le premier : la musique. Cette dernière est tout simplement exceptionnelle, elle colle parfaitement à l'univers, au rythme ainsi que le style graphique tout en ayant une certaine touche de modernité, chapeau l'artiste. Devant The Legend of Zelda Breath of the Wild ou même Pyre, la soundtrack de Cuphead est clairement l'OST de l'année 2017.
+
+Même les différents bruitages sont de qualité. Par exemple, le feedback sonore lorsqu'on touche un boss est présent, et lorsqu'il reçoit un gros coup, le son s'intensifie ce qui décuple la satisfaction.
+
+Deuxième point fort du jeu, ses graphismes. La première fois que l'on a vu du gameplay de ce jeu, on s'est tous dit "ah mais on dirait un vieux dessin animé !" alors qu'il n'y a presque pas la moindre différence visuelle avec un vieux dessin animé. La qualité des animations, des transformations des boss frôle la perfection, il y a là un travail colossal et méticuleux.
+
+Je vois peu de critiques parler de la qualité de mise en scène qui est tout simplement incroyable également, je pense notamment au boss du chat et de la souris, mais aussi au génie.
+
+C'est grâce à ses graphismes que Cuphead fait beaucoup de bruits puisque ce genre d'ambition est vraiment osée et pour le coup, réussie.
+
+Niveau durée de vie, le jeu est plus que généreux. Je l'ai fini en 12h, et le fait de finir le jeu permet de débloquer le mode expert, sans parler de la course au fameux rang S pour chaque boss, il y a là de quoi en avoir pour de nombreuses heures pour les férus du 100% (Enfin, dans Cuphead le 100% c'est 200%). La durée de vie dépend surtout de la difficulté et de votre vitesse d'apprentissage.
+
+Cuphead, étant à la base un petit projet, devenu maintenant un des meilleurs jeux de l'année, est un excellent jeu pour tous ceux qui ont envie de challenge, et même pour ceux qui ont envie de s'éclater à deux derrière le même écran. À tester absolument, le finir est une autre histoire.
+
+#####
+
+[h1]Cuphead n'est pas le jeu qu'on vous fait croire[/h1]
+
+Après ce titre bien putaclic il est temps de me justifier à travers cette longue évaluation. Si vous voulez juste un avis concret allez à la conclusion !
+
+Tout d'abord CupHead est ce genre de jeu qui fait fureur en ce moment car tout le monde crie au renouveau du jeu difficile, l'héritier des Dark Souls et j'en passe. Maintenant que tout ceci a été dit il est temps de se faire un vrai avis en regardant le jeu et pas ce que les gens en disent.
+
+[h1]Plaçons les bases[/h1]
+
+Cuphead c'est ni plus ni moins qu'un jeu de boss fight punitif avec quelques niveaux de Run and Gun par-ci par-là,,, Quoi c'est tout ? Bah dans les grandes lignes oui, en fait les gens crient au génie parce que le jeu propose un challenge mais c'est une suprise pour les catégories casual et jeunes joueurs, Le jeu repose sur des mécaniques vieilles comme le monde, de jeu qu'on aurait pu jouer sur NES, Super NES, etc... 
+Le challenge est simple, vous affrontez un boss ou un niveau de Run and Gun (pas très travaillés mais on y reviendra), vous vous faites éclater, vous apprenez de votre erreur puis vous gagnez. Fin de l'histoire, Parfois les mécaniques s'avèrent même frustrantes à cause d'erreur de design grossière, un exemple ? 
+
+Ok ! Lançez le premier super du jeu juste dans une zone de menace, attendez que votre super se finisse pour mourir allègrement sans rien pouvoir faire contre ça. En soi, vous me direz que je n'avais qu'à pas lancer mon super à ce moment là et je vous répondrais que celà peut se passer sur un pattern aléatoire donc on fait quoi ? on n'utililse pas le super ? Une feature développée pour rien ? Non c'est une erreur de design voilà ! Mais je noircis volontairement le trait vous comprendrez pourquoi à la fin. Passons maintenant au coup de gueule nécessaire.
+
+[h1]Les publishers s'il vous plait arrêtez d'imposer vos idées préconçues[/h1]
+
+Pour ceux qui ne le savent pas, quand un jeu propose des concepts foireux, n'allez pas tout de suite crier contre les développeurs et renseignez-vous. Pourquoi ? Parce que les Run & Gun. Je m'explique, par le passé on a pu voir Mirror's Edge 2 se viander à cause de son Open World inutile, Battlefront 2 se faire lyncher pour ses lootboxes et maintenant Cuphead se fait imposer des phases Run & Gun. Et là on sent que ces phases n'ont pas été travaillées. Elles sont dures certes, mais peu présentes (heureusement) et mal équilibrées à tel point qu'on sent qu'elles ne sont pas voulues par le studio. Et tout ça, c'est le genre de choses qu'on peut blâmer aux publishers qui ne voient que dans le soft un moyen de se faire du pognon et vu que ces messieurs ont le choix de publier ou non le jeu pourquoi n'apportent-ils pas leur science bien pourrave ? Voilà où je veux en venir. Quoi qu'il en soit il est important de vous dire en jouant qu'il vaut mieux juger le jeu pour ses boss fights et non ces phases anecdotiques.
+
+Et puis entre nous, ce jeu brille surtout par de nombreux autres domaines NOTAMMENT ...
+
+[h1]Le chef d'œuvre artistique[/h1]
+
+On parle d'un jeu pondu sur Unity (sans vouloir taper sur le moteur c'est pas forcément chose aisée), qui a pris un temps développement assez grand mais pour des raisons qui ont payé. Je ne vous apprend rien, le jeu a clairement pris la patte des cartoons années 30 accompagnée de son petit grain de film qui fait le charme du bouzin. Mais là ou c'est fort c'est que les anims ont été faites à la main de A à Z. Et là je dis chapeau, non seulement ça marche, mais en plus le rendu est magnifique. Et je ne parle pas de la bande son exceptionnelle comprises dans le lot. Il y a de quoi atténuer les violentes morts que vous allez subir dans ce soft.
+
+[h1]Old School is back[/h1]
+
+Une partie en locale, des jeux punitifs, les vieux de la vieille ça vous rappelle pas la bonne époque des jeux sur console à l'ancienne. Moi ça m'a fait cet effet là et c'est bon de voir que les vieux savoirs faire ne se perdent pas. Je ne suis pas en train de dire que c'était mieux avant mais la nostalgie on la vit tous à notre sauce et peu importe ce qu'elle concerne, la nostalgie c'est un des meilleurs sentiments au monde.
+
+[h1]Conclusion[/h1]
+
+Alors pourquoi être aussi méchant ?
+Le jeu propose un challenge intéressant sans pour autant être infranchissable. Parfois injuste pour des soucis de designs comme énoncés plus haut, le jeu brille par tous les autres aspects. Et c'est malheureusement ça le problème. Un jeu si proche de la perfection, foire un point essentiel qui fait vendre le soft. Le game design ! Tout y était pour que le jeu soit une pure pépite et malheureusement c'est pas grand chose, je vais chipoter comme jamais parce que j'adore le jeu mais les simples punitions vraiment injustes du jeu feront partie chez 100% des joueurs d'au moins une mort dans ce jeu. Quand le but c'est le challenge, à aucun moment le joueur doit se retrouver dans une impasse qui ne repose pas directement sur des mauvais choix de sa part. Le seul point positif à tout ça c'est la satisfaction d'autant plus décuplée d'avoir réussi à terminer le soft malgrès ce point agaçant sur lequel j'insiste très lourdement et surement à tort selon vous (oui je lis dans votre esprit).
+
+Mais honnêtement, qu'importe ce que je viens de dire, le jeu est excellent, les fans de challenge trouveront leur compte à faire le jeu en expert une fois le soft terminé une fois, d'autres seront satisfaits d'avoir au moins pu terminer le jeu une fois, d'autres encore s'arracheront les cheveux sur les boss ou run & guns. Mais dans tout les cas l'expérience reste forte satisfaisante tant elle ramènera des bons souvenirs à certains, procurera un sentiment de puissance à d'autres et pour ceux qui n'y arrivent pas... bah RIP...
+
+#####
+
+Vous savez, il parait que le jeu vidéo n’est pas créatif, que les jeux vidéo ne sont que des suites standardisées ou les gens se tuent en boucles en s’insultant, qu’ils ne sont que des sous produits bon à abrutir la masse dans des boucles sanglantes infinies.
+
+Et puis vient Cuphead, un ovni artistique…je n’ai jamais vu une direction artistique aussi maîtrisée, qui parvient à retranscrire aussi bien l’esthétique des années 30 en termes d’animations, vous savez, ces animations ancrées dans notre inconscient collectif, si bien que tout le monde peut les reconnaître ; il couple cette magnificence avec une maîtrise du genre platformer.
+
+Cuphead propose une grande variété de boss, chacun avec des phases différentes, des « run and guns » à pied très difficiles et des run and guns en avion, très difficiles. Ces phases de plateformes sont exigeantes, demandes des réflexes et une connaissance approfondie des timing, des « patterns » ennemis afin d’espérer triompher.
+
+En réalité, au niveau de gameplay, il n’y a pas grand-chose de plus à en dire, votre personnage court, tire dans 8 directions différentes, évite les pièges tendus par les développeurs dans les niveaux, passe au suivant et ainsi de suite.
+
+Il y a un marchand qui vous permet d’acheter diverses améliorations pour votre personnage qui peuvent ensuite être « installées dessus », votre personnage ne devient donc pas de plus en plus fort au fur et à mesure que le jeu avance mais dispose de plus d’options pour triompher des obstacles.
+
+Si la direction artistique est digne d’une œuvre animée, au point que certains se sont demandés si le jeu ne se basait pas sur « une VRAIE (lol) série animée », la bande son suit le même mouvement que le reste du jeu : dans le ton, les développeurs ont apparemment compris l’essence même de l’animation.
+
+CELA DIT, les musiques du jeu sont un peu trop présentes pour un jeu qui force à recommencer un niveau encore et encore, et malgré leurs qualités intrinsèques, elles finissent quand même par taper un peu sur le système.
+
+
+Donc retenez les rageux : le jeu est bien, le jeu est un digne prétendant au mouvement des plateformer HC, Le roi SuperMeat Boy a trouvé son dauphin, youpi vive le roi !
+
+Maintenant que ce préambule est placé dans vos crânes, préambule duquel vous n’allez faire aucun cas puisque je vais quand même me faire insulter par l’élite auto-proclamée du jeu vidéo, il faut tout de même que je discute de quelque chose qui me chafouine.
+
+Le jeu est trop dur et m’empêche d’en profiter pleinement, dommage que vous placiez vos prétentions artistiques derrière un mur de difficulté. Pourquoi ceux qui sont mauvais ne pourraient pas profiter du jeu dans sa globalité ? Je pose sincèrement la question.
+
+Les meilleurs jeux sont pour moi les jeux qui se permettent d’être accessibles au plus grand nombre : Reprenons, à nouveau l’exemple de Dark Souls : un des jeux qui propose cette « adaptabilité ». Tu veux faire le jeu en hard, à poil, au niveau 1 ? Fais le !
+
+Tu veux faire le jeu avec un pote pour rendre l’expérience plus facile ? Tu veux faire la zone tout seul et le boss en coop tu peux !
+
+Ici, le jeu te dit « t’es pas bon ? Tant pis, tu ne peux pas profiter de l’aventure petit noob ».
+Oh, il y a bien un mode facile mais le jeu bloque alors la zone finale, rendant une partie du contenu inaccessible aux gens qui auraient moins de facilités
+
+Quid des gens à mobilité réduite ? Ouais mais on s’en fou en fait, le jeu vidéo, c’est pour l’élite du monde, pour la noblesse qui comprend tout !
+T’es un prolo de base ? Mais va jouer à Assassin’s Creed et laisse-nous dans notre condescendance !
+
+
+Mince, moi, je voulais voir la suite du jeu, bah j’y ai pas droit !
+
+Je ne comprends pas cette obstination à rendre les jeux difficiles sans possibilités d’adapter le jeu à nos propres difficultés. Si je m’étale en long, en large, c’est parce que vraiment, le jeu est un coup de cœur, mais je ne peux pas en profiter, alors les cyniques diront « c’est pas la faute du jeu fdp. », Oui mais ça n’enlève rien au fait que je me sens frustré par cet état de fait.
+
+Sanctionne-je le jeu pour autant ?
+
+Nope :
+
+Excellent die & retry avec une des plus belles directions artistiques jamais vue ;
+Une variété impressionnante de boss et de niveaux, même si nous sommes loin de la pléthore de niveaux disponibles dans un jeu comme SMB !
+
+Une difficulté qui ravira les esthètes du jeu de plateforme HC, on tient probablement un jeu qui restera sur Twitch un bon moment et qui offrira aux speed Runners un terrain de jeu suffisamment exigeant.
+
+#####
+
+[h1]Steamboat Cuppy[/h1]
+
+Dans un jeu vidéo, tout choix compte, que cela soit son genre, son gameplay, son public, et évidemment son style. Un jeu qui attire l’œil sera toujours privilégié, car il ne nécessite pas d’y jouer pour créer de l’engouement. Bien évidemment, ça ne fait pas tout, et si le reste ne suit pas, on va vite le ranger dans la même catégorie que [b]The Order[/b] après 1h de jeu. 
+Un jeu vidéo se doit d’assurer dans plusieurs domaines pour qu’il soit divertissant et agréable à jouer. Et là où les grands studios se pressent pour sortir un triple A bâclé, [b]Cuphead[/b] a mis son temps pour pouvoir nous offrir une réelle expérience vidéoludique. 4 ans pour réaliser les animations, les décors, les sprites… Alors je m’en vais vous faire les louanges de ce jeu qu’on adore détester.
+
+[b]Cuphead[/b] (ou tête de Tasse, pour les anglophobes), est un Boss Rush avec des phases de Run & Gun, sortit fin 2017, et développé par l’ambitieux Studio indépendant [i]MDHR[/i]. On y incarne Cuphead et son ami Mugman qui, à cause d’un pari avec le diable, sont chargés de récolter les âmes de boss endettés.
+
+C’est un projet qui aura fait de l’œil à nombre de joueurs depuis son apparition à l’E3 2014. Et à juste titre !
+Comme vous l’aurez compris le jeu repose sur son univers de cartoon. Préparez-vous pour un voyage dans les années 30. Au programme, des tasses qui jouent aux dés, et des potagers qui veulent vous tuer. Et c’est pour ça qu’en plus de vous en mettre pleins les yeux et les oreilles, le style cartoon va insuffler ce côté déjanté et vivant qui le caractérise. Vous pouvez mourir d’un gland qui vous tombe sur la tête de la même manière qu’un hot-dog vous tue en vous balançant de la moutarde…
+
+Je ne vais certainement rien vous apprendre en vous disant que Cuphead est magnifique. Son style coloré colle parfaitement à l’univers, et il faut admettre qu’il y a dû avoir du boulot pour pouvoir faire un jeu aussi beau et dynamique. Rien que les arrière-plans qui sont peint à l’aquarelle comme les décors dans les vieux dessins animés, renforce le côté old school du jeu. 
+Continuons sur les louanges avec le style des boss, qui est indescriptible. Evidemment il rappelle du [i]Tex Avery[/i], mais pas seulement. Chaque boss a son identité graphique et sonore. Pour que ça vous parle, je vais prendre en exemple mon préféré nommé Floral Fury. Si je vous la décris grossièrement, c’est une fleur orange géante, qui a le visage de Mr Burns en plus exagéré, qui danse sous une musique mexicaine. Et là, soit vous vous dites que je décris très mal, soit que vous avez envie de le voir pour le croire. Et chaque boss est comme ça, une véritable découverte visuelle, avec pour chacun son thème particulier.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1354932957
+
+C’est bien joli tout ça, mais est ce que le jeu est dur ? Oui, ça ne vous a pas échappé, cette œuvre dispose d’une difficulté assez prononcée. Et en même temps ce n’est pas un mal, car rien n’est plus beau que le sentiment d’accomplissement après avoir vaincu un boss particulièrement hardu.
+Pour faire simple, il y a deux types de boss : les niveaux à pied, et les niveaux en avion. Et là encore il faut savoir s’adapter dans les différentes situations car, les armes, ou les placements, seront totalement différents. Les shoot ‘em up, demanderont, pour ma part, plus de concentration, car la mort peut vraiment survenir de n’importe où.
+Comme énoncé précédemment, les boss comportent des phases, ce qui aide au dynamisme du jeu. Chaque boss vous demandera de mourir au moins une fois pour découvrir ses phases et s’adapter en fonction. L’intérêt d’une phase, va être de servir de marqueur de progression au joueur (très bien symbolisé par une piste de course dans le jeu), et, par la même occasion, pour que le combat soit exigeant et attrayant.
+Et pour les Run & gun, c’est un peu pareil, on progresse, on rencontre de nouveaux ennemis, on meurt, on apprend à leur pattern, et on remeurt, mais on ne se décourage pas et on recommence.
+Pour un total de 19 boss, et 6 run & gun, on obtient une durée de vie de 15h, et plus si vous voulez le 100%. Après tout va dépendre de la façon dont vous jouez, et de votre expérience. Si vous rushez le jeu avec les armes qui font le plus mal en sachant les utiliser, vous irez certainement plus vite qu’un néophyte prenant les munitions autoguidées. Et c’est aussi ça qui est cool dans ce jeu, c’est qu’aucun build n’est mauvais, ils s’adaptent à la demande du joueur. S’il a du mal à parry (faire un double saut sur les éléments roses) il va acheter l’item qui permet de parry automatiquement, etc… Tous les niveaux sont différents, avec une hitbox différente, un terrain en mouvement, une orientation changeante. Et c’est pour ça que si le boss abeille peut paraître dur pour ma part, il doit être simple pour d’autre, car il modifie mon style de jeu habituel.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1350146916
+
+Un jeu comme [b]Cuphead[/b] est très intéressant à analyser, car au dela de son style magnifique, il comporte un gameplay qui évolue constamment sans pour autant voir sa difficulté monter. En fait la seule difficulté, est qu’il nécessite de l’apprentissage à chaque boss, au premier comme au dernier…
+
+Une petite parenthèse sur le mode coop qui est très amusant, du moment que votre ami ne casse pas une chaise de rage à chaque fois qu’il meurt.
+
+Terminons sur une note un plus légère. Car en effet la musique de ce jeu ne m’a pas laissé de marbre. On est sur une base très jazzy, avec beaucoup d’instrument, ce qui donne énormément d’énergie aux différents combats. Et là encore cela rappelle complétement le style des années 30-40, avec de vieux pianos, qui font très saloon, des trompettes pour le côté jazzy, d’autres instrument à vent faisant référence aux premiers Disney, et pleins d’autres… L’OST est composé de plus de 50 morceaux, et c’est un pur bonheur à écouter, avec ou sans le contexte. Un véritable voyage dans le passé, qui change complétement du style musical un peu commun des autres jeux indépendants. 
+
+
+BILAN :
+
+Les+
+- Le style cartoon, avec des graphismes très travaillés et des animations géniales
+- La musique, un festival pour les oreilles
+- Les Boss, tous autant déjantés, mais terriblement originaux
+- La difficulté, très bien jaugée
+- La diversité abondante
+- Une excellente rejouabilité
+
+Les-
+- Le décor pas toujours adapté au gameplay
+- Pas de Online pour la coop
+- Peut être addictif
+
+Assurément un des meilleurs jeux de 2017 qui aura su combler l’attente des joueurs avec des myriades d’éléments où rien n'est à jeter. Un de mes coups de cœur Steam, qui m’aura demandé pas mal de concentration, mais qui m’aura surtout procuré beaucoup d’admiration. Le fait qu’un studio indépendant ai fournit un travail si titanesque, pour pouvoir nous livrer une expérience vidéoludique sans pareil, c’est admirable.
+Si vous ne l’avez pas encore dans votre bibliothèque, pas de panique. Prenez tout votre temps pour le finir, pour éviter d’être déçu par une session un peu trop expéditive. En attendant j’en garde un très bon souvenir, et à peine ai-je eu le temps de le finir que j’apprends que les développeurs comptaient faire de [b]Cuphead[/b] une trilogie. J’ai plus que hâte.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1354933153
+
+[code]Vous avez aimé cette évaluation? Retrouvez-en d'autres en rejoignant notre groupe de rédaction : [url=http://steamcommunity.com/groups/onlespreferefroids#curation]On les préfère froids.[/url][/code]
+
+#####
+
+☼ Public :
+
+☐ Les 0 de QI
+☐ Les enfants
+☑ Les geeks
+☑ Les pro gamers
+
+☼ Graphismes :
+
+☐ Exécrable
+☐ Très mauvais
+☐ Mauvais
+☐ Corrects
+☐ Bons
+☑ Très bons ~graphismes en faibles
+☑ Excellent ~graphismes en max
+
+☼ Configuration PC recommandée :
+
+☐ Très bas de gamme
+☑ Bas de gamme
+☐ Milieu de gamme ~ Paramètres en Moyen
+☐ Haut de gamme 
+
+☼ La prise en main
+
+☐ Inné
+☑ Facile
+☐ Nécessite du temps
+☐ Difficile
+☐ Nécessite 200 de QI pour continuer
+
+☼ Durée de vie 
+
+☐ Très courte
+☐ Brève
+☑ Plusieurs heures
+☐ Plusieurs jours
+☐ Sans limite
+
+☼ Pour s'amuser
+
+☑ Ne nécessite pas d'amis
+☐ Nécessite un ami ou deux
+☐ Nécessite trois amis
+☐ Nécessite plus de quatre amis
+
+☼ Niveau de la traduction
+
+☑ Non traduit
+☐ Traduit avec Google Traduction
+☐ Pas mal d'erreurs
+☐ Bonne traduction
+☐ Très bonne traduction
+
+☼ Récurrence de bug
+
+☐ Le jeu est pas fini
+☐ Les bugs gène le gameplay
+☐ Les bugs ne gène pas le gameplay mais sont présent
+☑ Quelques petits bugs
+☐ Le jeu est très bien codé
+
+☼ La communauté
+
+☐ Exécrable
+☐ Souvent négative
+☐ 50/50%
+☐ Plutôt saine
+☐ Saine, sans troubles apparents
+
+#####
+
+[h1]Je l'ai cauchemardé, StudioMDHR l'a créé.[/h1]
+
+Il semblerait que Cuphead ait été conçu suite à l'un de mes rêves enfantins.
+Ce jeu est un réel bijou. D'une part, c'est la plus belle réalisation artistique en 2D que j'ai pu voir en tant que gamer.
+D'autre part, la BO est magnifique et pourrait se vendre en plusieurs milliers d'exemplaires même sans le contexte du jeu vidéo.
+
+Cuphead ne faillit pas à sa réputation, le jeu est difficile mais pas insurmontable, et est bien un [b]die and retry[/b]. La moindre petite erreur se paie cash. Cependant, il n'est pas aussi punitif qu'un Dark Souls, par exemple.
+
+L'originalité et les mécanismes des boss sont vraiment travaillés, on peut se dire que 4 ans de développement pour un Gun and run 2D, c'est beaucoup. Mais ce jeu est un chef d'oeuvre débordant de qualités et s'il faut attendre 4 ans pour avoir un second, je signe tout de suite. Ça change des 2-3 jeux annuels des grands studios dont la motivation première est de s'en mettre plein les fouilles.
+
+Je n'ai malheureusement pas encore eu l'occasion de tester la coop, qui ne pourrait être qu'une expérience de jeu encore plus appréciable.
+
+#####
+
+Diable, que c'est beau!
+Dieu, que c'est dur!
+
+Cuphead, au fond, c'est un jeu qui vous fait boire la tasse encore et encore, vous pète les dents et vous force à vous nourrir à la paille, le sourire aux lèvres, jusqu'à la fin.
+
+#####
+
+Public :
+
+☐ Je ne conseillerai pas ce jeu même à mon pire ennemi
+☐ Les enfants
+☐ Les fans du genre ou de la franchise 
+☐ Les casual gamers 
+☑ Tout public
+☐ Les hardcore gamers
+☐ Les PGM sud-coréens
+
+Graphismes :
+
+☐ À vomir par terre
+☐ Très mauvais
+☐ Mauvais
+☐ Corrects (il y à du taf quand même)
+☐ Bons
+☐ Très bons
+☑ Beaux à en chialer ( Le style graphique est extraordinaire )
+
+Qualité/prix :
+
+☐ Gratuit
+☐ Il faudrait me payer pour y jouer
+☐ Attendez une promo ( - de 20€)
+☐ Abordable
+☐ Pas cher 
+☑ À ce prix là c'est cadeau
+
+Configuration PC recommandée :
+
+☐  L'ordi de ma grand mère
+☑ Entrée de gamme
+☐ Milieu de gamme (Bof)
+☐ Haut de gamme 
+☐ Un PC de la NASA
+
+La prise en main
+
+☑ Inné
+☐ Facile
+☐ Nécessite quelques heures
+☐ Difficile
+☐ Nécessite l'implantation d'un nouveau bras
+
+€ Durée de vie
+
+☐ Moins longtemps qu'une mouche
+☐ Breve
+☐ Plusieurs heures
+☑ Plusieurs dizaines d'heures ( Avec le contenue actuelle ) 
+☐ Plusieurs centaines d'heures 
+
+@ Niveau de la traduction
+
+☑ Non traduit
+☐ Translater bei Uno Russkie
+☐ Pas mal d'erreurs
+☐ Nickel
+☐ Traduit dans toutes les langues
+
+§ Bug
+
+☐ Le jeu est une sorte de gros bug en phase terminal
+☐ Les bugs gène le gameplay
+☐ Les bugs ne gène pas le gameplay mais sont présent
+☑ Quelques bugs
+☐ Le jeu est codé à la perfection
+
+Optimisation & Update
+☐ Vraiment mauvaise
+☐ Mauvaise
+☐ Acceptable
+☐ Correct
+☑ Optimus Perfectus
+
+Avis général
+
+☐ N'y jouer pas
+☐ À vos risques et périls
+☐ À essayer
+☐ Ne perdez pas plus de temps et jouer-y!
+☑ Un must!
+
+Note: FONCEDEOUF/20
+
+#####
+
+j'i sué du sang sur le dragon mais trkl car apres j'ai pu me david michigan sur son cadavre
+
+#####
+
+C'est du bon, mais c'est quand même un peu mitigé.
+
+Les points positifs, évidents : 
+- Un délire visuel, une DA fantastique, on s'émerveille devant les graphismes et les animations qui sont fluides tout en respectant les canons de l'époque.
+-Un die and retry convenable, tu découvres un boss et t'en prends plein le fion mais une heure plus tard tu le tue sans prendre le moindre dégat. Pour ceux qui ont du mal à reconnaitre/lire des patterns c'est un entrainement de qualité.
+-La musique endiablée!
+
+Les points négatifs, rapidement mis en avant.. :
+-Trop concentré sur les patterns, il est compliqué de performer tout en appréciant les animations/la musique.
+-De même recommencer 20 fois le même boss et entendre le même morceau de musique qui débute c'est le meilleur moyen de ne plus supporter cette dite ost.
+-Les niveaux plateforme sont bien moins amusants.
+-Le jeu est court!
+
+Les points mitigés :
+-Le parry bien utile/nécessaire et clairement indiqué par un code couleur (rose = parry) qui est sympa mais qui punit souvent pour rien.
+-La difficulté en dents de scie, des boss prise de tête dès les deux premiers mondes (soit la première moitié du jeu) et d'autres bien plus simples dans les mondes suivants.
+-Plusieurs armes, plusieurs supers, plusieurs charmes.... Oui mais au final j'ai utilisé deux armes sur six pour l'intégralité du jeu (protip : prenez le charge shot) et je n'ai jamais changé de super.
+-Tourne rapidement en rond pour qui n'est pas spécialement attiré par le genre de jeu.
+
+Cuphead est un jeu magnifique et assez amusant pour qui aime les combats de boss de Metal Slug pour vingt balles. Mais une dizaine d'heures à tout péter suffit à finir le jeu et ne reste alors qu'à refaire les combats dans une difficulté supérieure (je n'ai pas vu de différence autre qu'une vitesse très augmentée) ce qui risque de ne pas être au goût de tous.
+On en fait vite le tour...
+
+Mais flûte, c'est joli et original quand même. Ca rappelle les dessins animés et bd d'antan... 
+Franchement la carte du premier monde me fait penser à Astérix, c'est mon enfance, ça vaut bien vingt balles non?
+Ca les vaudra toujours plus que n'importe quel jeu console vendu 70e à la sortie.
+
+#####
+
+Si vous hésitez a acheter ce jeu... Foncez ! je reconnais que le prix est assez élevé mais je l'ai personnellement acheté à 5 euros de moins en période de solde. A l'heure ou j'écris ce post j'ai joué 15,7 h a ce jeu et je n'en suis qu'a 35 % (le jeu propose un mode 100 % qui consiste à terminer le mode histoire mais l'on peux aller jusqu'à 200 % en gagnant tous les niveau en faisant une note de A+) Autant dire que l'on en as pour notre argent. J'ai un ami qui en est a 52 h dessus. Il suffit juste d'être téméraire car ce jeu est TRES compliqué, il est d'ailleur reconnu pour ça. De plus son graphisme ressemblant à un vieux dessin animé est très attrayant et l'animation des différents boss est parfaite. Son gameplay en 2D peux paraître redondant mais que nenni ! tous les niveaux sont très différents. La possibilité de changer d'arme peux permettre de finir certains niveaux plus facilement. Bon après c'est un die and replay, ça ne convient pas a tous le monde. Pour dire à 35 % du mode histoire j'ai déjà perdu près de 500 fois ( je suis pas très doué non plus )
+
+Pour résumer. Ce jeu est génial, tant par les graphismes que par le gameplay (au clavier ou a la manette, pas besoin de souris pour celui ci). Il est cependant très difficile à terminer et ne conviendras pas à des joueurs pas très pascient. 
+
+j'espère que ce commentaire vous auras aidé a faire un choix si vous hésitiez à acheter ce jeu. Bon jeu :)
+
+#####
+
+Cuphead.
+
+
+Cuphead nous ramène dans les années 1930 avec son style de dessin de l'époque, cartoonisé et déjanté, qui nous rappellera sans hésiter les tous premiers Mickey Mouse et autres grands renoms du dessin animé. Les personnages de Cuphead et Mugman (Les deux frères qui représentent d'ailleurs les deux fondateurs du studio Canadien MDHR) sont très attachants, les boss le sont tout autant !
+
+Vous incarnez donc Cuphead qui avec son frère (Deux petites têtes de tasses très attachantes)  vivent heureux dans leur petit village, lorsqu'un jour, ils décident de s'en éloigner pour tomber sur le casino du Diable !
+Ils s'amusent comme des fous et rencontrent alors le Diable qui leur lance un défi: "Si vous remportez cette partie, je vous offre tout ce qu'il y a dans mon casino. En revanche si vous perdez, vos âmes sont à moi!"
+
+Cuphead semble attiré par la récompense, mais malheureusement pour lui et son frère, ils perdent la partie ! Ils supplient donc le Diable de les épargner et en échange ils effectueront ses moindres désirs.
+Le Diable accepte mais vous demande en retour d'aller botter les fesses de quelques gredins qui semblent nuirent avec ses affaires personnelles... Le contrat est donc signé !
+
+
+Vous affrontez un nombre important de boss qui tenteront de vous perdre dans un déluge d'attaques et d'animations très réussies et fidèles de l'époque !
+La difficulté est assez élevée, les boss utilisent plusieurs phases par rapport à leurs points de vie et il vous faudra recommencer plusieurs fois avant de l'emporter ! (et ne pensez pas pouvoir retenir le déroulement d'un combat: les boss sont malins et ne vous lanceront pas toujours les mêmes attaques au même moment, donc restez sur vos gardes !)
+
+Les boss ne sont pas votre unique source de distraction. En effet vous disposez aussi de modes de jeux appellés "Run & Gun" et "Aviateur":
+
+- Dans le premier, qui est un jeu de plate-forme, vous devrez aller jusqu'au bout d'un niveau en affrontant des vagues de monstres hauts en couleurs! Si vous arrivez au bout, vous gagnez... Sinon il vous faudra tout recommencer !
+- Dans le second, vous montez à bord de votre petit avion et vous devez tirer sur tout ce qui bouge tout en évitant ce qu'on vous enverra dans la figure ! Bref, sensations garanties !
+
+Vous disposez aussi d'un petit mode supplémentaire, dans lequel vous devrez entrer dans une crypte, afin de protéger l'urne d'une défunte tasse, de l'attaque de fantômes !
+
+Des combats intenses et drôles à la fois, mais attention une fois encore: la difficulté est au rendez-vous et la moindre erreur vous sera fatale ! 
+
+Il y a également une boutique dans laquelle vous pourrez acheter de nouvelles compétences pour votre personnage. Des tirs lents mais puissants, des esquives, des points de vie supplémentaires et pleins d'autres choses à débloquer.
+
+
+Les thèmes musicaux sont incroyables et très dynamiques. Un côté Jazzy très présent qui colle bien aux animations du jeu. La direction artistique est absolument incroyable et Cuphead sait se démarquer de par son originalité et son côté joyeux et nostalgique ! Les années 1930, c'était le bon temps en fait !
+
+
+Pour conclure, je dirais que Cuphead est un jeu RÉVOLUTIONNAIRE qui possède de grandes capacités pour faire le bonheur des petits et des grands. 
+Une difficulté importante, mais la mort ne nous affecte pas plus que ça, au contraire: on va passer plus de temps dessus ! Les animations et les dessins sont très fidèles à l'époque et on a, à la fois la sensation de jouer mais aussi de regarder un de ses dessins animés favoris ! Que du plaisir pour les yeux et les oreilles !
+
+Une petite déception en revanche: pas de mode Coop en Ligne ! (Peut-être dans une prochaine mise à jour?)
+
+Son prix est plus que raisonnable, allez-y les yeux fermés sans la moindre hésitation ! Les thèmes musicaux, l'ambiance, les dessins, les personnages et les boss nous ramènent dans une époque révolue mais pas moins enchanteresse. 
+
+Depuis des mois, je ne me suis jamais autant amusé sur un jeu vidéo. A tel point que je viens de me procurer un poster et un T-Shirt Cuphead. Cuphead est pour moi, LE JEU de 2017 ! Et j'espère qu'ils continueront de l'alimenter en contenu afin de prolonger ce plaisir qu'on ne souhaite pas voir s'arrêter ! 
+
+
+Un jeu qui CARTOON que vous devez absolument vous procurer !
+
+#####
+
+Ce jeu est assez atypique de par son univers et son ambiance, et m'a beaucoup plus. Le style cartoons des années 30/40 est magnifiquement réussi, et si on ajoute à ca la musique Jazz,  on fait un véritablement bon dans le temps.
+
+
+    Les boss fight sont épics,  relevés, et assez exigeants. La dificulté est donc bien au rendez-vous. Le gameplay  est facile à prendre en main mais difficile à maitriser, et demande une rigeur pour finir les niveaux.  Même si ce jeu est dur il est un petit bijou.
+
+#####
+
+Difficile , beau et addictif que demander de plus.
+Un indispensable.
+
+#####
+
+Rien que pour les dessins, les animations et la musique, ce jeu est une pure merveille! :D
+Un bel hommage aux cartoons des années 30 et à la musique big band. C'est un tour de force de s'être attaqué à un tel choix artistique et d'y être parvenu sans aucune faute.
+
+Maintenant, le jeu est assez difficile et devrait tenir tête aux plus endurcis. Finalement on retrouve tout ce qui caractérisait nos vieux jeux de console (Contrat, Silver Surfer et premiers Mario).
+
+Le jeu a deux est très sympa (encore une fois, cela devait impérativement figurer au cahier des charges), mais corse encore d'avantage la chose car moins facile à suivre dans ce cauchemard coloré où tout est dangereux!
+
+Cela reste néanmoins un chef-d'oeuvre et il faut l'avoir essayé.
+
+#####
+
+C'est un jeu très cool, même si pas aussi bien que ce que racontent les autres. Je vais pas vous mentir : La moitié de mon temps de jeu a été passé sur un seul boss : Cette putain d'abeille de merde quasi impossible. Jouer en coop est plus fun mais rend certains boss ridiculement faciles.
+
+Je recommande ce jeu mais pas à tout le monde : Un petit peu d'experience en platformer et une énorme dose de perseverance sont necessaires pour jouer à ce jeu.
+
+#####
+
+My boyfriend bought it for me and it's an awesome game :)
+It's very challenging there's different weapons and cool boss fights
+i just completed the game on expert today and got 100 % achievements completition on it now
+i really recommend this game :)
+
+#####
+
+CupHead est une grosse pépite de merveille dans le paysage vidéoludique, sous bien des aspects.
+Une direction artistique qui saura ravir les nostalgiques de l'animation américaine à l'époque de son ascension vers la renommée internationale (ça rappelle clairement les vieux design de cartoons Disney, où tout se faisait en rythme), mais aussi les fans de jazz et de swing qui donnent une touche de pep's ultra fraîche dans la dynamique du jeu. On est directement immergé dans l'univers farfelu et énergique proposé par les développeurs. Rien à redire, c'est impeccable, percutant, et gorgé de vie.
+
+Le gameplay reprend des classiques (plate-forme et shooting), avec des possibiltés d'upgrade de tirs, et la prise en main se fait très rapidement pour ceux qui ont l'habitude de ces genres de jeu. CupHead est un jeu qui alterne quelques niveaux Run'n Gun avec du Boss Fight, ce qui le rend constamment nerveux. Le gameplay est bien réalisé, avec un très mais alors très léger bémol pour la gestion des parades, que j'ai trouvée hasardeuse et frustrante, notamment sur l'avant-dernier niveau du jeu.
+
+Quid de la durée de vie ? CupHead va vous donner envie de manger vos cheveux, il est très difficile. Pour ma part je l'ai terminé à 100% en à peine 8h avec toutes les pièces ramassées et tous les upgrades, je suis un peu déçue d'avoir payé 20 € pour finir un jeu en 8h (et pourtant j'en ai chié sur certains boss et un niveau run'n'gun). Un mode expert se débloque après avoir fini le jeu, histoire de vous en tartiner une autre couche, donc si vous voulez du défi, vous allez être servi ! J'ai des amis qui, à 8h de jeu, n'ont pas encore fini le premier monde (il y en a "4", mis entre guillemets pour ne pas trop vous spoiler pourquoi le chiffre est à prendre avec des pincettes). La pléthore de boss tous aussi dingues les uns les autres sauront vous divertir et jouer la lambada avec vos nerfs !
+Un mode coop (local uniquement) est disponible, et permet de souffrir à deux, héhé. Parfois brouillon visuellement à cause des tirs et des nombreux ennemis, il est très fun à jouer ensemble et renforcera vos amitiés après chaque défaite de boss !
+
+Même si à titre personnel je le trouve un poil court (c'est surtout une question de skill, c'est très subjectif), CupHead est très dur mais pas infinissable si vous prenez le temps d'étudier les pattern des boss et de le vaincre sans précipitation (car, vu la nervosité du jeu, vous serez souvent tenté de prendre des risques pour gagner rapidement), et vous propose un univers teinté de fraîcheur et de vintage où ces derniers coexistent à la perfection.
+
+C'est le jeu indé à posséder en 2017. Sans aucune hésitation je vous le recommande ! La soundtrack également !
+
+#####
+
+[b]Introduction :[/b]
+
+Cuphead est un jeu de plates-formes de type run and gun qui se déroule dans un univers de dessins animés des années 1930. Avec un style graphique unique et un gameplay difficile, Cuphead est rapidement devenu un favori parmi les fans de jeux de type "soul".
+
+[b]Ce que j'ai aimé :[/b]
+
+[list]
+[*] Le style graphique unique et inspiré des dessins animés des années 1930 🎨
+[*] La musique jazz captivante qui accompagne les niveaux 🎵
+[*] L'histoire intéressante qui se déroule dans un monde de dessins animés 🎥
+[/list]
+
+[b]Ce que j'ai moins aimé :[/b]
+
+[list]
+[*] La difficulté du jeu peut être décourageante pour certains joueurs 😓
+[/list]
+
+[b]Conclusion :[/b]
+
+En conclusion, Cuphead est un jeu passionnant et difficile qui est un must-have pour les fans des jeux de type "soul". Le style graphique unique et la musique jazz captivante sont des atouts supplémentaires qui en font un jeu mémorable. Cependant, la difficulté du jeu peut décourager certains joueurs. Pour terminer ce jeu, il faut être déterminé, mais pour les fans du genre, cela en vaut la peine ! 🎮
+
+[u]Note :[/u] ★★★★☆
+
+#####
+
+Jeu assez sympathique et orignal par son ambiance cartoonesque (graphisme, musique, l'histoire) et on ne s'ennuie jamais avec les niveaux qui sont assez diversifiés
+
+#####
+
+(Test à retrouver sur https://canigeekit.blog/)
+
+Comme beaucoup d’entre nous, j’ai grandi avec Ça Cartoon, émission que je ne ratais jamais les dimanches soir. Et au milieu des dessins animés plus récents (même s’ils datent en fait de la fin des années 40) comme Bip bip et Coyote ou Titi et Grosminet, ils passaient régulièrement des vieilleries aux dessins vintages, aux scénarios simplistes, à la bande-son jazz et à l’univers déluré. Je les appréciais moins que les autres, mais je me souviens de les avoir regardé avec une curiosité hypnotique. C’est avec les mêmes yeux que j’ai découvert Cuphead.
+
+J’ai rarement été plongé aussi profondément dans l’atmosphère d’un jeu. On est transporté dans un cartoon des années 30 de l’écran-titre aux crédits de fin. Les personnages sont complètement loufoques. Leurs expressions ultras exagérées et leurs regards déments aident à leur donner une vraie consistance. Leurs animations sont toutes aussi déjantées et inventives les unes que les autres. Tout est personnifié, les animaux, les bateaux, les châteaux, les objets les plus communs. Les graphismes sont sublimes (dessinés à la main), des personnages aux arrière-plans, en passant par la carte principale, qui devient particulièrement agréable à parcourir. Les univers, bien qu’assez classiques, sont variés et bien imaginés. L’attention est portée sur les moindres détails, le sound-design est génial et il m’arrive d’écouter cette superbe OST Jazz dans ma vie quotidienne tant elle est qualitative. Bref, esthétiquement, ce jeu est un régal.
+
+		Malgré cette grosse influence années 30, le gameplay prend son inspiration ailleurs. C’est un pur shoot’em up 2D des 90’s, avec des combats nerveux, boostés par l’OST frénétique, qui mettront vos réflexes à rude épreuve. Les commandes sont simples : tirer, sauter, se baisser, dash et attaque spéciale. Plusieurs duels en avion viendront diversifier un peu le gameplay. Hormis quelques phases de jeu (très réussies) mélangeant shoot et plateforme, où l’on doit traverser un niveau jonché d’ennemis, Cuphead est une succession de combats de boss. Les patterns d’attaque, très variés, sont annoncés clairement par les animations de vos adversaires et par un sound design explicite. Les combats se passent en plusieurs phases, le boss évoluant à mesure qu’il perd de la vie. Chaque nouvelle phase est comme un nouveau combat : nouvelle apparence du boss, nouvelles animations, nouveaux patterns. Il faudra apprendre toute cette chorégraphie par cœur pour espérer sortir vivant de ces confrontations.
+
+		Car oui, Cuphead est DUR, extrêmement dur. C’est même devenu un de ses arguments de vente. Vous allez mourir des dizaines de fois sur chaque boss (hormis le premier) avant d’en venir à bout. Il faut le temps de reconnaître les patterns, de les comprendre, de savoir les éviter parfaitement (étape très longue), de cerner vos fenêtres de tir, et tout recommencer quand votre ennemi évolue. Chaque passage à une nouvelle phase du boss est une petite victoire. Et c’est ce qui rend Cuphead addictif. Malgré la difficulté, on ne ressent pas de frustration. Chaque échec est un apprentissage qui mènera à la victoire. On maîtrise de mieux en mieux la première phase, on meurt à la troisième et plus à la deuxième… Puis on finit par vaincre. C’est vraiment gratifiant.
+
+	Pour pimenter encore les combats, la mécanique des parades, geste d'adresse consistant à rebondir sur certains projectiles, chargera plus rapidement votre jauge d'attaque spéciale et vous donnera une impression de skill rare. On peut acheter différents types d’armes et de bonus que l’on peut équiper pour s’adapter aux boss ou simplement diversifier son approche des fights. Un système de rang nous pousse à nous surpasser, à retourner affronter les boss pour les maîtriser parfaitement. Et pour les plus accrocs au challenge, il existe un mode difficile après avoir fini le jeu en normal. Je ne suis habituellement pas un acharné du jeu vidéo, mais j'ai kiffé me replonger dans le jeu pour tenter d'obtenir le meilleur rend contre ces boss en mode bourrins.
+
+En bref, Cuphead est un parfait mix entre challenge, gameplay soigné et atmosphère éclaboussante. Il ne faut pas se laisser abattre par sa difficulté précoce. C’est le prix à payer pour découvrir l’un des meilleurs jeux indés de ces dernières années.
+
+#####
+
+Voila je vien de finir le jeux a 200 %. je note trés rarement les jeux mais la je me sent obligé de donnés mon avis.
+Meilleur jeux auquel j'ai joué depuis longtemp le jeux est parfait gameplay excelent, music parfaite. Il existe néanmoins quelque bug mais rien qui va vous ruiné votre session de jeux.
+10/10
+
+#####
+
+Cuphead est le genre de jeu qui attire le regard dès sa première présentation. La direction artistique  façon "dessins animés des années 1930" ne laisse pas indifférent, pas plus que la promesse d'une succession de bossfights très punitifs.
+
+C'est d'ailleurs ce dernier point qui m'a laissé dubitatif dans un premier temps. En effet, si l'idée d'un boss rush avec un tel design m'attirait, je ne voulais pas d'un jeu qui surfe sur la mode des Souls, des rogue-like et autres Super Meat Boy. Une relative difficulté, si elle est au service du gameplay, pourquoi pas. Mais la difficulté pour la difficulté, non merci!
+
+Premier constat, et ce dès le premier boss: la prise en main est excellente. Pas de déplacements lunaires, de hitbox foireux et autres con*eries. Ca répond au doigt et à l'oeil. Dès lors, ça aide à accepter une certaine difficulté qui est finalement toute relative. En effet, le premier boss est tombé dès le deuxième essai, quand j'ai compris ses patterns.
+
+Et j'ai eu la délicieuse surprise qu'il en soit de même sur le deuxième, le troisième, et ainsi de suite jusqu'à la fin de la première map. Bizarrement donc, non Cuphead n'est pas difficile, en tout cas beaucoup moins qu'un Ori and the Blind Forest par exemple. 
+
+Seuls les passages dits "de plateformes" sont, pour le coup, assez chauds, mais sans être bloquants puisqu'il semblerait que le fait de ne pas tous les faire n'empêche pas de passer à l'île suivante (j'avoue n'avoir pas pu tous les compléter, mais je continue à m'acharner).
+
+Plus on avance et plus la difficulté augmente, soyons honnêtes, mais plus les items achetables dans les shops sont intéressants. Par exemple, le parry automatique rend les défis des mausolées bien plus faciles, de même que certains bossfights façon shoot'em up. Autre bon plan complètement pété: le dash invisible, qui rend en fait nos dashs invincibles! Ici aussi, c'est un gros avantage pour affronter les boss chauds dès la seconde moitié de la seconde île.
+
+En parlant de shops, il est "dommage" que les pièces soient si rares (même si c'est fait exprès on le comprend bien) et obligent donc à passer par les phases de plateformes où à gratter chaque recoin de la map qui en recèle également.
+
+Au rayon des petits défauts également, je trouve qu'il manque d'une indication un peu plus visible des dégâts infligés sur les boss. Lors des phases calmes, on voit bien que celui-ci "blanchit" un peu lorsqu'il se fait toucher, mais dès que ça s'anime un peu plus à l'écran, impossible de savoir si nos tirs font mouche ou pas.
+
+Autre détail bien trouvé, lorsqu'on meurt sur un boss, on a le plaisir de voir un tracé de progression qui montre où nous en étions par rapport à la mort du boss. C'est simple mais diablement efficace et ça permet surtout de conserver la motivation, en voyant que chaque fois on va un petit peu plus loin.
+
+Je ne pourrais finir sans parler de la bande-son, excellente elle aussi. Certes, je ne suis pas forcément sensible au jazz au premier abord, mais force est de reconnaître que la production est de grande qualité, ici aussi en accord avec la direction artistique voulue.
+
+Saluons, last but not least, le mode coop en local et écran splitté, tellement rare de nos jours et ici aussi parfaitement cohérent avec le trip rétro.
+
+Pour ceux qui, comme moi, n'ont pas une tonne d'amis dans la vraie vie, il manque néanmoins le même coop, mais en ligne. Cela devrait arriver plus tard selon les développeurs, donc fingers crossed.
+
+En résumé, Cuphead est une réussite absolue, un jeu indé qui ne se contente pas de singer ce qui existe, mais qui donne une leçon de direction artistique à 90% de l'industrie, et cela pour 20 balles.
+
+Don't deal with the devil but deal with Cuphead!
+
+
+#####
+
+Graphiquement sublime, niveau gameplay, une  torture au clavier, il faut que je test à la manette, la difficulté est clairement au rendez-vous, j'ai mis 30 minutes à vaincre un niveau... sérieux les derniers niveaux de raymans pour comparé c'est de la rigolade par rapport à Cuphead.. mais bon on se sent comme un dieu quant on réussi des trucs .
+
+#####
+
+Jeu trop cool, excellent jeu de plateformes, l'ambiance avec la musique et le style cartoon des années 30 est trop stylé. Les boss sont cool aussi surtout le Satan de la fin. Rageant mais c'est une bonne rage. Je recommande a 200%.
+
+#####
+
+Le plus grand défi de "Cuphead" est de ne pas renverser une seule goutte de lait ! (Evalution signé "Lefty")
+
+#####
+
+Masterclass, franchement, j'ai toujours voulu battre des gens au hasard en sortant de chez moi après avoir rencontré le sheitan près des machines à sous. Et bah je recommande l'expérience. Si vous avez envie de hurler sur une abeille ou d'insulter un dé, foncez. Je pensais pas que je pouvais autant aimer me faire du mal, je pense que j'ai trouvé mon orientation sexuelle en battant un cigare et en le voyant se faire piétiner. Cela dit, j'ai un avis mitigé sur une chose : Le personnage du DLC, pourquoi est-ce que la femme est meilleure que l'homme dans ce jeu ??? Elle peut littéralement tout faire, elle a battu Satan wtf. Outre ce sacrilège, bonne expérience, en co-op double masterclass, on a fini le jeu en une journée, j'avais envie de faire des choses à mon coéquipier à chaque fois qu'il arrivait à me ressusciter in-extremis.
+
+#####
+
+Pour commencer je penses comme moi que vous connaissez ou avez entendu parler de Cuphead avant de vouloir l'acheter. Tout d'abord pour tous masochistes confirmés fonçais, pour les autres  ça dépend de votre rapport à la difficulté.  Pour moi c'est Hollow Knight qui m'a fait aimer la difficulté, et donc après avoir finis ce dernier je me suis naturellement penché vers cuphead que je connaissais déjà. 
+La difficulté peut être un frein pour certains mais je penses que la persévérance et la volonté que vous voulez donner jouera aussi. Mais la satisfaction de battre un boss est innegalable. Au delà de ses combats de bosss brillant et bien pensé, la musique et la DA sont vraiment bien trouver et corresponde à l'univers présenté. 
+Le jeu propose aussi d'autre mode de jeu comme les niveaux ou encore les mausolées.
+Pour ce qui est de la durée de vie cela varie entre les joueur, pour ma part je dirais entre 15h pour les meilleurs jusqu'a 40h pour les débutants. 
+En résumé si vous passer outre sa difficulté  ou que vous rechercher cette dernière cuphead est un jeu que je ne peux que vous recommender.
+
+
+#####
+
+Superbe jeu !
+Bien évidemment, la direction artistique est un sans-faute que ce soit les dessins, les animations ou la musique... tout rend magnifiquement hommage aux cartoons des années 30.
+
+J'apprécie particulièrement le fait de pouvoir jouer à un ou deux sur le même écran.
+
+#####
+
+Cuphead est un jeu dont le principe de base repose sur une succession de combats de boss, mais également en moindre mesure de "Run and Gun" se rapprochant plus du Shoot them up. Si ce jeu a particulièrement fait parler de lui lors de sa sortie, c'est en particulier pour sa patte graphique se rapprochant au maximum aux vieux cartoon des années 1920. Un travail d'orfèvre a donc était fait sur ce jeu, ce qui a entraîné de très nombreux reports avant la sortie de ce jeu, mais le résultat en est il à la hauteur.
+
+Parlons tout d'abord de l'aspect visuel puisque c'est ce qui frappe en premier sur ce jeu. Le contrat est pleinement rempli puisque en jouant à ce jeu, on se retrouve littéralement plongé dans un gigantesque cartoon des années 20. Une franche réussite qui est dû notamment au design des différents personnages mais aussi des boss rencontrés. Franchement en terme de visuel, c'est parfait. Les décors sont variés, les boss ont tous des design différents, et tous sont réussis. L'aspect visuel de la carte est également une franche réussite permettant une lisibilité simple et efficace. Pour accompagné un visuel aussi marqué, il est nécessaire d'avoir une ambiance sonore qui colle à la perfection. Et devinez quoi? Elle colle à la perfection. Qu'il s'agisse des musiques de boss qui mettent dans l'ambiance, les différents sons et bruitages des boss et des personnages liés à leurs animations spécifiques, ou encore des chanson véritablement chanté comme celle de l'écran d'accueil, du passage d'un monde à un autre, des canards ou encore des crédits à la fin du jeu, TOUT EST PARFAIT.
+
+En ce qui concerne les différents boss, tous ont leurs personnalités et leurs propres paternes. De nombreux clins d'œil à d'anciens cartoon y sont d'ailleurs dissimulé. Les combats sont durs, et on a en effet affaire à un Die and Retry puisque le joueur est obligé de mourir plusieurs fois pour voir les différentes attaques et forme du boss. Ce n'est pas spécialement gênant dans ce jeu. Le jeu est difficile, certes mais pas impossible! Avec de la patience et de nombreuses morts il est possible de battre n'importe quel boss, dés lors que l'on a trouvé la technique pour le vaincre. Ces combats de boss sont excellent, et le fait de voir la progression du combat après sa mort est une excellente idée pour pouvoir permettre au joueur de se donner du courage, ou de rager si celui ci est mort à la toute fin... Ces combats sont tous originaux, exigeants et particulièrement maîtrisé, c'est un réel plaisir de combattre ces boss, et un véritable bonheur bonheur que de réussir à un vaincre un.
+
+L'autre partie de ce jeu repose sur les Run and Guns, un mode de jeu rajouté par les développeurs après un importante demande des futurs joueurs, trouvant que les boss ne suffiraient à combler ce jeu. Les développeurs ont alors rajoutés ces niveaux ce qui a entrainé une nouvelle année de retard pour le jeu. Cela en valait il le coup? Et bien difficile à dire, certes je ne crache pas sur de la jouabilité supplémentaires surtout d'une aussi bonne qualité, mais il fait admettre que ces Run and Guns sont réellement moins intéressant à jouer que les combats de boss. Pourtant il n'y a pas grand chose à redire, esthétiquement c'est toujours au top, on a un bestiaire très varié, on a des passages originaux... NON franchement c'est cool, mais finalement moi qui pensait préferer les Run and Guns, je préfère finalement les combats de boss ( et je sais que je ne suis pas tout seul à penser ça)
+
+C'est assez rare je l'avoue, mais j'avais une certaine attente pour ce jeu. Habituellement je découvre les jeux après leurs sorties, mais pour celui ci, ces divers trailers qui me l'ont fait découvrir. J'avais hâte de voir la sortie de celui ci, mais une chose me rendait perplexe... la maniabilité. En voyant les images, j'avais la crainte que le Cupheand et Mugman soient lourds et par conséquent difficile à contrôler, ce qui aurait été impardonnable pour un jeu de ce genre. Or je m'étais é effet bien fourvoyé puisque la maniabilité est tout simplement niquel, accompagné d'un gameplay simple et efficace qui rend le contrôle de Cuphead d'une simplicité et d'une aisance déconcertante même si il faut remarquer quelques défauts. Le dash est sur la touche Y. C'est... surprenant. J'avoue qu'il faut quand même un certain temps d'adaptation pour utiliser parfaitement ce dash. Le boutant permettant également de viser en diagonale sans pour autant bouger est également un bouton pas forcément simple à utiliser, heureusement, celui ne sert que très peu dans ce jeu.
+
+Finissons sur le mode coop. C'est franchement génial de pouvoir jouer à deux sur ce jeu, et la difficulté est toujours aussi bien dosé, seul ou à deux. C'est très amusant de pouvoir faire la totalité du jeu en multi, même si parfois on a quelque soucis de lisibilité sur certains boss. Il est également dommage que le jeu ne puisse se jouer en multijoueur en ligne.
+
+Pour conclure, on peut dire que... En fait, la plupart du temps j'essaie de ne pas avoir d'attente pour un jeu. C'est simple avoir de l'attente pour un jeu c'est la meilleur façon d'être déçu par celui ci. Mais j'avoue que avoir de l'attente pour un jeu et d'avoir un résultat finalement au dessus de ces espérances est une expérience des plus agréables. Cuphead est clairement un jeu excellent. Son succès ne se doit pas uniquement à son visuel magnifiquement original, il le doit à l'alchimie de ces qualités qui font ce qu'il est, un très bon jeu. Bien sûr il y a quelques soucis, comme le fait que certains objets de la boutique soit inutile, que le jeu ne soit pas traduit en français, que les Run and guns ne soient pas aussi bons que les combats de boss ou que quelques capacités de gameplay demande un temps d'adaptation. Mais ces légers défauts n'entament pas la réussite de ce jeu. De plus celui possède une rejouabilité certaine puisque une fois le jeu finis, il est possible de refaire tout les boss en mode expert. Mais attention c'est pas le mode expert basque où les boss ont juste plus de vie. Non, ce serait trop facile, là les paternes sont carrément différents ce qui demande une nouvelle adaptation face à tout ces boss. De nombreuses heures m'attendent encore sur ce jeu que je vous conseille pleinement, et même au prix fort!
+
+Note: 18,5/20
+
+
+
+#####
+
+20 Euros pour un jeu d'une telle qualité.
+Par rapport a certains jeux AAA où je me suis fais C....,  CUPHEAD quel plaisir d'y jouer.
+
+Un must have, les évaluations parlent d'eux mêmes.
+
+#####
+
+"Cuphead", c'est le gameplay de "[b]Contra Shattered Soldier[/b]" (en moins rigoureux, on va le voir), la structure de "[b]Super Meat Boy[/b]", et évidemment l'esthétique d'un cartoon des années 1930.
+
+"Cuphead" est parfois comparé aux jeux de plateformes avec Mickey ou Mario, ce qui est très étrange puisqu'il ressemble plutôt à Contra (ou "Gunstar Heroes" ou "Alien Soldier") et plus précisément à "Contra Shattered Soldier" sur PS2: le jeu est basé sur le tir et l'esquive, sur le repositionnement, et surtout sur l'anticipation des schémas d'attaque d'énormes boss qui constituent la grande majorité des ennemis que l'on aura à affronter. Comme dans ce jeu, on a un accès libre à plusieurs armes bien distinctes (à débloquer dans "Cuphead" par le biais d'un magasin qui propose aussi des pouvoirs très pratiques comme par exemple être intouchable durant son esquive), et chaque boss est tout spécialement vulnérable à une arme précise qu'il faudra identifier pour une destruction optimale, le jeu virant parfois au jeu de puzzles.
+En plus de cela, "Cuphead" a des mécaniques propres, comme des projectiles roses que l'on peut "parer" en appuyant sur le bouton de saut juste avant de se faire toucher, ce qui permet d'absorber leur énergie et de la renvoyer plus tard lors de coups spéciaux dévastateurs.
+
+À l'inverse de Contra qui jouait sur l'endurance lors de longs niveaux, "Cuphead" est structuré comme "Super Meat Boy", avec des niveaux très difficiles mais très courts accessibles depuis un menu (ici une carte façon "Super Mario World"): les niveaux ou boss peuvent chacun être battu en moins de deux minutes, et ils DOIVENT l'être si on veut décrocher le meilleur score possible - on est évalué en fin de partie avec des critères comme le temps, la santé restante, le nombre de parades effectuées ou le nombre de coups spéciaux infligés aux boss, etc.
+Comme dans "Super Meat Boy", cette structure est incroyablement addictive et donne envie d'immédiatement recommencer après un échec malgré la difficulté du jeu. D'essai en essai, on progresse jusqu'à la victoire, et c'est jouissif et valorisant.
+
+On est d'autant plus motivé pour progresser dans "Cuphead" que sa présentation est très originale et ahurissante de qualité: moi qui adore les cartoons des années 1930 jusqu'à en posséder plusieurs DVD, j'ai été à la fois ravi et époustouflé de retrouver dans le jeu toutes les caractéristiques de ces petits chefs-d'œuvre - l'univers, l'imagination sans limite, la patte graphique si particulière, la fluidité de l'animation, les thèmes, les techniques utilisées, la musique jazzy, etc. jusqu'aux effets de pellicule, avec même des filtres en technicolor ou en noir et blanc à débloquer.
+Ce cadre "rétro" mais inhabituel (ça nous change du pixel art) n'est pas complètement gratuit sur le plan ludique dans le sens où il permet davantage d'excentricité que dans les jeux du genre où l'on affronte en général des soldats, des extraterrestres ou des robots. Espérons que "Cuphead" débride à l'avenir l'imagination des développeurs...
+
+Alors, "Cuphead", un jeu parfait?
+
+Hélas non: le jeu a des problèmes de gameplay liés à sa difficulté. Pour mettre les choses au clair, je signale que j'ai remporté tous les succès de "Cuphead" sauf un, celui exigeant de battre tous les niveaux du jeu au mode "Expert", que j'ai choisi d'ignorer parce que ce mode aggrave à mon sens les défauts du jeu et n'est donc pas amusant. L'avis qui va suivre n'a donc rien à voir avec un sentiment d'exclusion de ma part, je le précise car il y a une ambiance élitiste malsaine autour du jeu qui suggère que quiconque le critiquant ne serait pas un "vrai" joueur.
+
+Dans les séries dont "Cuphead" s'inspire, qu'il s'agisse de Contra, R-Type ("Cuphead" comporte des sections de shoot 'em up) ou des jeux de Treasure, la difficulté est conçue de façon à ce que l'échec nous donne toujours l'impression d'avoir commis une erreur stupide: les attaques sont claires et téléphonées, d'apparence simple même si elles sont en réalité complexes, et le déroulé est toujours le même, ce qui fait qu'à peine a-t-on commis une erreur que l'on voit tout de suite ce que l'on aurait dû faire à la place, ce qui motive évidemment à mieux faire lors de la partie suivante.
+"Cuphead" ne fonctionne pas ainsi: ses boss ont eux aussi des schémas d'attaque simples et lisibles, mais après le premier tiers du jeu, la difficulté vient en général davantage d'attaques ennemies secondaires générées aléatoirement qui se superposent aux attaques du boss - dit autrement, le jeu nous balance des attaques au hasard créant soudain plein de petits ennemis ou boulettes sans configuration d'ensemble, et que le joueur se débrouille avec ce fouillis.
+Cet usage de l'aléatoire pose problème parce qu'il crée parfois des parties bien plus dures que d'autres pour un même boss, et, plus grave, peut créer des situations illisibles voire injustes, ce qui est encore aggravé par des éléments du décor bizarrement positionnés au premier plan qui peuvent masquer des ennemis ou des projectiles. Contrairement aux classiques cités plus haut, non seulement on ne comprend pas toujours où l'on a commis une erreur, mais on n'est pas toujours sûr que l'on pouvait éviter cette erreur, et de toute façon cette expérience ne sert à rien puisque l'aléatoire du jeu génèrera peut-être une configuration différente la fois suivante.
+
+Le jeu repose ainsi beaucoup trop sur le "die & retry", où l'on progresse moins parce que l'on s'améliore que par l'accumulation des essais: sur plusieurs dizaines de parties, il y en a une qui finit par passer. Cette impression de chaos concerne souvent les dernières phases des boss, soudain surchargées et très brutales avec peu de mobilité: à peine se déplace-t-on que l'on heurte quelque chose et l'on meurt sans avoir compris ce qu'il vient de se passer.
+C'est dommage, parce que ces moments mal équilibrés n'arrivent en général qu'une ou deux fois par boss - le jeu serait beaucoup plus facile sans ces pointes de difficulté artificielles, car au fond le jeu n'est pas très dur quand il est juste et il reste beaucoup plus facile que ses modèles (Contra, R-Type, etc.), mais tant qu'à faire j'aurais préféré un jeu plus facile mais maîtrisé et plus plaisant à un jeu comportant autant de passages brouillons.
+Ce qui m'amène au dernier défaut du jeu même s'il ne m'a pas concerné personnellement: le niveau de difficulté "Simple" y est tronqué, enlevant des animations aux boss et bloquant l'accès à la fin du jeu, alors qu'il aurait été si facile d'enlever ou alléger certaines attaques secondaires pour que ce mode reste complet tout en étant accessible au plus grand nombre - après tout, le niveau "Expert" fait la même chose en sens inverse, se surchargeant par rapport au niveau "Regular" sans pour autant devenir meilleur...
+
+Au final, je recommande évidemment "Cuphead", je n'ai pas passé une trentaine d'heures à remporter presque tous ses succès en m'ennuyant, et sa réussite artistique spectaculaire représente une date importante dans l'histoire du jeu vidéo: on a ici enfin un jeu de la qualité visuelle d'un dessin animé dont l'interactivité va au-delà de celle de "Dragon's Lair" (pour pinailler, je pourrais ceci dit citer "Wario Land: The Shake Dimension" de Nintendo)... mais le gameplay de "Cuphead" est largement inférieur aux jeux qu'il plagie et c'est dommage, car il n'aurait pas fallu grand-chose pour qu'il s'en rapproche. Il n'y a pas de honte à faire un jeu "facile" quand on ne sait pas faire de la bonne difficulté...
+
+#####
+
+Un des meilleurs jeux existants tout simplement !
+Une des meilleurs DA au monde, l'OST est une dinguerie (je vous conseille le vinyle), le gameplay simple mais parfait, la difficulté est présente mais ça fait du bien d'avoir du challenge, une fois le jeu terminé les boss se refont facilement mais j'ai bien galéré à tout faire en rang S.
+Un jeu comme on en voit que trop rarement, l'histoire des développeurs est incroyable aussi, de vrais passionnés.
+Si vous n'y avez pas jouez achetez ce jeu, au prix auquel il est c'est dérisoire pour cette qualité !
+
+#####
+
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠛⠛⠛⢛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉⠐⠄⠄⠄⠄⠠⠄⠄⢀⣀⡈⢻⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⡀⠴⢒⡒⠂⠄⢀⡀⢐⡀⡀⠄⠄⢀⠙⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡿⡡⠪⠶⢿⡭⡉⠄⢀⢣⣖⣶⣬⡱⣄⠄⠄⠄⠸⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⡁⣔⣎⠓⠂⡀⠑⠖⣒⠭⠻⠿⠿⠷⠙⣎⠉⠉⠄⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⢧⢱⣿⣔⣀⠊⠐⢼⣿⣶⣠⠄⠐⡐⠶⡂⣿⣀⡀⠄⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣟⠂⣿⣿⣷⣶⣟⣴⣾⣿⣧⣐⣤⣤⣭⣿⠇⡇⠄⠄⠄⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⢹⠄⣿⣿⣿⣿⡌⠿⣛⣿⣿⣿⣿⣿⣿⢫⡞⡇⠄⠄⢰⣿⣿⣿
+⣿⣿⣿⣿⡿⣫⠞⢀⣿⣿⣿⣥⣤⣌⠙⣿⣿⣿⣿⡟⣽⣿⠁⡇⠒⢒⣾⣿⣿⣿
+⣿⣿⣿⣯⣾⠋⠄⠘⣿⣿⣿⣶⣶⣭⣿⣿⣿⣿⣿⣾⡿⠃⣴⡇⠄⣼⣿⣿⣿⣿
+⡛⡿⣿⣿⣷⣇⠄⠄⡈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣉⠄⣼⡇⣼⣿⣿⣿⣿⣿
+⠉⠐⣥⡙⠛⠿⠇⢸⠰⠄⠄⠄⠹⠟⠛⠋⢉⣀⢩⢴⠄⢰⣿⣧⢿⣿⣿⣿⣿⣿
+⠄⠄⠄⢱⡀⠄⠄⠇⡰⠄⡐⠄⠰⠰⢿⠃⠈⠉⢠⠄⠄⠻⠿⢾⣿⣿⣿⣿⣿⣿
+⡤⡴⠶⠚⠋⠻⣆⠄⠁⣠⠡⠐⠁⠄⠄⠄⠄⠄⠁⠄⠠⣦⠄⠄⠄⠄⠄⠲⠎⠉
+
+
+j'arrive pas à finir le jeux
+
+#####
+
+Jeu assez dur mais très addictif. Les graphismes cartoon rétro sont vraiment plaisants et les niveaux ne sont pas répétitifs, gameplay varié et fluide.
+
+#####
+
+tres compliqué sur PC mais assez FUN
+
+#####
+
+Un bon jeu Try Hard comme on aime.
+Musiques absolument épiques !
+
+#####
+
+Graphismes incroyables et BO, composée pour le jeu, exceptionnelle.
+
+Il a une réputation de jeu difficile. Ce n'est pas justifié car le jeu n'impose jamais de game over : il suffit d'apprendre les patterns des boss ou les pièges des niveaux pour s'en sortir. Au pire on meurt et on enchaîne en restant dans le rythme. 
+
+Le jeu est peut-être un peu court (j'ai mis 10h pour le terminer) si on se lance pas dans un run en mode expert.
+
+Je croise les doigts pour que les devs sortent un jeu en collaboration avec Disney ou Warner Bros...
+
+#####
+
+[i]Un vrai petit Die and Retry, et je confirme un vrai régal à jouer et à admirer car cette direction artistique inspiré des Studios Fleischer ne passe pas inapperçue ! 
+De la plateforme, des patterns d'ennemis à analyser et à apprendre en ayant subis plusieurs morts, des attaques dans tout les sens, et surtout de la concentration qui joue un rôle principal sur le gameplay du jeu.
+
+Pour l'instant je n'ai pas ragée une seule fois sur le jeu. Oui monsieur je suis honnête ! J'ai juste adoré réécouter du Jazz en boucle après chaque morts, à admirer le travail des dessinateurs et à apprendre à connaître le gameplay d'un jeu aux traits atypique, nous rappelant sans cesse à quel points les dessins animés fait à la mains sont les meilleurs ! -A good day for a swell battle !-[/i]
+
+#####
+
+Cuphead est beau, la musique est géniale. Tout cet enrobage est probablement lap plus grande qualité du jeu, pour peu que l'on soit réceptif à l'univers des dessins animés des années 30.
+
+Cuphead, c'est aussi et surtout, un jeu difficile qui demande d'accepter de faire et refaire des passages pour en voir le bout. Le jeu ne vous laissera jamais tranquille sur ce plan là. Tous les boss d'une île sont à affronter et vaincre pour voir la suite. Magnifiques, souvent très réussis jusque dans leurs différentes phases, les boss sont le cœur du jeu. Et c'est là que le jeu divisera les joueurs entre ceux prêts à accepter d'avancer petit à petit pour arriver à battre ce boss qui résistera pendant des heures et les autres qui n'ont pas envie de s'acharner. Parce que oui, Cuphead fait partie de ces jeux qui demandent de perdre pour apprendre, où la chance n'a jamais sa place et le par cœur est roi.
+Chacun aura son ou ses boss qui l'ont fait rager, insulter la terre entière ou donner l'envie de jeter la manette sur l'écran. Pour ma part, le dragon et l'abeille sont les heureux élus de cette rage. Je suis patient, d'un calme absolu et c'est un des rares jeux qui m'a rendu grossier comme jamais. Et pourtant, quel plaisir de réussir à voir ce Knockout s'afficher à la fin d'un boss. Le signe que la suite attend d'être découverte.
+Sans parler de jeu très difficile, parce que Cuphead n'est pas si difficile. Il demande d'accepter d'apprendre dans l'échec, de dompter chaque phase du boss pour découvrir la prochaine. D'avancer par palier pour atteindre la fin.
+
+Les développeurs ne sont pas des monstres. Pour aider les joueurs, ils ont prévu des armes en nombre limité, mais toutes différentes, des pouvoirs spéciaux et un petit emplacement pour un objet donnant une capacité spéciale. Il y a aussi un dash (le smoke dash est très utile) pour s'éloigner rapidement d'un danger.
+Si tout était débloqué de base, ce serait bien trop simple donc ils ont mis des niveaux run and gun qui permettent de récupérer des pièces (il y en a aussi sur la carte et des PNJ en offrent à certains conditions) pour acheter son équipement. Malheureusement, le jeu montre ses limites ou plus simplement, le désintérêt des développeurs pour ses phases (difficiles quand même) parce que le level design est pauvre, inintéressant à parcourir et malgré la volonté de les rendre attrayantes, elles sont plaquées plus qu'autre chose. 
+De ce que j'ai compris, ces phases ont plus ou moins été imposées parce que le jeu se destinait à être un boss rush (en gros, que des boss à combattre) et il a fallu l'enrichir un peu. Pour moi, elles n'auraient pas existé, ça ne m'aurait pas dérangé. 
+Il existe aussi des temples où le parry (rebondir sur des objets roses) est mis en avant. C'est rigolo et intéressant pour débloquer des pouvoirs (au nombre de trois). Ces pouvoirs sont utilisables en utilisant 5 cartes qui se débloquent en tirant sur les ennemis ou en réussissant un parry. A utiliser intelligemment pendant les combats.
+
+Au rayon des défauts qui méritent d'être cités :
+
+- Le jeu n'est pas du tout pensé pour la coopération même s'il le permet. La lisibilité devient un vrai problème contre les boss. Avec mon partenaire de jeu, on a fini par se passer la manette plutôt que jouer ensemble.
+
+- Le jeu est parfois très injuste : j'utilise mon super pouvoir et je me fais toucher dès qu'il arrête son action. C'est un coup à prendre, mais je ne compte plus le nombre d'HP perdus à cause de cela.
+
+- Ne pas savoir où en est la vie du boss pendant le combat est très perturbant et donne un côté sac à PV même si ce n'est pas le cas. 
+C'est une bonne idée de montrer la progression lors du game over, mais un petit indicateur visuel pendant l'affrontement aurait été une bonne idée.
+
+- Les niveaux run and gun que je trouve superflus, difficiles (voire plus que les boss) et peu inspirés en dehors de leur visuel.
+
+
+En résumé, Cuphead est un jeu qui fera plaisir à ceux qui acceptent d'apprendre par l'échec et d'avancer par paliers en recommençant souvent les mêmes phases. Le jeu a une esthétique et une musique réussies. Le gameplay fait le boulot malgré quelques petits défauts. Le jeu en coopération n'est pas à la hauteur et je conseillerais vivement de l'éviter pour éviter de rager encore plus.
+Je recommande fortement tout en se rappelant qu'il n'est pas une promenade de santé.
+
+#####
+
+Une magistral machine a remonter le temps !!!
+
+Un bijoux tout simplement !
+
+#####
+
+Ne vous fiez pas aux apparences, ce jeu est très difficile. Je ne pense pas que ce soit pour tout le monde.
+Au début j'y jouais par petits bouts car il n'y a quasiment que des combats de boss, ce qui peut être fatigant. Mais petit à petit la magie a fini par opérer et j'en suis venu à beaucoup apprécier cette œuvre.
+
+#####
+
+Un jeu rigolo qui demande beaucoup de persévérance qui vaut la fierté qu'on a en terminant un niveau (oui j'ai mis 33 heures à le finir, mais je l'ai fait). Je recommande.
+
+#####
+
+Cuphead, un jeu déjà culte depuis 2017 et pour les bonnes raisons!
+
+- Gameplay facile à prendre en main et nerveux
+- Une B.O. aux petits oignons
+- Une superbe direction artistique
+- Une honorable durée de vie (plus de 20h pour succès 100%)
+- On peut jouer un Luigi-like
+
+Petit bémol, un mode daltonien devrait être obligatoire dans ce genre de jeu. On nous permet de "contrer" tout les objets rose du jeu mais certain boss on des coup avec des teintes trop proche du rose ce qui est vite punitif.
+
+Ce jeu vaut largement ses 20€ n'hésitez pas en attendant la sorti du DLC courant 2020.
+(Seulement si vous être prêts à vous arracher les cheveux)
+
+EDIT : Ptdr on attend encore le dlc. peut-être fin 2021 ou 2022.
+
+#####
+
+Je pense que ce jeu est le plus dur auquel j'ai joué de ma vie. Sous ses airs cartoon enfantin, ce jeu cache un réel challenge mais est vraiment très satisfaisant quand on arrive enfin à passer ce boss qui nous bloque depuis tant de temps ! Ce n'est donc pas pour tout le monde mais si vous aimez les die and retry et que vous êtes patient, ça pourrait bien vous plaire. 
+Les niveaux et les boss sont variés et toujours aussi déjantés. On ne se lasse également pas des graphismes magnifiques et de la bande son excellente. 
+J'ai 8 heures de jeu et j'en suis à 61% sachant que le jeu est de plus en plus dur et donc, que l'on avance de plus en plus lentement. 
+
+J'adore.
+
+#####
+
+Vraiment très bon jeux enfin des jeux qui ne sont pas tous les même mais attention jeu très dur si vous rager facilement ne jouer pas trop ^^
+
+#####
+
+Cuphead est un jeu de plateforme de type "boss rush" où vous devrez affronter des boss quasiment a la suite.Il est réputé pour sa difficulté et son style graphique inspiré des cartoon des années 30 et ses musiques.
+
+Points positif :
+
+-Malgré ce que tout le monde semble répétez, le jeu n'est pas si difficile honnêtement. Me débrouillant dans les jeux de plateformes, mais sans être le joueur le plus habile non plus, j'ai tout de même réussi a finir le jeu en battant tous les boss en difficulté "regular" qui est la plus élevé avant l'arrivé du mode "expert" après la fin du jeu. Tout ça pour vous dire que franchement, comparé a un souls le jeu est vraiment plus accessible et est beaucoup moins frustrant.
+
+-Evidemment, le style graphique : C'est tout simplement MAGNIFIQUE il n'y a rien a dire le style année 30 est incroyablement bien fait
+
+-Les musiques elles aussi sont incroyable on se croirait a disneyland sans déconner
+
+-La maniabilité : Y'a rien de plus a dire le jeu est très agréable a prendre en main.
+
+-Le système d’équipement est vraiment complet et simple d'utilisation et permet pas mal de possibilité différentes en fonction des bosses 
+
+-Le mode coop (certes pas disponible en ligne) est très fun. En utilisant parsec vous pourrez parcourir le jeu avec votre ami en ayant acheter une copie
+
+-Le prix : Franchement 20 E pour la rejouabilité que offre le jeu avec les différents mode de difficulté et, tout simplement, le temps que vous allez mettre pour le finir (entre 6-16 h) franchement c'est pas cher.
+
+les points negatif :
+
+-Le gros point noir du jeu est la lisibilité de certains bosses en raison du trop grand nombre de détail présent dans le fond. Car oui, le jeu est magnifique mais parfois on comprend rien de ce qu'il ce passe a cause de ça.
+
+-L’équilibrage des armes est pas foufou non plus. Le "charger" est de loin la meilleure arme et est utile sur tout les bosses car sont nombres de dégats potentiel est juste au dessus de toute les autres.
+
+Conclusion : 
+
+Globalement c'est un excellent jeu avec très peu de défauts. J'insiste mais vraiment ne soyez pas effrayez par la sois disant difficulté "EXtrEme" du jeu car certes, le jeu est dur voir même très compliqué par moments, mais franchement c'est très très loin d’être insurmontable. Bref acheté le
+
+#####
+
+Pour le coup je serais content d'avoir des DLC pour rallongé la durée de vie
+
+#####
+
+Une petite pépite, qui n'est certes pas totalement exempte de défauts mais qui vaut largement son prix, ne serait ce que pour le travail fourni sur les visuels, l'ambiance et la musique. Un jeu totalement basique (on va de combat de boss en combat de boss, on apprend leurs chorégraphies) se transforme en oeuvre d'art quand elle est aussi cohérente.
+
+La difficulté est bien dosée sans être stupide (hormis le Robot du Dr Kahl, qui m'a fait m'arracher les cheveux - il est bien plus dur que le boss final), l'ensemble est prenant sans être frustrant tant la satisfaction de battre les ennemis est grande une fois que l'on sait ou et comment frapper. Jeu malheureusement bien trop court, on en redemande tant il est chouette et plaisant à jouer. On lui pardonne sans aucun problème le manque de lisibilité de certains combats, le facteur chance malheureusement présent (même si discret), et surtout, la portée ridicule des "parry", manoeuvre indispensable à maîtriser pour espérer finir le jeu.
+
+C'est d'ailleurs bien dommage que le mode "Expert" soit aussi stupide. Balancer des milliers de mobs et de projectiles pour donner l'illusion que le boss est plus compliqué, j'appelle ça de la paresse. Triste, vu la merveille qu'est Cuphead, j'aurais pas craché sur un peu plus d'heures de jeu sans avoir à jouer à un bullet-hell stupide ou à me baser uniquement sur de la chance pour espérer les battre (le premier combat aérien est à s'arracher les cheveux).
+
++ Visuellement superbe
++ Musicalement impeccable
++ Old school sans être passéiste
++ Dynamique, rythmé
++ Vrai challenge (quasi) jamais frustrant
++ Pas mal de secrets à découvrir
+
+- Mode "expert" stupidement corsé
+- Dr Kahl's Robot (je te hais) 
+- Assez répétitif
+- Portée de la "parry" ridicule
+- Trop peu d'explications/de lisibilité sur certains combats
+- Aventure principale courte
+
+#####
+
+that game is soooooooooooooooooooo hard
+
+#####
+
+J'ai passé le tutoriel
+
+10/10 20€ pour un tuto de cette qualité c'est donné.
+
+#####
+
+Pour ceux qui aime le die and retry je recommande
+Pour les autres, rage voir ragequit serons au rendez vous :D
+
+#####
+
+ATTENTION : AVIS PUREMENT SUBJECTIF
+
+3 POINTS POSITIFS
++ : Le design cartoon des personnages fait à la main, digne des productions Disney ou Looney Tunes.
++ : La variété des boss.
++ : La musique extra-ordinaire.
+
+3 POINTS NEGATIFS
+- : Pas encore de traduction française.
+- : La difficulté élevée du titre qui peut en dégouter plus d'un.
+- : Parfois (très) frustrant.
+
+#####
+
+Cuphead est un jeu créé et développé par StudioMDHR, un jeu que l'on attendait depuis 4 ans déjà ! Et on l'a enfin !
+
+Verdict ? Le jeu est juste exceptionnel ! L'ambiance cartoon est vraiment réussie, le gameplay est simple et amusant à prendre en main, tout en étant rapide !
+
+Pour ceux qui ne savent pas ce qu'est Cuphead : c'est un jeu où on bat des boss ! 
+
+Alors bien sûr il n'y a pas que ça, il y a aussi des niveaux à parcourir pour avoir des pièces et des mini-jeux comme les Mausolées !
+
+Et les boss sont tellement cools ! Ca me fait le même effet que Shadow of the Colossus ou même Titan Souls ! Après avoir battu un boss, je veux voir la suite maintenant !
+
+Les phases des boss sont assez originales, certaines changent même drastiquement le moyen de battre un boss !
+
+Pour ce qui est de la musique, les devs ont réussi à nous transporter, à faire un travail d'orfèvre !
+
+Pour ce qui est du point négatif (parce qu'il en faut bien un), ce serait le langage qui n'est qu'en Anglais. Mais bon, on est en 2017 les gars, apprenez à parler l'anglais !
+
+Si je devais noter Cuphead, je lui donnerai un 20/20, très bon moment à passer, ça fait du bien aux yeux et après avoir battu un boss, on a cette sensation d'accomplissement que l'on n'a pas dans les jeux Triple-A de ces derniers temps ! 
+
+FONCEZ !
+
+#####
+
+Incroyable jeu, de la DA à la persévérance demandée !
+
+#####
+
+Très bon jeu avec un style unique et une difficulté vraiment corsé. Une histoire simple mais qui rappelle bien les cartoons des années 30. Durée de jeu honorable en fonction du skill de chacun. Sympa à deux également notamment grâce au remote play de Steam. Je conseille
+
+#####
+
+Je recommande bien sur ce jeu.
+
+Il ressemble beaucoup à mega man de mon enfance en plus difficile pour les boss.
+Les graphiques et la bande son sont justes parfaites et c'est ça qui m'a donné l'envie d'y jouer.
+
+Les points négatifs du jeu :
+- Manque de difficulté sur certains boss, a part 4 ou 5 boss je n'ai pas eu de grand problème pour les tomber rapidement. Par exemple, le Dragon est celui où j'ai passé le plus de temps et je dirais 2h/3h.
+- Etant donné que c'est du die & try, la bande son peut vite devenir répétitive.
+- La durabilité du jeu est un peu courte, vu que le jeu est excellent, on est limite sur notre fin.
+
+bref, allez-y les yeux fermés.
+
+
+
+#####
+
+incroyable !
+
+#####
+
+Très qualitatif
+
+#####
+
+Très bon,
++ multi-local énorme 
++ Bande son au top 
++ compatibilité 21/9 apprécié 
++ Die&Retry en casual pas simple
+
+- langue française absente
+
+#####
+
+Tres bon jeu
+
+#####
+
+Un jeu au style cartoon des années 30/40  hooooooo c'est mignon 
+CE JEU EST PU##@# DE DIFFICILE IL VA FALLOIR VOUS CONCENTREZ AU MAX POUR VENIR A BOUT DES BOSSES ET EVITER DE BALANCER VOTRE 4EME CLAVIER PAR LA FENETRE !
+
+
+#####
+
+Très bon jeu, même si la difficulté est un peut dure dès le début. 
+Ce jeu à des graphismes et une musique exellent. 
+Je ne peut que conseiller ce jeu a des personnes qui ont envie de challenge et même pour ceux qui sont fans de jeux rétro.
+
+#####
+
+Exellent jeu, tout est bien.
+
+#####
+
+Jeu EXTRËMEMENT DUR (bon j'abuse peut-être) mais rapide à finir. Pour moi ce qui était le plus dur c'était les Run&Gun, le boss Dragon, Les grenouilles, l'abeille, le train et le robot volant. Le casino ça passe encore, il me reste plus que le dernier boss mais je le ferais un autre jour, bref.
+
+Bon jeu, a acheter si vous aimez la rage.
+Par rapide, je voulais dire, les boss sont super difficile mais, a force de perdre on les comprend mieux et ça en devient tout de suite plus facile :)
+
+En tout cas, Cuphead vaut son prix, et j'éspère que les développeurs sortiront d'autres jeux de ce genre!
+
+#####
+
+plus belle expérience de ma vie
+
+#####
+
+Il y a vraiment un truc avec ce jeu, déjà hormis le fait que les graphismes reprennent de vieux cartoons, mais même si la difficulté extrême de certains boss et les phases difficles à intégrer, il te donne toujours envie de rejouer encore et encore ! 
+
+Addictif, tout ce que je peux dire ! J'imagine qu'en multi local ce doit être très fun ! =D
+
+#####
+
+C'est un chef d'oeuvre, achète-le !
+
+#####
+
+Ce jeu est tout simplement un Chef d'oeuvre pour les amateurs de Run n Gun et Shmup qui aime les Boss Rush . Ce jeu me procure énormément de plaisir a completer dans toute les facettes . A quand le DLC ?
+
+#####
+
+Mais quel enfer, ce jeu ! xD
+Et pourtant, c'est indéniable : ce jeu est une masterclass, à sa manière.
+La direction artistique et la musique, rien que ça, c'est une dinguerie <3
+
+Bon, la difficulté, c'est autre chose. Pour ma part, ce fut un supplice que d'y jouer =') Mais pour autant, je ne parviens pas à haïr ce jeu, parce qu'il a quelque chose d'exceptionnel.
+
+#####
+
+Des graphismes de qualité avec un style bien défini et maitrisé, des niveaux difficile mais très prenant.
+Bref, je retourne y jouer
+
+#####
+
+Très bon graphismes, un gameplay digne des jeux de tryhard !
+
+J'adore !
+
+#####
+
+c bi1
+
+#####
+
+Une direction artistique à la hauteur de la difficulté du jeu.
+A côté, Dark Soul est trop facile.
+
+#####
+
+Pour moi, énorme fan de Disney et des jeux style Mario, Donkey Kong, Cuphead est clairement le saint Grall !
+
+#####
+
+Superbe !
+
+La réalisation est éxeptionnelle ! Non pas que la 3d soit révolutionaire, ou encore que les nouveaux shaders donne un éffet photo-réaliste, non. Ici, nous somme en présence d'un petit chef d'oeuvre de dessin animé dans la plus pure tradition de la 1ere moitié du XXem siècle. Tout y ait ! le style bien évidement, mais aussi l'animation, avec ces petite mimiques et ces sourires diaboliques éxagéré, la bande son qui, ho mon dieu, est fantastique ! Même le grain de l'image et les imperfections des bobines de l'époque sont si fidèles qu'on s'y tromperais. L'illusion est parfaite !
+
+Globalement, peu de défauts ressortent : on peu dire du jeu qu'il est dur, très dur. Mais la satisfaction de progresser n'en ait que plus grande. De plus,  le shop, qui permet d'acheter de nouvelles compétences et assez fournis pour varier les partie et multiplier les approches des niveaux et des bosses.
+
+Certains lui reproche son multi local uniquement, j'y vois, moi, une bonne occasion de ce marrer avec des potes à la maison, mais, je le concède aisement, un vrais multi aurait certainement comblé du monde. Peut etre qu'un future patch corrigera ça ...
+
+Pour résumer : je ne peu que vous recommander cet achat, si vous aimez les plateformer avec du caractere, avec de la gueule !  Pour sa bande son magnifique egalement !
+
+#####
+
+VENCEMOS ESSE JOGO DA DESGRAAAAAAAAAAAAAAAAAÇAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!
+
+Jogo excelente! Arte num tema oldschool impecável, músicas muito da horas, dificuldade alta mas nada impossível! Ótimo jogo coop, recomendo muito!
+
+#####
+
+Jeux superbe magnifique,les musique son superbe
+
+#####
+
+Quoi? Tu ne l'as pas déjà? Prends le et viens dans ce monde de délicieuse souffrance!
+
+#####
+
+Le jeu est dure mais super amusant a jouer, surtout avec remote play together! 
+j'aurai voulu un 2 même si il y a le DLC, sinon le jeu est beau et surtout le graphismes, honneur au créateur.
+
+#####
+
+Un excellent jeu qui rend hommage aux dessins animées des années 30.
+Avec une difficulté relevé certes mais, tellement gratifiant quand tu réussis un niveau et un boss.
+
+Les plus :
++La DA
++La BO
++Un jeu qui vous résiste et vous pourri et ça c'est bon
++La diversité dans les armes
++le mode coop
+
+Les moins :
+-Un peu court
+-La difficulté : Forcément pour les joueurs qui sont un peu moins porté la dessus
+-Les niveaux de plateformes purs qui sont moins intéressants et bien fait que les boss
+-Une histoire assez léger(niveau complexité j'entend par là)
+-Le mode coop est dispo seulement en local
+-l'interface et gameplay pensé pour être utiliser avec une manette(C'est possible de jouer avec le clavier mais, c'est pas idéal privilégier vraiment la manette)
+
+Conclusion : Foncez ce jeu est une perle rare qu'on ne voit que très rarement dans le jeu vidéo depuis quelques années.
+Je lui donne la note de 8/10
+
+#####
+
+OUI
+
+#####
+
+Very fun and beautiful game
+
+#####
+
+Juste GENIAL ! *O*
+
+#####
+
+BOOM ! 
+"Parry" dans ta gueeule !
+
+
+
+#####
+
+Bonjour à toutes et à tous !
+
+Que dire de ce soft... direction artistique à couper le souffle, Level design d'enfer, gameplay pêchu et la BO est juste magnifique. Foncez dessus sans hésiter une seconde !
+
+#####
+
+Super jeu très original de par son style artistique. Il est dur mais en persévérant on finit toujours par y arriver au bout d'un moment et ça en fait son côté addictif.
+
+#####
+
+hardcore à 2 mais super plaisant de finir chaques niveaux !
+
+#####
+
+J'aimerais pouvoir continuer ce magnifique jeu, qui est reussi sur tous les points mais malheureusement l'aberration chromatique et le bruit a l'ecran me petent les yeux (j'ai vu qu'il y avait une option pour diminuer l'aberration chromatique mais pas l'enlever completement)
+
+#####
+
+Ce jeu est une pure dinguerie !!!
+Bon il va falloir avoir du courage voir être un peu acharné pour en venir à bout mais n'étant pas un joueur des plus talentueux je pense qu'il est largement finissable.
+Comptez aux environ des 17-18 heures de jeu pour finir l'histoire voir plus
+Qu'une seule hâte.... avoir tous les succès et me laisser tenter au DLC !
+
+#####
+
+Un direction artistique très original , et vraiment appréciable , un jeu exigent et satisfaisant .
+
+#####
+
+Les manettes sont briser , les esprit sont bouillants. 
+Mais p*tain que j'adore ce jeux.
+
+#####
+
+J'APPROUVE
+
+
+#####
+
+good game with nice artistic direction
+
+#####
+
+Ce jeu est génial même si il est très rageant mais cela reste toujours un plaisir de jouer dans cet univers cartoonesque.
+Petit point négatif, l'histoire de ce jeu laisse a désirer mais il en reste tout de même toujours plaisant.
+Je vous le recommande chaudement !
+
+#####
+
+A peine démarré, le jeu est excellant, prise en main, jouabilité, histoire, je recommande !
+
+#####
+
+Rien à dire, super jeu.
+
+#####
+
+Bien
+
+#####
+
+Ce jeu est tout simplement génial, on peut mourir tranquille après y avoir joué.
+Très critiqué pour sa difficulté, moi je trouve qu'il est bien dosé.
+Cuphead mérite sa place au panthéon des jeux vidéo.
+
+
+#####
+
+Très bon jeu mais très rageant !
+
+#####
+
+Génial !
+
+#####
+
+Très bon jeu d'arcade 2D dans les années 30.
+Parfois rageant, façon " dark soul ". 
+Bref au niveau de graphisme et le son sont géniaux et le prix n'est pas cher.
+L'anglais ne me dérange pas , facile à comprendre.
+
+10/10
+
+#####
+
+Mon dieu ! 
+J'avais repéré ce jeu il y'a maintenant un an dans JV le mag il me semble, ou autre magazine de jeu vidéo. Son style m'intriguait, et je m'étais promis de me l'acheter à sa sortie. Entre ce moment et sa sortie, il m'était totalement sorti de la tête ! C'estpour cela que je l'ai directement acheté après l'avoir vu en top des ventes. 
+
+Premièrement, whoah.
+La direction artistique et la bande son sont juste géniales. A peine sommes nous arrivés dans le jeu que nous sommes acceuilli par une superbe musique. Je lance donc le jeu, lis l'histoire (assez sympa d'ailleurs) et vais jouer au premier niveau.
+
+Le jeu est donc assez difficile :
+- C'est en effet du "Die and retry", jusqu'à avoir compris les moves des personnages, des boss, et de combiner skills et relancage de niveau pour passer un niveau.
+- Vous ne pouvez être touché que trois fois avant dêtre "Game Over".
+
+Les mécaniques de jeu sont assez simples, mais font très bien l'affaire. 
+Dash, Parry, et sauts.
+
+Je recommande par contre une manette pour jouer, même si je n'ai pas testé clavier/souris.
+
+Points positifs : 
+- Direction Artistique
+- Bande son
+- Gameplay
+- Config requise
+
+Points négatifs : 
+- Aucun
+
+Foncez ! Pour ce prix, que vous soyez amateurs de die and retry ou non, vous y trouverez votre compte.
+
+#####
+
+Excellent !
+
+#####
+
+ On a du bol, Cuphead est surement le plus beau shoot arcade 2D disponible à l’heure actuelle. Si le plat concocté par Studio MDHR est appétissant à l’oeil, ses ingrédients lui assurent également variété et saveur. Malgré ses inspirations bien visibles, Cuphead ne donne pas l’impression de verser la même soupe dans un vieux mug et réserve des combats de boss qui resteront dans les mémoires. Evidemment, si le genre n’est pas votre tasse de thé et que vous n’appréciez pas la difficulté pimentée, la dégustation jaugée à une huitaine d’heures (game over inclus) risque de vous brûler les papilles.
+
+#####
+
+Un jeu compliqué dans l'ensemble, mais une satisfaction à battre les boss qui récompense les efforts fournis, peu importe le niveau d'un joueur il peut réussir tous les boss avec un peu de volonté.
+Je recommande !
+
+#####
+
+Difficile mais pas frustrant, bien en solo comme à deux :D !
+
+#####
+
+Excellent jeu
+
+> graphismes et animation au top
+> difficulté au rendez vous
+>bon gameplay
+
+Que demander de plus ?
+
+#####
+
+Le jeu le plus américain que j'ai fait de ma vie
+
+#####
+
+ce jeux est parfait rageant mais s anous mts assez a l'epreuve avec de boss au patern different
+
+#####
+
+Super jeu, il est dur mais bon.
+Grâce à lui j'ai réussi mon année.
+
+#####
+
+trop dur le tuto
+
+#####
+
+Le jeu le plus gratifiant à finir ! 
+De la rage au début et du bonheur à la fin.
+Juste génial , foncez !
+
+Durée de vie : Comptez 20h environs pour le finir entièrement ( Tout les succès )
+
+#####
+
+Tu veux du challenge ? Achete Cuphead !
+
+#####
+
+très bon jeux mais très enervant  
+
+#####
+
+Git Gud.
+Graphisme et DA incroyable.
+La musique des années 30 colle parfaitement à l'univers et à l'ambiance des boss.
+Les niveaux de plateformes sont cool mais dur si on veut faire un bon rang.
+J'ai mis 8 heures pour le terminer avec les boss en A. Mais le jeu n'est pas terminé ! Un mode expert et des secrets qui rajoutent des heures.
+Vivement le mode coop en ligne !
+Un très bon jeu pour son prix 
+Je mettrais la note de 1930/1930
+
+#####
+
+il est incroyable maais tres dificille
+
+#####
+
+Franchement un magnifique jeu qui force à se surpasser. L'histoire est anecdotique c'est vrai. Mais le coté artistique et le soucis du détail dans les animations sont incroyables, il y a certaine chose caché dans l'univers du jeu, des façons alternatives de combattre des boss avec de nouvelles phases si ont active correctement certain élément . Pour ce qui aime se mettre au défis je le recommande vivement. Ce qui me fait bien rire en revanche ce sont les avis négatives de personnes qui n'arrivent pas à progresser dans le jeu , si vous êtres mauvais ce n'est pas le jeu qui n'est pas bon. Certain s'invente même une vie juste pour mettre un avis négatif, comme le gas qui a eu tous les succés du jeux en 12h sauf que faut au moins 20h pour le platiner sans compter le dlc, il y a  aussi les mecs qui ont 3,4 heures de jeu et qui se plaint du manque de difficulté... Ne vous inventez pas des vies juste pour compenser votre frustration, aller jouer à un jeu plus simple, on comprend qu'à partir du moment où il faut un peu de rigueur et de patience c'est trop difficile.
+
+#####
+
+The music are incredible
+
+#####
+
+Un jeu juste énorme : Cuphead et Mugman sont charismatiques, attachant, le jeu est beau, les boss sont classes, la difficulté n'est pas non plus ultra frustrante un jeu qui me restera pour ma part gravé dans mon esprit je le recommande a 100%
+
+#####
+
+Direction artistique incroyable, gameplay excellent, bande son parfaite
+
+#####
+
+Ce jeu est hyper bien, les graphismes hyper cool j'ai adoré le jeu pour sa difficulté 
+Je recommande le jeu
+
+#####
+
+Bon, Tres bon. Mais pas de coop online, pas de mode time attack, et pas de leaderboards... donc niveau rejouabilité c'est pas le top. Pour tout le reste c'est ok.
+
+#####
+
+super bon jeux si on aime les jeux qui nous donne des défis. 
+
+mon seul bémol est que les boss n'ont pas assez de " patern " différent
+
+#####
+
+best cadeau ever je le recommande
+
+#####
+
+J'adore ce jeu, bien difficile mais pas frustrant.
+
+#####
+
+je suis fan, a quand la suite ou le dlc  ? !!!!!!!!!!!!!!!!!!
+
+#####
+
+Il est un peu tard pour dire ô combien la DA/Musique de ce jeu sont vraiment chouettes. On va esquiver donc les éloges et comparaisons moisies pour laisser croire que j'ai une pertinence dans la critique artistique.
+
+Ce jeu offre un bon challenge équilibré pour les joueurs qui aiment la petite difficulté. Rien d'insurmontable, rien d'impossible, tout est lisse et bien branlé à quelques exceptions.
+- Quelques patterns qui sont plus ou moins casse-couilles en fonction de la RNG qui peuvent ruiner un perfect try ou le trivialiser.
+- Certaine parry sur les boss en normal qui sont beaucoup plus "rares" et qui parfois poussent à la faute. Une forme de "difficulté" virtuelle qui vous pousse à devoir greed.
+
+Je déplore l'absence d'un achievement "tout en A+ en normal / S en Expert" pour gonfler de 2 cm son pénis virtuel et montrer à ses potes à quel point on peut-être con à recommencer 20 fois un boss qu'on vient de tuer juste pour le faire en Perfect. (Et perdre 1 vie à 5 secondes de la fin pour bien recommencer 10 fois de plus.)
+
+Je le recommande parce que mon avis de trou du cul standard perdu dans les 300000 reviews vaut probablement quelque chose. (non.)
+
+Bisous les [b]G@m3rZz[/b].
+
+#####
+
+Franchement très très bon jeu qui se joue aussi bien en solo qu'à 2 ; de plus, avec 7 ans de développement c sur qu'on devait s'attendre à un chef d'oeuvre qui se finit quand même rapidement. Je recommande aussi de jouer avec une manette plutot qu'au clavier/souris
+
+#####
+
+Pur bijou de la plateforme à l'ancienne !
+
+#####
+
+Cuphead est un excellent jeu oldschool !
+
+Un vent de fraicheur dans les jeux actuel !
+
+beau, maniabilité au top ! dur mais pas insurmontable ! 
+
+franchement j'adore ! il vaut largement ses 20 euros !!
+
+#####
+
+Une œuvre d'art. Rien à ajouter.
+
+#####
+
+
+q
+
+#####
+
+Really cool game
+
+#####
+
+
+
+#####
+
+Au top!
+
+#####
+
+Gameplay excellent. DA au top
+
+#####
+
+Très bon jeu, pas si difficile, juste de l'entrainement finalement. Excellente musique, j'en écoute certaines régulièrement. 100% un peu plus corsé, une trentaine d'heures minimum pour l'atteindre. Le DLC en vaut le coup, aussi sympa avec de la nouveauté et des secrets. Je recommande.
+
+#####
+
+Jeu incroyable si vous aimez la difficulté. 
+Une direction artistique originale est très plaisante (à mon goût). Une bande son magique qui rappelle les années 50-60. Petit bémol, les contrôles sur clavier sont assez dur a prendre en main.
+Si vous êtes à la recherche d'un challenge ce jeu vous le donnera.
+
+#####
+
+a l ancienne avec des graphisme excellent niveau dure comme dans le temps
+
+#####
+
+Le jeu est magnifique, avec un niveau de difficulté exigeant mais largement faisable !
+Jouez-y :D
+
+#####
+
+Ce putain de dragon sa mère
+
+#####
+
+Excellent jeu ! Beaux graphismes, bonnes musiques, les boss sont variés et la difficulté est bien dosée (selon moi).
+Par contre si vous n'êtes pas du genre à tryhard 1 heure sur un même boss ou à vous énervez au bout de 5 try, passez votre chemin.
+
+#####
+
+Ce jeu est complètement dingue, le style vieux cartoon US, le gameplay, la difficulté, l'humour.
+Un vrai bijoux, qui vous prendra du temps à maîtriser mais réellement jouissif une fois dompté.
+Un régal de parcourir les niveaux tellement ils regorgent de détails et scénettes cachées (vous aurez l'occasion de les faire et refaire, croyez moi !)
+
+J'aimerai tellement que le studio ponde un jeu sur la même licence mais davantage accessible niveau difficulté.
+J'ai adoré le maîtriser ce cuphead mais j'ai envie de me replonger dans l'univers sans avoir à me prendre une fessée (je sais pas si j'aimerais un cuphead 2 avec le même gameplay) mais je sais pas, pourquoi pas un metroid vania dans cet univers, ça serait juste parfait !
+
+#####
+
+cool
+
+#####
+
+Good and hard game
+
+#####
+
+terriblement excellent, quel jeu vraiment c'est fou
+
+#####
+
++1
+
+#####
+
+vraiment bien et dur comme il faut
+
+#####
+
+Un jeu excellent mais si vous êtes nuls aux jeux de plateformes bon courage.
+
+#####
+
+c cool la vie
+
+
+#####
+
+peak
+
+#####
+
+Si vous êtes trop gentil. Si vous dîtes oui à tout. Si la vie vous marche dessus. Cuphead ! Ce jeu vous soignera complètement en faisant de vous un véritable sociopathe mangeur d'Homme. A tester !
+
+#####
+
+Excellent jeu
+
+#####
+
+ça fait rager mais il est incroyable ce jeu , un must have
+
+#####
+
+oui
+
+#####
+
+good
+
+#####
+
+jeux rageant mais fun il fait passer le temps et le graphisme est incroyable j'adore l'effet ancien dessin animé en jeux
+
+#####
+
+Une DA magnifique, un challenge à chaque niveau, des boss originaux, tout cela accompagné d'une BO qualitative, ce jeu est un bijou que nous nous devons de chérir pour préserver le monde vidéo-ludique de la casualisation et de la dévastation
+
+#####
+
+exellent jeu mais difficile tout de même 
+attention les run'n gun seuls moyens pour gagner des pièces sont surement les niveaux les plus durs
+
+#####
+
+Un petit jeu bien sympathique pour tout joueur voulant roter du sang de temps en temps. 
+Si le concept de mort en chaîne et de tryhard pour obtenir tous les succès ne vous dérange pas,
+alors ce jeu est fait pour vous!
+Ne perdez pas espoir ;)
+
+#####
+
+c trop bien
+
+#####
+
+Une direction artistique des plus folles du catalogue Steam et des musiques toutes aussi incroyables. Vous pourrez essayer de terrasser une bonne vingtaine de boss, avec chacun leur ambiance et leur difficulté (plus des niveaux "shoot 'em up" et "beat them all"), si vous n'avez pas peur de mourir en boucle et d'avoir les années 30 dans les veines... Foncez !
+
+#####
+
+Un des jeux les plus sublimes, certes il est dur bordel mais l'animation, la musique, le gameplay, absolument TOUT est parfait
+
+#####
+
+Superbe. Dommage qu'il n'y ait pas de mode replay pour profiter pleinement de tous les détails de l'animation.
+La difficulté est relevée mais on reste jamais bloqué bien longtemps.
+
+#####
+
+a jouer avec un ami 10/10
+
+#####
+
+Une direction artistique haute en couleur au service d'un gameplay exigeant mais très gratifiant.
+Un bonheur
+
+
+#####
+
+Bien
+
+#####
+
+INCROYABLE! je suis immédiatement tombé en amour avec les graphisme  et la musique, l'experience de jeu est magnifique. Le jeu est extrêmement dur mais c'est sa qui lui donne tout son charme! Je conseille totalement mais avec une manette !
+
+
+#####
+
+Pour ceux qui aime le die and retry je vous le recommande , Il est d'une extrême difficulté mais quand on est dans un niveau ont a du mal a laisse tomber ( pour les rageux il y a aussi un mode facile) .
+Les musiques sont tout simplement génial !!!!
+Le système des compétences , pouvoirs et objets rends le style de jeu très varié et fun !
+Si vous avez un ami et que vous avez envie de le faire souffrir il y a aussi un mode deux players :)
+
+#####
+
+Dessins et musiques magnifiques et bon try hard
+
+#####
+
+...WOW
+
+#####
+
+pépite
+
+#####
+
+Bon jeu, je ne l'ai pas encore finis. Il est d'une exprême difficulté mais quand on est dans un niveau ont a du mal a laisse tomber. Le style graphique un peu cartoon des années 30 et sympa et les musiques sont pas mal non plus. Je le conseille donc au personne ayant pas mal de patience.
+
+#####
+
+J'adore boir du lait
+
+#####
+
+Je cup head moi
+
+#####
+
+Buy it, This is a great game for sure !
+
+#####
+
+Tout est génial
+
+#####
+
+m
+
+#####
+
+WOW
+
+#####
+
+Excellent jeu, un must have pour les fans du genre. soundtrack et graphisme au top, bonne lisibilité de ce qu'il se passe à l'écran (sauf ptêtre pour cette saloperie de dragon du niveau deux et de l'infâme abeille du trois). Difficulté agréable. Je recommande!
+
+#####
+
+top
+
+#####
+
+Très très bien mais aussi très très dur.
+
+#####
+
+Jeu super, graphismes rétro et musique géniale!
+
+#####
+
+Surement un des meilleurs jeux auquel j'ai joué
+
+#####
+
+Très bon jeu avec une difficulté bien dosée pour entremêler la frustration et la joie (même si l'expert est assez tendu). La DA est juste parfaite, l'OST est aux petits oignons et le gameplay et simple mais efficace. A faire au moins une fois dans sa vie de gamer !
+
+#####
+
+tres bon jeux
+
+#####
+
+Enfin un jeu ou la difficulté est présente
+
+#####
+
+Excellent alliage entre la difficulté, une splendide direction artistique et un gameplay fluide. Cuphead est un véritable produit culturel dont l'honnêteté intellectuelle a su créer un engouement nouveau pour le retrogaming chez certains et bien plus encore.
+
+#####
+
+çok iyi
+
+#####
+
+Vraiment très cool et très belles images. Je le recommande fortement.
+
+Mais je suis degoûter car quand je l' ai acheter il n' y avait pas le français, et la qu' est ce que je voit: le français est disponible
+
+#####
+
+Super jeu ! (Bien que rageant parfois...)
+Je recommande !
+
+#####
+
+Très bon jeu !
+
+#####
+
+pas si dur sa au final xD
+
+
+#####
+
+Le jeux est vraiment très sympa mais personne ne joue avec moi plus de 5 min :(
+Je comprend vraiment pas pourquoi :p
+
+#####
+
+Very nice game
+
+#####
+
+Meilleur jeu de tryhard et plutot fun
+
+#####
+
+Ce jeu est tout bonnement excellent, du début à la fin, je le recommande vivement aux amateurs de vrai plateforme (excepté les joueurs nintendo, les gars c'est pas Mario, ce jeu n'est définitivement pas fait pour vous).
+
+#####
+
+Ce jeu et un très bon jeu de plateforme,rageant, mais amusantes avec ce style de dessin animé des année 30
+
+#####
+
+ATTENTION !!! CHEF D OEUVRE !
+Ce jeu est une vrai bombe ludique ! Excellent par son graphisme , musique et animation, vous allez rester litterallement visé a votre manette ! 
+Attention: il est tres dur et tres exigent pour les joueurs ! 
+Un vrai defouloir a 2 joueurs en simultané ! (oubliez votre petit frere de 7 ans pour y jouer c est pas pour gamins!)
+Il reste assez court cependant (je pense une vingtaine de niveau ) mais les niveaux sont courts mais tres intenses :
+certains tableaux c est du fighting boss uniquement , d autres c est du metroid-like , shoot'm up bref rien n est epargné!
+Les tableaux sont tres courts (moins de 2 minutes environ)
+La precision est de rigueur et le joueur normal va en baver grave pour passer la premiere ile ! 
+Tres bonne idee aussi que les boss ont une variation d attaque hasardeuse : je m explique : par exemple le boss avec les deux grenouilles , la forme finale qu on affronte peut etre plus ou moins dur grace au hasard , de meme que la reine des gourmandises : les boss qu elle envoit , ne sont jamais les memes, et jamais dans le meme ordre de combat ce qui est interressant et frustrant parfois car on gere impeccable jusqu a ce que l on tombe sur une paterne inconnu qui nous font perdre nos precieuses vies comme la neige fond au soleil d aout ....
+Au fait : on regagne jamais de vie pendant le jeu ou le niveau, il faudra compter sur 3 ou 4 tir pour dire adios !
+Bref un jeu cartoon anime comme un cartoon et qui fait un carton !
+Inutile de dire que la manette est indispensable !
+interet :      20/20
+realisation :20/20
+
+#####
+
+La difficultée est asser élevée mais Cuphead est un jeu qui vaut le détour, son style graphique basé sur les dessins animés des années 30 passe très bien et les personnages sont très bien dessinés !
+
+#####
+
+le jeux parfait musique parfaites les bosses parfait tout est parfait dans ce jeux
+
+#####
+
+Ce jeu est incroyable ! Son gameplay est simple, ces graphismes cartoonesque sublimes et OMG cette bande son <3. Vous l'aurez compris c'est à la fois artistiquement beau mais aussi vraiment hardcore. Mais moi personnellement cette ambiance me donne envie de recommencer encore et encore. Donc oui ce jeu va vous faire devenir masochiste mais qu'importe il est vraiment génial !
+
+#####
+
+tg
+
+#####
+
+Cuphead, quel jeu !
+Avec un style vieux dessin animé, Cuphead nous plonge dans son univers fascinant
+Vous devrez battre tous les boss  (19 dont 2 boss ultimes) et, si vous le souhaitez faire les 6 niveaux de plateforme
+Ces niveaux vous donneront des pièces pour faciliter le jeu, et avoir des builds de techniques pour chaque boss.
+
+Le monde est divisé en 4, le monde des boss facile, le monde des boss normaux et le monde des boss durs, et le monde des 2 boss ultimes.
+
+Vous pourrez finir le jeu en une dizaine d'heure si vous êtes forts, personnellement j'ai 28h de jeux, en faisant 2 fois le jeu en normal (1 fois en solo et 1 fois en multi) et 1 fois le jeu en expert + tous les succès (assez dur, mais pas chiant)
+
+Si vous voulez un jeu dur, let's go !
+
+#####
+
+Un retour aux sources qui fait du bien !
+awesome
+
+#####
+
+Hé bah c'est bien. On a qu'à faire que des super jeux.
+
+#####
+
+Franchement pas surpris je m'attendais exactement a ça un jeux,extraordinnaire qui nous plonge dans le stresse,et ne nous laisse aucun moments de répi.
+
+#####
+
+ALT+F4 , Mais tellement un bonheur d'y jouer .
+
+#####
+
+J'ai enfin passé le tutoriel.
+
+#####
+
+Beaucoup de choses ont déjà été dites sur ce jeu, mais il mérite largement que l'on parle de lui. Celui-ci arrive à être original sur tous les points qui font un bon jeu vidéo, que ce soit l'esthétique, la bande son ou le gameplay, Cuphead arrive à faire un quasi sans-fautes.
+
+Le jeu arrive à se renouveler en proposant des niveaux bien différents : 
+- les niveaux run & gun, plus longs avec plus d'ennemis et se terminant par un boss.
+- les niveaux shoot 'em up, d'une longueur intermédaire qui changent le gameplay et qui propose des niveaux aériens avec des tirs différents.
+- les niveaux de boss fight, les plus fréquents et aussi les plus intéréssants, chaque boss est unique dans son esthétique et ses attaques.
+
+
+Le jeu ne se repose pas uniquement sur son esthétique, son gameplay est aussi intéressant et riche. Plusieurs tirs peuvent être achetés dans les boutiques et même si le jeu peut être terminé avec le tir de base, une bonne combinaison de tirs pourra faciliter le combat contre la plupart des boss. D'autres objets passifs peuvent être achetés qui vont renforcer les points de vies du personnage, lui permettre de faire un dash qui le rend invicble pour un court instant, ... 
+Le mécanisme des parry, s'il semble assez anecdotiques au départ permet de rajouter un défi supplémentaire pour terminer les niveaux et devient quasiment indispensable pour certains d'entre-eux.
+
+Un autre point fort du jeu est ses musiques. Toutes sonnent rétro et pourraient venir directement d'un cartoon d'époque, de plus le nombre de pistes est hallucinant compte tenu de leur qualité.  Ces musiques sont pour la plupart du temps uniques à chaque niveaux/boss.
+
+Le jeu propose aussi pas mal de rejouabilité, il ne suffit pas de terminer les niveaux pour le finir, il faut aussi récupérer toutes les pièces d'or des niveaux, obtenir le grade maximal dans chacun des niveaux, essayer de finir les niveaux dans une difficulté plus élevée, ... Au final, après la première fin, le jeu a encore beaucoup de contenu à fournir et le compteur va bien au dela des 100%
+
+Le "défaut" qui revient le plus souvent dans les critiques est la difficulté trop importante du jeu, pour ma part, je dirais que le jeu est exigeant. Il demande d'apprendre les paterns de chacun des boss et aussi de trouver la combinaison de tirs et d'objets la plus adéquate mais n'est jamais injuste. La plupart des morts sont justifiées et avec un peu d'entrainement, il est possible de terminer même les boss les plus durs sans se faire toucher.
+
+L'un des rare point noir du jeu pour moi est que certains objets/tirs ne m'ont été que rarement utiles mais je suppose que cela dépend des préférences de chacun.
+
+Il faut savoir à quoi s'attendre avant d'acheter ce jeu car son principe ne pourra pas plaire à tout le monde, mais juste pour son esthétique, ses musiques et le travail fournit par les développeurs, je pense que ce jeu mérite d'être considéré comme l'un des meilleur de 2017.
+
+#####
+
+Meilleur jeu de tout les temps
+- Super gameplay
+- BO incroyable
+- Difficulté très bien jaugée
+- Graphisme style ancien cartoon tellement beau
+- Les deux petits bonhommes tasse sont très attachant
+- Superbe optimisation
+
+Bravo aux devs indé, je vous tire mon chapeau !
+
+#####
+
+Un challenge hardcore mais pas injuste, une direction artistique originale et d'une beauté rare. Un indispensable pour ceux qui ont les nerfs bien accrochés.
+
+#####
+
+Jeu facile .. à prendre en main, les graphismes style cartoon sont parfaits et le design des boss sont magnifiques.
+
+A jouer en coop pour plus de fun, de facilité (possibilité de sauver son ami) et de rage partagé !
+
+#####
+
+Ce jeu est tellement cool que je pourrais passer ma vie dessus, malgré les boss (rageants XD) je recommande absolument le jeu ! C'est un très bon lien entre les jeux vidéo et les dessins animés des années 30 !
+
+#####
+
+un platformer/boss fight complètement déjanté. Une bande-son qui fleur bon les cartoons des annés 30 une jouabilité au poil, difficile mais pas impossible. Un jeu qui sort fini directement. Que demande le peuple? 
+Par contre casual gamers s'abstenir, la difficulté est très haute dés le premier level et le potentil de "rage quit" énorme. Je conseil vivement.
+
+#####
+
+je viens de terminer le jeu en regular.
+
+C'est juste un super mega jeu !
+
+Ambiance : top
+Banque sonore : magistrale
+maniabilité : parfaite
+Difficulté : top
+
+à acheter les yeux fermés
+
+Je n'ai pas testé à 2 joueurs encore
+
+
+#####
+
+inspiré des films des années 30. Cuphead est une bouffée d'oxygène. 
+
+Le jeu est un plateformer/shooter qui va varier entre les (quelques) niveaux traditionnels mais surtout les combats de boss. 
+
+Que ce soit dans un avion façon R-type ou en mode plateforme, les combats de boss sont extrêmement variés et donnent beaucoup de fil à retordre. Vous allez péter un cable pas mal de fois dans ce "die and retry" mais le challenge et la satisfaction d'y arriver mérite vraiment qu'on s'y attarde !
+
+Si vous avez envie d'en voir plus, voici mes 15 premières minutes sur ce chef d'oeuvre : https://youtu.be/K3TQLJEgBzI
+
+#####
+
+S'arracher les cheveux sur un jeu style rétro/année 30 en 2 dimensions... Oui, et on aime et on en redemande.
+La direction artistique est au poil, gros travail du studio MDHR.
+Foncez !
+
+#####
+
+Ce jeu est beau, les musiques sont top, l'univers est varié mais avec une sorte de déjà vu étant donnée l'inspiration des vieux dessins animés.
+
+Une bonne torture sur certains niveaux rien qu'en Normal.
+
+Pour les adeptes du die and retry :D
+
+#####
+
+Magnifique, sublime, parfais !!! Une perle rare dans un océan de ... Merci aux créateurs de se jeu !!!
+
+#####
+
+Hard as hell !
+
+#####
+
+Un bon vieux vrai platformer avec une difficulté inintéressante et un jeu ou on nous prend par pour des enfants en nous disant: appuie maintenant sur le bouton. L'ambiance me plaît beaucoup et tout paraît très soigné y compris les détails.
+J'apprécie beaucoup, merci aux développeurs.
+
+#####
+
+mieux que Metal Gear Rising: Revengeance.
+
+#####
+
+tro bi1
+
+#####
+
+Incroyable jeu au gameplay fluide et plaisant ! Ne convient pas aux rageux toutefois, grosse dose de frustration !
+
+#####
+
+i Die lot of time , i rage lot of time , but still remember the good old times when videos games was cool....
+
+#####
+
+TrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrèsTrès bon jeu
+
+#####
+
+C'est pas une tasse de thé 🤭
+
+#####
+
+C'est bien ce jeux. Voilà.
+
+#####
+
+Un excellent die & retry avec un style graphique et musical parfait.
+
+#####
+
+Vraiment excellent, les dessins fait main donne vraiment un style cartoon vintage qui fait rêver! Les musiques sont géniales!
+
+Et en coop c'est vraiment cool, le jeu propose un challenge constant et des mécaniques de gameplay vraiment old school et fonctionnelles à la fois.
+
+Par contre depuis qu'on l'a terminé, impossible d'y rejouer, je l'adore mais j'ai vraiment l'impression d'avoir fait le tour.
+
+#####
+
+Amusant, superbe graphisme. À jouer avec un ami.
+
+#####
+
+[h1]Le jeux de la galère, mais p****n tu kiff ta RACE[/h1]
+
+Cuphead ma attiré, tous d'abord grâce a sont style artistique qui et vraiment....... SUBLIME, les animations sont folles (faite a la mains).
+certes ce n'est pas facile mais ce n'est pas impossible, la difficulté et très bien géré, il n y a rien de plus satisfaisant que de tuer un boss. 
+Le meilleur pour moi c'et l'OST qui est incroyable, l'ambiance grandioses, ce jeux vos le détour je le conseil 1000x.
+
+#####
+
+sympatoche
+
+#####
+
+Le jeu est génial, on a beau galérer une heure sur le même niveau, le sentiment d'accomplissement est d'autant plus fort.
+Graphiquement il est époustouflant, et les musiques mettent parfaitement dans l'ambiance.
+Il y a aussi des clins d'oeil de partout à des jeux d'époque, autant graphiquement que musicalement ou dans le gameplay.
+
+#####
+
+good game .
+
+#####
+
+J'adore ce jeu.
+Les graphismes sont magnifiques, la prise en main très facile (avec une manette en tout cas) et le jeu difficle (pas trop non plus)
+Si vous aimez les jeux de plateforme et le challenge, achetez le jeu. Vous n'allez pas être déçu.
+
+#####
+
+Direction artistique au top !
+
+#####
+
+Originalité des graphismes "cartoon années 30", animations superbes, bande son et jouabilité parfaite. Un des meileurs jeux de l'année 2017.
+
+#####
+
+C'est un bon jeu.
+
+#####
+
+un pur chef d'oeuvre attention deconseiller au rageux et au noob car extremement dur
+
+#####
+
+this game is genial
+
+#####
+
+Très bon jeu;
+c'est beau, le son est de qualité, le gameplay est bien..
+
+Par contre la difficultés est trop faible et un mode versus aurait été sympa..
+
+#####
+
+La plus grosse surprise de 2017.
+
+#####
+
+Un jeu rangeant à souhait mais un véritable plaisir que cela soit en solo ou en multi local.
+
+
+#####
+
+Ez game only died 404 times.
+
+#####
+
+[h1] Cuphead, c'est vraiment ma tasse de thé.[/h1]
+
+ça faisait un peu de temps que je n'avais pas rédigé d'évaluation mais chef-d'oeuvre oblige : 
+
+Cuphead est un bijoux. à l'heure où nous nous noyons, pauvres gamers, dans les jeux en accès anticipé, dans les DLC, les jeux inachevés...
+Cuphead arrive tel un ange au milieu de ce cataclysme.
+
+On l'aura attendu celui-là ! Annoncé en 2014, Cuphead finit par sortir en Octobre 2017.
+Avec une telle hype je n'avais peur que d'une chose, du pétard mouillé.
+
+Alors qu'en est-il ? C'est bien un pétard, mais un pétard niveau Hiroshima. 
+Oui on l'aura attendu, MAIS POUR DE BONNES RAISONS !
+
+Etant étudiant en animation, la direction artistique est divine, tout est dessiné à la main c'est un pur délice.
+C'est fluide, c'est beau, les Boss sont vraiment classes (Parfois trop limite, j'arrive pas à me concentrer sur le jeu tellement ils claquent haha)
+
+Die & Retry oblige, vous allez gueuler. Aaaah oui mes gaillards ça c'est évident que vous allez passer un bon moment de souffrance à refaire un niveau 150 fois pour le passer. 
+Par ailleurs je ne vous conseillerai trop de trouver un partenaire avec qui jouer, c'est plus difficile mais tellement mieux.
+à l'heure où le jeu coop en local n'est plus tendance, Cuphead nous rappelle à quel point cela peut être bon de réussir à passer un niveau extrêment difficile avec un ami. 
+
+J'ai passé 3H à rager avec mon coloc, on insultait des mères, on insultait la vie, mais au final, quel bon moment on a passé !
+
+ET POUR 20 EUROS MAIS QU'ATTENDS-TU ? Allez hop hop hop t'arrêtes de lire, tu prends le jeu sinon je viens chez toi pour casser tes petites jambes de coq. 
+
+21/20.
+
+#####
+
+URGURHGHRUGH CEY TROP BIEN LES DESSINS ANIMES DES ANNEES 20 !
+
+#####
+
+97% normal people with eyes and ears, 3% haters
+
+#####
+
+Le jeu est sympa mais un poil trop simple :\ Validé par [ぬじ']
+
+#####
+
+Attention, jeu à boire ! - C'est soit ça passe et tu remet ça ...soit ça casse de trop, et tu te casse.
+( Pour ma part, je suis passé accro a ce type de "shooter"... *Hips* )
+
+Warning, drinking-game !  - If it goes, then let's go for the next ...If it don't make it at all, then, goes off. 
+( As for myself I got to be a real adict to this kind of "Shooter" ...*Hic* )
+
+
+
+#####
+
+Un jeu super ! :)
+
+#####
+
+Ce jeu est juste génial. C'est incroyable le travail qu'il y a eu dans ce jeu. On entre complétement dans un univers (les années 30) grâce à un simple jeu vidéo. Ce n'est pas simplement un jeu, c'est une oeuvre d'art, un hommage à cette formidable époque pour les dessins animés. Peut importe si vous n'aimez pas les die and retry, ce chef d'oeuvre mérite d'être comtemplé. Cuphead est très fun et grâce à sa patte artistique jamais on ne peux se lasser d'un niveau dans lequel on ne parvient pas à bout. Reste à savoir si le temps de jeu sera suffisant, mais ce serait trop demandé d'avoir plus de niveaux, à la vue de la qualité exceptionnelle de ce jeu. Un classique, si je puis dire, du jeu vidéo en devenir.
+
+#####
+
+Un pur chef d'oeuvre !!!  entre Run and gun & boss fight, se jeux est une bonne perle, avec une difficulté bien dosée ! des graphismes animé magnifique ! Je le recommande trrés fortement !!
+
+#####
+
+Excellent jeu, du tryhard pur et des stages plus compliqués les uns que les autres j'adore !
+
+#####
+
+Bon jeu, assez sympa et peut devenir agaçant quand on perd mais sinon assez difficile et stressant
+
+#####
+
+Ce jeu est tout simplement génial ! Je ne regrette pas du tout mon achat ! Je recommande ce jeu vivement !
+
+#####
+
+Une difficulté plutôt hardcore digne de Donkey Kong Country 2, des graphismes à se taper le cul parterre et un prix raisonnable. Le gameplay est ultra "tight" et la physique est parfaite. 
+
+Réussite/20.
+
+Mes félicitations.
+
+#####
+
+sympa
+
+#####
+
+Après 2 bonnes heures de jeux, je peux dire que oui clairement c'est pas facile.
+Ceci dit le jeu n'est pas "stupidement" difficile, il demande juste de se concentrer et ne pardonne pas les erreurs. Je suis sûr que si j'avais les réflexes de Bruce Lee j'aurais déjà fini le jeux ! Un vrai plaisir de finir un niveau et un vrai plaisir de recommencer un niveau pour faire mieux car il y a pleins de petits détails qui changent entre chaque essais.
+Sinon le jeu à une véritable atmosphère, un vrai succès artisitique selon moi.
+
+Bref c'est "dur" mais ca reste juste ce qui fait que le jeu n'est pas frustrant.
+
+#####
+
+very good
+
+#####
+
+Excellent !
+
+#####
+
+Vous adorer les cartoons ? FONCEZ !!!! ce jeux est une "claque" graphique et la BO est juste MA-GNI-FIQUE !!! *.*
+Un jeux avec du challenge (combat de boss) et un système de magasin pour acheter des armes ou vie en plus. Puis c'est aussi un bon jeux pour y jouer entre ami.
+
+#####
+
+Excellent jeu Old school aussi bien par sa patte artistique que par son gameplay. On enchaine les minis stages et boss, on perd très souvent mais on recommence avec plaisir pour toujours mieux progresser. C'est instantanément fun comme les jeux d'antan. 
+La patte graphique est tout juste sublime et laisse sans mot.
+Merci de nous offrir des jeux d'une telle qualité, ils sont très rare à ce niveau là.
+
+#####
+
+Un super jeu en 2D façon dessin animé des annés 30 ! J'ai très rarement eu ce sentiment de bonheur quand tu finis un boss ! Le jeu vaut totalement son prix ^^
+
+#####
+
+Ce jeu est génial. Graphismes magnifiques, belle interface, gameplay niquel, bonne difficulté. On rage pas mal mais on y retourne quand même !
+
+#####
+
+Jeu difficile mais très beau. Il faut s'armer de patience. ~
+
+#####
+
+Excellent.
+
+#####
+
+Ce jeu est incroyable, vous pouvez l'acheter les yeux fermés
+
+#####
+
+n'hésité pas !!!! Ce jeu est G-é-Nial !
+
+#####
+
+Le meilleur jeu de 2017 sans doute,
+Une soundtrack magnifique avec des niveaux difficiles et stimulant!
+Les boss sont très original et le design est agréable!
+Pour un jeu fait main par main, le prix est trop bas! j'aurais généreusement acheter ce jeu a 40-50$
+J'èspere que le studio va continuer leur bon travail!
+
+#####
+
+ce jeux est absolument bien constituer ,ça fait pensser a un vieux jeux mais qui est original avec une difficulter  très bien placer .
+
+
+
+BRAVO , J'ESPAIRE QUE TU FERAS CUPHEAD 2
+
+#####
+
+juste EXCELLENT. Cuphead est un jeu ambitieux, avec une D.A irréprochable et une B.O ultra léchée. Alors oui, c'est parfois compliqué. Mais si vous aimez les boss fight dignes des megaman d'antan, foncez. Si vous souhaitez simplement suivre l'histoire sans trop galérr, passez votre chemin.
+
+Cuphead est une superbe surprise pour ma part, je me serai même passé des phases de gun and run, clairement là pour plaire à l'éditeur. Une petite perle que tout amoureux de die and retry se doit de posséder, tout simplement.
+
+#####
+
+Très bon jeu , dans un univers cartoon old school. Les boss sont varié, et la difficulté est présente. Que demandez de plus vu que celui-ci ne coute que 20€. Un must Have pour les amateurs de Die and Retry
+
+#####
+
+En mode coop local, c'est de la bombe ce jeux la !
+Tu recommence tu revive ton ami tu t'acroche a tes vie !
+Tu debloque des nouvelle arme pour faire de nouvelle tactique.
+Je le recommance a tous.
+Excellent jeux ! 
+10/10
+
+#####
+
+Cuphead est de loin le jeu indé le plus beau (graphismes et bande son) que j'ai jamais vu, couplés avec un gameplay de platformer très exigeant et à des mécaniques de gameplay comme la parry ou les nombreux items, et vous obtenez un excellent jeu.
+
+
+
+
+Git gud
+
+#####
+
+Amateur de jeu détente, passez votre chemin. Cuphead est un Die & Retry à la difficulté mettant à rude épreuve les pouces du joueur.
+
+Le principal atout du jeu, c'est les graphismes. Un design extrêmement fidèle aux cartoons des années 30 avec des dessins style Tex Avery vachement bien réussis, modernisés avec des effets spéciaux très discrets qui ne cassent en rien le charme du jeu dont les graphismes semblent effectivement être exclusivement composés de dessins (idée brillante d'avoir également ajouté un filtre style pellicule nitrate, on a vraiment l'impression de regarder un cartoon sur une VHS !).
+Autre détail qui pose le dernier clou de l'ambiance vintage déjà bien réussie, les musiques : la bande son digne d'un Whiplash et autres films de jazz est en accord parfait avec les graphismes, vous verrez et écouterez par vous même, si vous n'êtes pas effrayé(e) d'y jouer.
+
+Eh oui, comme dit plus haut, Cuphead est un jeu difficile (mais pas impossible). Le gameplay en tant que tel n'est pas difficile à maitrîser, néanmoins vous recommencerez plusieurs fois un niveau run & gun jusqu'à le connaître en entier, après quoi il faudra faire preuve d'adresse, d'agilité et de vitesse (et d'un peu de sang froid si on a du mal) pour finir le niveau, qui lui demande une bonne minute (très intense !) pour être traversé.
+En ce qui concerne les combats de boss, la patience est aussi de rigueur. Il faut apprendre les paternes de déplacement (qui diffèrent plus ou moins selon les différentes phases) pour éviter les attaques, et se rappeler que si on trouve le combat trop dur (du genre un coup inesquivable), c'est que l'on oublie d'utiliser un move indispensable mais simple à effectuer (oui, c'est du vécu ^^).
+Pour ce qui est du mode coop, [strike]je n'ai pas d'amis (bouuuh), je n'ai donc pas pu le tester, mais il promet un gameplay plus rythmé et peut être plus rassurant puisqu'on peut compter sur son partenaire pour être réanimé(e)[/strike] le jeu s'équilibre et reste tout aussi difficile. Toujours est-il que l'on possède le maigre avantage de se faire réanimer par son partenaire, et on revient sur le champ de bataille avec un malheureux point de vie.
+
+Néanmoins, et sans aucune rage de ma part, on remarquera que des bugs de hit-box ou autres n'ont été volontairement PAS rectifiés pour rendre le jeu plus frustrant qu'il est censé l'être ; sérieusement, je ne suis pas aveuglé par la rage : il m'arrive d'encaisser des attaques que je croyais avoir évitées, ou pire, que j'avais parées avec la confirmation d'avoir réussi la manoeuvre, en entendant le son caractéristique du "parry". Et ça c'est moche, car les développeurs ont ici confondu "difficile" et "injuste" ; j'attends donc un patch pour ce genre de bug...
+
+En bref, Cuphead est un jeu sublime qui saura charmer voire conquérir les amateurs de vintage (ou les nostalgiques pour les plus vieux d'entre nous) en terme d'audio-visuel. Il saura aussi séduire les joueurs hardcore par sa difficulté prononcée (gare au ragequit, franchement, et prévoyez un clavier/manette de rechange mdrrr) alors que je le déconseille sérieusement aux joueurs non-adorateurs du genre Die and Retry. Ce jeu est donc bien parti pour devenir un incontournable de sa catégorie ! En fin de compte, peut-être que le défaut majeur du jeu n'est pas dans le jeu : le prix de sortie est de 20€ pour un platformer qui de façon intrinsèque ne dure pas plus de deux heures (après, la difficulté allonge la durée de vie et les développeurs comptaient évidemment sur ça !). J'étais vraiment excité à l'idée d'y jouer, je l'ai donc acheté quelques jours après sa sortie, mais si vous n'êtes pas spécialement interessé(e) par Cuphead, attendez une promo.
+
+#####
+
+Cuphead ENORME BANGER (pas pour rien que je l'ai 100%), la difficulté  est incroyablement bien doser et le game design est époustouflant en sachant que ce jeu à été complétement dessiner à la main. La variations des armes et très cool et le design des boss aussi ! Le seul points négatif je dirais se sont les musiques qui sont assez identiques ou seulement quelques une sort du lot comme par exemple le theme Floral Furry à la fin du premier monde  ou le theme de King Dice pendant les "salles en forme de  dé" qui permette de passer d'un monde à l'autre.
+
+(Bon j'ai refais mon évaluation car mon ami de mrd à décider de me troll en la modifiant et mettre de la d (aka un pouce rouge sur ce jeu incroyable))
+
+#####
+
+PTN IOPHESQDIOEFHSERDPOIHGOPSDHOPFHESOPDFHOPSDHFKOSDHJFKHBSDJKGHJSDKHGJUIKSDHGJKHSDJKGHJKSDHGIKOLSDHKJGHSDOIGHIOSDHGFIOSDHGIOHDSIOGHSDIOHGIOSDHGIOSD. SDJHGFKLOJSDHNGOPJSDOPGJ, SEDJGFOPSDJOGPJSDOGSD; JEOPHGJPIODSHGOPHNSDOPGHNSDOPG.
+Bien à vous,
+Number Five.
+
+#####
+
+Très bon jeu!!!!
+
+#####
+
+De la bombe à faire absolument.
+
+#####
+
+J'arrive un peu tard, mais je me dois de poster une évaluation pour ce jeu : il est tout simplement magnifique. Si vous aimez les combats de boss, que vous êtes le genre de joueur à avoir fait et refait les versions Uber des boss de Rogue Legacy, vous ne pouvez PAS passer à côté de ce bijou.
+
+En effet, dans ce jeu vous passerez le plus clair de votre temps à combattre des ennemis uniques, tous plus variés les uns que les autres. Les phases de plate-forme, ou "run-and-gun" sont en fait minoritaires, et très courtes, et ont l'avantage d'avoir chacune leur bestiaire unique.
+
+Les boss, je le répète, sont le cœur et le point fort du jeu. Je n'avais jamais vu autant de générosité dans la conception des boss d'un jeu. Chaque boss a 3 ou 4 formes, et de nombreuses attaques différentes. La plupart d'entre eux sont spectaculaires, et sont difficiles, mais justes. On les refait avec plaisir, même après avoir galéré dessus (je suis mort plus de 300 fois lors de mon premier playthrough).
+
+Beaucoup de joueurs ont également insisté sur la qualité graphique du jeu ; je plussoie. Les graphismes, mais surtout l'animation. La vache, cette animation, je vous assure parfois j'avais du mal à croire à ce que je voyais. C'est fin, sublime, et cette ambiance rétro-années 30 parfaitement retranscrite que je n'avais jamais vue dans aucun autre jeu vous porte du début à la fin de cette expérience qui suinte la qualité et la bienveillance.
+
+J'ajoute pour finir que les musiques sont également de très bonne qualité, toujours dans cette veine Années folles - quartet piano-contrebasse-cuivres. Vraiment, j'aurais du mal à trouver un défaut à ce jeu. 
+
+Je recommande chaudement, et remercie les développeurs pour cette merveille intemporelle.
+
+#####
+
+incredible
+
+#####
+
+j'aurai du m'envoyer en Afghanistan pendant que j'essayais de finir le jeu en pacifiste ou contre le robot de Kahl ou la vache du DLC j'aurai pu largement soulager l'humanité vu ma stabilité émotionelle du moment
+Jouez a ce jeu de psychopathe
+
+#####
+
+- 50 millions, si j'arrive pas à récupérer 3 ou 4 milles balles la dsus dit dont...
+- Tu es cupides -_-
+- Ah non ! Oula eh t'arrêtes avec ça je suis pas cuphead d'accord, j'aime également les femmes et tu lsais...
+- Cupide C U P I D E
+- :O j'avais compris cuphead...
+
+#####
+
+Jeux Vidéo difficile mais très sympa, j'apprésie très fortement les gafismes en effet neige.
+Achetez-le, un dès meilleur jeux au qu'elle j'ai joué de ma vie!
+
+#####
+
+jeu très compliqué avec une très bonne durer de vie et des graphismes magnifique.
+
+#####
+
++1
+
+#####
+
+Très bon jeu. Très difficile. De la balle.
+
+#####
+
+good
+
+#####
+
+Super DA, le jeu est un peu difficile à prendre en main au debut mais après malgré la difficulté on ne peut que s'amuser.
+
+#####
+
+se jeux est vraiment bon!les graphique,la bande son,l'histoire,le gameplay tout est excellent!
+
+#####
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!
+
+
+Parfait.
+
+#####
+
+Excellent .
+
+#####
+
+Nickel chrome, difficile mais c'est carrément pour ce critère qu'il me faisait envie !
+
+L’esthétique du jeu est ce qui m'a vendu ce dernier. Hâte de voir ce que le studio MDHR nous réserve pour la suite.
+
+#####
+

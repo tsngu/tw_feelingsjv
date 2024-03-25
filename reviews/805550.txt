@@ -1,0 +1,1858 @@
+Tout simplement la meilleure solution pour pratiquer le sim racing de qualité sans devoir débourser 100€ par an et 15€ par voiture/circuit
+
+#####
+
+J'attendais la sortie du jeu et avoir rouler un petit nombre d'heure sur la derniere version afin de me prononcer . 
+Etant un grand fan du sport auto, on va dire que j'ai tendance à rapidement craqué pour les jeux simulations concernant ces derniers . 
+Si Assetto corsa premier du nom nous avais comblé par son potentiel , ses attitudes faces aux diverses catégories et le larges embarras en termes de circuits et autos via sa grande communauté , face est de constaté que ce sont souvent les memes circuits et auto qui reviennent en multi joueur. 
+
+Quite à rouler régulierement en gt3, (pas d'autres choix pour trouver du monde sur le multijoueur) et devant le travail remarquable du premier , j'ai pris ce dernier Assetto corsa compétizione des son annonce et mise à dispo. 
+Ayant bien aimé l'aspect mulijoueur et le coté challenge de iracing , j'ai rapidement abandonnée ce dernier du à son cout exorbitant. Raceroom propose aussi du GT3 et c'est un régale sauf que le jeu est plus cher au finale car il faut repasser à la caisse à chaque nouvelle caisses ou circuits ) et une impression de joueurs moin nombreux.L'absence de challenge et d'un multi propres ,sauf en ligue , pousse à recherche la simulation qui répond à ces besoin. 
+
+Au vu de ce qui étais annoncée à l'origine , le multi ce promettais à l'image de iracing tout en ayant , il ne faut pas ce le cacher , moin de discipline et serveurs disponible.Un multi qui nous permettent enfin de réaliser des courses propres , avec d'autres joueurs de notres level . Finalement , à 1 semaine de la sortie du jeu, le studio fais désilliusioner les joueurs .
+Alors à quoi correspond donc le terme Compétizione si le multi n'ai pas à l'image de ce que on attendais ? Ben clairement , à rien hormis d"effectuer des courses comme on le retrouve sur d'autre support. 
+
+Coté Gameplay , le rating apporte ce plus que on ne retrouve pas sur les autres jeux hormis iracing . Encore faut t'il que ce dernier est du sens . 
+Coté Graphiquement, le moteur Unreal Engine et sa on à l'habitude , sa en jette . C'est sublime mais hélas les configurations on va dire de monsieur tout le monde vont malheureusement subir et n'espérer pas accrocher un 60 fps constant, tout en épic. Des concessions vont devoir etre fait . Le coté transition jour-nuit est vraiement somptueux . C'est un véritable plaisir pour les yeux et surtout vont vous reclamer un changement de pilotage .
+
+Coté VR , c'est pas mal , l'immersion est la et le principale reproche , ne viendra pas du jeu mais de la technologie trop gourmande et du flou du au lentilles .
+
+
+Niveau Triple screen , aucun support . Il va falloir attendre une maj apportant et gérant nativement ce dernier par le moteur graphique . A l'heure actuelle , il vous faudra vous contenter de manip permettant d'obtenir un semblant de triple screen mais a l'image déformé. 
+
+Niveau conduite .... je sais pas trop ce qu'il sais passer entre l'early access en 0.7 et la version final 1.0 mais les autos ont un comportement sous vireurs , instable du train arrière,  . Attendez vous à voir votre auto décroché sans avoir compris pourquoi . Cela ne se produit pas tout le temps . Il faudra surement peaufiner du coté des réglages. Il a surement une raison de bug également et Kunos à entendu les plaintes à ce sujet et va corriger le tir sans pour autant nous rendre un jeu arcadisé.
+La conduite agressive et sous la pluie vous tiendront en alerte .Le comportement sur ce genre de situation est plutôt remarquable , avec des flaques d'eau qui se forment . Chaques autos à sont comportements .On est clairement au volant d'une superbe simulation .
+
+
+La conduite à la manette doit etre gérable mais pas pour autant plus simplifié que au volant. Je n'ai pas testé personnellement  . Beaucoup d'absence d'info que un volant vous remontera . 
+
+
+Niveau son , on est clairement sur quelques choses de tres convaincant et c'est pour moi le grand challenger face à raceroom. Quelque incohérence sur les chocs mais le bruit des  roues sur le vibreurs , le moteur qui montent dans les tous.... Chaques voiture possédent sont bruits, renforcant ainsi l'immersion. 
+
+[table]
+[list] [i][u]Les plus :[/u] [/i]
+    [*] Graphismes bluffants et la bande son qui est juste énorme
+    [*]La remonté d'info via FFB
+    [*]La communauté et le travaille excellent du studio Kunos
+[/list]
+
+[list] [i][u]Les moins :[/u] [/i]
+    [*]Besoin rapide d'une optimisation du moteur graphique 
+    [*]On ressent le besoin de faire évoluer son matierel vers une carte graphique à plus haut niveau mais pas à la portée de tous
+    [*]Le rating qui pour moi , ne vaux plus rien face à un multi loin de ce qui étais à l'origine . 
+[/list]
+
+
+
+[list][u][i]A quelle public je conseillerais ce jeu : [/u] [/i]
+    [*]Aux fans du championnat réelle
+    [*]A ceux qui roulent principalement que avec les GT3 
+    [*]A ceux dont iracing n'ai pas à la portée en termes d'investissement financier et temps passé .
+    [*] A ceux qui comme moi , n'arrive pas à ce contenter d'un seul jeu de ce type
+[/list]
+[/table]
+
+#####
+
+Super jeux mais ...
+Kunos s'il vous plaît 🙏 développer la VR a fond, même raceroom qui est un jeux de 2013 est mieux optimisé que le votre.
+Ducoup je vais laissé tombé ACC pour un jeux beaucoup plus optimisé pour la VR, comme Automobilista 2 par exemple.
+Je doute que quelqu'un de Kunos réagisse mais s'il vous plaît évoluer...
+
+
+#####
+
+Pas facile à prendre en main, mais une fois fait ce jeu et d'un réalisme époustouflant
+
+#####
+
+Assetto Corsa Competizione, ACC pour les intimes, est une simulation de course automobile 100% pur jus et en particulier de la catégorie GT ... Et ça, il le fait à merveille. Le jeu est beau, la partie audio est très travaillée et super réaliste. La conduite est fine, très difficile pour quelqu'un qui vient de jeux moins simulation, mais la marge de progression est gigantesque.
+
+C'est une expérience de très grande qualité, immersive à souhait et qui m'a amené à me plonger dans le simracing avec volant et tutti-quanti. A la manette c'est jouable mais pas simple. Petite astuce, sur pc il m'a été beaucoup plus facile de jouer avec une Dualshock PS4, plutôt qu'avec une manette Microsoft... Bizarre.
+
+Il y aura toujours des grincheux pour reprocher qu'il n'y a pas énormément de véhicules, que c'est trop simu ... Blablabla ... ACC c'est une simulation de GT et si c'est ce que vous recherchez : précipitez vous car c'est une perle.
+
+#####
+
+Le meilleur jeu de simulation officiel Blancpain GT série, certains commentaires me font rire comme par exemple celui qui pleure car il n'y a actuellement que 9 circuits et 8 voitures lol le jeu n'est pas encore sortie dans sa version complète.... ou encore comparer le cycle jour nuit à celui d'assetto corsa premier du nom alors qu'il n'y à pas de cycle jour nuit dans le premier volet. certaines personnes devraient se renseigner avant de poster des conneries. bref j'ai hâte de le voir dans sa version finale et je ne doute pas qu'il va tout déchirer.
+
+#####
+
+Difficile d'émettre un avis puisque le jeu n'est pas terminé et le casque VR n'est pas encore optimisé. J'avais vu beaucoup de vidéos assez négatives au sujet de ACC, et même à propos des graphismes. Pourtant, il est vraiment beau je trouve !
+
+Bien qu'il reste encore pas mal d'anomalies à régler, on peut noter de nombreux points positifs.
+
+Parmi les choses qui me plaisent, il y a :
+
+- Les sensations en piste qui sont carrément au RDV. Si les programmeurs règlent le problème du frame-rate bien trop peu élevé pour le moment, on prendrait un pied énorme à piloter.
+- Le son est juste l'un des meilleurs que je connaisse. J'adoooooore ! On est bien mieux que sur un Project Cars 2 !! Attention, ne comprenez pas que je n'aime pas PC2, je l'aime beaucoup aussi, mais côté son il n'y a pas photo, on est bien mieux servi ici !
+- Comme déjà dit, je trouve les graphismes très bons. Dommage que cela ralentisse beaucoup trop la simu pour le moment. Affaire à suivre de ce côté là ! C'est le GROS point à régler au plus vite !
+- Aaaah ! Enfin des commissaires de piste animés qui agitent des drapeaux !!! Il était temps qu'un jeu les modélise enfin ! Idem côté stands, c'est plutôt bien fait et l'animation des mécaniciens est très bonne. On s'y croirait !
+- J'avais lu que le FFB n'était pas terrible car très peu de réglages, mais je trouve qu'on a déjà de très bonnes sensations. Les voitures sont très agréables à piloter et on note bien les grandes différences entre elles.
+- Yes, enfin quelques panneaux qui volent en éclats lorqu'on les percute ! Il était temps aussi qu'une simu le fasse !
+- Un ciel très beau et avec des nuages très crédibles. Pas des nuages qu'on reconnait d'une partie à l'autre comme dans certains jeu. Vraiment ben foutu !
+- On ne peut pas encore voir la transition entre les différentes météo, mais la pluie est vraiment bien faite. Ca vaut bien un PC2. J'ai trouvé que le rendu était très bon !
+
+Parmi les choses à améliorer de mon point de vue:
+
+- J'y reviens encore, mais le bas qui blaisse est bien sûr le frame-rate avec ses défauts d'affichage dans le casque VR (beaucoup trop saccadé pour le moment, sur ma configuration en tous cas)
+- Dommage que les programmeurs n'aient pas poussé le côté immersion avec plus d'éléments du décors qui se déforment lorsqu'on les percutent, ou même des mécaniciens qu'on pourrait percuter par erreur. Bref, je pense qu'on pourrait améliorer l'immersion, mais c'est le cas pour toutes les simus, et peut-être que cet ACC est l'un des plus poussé de ce côté finalement.
+- Lors des accidents, il pourrait y avoir des pertes de conscience avec un écran devenant un peu noir par exemple. A voir s'il y aura des améliorations de ce côté là puisque pour le moment, on ne peut pas encore voir les dégats sur les voitures.
+- La trajectoire idéale est très étrange. Elle est constituée de flèches légèrement soulevées au loin, et qui s'abaissent au fur et à mesure qu'on arrive dessus. J'aurais préféré une ligne idéale beaucoup plus discrète. Je trouve d'ailleurs qu'elle est toujours beaucoup trop voyante dans tous les simulations. Ca gâche vraiment la beauté du circuit. Mais bon, ce n'est pas trop grave car le mieux est de les désactiver rapidement.
+- L'animation du pilote est bonne et n'a rien à envier aux autres jeux, mais lorsqu'on porte un casque VR, on aimerait tellement que le haut du corps bouge dans la voiture et que notre casque tourne. Cela permettrait de regarder dans les autre voiture et de voir dans quelle direction regarde notre adversaire à proximité. Surtout lors des départs, ce serait cool de regarder le pilote dans la voiture d'à côté et voir s'il est en train de nous regarder. Mais pour le moment, je ne connais pas une seule simu qui le fasse, dommage !
+- Un mode de jeu multi avec le même poste de pilotage serait énorme. Je m'explique, des copains viennent à la maison, et on veut se défier dans la même course. Problème, un seul PC. Et bien, une solution intermédaire existe : Le joueur 1 prend le départ tandis que le joueur 2 est piloté par l'ordinateur. Après un temps défini, le jeu annonce un changement de pilote. Les 2 voitures en piste sont pilotées par l'IA un certain temps pour que le joueur 2 s'installe aux commandes . Le joueur 2 pilote sa voiture pendant le même temps donné, puis changement de pilote plus tard et ainsi de suite. Je peux vous dire que ce système fonctionne très bien et donne lieu à des parties extrordniaires puisqu'il existait dans GRAND PRIX 2 en 1998 je crois. Mais je ne crois pas qu'il existe aujourd'hui dans un seul jeu auto. Quel dommage :-(
+
+Voilà, difficile d'en dire plus pour le moment car le jeu n'est pas terminé. Je croise les doigts pour que les prgrammeurs trouvent des solutions car le jeu pourrait devenir une très bonne simulation.
+
+Bonne chance à eux pour nous sortir une belle simu bien aboutie !
+
+
+#####
+
+Mise à jour 0.2 :
+
+Ajout de la Bentlay GT3, du circuit Misano, du mode superpole, des pitstops basique, du support VR, du safety rating et du performance rating.
+
+- Alors La VR, j'ai pas donc je passe mon tour.
+- Les deux nouveaux ratings.... je ne les ai pas vu ni en practice, ni en course, ni en superpole.
+- Les pitstops basique.... faisant des courses sessions de 30 min j'ai pas eu l'utilité de changer de pneus ni de ravitailler donc je passe également mon tour.
+- La superpole... ne valide pas mes chronos....
+- Le circuit est pour moi une première, j'avais jamais mis une roue dessus sur aucun jeu. 
+S'il est fidèle à la réalité j'en sais rien en tout cas il est complet avec des courbes rapides des virages serrés, de gros freinages et une bonne ligne droite. La ligne de trajectoire idéale me semble tout à fait correcte et nous permet d'apprendre correctement les points de freinages.
+Il ne fera pas parti de mes tracés favoris mais il reste agréable à rouler avec de bonnes possibilités de doubler et de défendre.
+- La Bentlay.... pffff une tuerie ! 
+J'ai horreur des anglaise avec la conduite à droite mais si je met ça de côté la voiture est géniale. Elle réagit vite et bien sans surprise. Certains la trouveront sans doute un peu trop collée au sol et pas assez joueuse. Mais pour ma part étant loin d'être un pilote je préfère de loin les voitures un peu plus sécuritaires :p Celle-ci serait parfaite avec un volant à gauche.
+
+Bref, je reste mitigé sur cette release. Hormis l'ajout de la voiture et du circuit j'ai pas vu de réels changements concrets mais le plaisir sur la piste est toujours là et c'est ça qui compte.
+
+
+Mise à jour 0.1.1 :
+
+Un circuit 'Nurburgring", une voiture (lamborghini Hurracan), 4 modes (practice, hotlap, hotstint, race).
+Pour 25 euros certains diront que c'est cher mais il faut voir ça comme un investissement, car à la sortie du jeu, le contenu sera bien plus conséquent et nous aurons payé moitié moins cher.
+
+Niveau graphisme avec une bécane correcte, tout passe en épic et reste super fluide. Les effets de lumières sont très beau, les voitures bien modélisées. Le circuit est fidèle. 
+La nuit est vraiment bien faite et le rendu avec les phares, les retours de flammes et les étincelles est impressionnant.
+Les fumigènes quand on fini la course sont dégueulasses. 
+La pluie est bien retranscrite mais en conditions tempêtes on ne voit vraiment rien.
+Les différentes vues sont bien faites, juste la vue casque qui est limite gerbante à cause des mouvements en inclinaison qui me paraissent bizarres.
+
+Niveau son, c'est correct, mais on est pas encore au niveau d'un raceroom.
+
+Niveau Force Feedback avec mon T300 RS on a un bon rendu. Je pense que certains le trouveront un peu léger et il me semble qu'il manque quelques informations. Certains vibreurs ou pendant les sorties de piste, on a presque aucune info.
+Autrement on ressent bien le poid de la voiture et notamment son satané sous-virage de malheur.
+Sous la tempête je ne parviens pas à passer le moindre virage, même avec toutes les aides à fond. Alors je veux bien admettre mon excécrable niveau mais tout de même....
+
+Niveau gameplay on a un système de notation du pilotage qui est sympa mais un peu trop punitif je pense.
+Tout au long de votre session vous aurez des objectifs de pilotage à remplir et une notation vos aptitudes à respecter la piste, à respecter les trajectoires et au contrôle de votre véhicule. 
+Ce dernier point me pose un problème car j'ai toujours eu tendance à sur-piloter. En conséquence je suis troujours mal noté alors que ma trajectoire est bonne, que mon chrono est bon mais aussi que je controle bien mon véhicule. Certes je bouffe mes pneus mais je garde le controle !
+Du coup je me demande comment ça se passe à la manette car le sur-pilotage est quasi obligatoire là.
+
+En résumé on a un bon jeu en devenir, très prometteur.
+J'ai hâte de voir la suite !
+
+#####
+
+**************************************************************************
+Edit Décembre 2022 : 
+
+Point très important hélas oublié.
+
+ACC est une daube infâme en VR. Lorsque l'on compare ACC à AMS2 en VR, on prend littéralement une énorme claque ... ACC est immonde et une machine à vomir et AMS2 est juste extraordinaire sans la moindre sensation de cinétose.
+
+**************************************************************************
+
+Après de nombreuses heures passées sur quelques circuits pour monter en performance, constat : avec seulement 80 en étoiles de pistes (TR) mon évaluation globale se promène entre 9300 et 9500 avec un SA à 99. 
+Tout cela ouvre en grand le champ des possibles en matière de jeu en ligne.
+
+Puis, arrive la version 1.7.0. Et la, attention, ca pique :
+
+Le jeu vous explique que lorsque vous êtes impliqué dans un accident sans pour autant être responsable de la chose, vous êtes un mauvais pilote. (sous entendu à peine déguisé, cassez-vous)
+
+Le jeu en ligne est, comme tout le monde le sait, parfois très compliqué avec des joueurs à des années lumière du Gentleman Driver.
+
+Résultat : le SA fond comme un glaçon placé dans le four à 210 degrés. 
+Et avec cela, le champ des possibles en matière de compétitions et de jeu en ligne.
+
+En 3 courses, SA99 passé à 88 ... adieux les serveurs courtois au SA90 :(
+
+Obligé de taper dans des serveurs ou une grosse majorité ''de pilotes'' pense être sur Wreckfest ... et pas sur une simu. Triste.
+
+Le COVID à fait exploser le nombre de gamers et le simracing n'y déroge pas.
+De nombreux ''PRO'', ne cessent de se plaindre d'avoir des joueurs lents sur les circuits.
+
+On peut comprendre que cette nouvelle considération est subtilement placée pour évincer les ''NON PRO'' des compétitions et des serveurs les plus courtois.
+
+Le COVID aura une fin, l'avalanche de pilotes virtuels aussi et on saura se souvenir du bien que vous pensez de nous ''les amateurs'' .... au moment de l'achat des DLC.
+
+Pour le jeu en lui même, il est plutôt pas mal, pas le meilleur, pas le plus beau, mais sympa et propose des sensation plutôt correctes.
+
+Juste dommage que coté dev's, le paquet ne soit pas mis pour corriger les bugs ... dont la liste est interminable (chrono farfelus, bugs de collisions, soucis de connexion serveurs, event indisponibles, pas de stats, etc ...) et les problèmes de perfo ou, d'une version à l'autre, avec la même machine, on passe de 140 FPS en 1920*1080 à 80 FPS !!!! avec des passages sous les 60 FPS rendant le jeu injouable ou pour ajouter des options indispensables dans une simu course comme, par exemples, les explications sur les paramètres (frein 2, ca parle pas vraiment), les limites de pistes. Le jeu se voulant didactique avec les médailles de pistes, avoir les limites est juste INDISPENSABLE (surtout avec la version 1.7 qui change l'attribution de la 3ième et dernière médaille)
+
+Pour conclure : dommage de voir qu' ACC passe du coté obscur, du coté de ces jeux qui ne veulent plus de l'amateur, du casual gamer IN GAME... mais juste de notre argent.
+
+Vous êtes prévenus.
+
+Note après patch 1.7.2 :
+
+Test sur deux courses contre IA 90 difficulté 90 agressivité, 60 minutes. Soit un sympathique 120 minutes.
+0 point de SA de gagné, pire encore 1 de perdu.
+Le comportement de l'IA en devient risible.
+Des écarts inexplicables, des freinages incompréhensibles, des missiles dirigés sur vous juste pour vous accrocher, vous essayez de passer par l'extérieur, l'IA vient sur vous, vous essayer de passer par l'intérieur, l'IA vient sur vous.
+Vous essayez de passer en ligne droite, le mur, 3 voitures en frontal.
+Le chrono délire totalement ... d'un seul coup ... sans savoir pourquoi, vous êtes en retard sur votre meilleur tour, il vous indique une avance de xx secondes, du grand n'importe quoi.
+
+En l'état actuel, sachez que si vous optez pour ce jeu, c'est la crise de nerfs assurée et l'expérience en ligne, du même niveau que FORZA 7 au début ... bref, pas réjouissant.
+
+Si ça continue comme ça, bonjour la concurrence.
+
+Note suite patch du 16/02/2021  (curieusement, changelog.txt mis a jour mais sans nouvelle entrée)
+Nouveau test de 60 minutes sur Barcelone, difficulté 90 agressivité 50.
+Départ en 1ere position, les deux premiers tours sont effectués à la vitesse d'un escargot 1'51'' ... l'IA est aux fraises. Décision de faire un peu de camping et de laisser passer tout le monde. En route pour suivre le dernier. La, my god, le choc, il roule vite le bougre ... 1'48'' ... décision prise de remonter tout ce beau monde. En milieu de peloton, une 720S vient me harponner dans la chicane et me faire perdre 1 nouveau point de SA. Plus je remonte, moins ca roule vite ... étonnant pour une course auto
+Installé en 5ième place, je décide de coller aux fesses du 4ième ... et la, nouvelle surprise.
+L'IA qui était du genre métronome à rendre jaloux un pilote en quête de CN fait des trous de 5 secondes dans les temps d'un tour à l'autre ... pas bon du tout pour le CN.
+Décision prise de doubler .... mais impossible ... écarts, freinages, mur de 3 voitures, etc ...
+Au final, 60 minutes de course et niveau stats, c'est la descente ... largement sous les 9000 points ...
+
+Les encarts avec les noms pour les dépassements, etc ... dans les replays, on en a rien à faire, nous voulons un jeu jouable ... et qui ressemble à une course auto,  pas un sketch.
+
+Rendez nous la version 1.6 ... vite ... vite ...
+
+#####
+
+La meilleure simulation de GT3 actuellement disponible.
+Beau, immersif, agréable à piloter avec pas mal de subtilité et de différences entre les différentes GT3.
+
+Toutes les règles du Blancpain GT series sont là.
+
+Toutes les voitures de 2018 et de 2019 sont présentes ainsi que les circuits de ces années. (Un circuit diffère uniquement.)
+
+#####
+
+Très bon jeux, super graphisme et très bon game-play. Ceci dit il n'est pas sans default,
+Au niveau des interfaces de jeux, je trouve qu'il manque pas mal d'infos. 
+Il n'y a aucun spec pour chaque voiture, il n'y a aucune indication sur les SETUP, plein de N° pour les MAP des ECU, les frein etc... mais mais à quoi corresponde ces N° ? rien ne nous oriente.
+par contre les stats chute plus vite qu'elles ne monte,  je ne trouve pas ça normale et c'est très frustrant. Si tu heurte l'IA parce qu'il c'est arrété en plein virage , tu te retrouve pénalisé et plusieur fois je gagne la course mais sans obtenir de médaille, je sais que j'ai fait des erreurs, mais il n'y a aucun récapitulatif des point perdu suite à un choque sur un adversaire ou une trajectoire un chouilla trop large, je trouve ça dommage.
+Mise à par cela,  je prend quand mème beaucoup de plaisir à y jouet.
+
+#####
+
+avis seulement pour la VR je ne joue pas en flat .
+
+a éviter a tout prix ! ma 4080 ne tien pas les 72hz dans mon quest 2 malgré des réglages faible et une échelle de résolution très basse! résultat sa pixelise a mort c'est injouable . vraiment le pire jeux en vr que j'ai pu essayais depuis 3 ans que je suis sur pc. 
+pour les joueurs vr a fuir absolument pcars 2 et ams2 sont a des années lumières! plus fluide et jolie.
+
+#####
+
+Simulation Ultime de GT3 et GT4, très bonne sensation et beaucoup de plaisir à rouler
+
+#####
+
+Pour une alpha, c'est très prometteur. FFB superbe, comportement des voitures au top, pour l'instant rien a dire. en esperant que cela continu
+
+#####
+
+Première simu car depuis .... Toca tourning car... Tellement ce jeu est beau et jouissif lorsque l'on réalise un beau tour, une belle performance en course, que j'en ai acheté un volant et pédalier. A partir de là, c'est le pied total!!! Une commu présente et fournie tant les serveurs multi sont nombreux et les event au rdv chaque jour de la semaine. Par contre si vous souhaitez vous "défouler" et jouer au stockcar, passez votre chemin! Un système de points qui récompense les bons pilotes et pénalise les mauvais ou ceux qui souhaiteraient faire n'importe quoi. Bref, je ne peux que recommander, et ce jour sort la catégorie GT4 qui nous promet de longues heures de courses à venir!
+
+#####
+
+Une simulation ou le son est au rendez-vous ! 
+Le feeling sur la route est très bon même avec un G29/920, la sensation de sous-virage est bien présente, on ressent bien la liaison au sol.
+Seul bémol en ligne ce sont les adversaires qui peuvent causer des collisions soit par ego soit par imprudence.
+Mon conseil : rester prudent, éviter au maximum les accidents quitte a perdre quelques places vous les gagnerez au fil de la course lorsque les mauvais auront fait rage-quit les meilleurs...
+
+#####
+
+Experience ultime, je ponce pas mal les simu mais la on est sur du très lourd. A la manette, c'est pas la peine, même en la réglant divinement bien, c'est avec un très bon volant que le jeu se révèle. Partez sur du FANATEC avec un playseat modulable au minimum pour vraiment profiter.
+La conduite est vraiment proche de la réalité.
+Peut encore progresser sur le réalisme des dégats en revanche.
+
+#####
+
+J'aurais peut être porté une évaluation un peu différente si je ne jouais pas en VR (réalité virtuelle, avec un casque)....mais ignorer la VR, dans le monde du simracing de nos jours, c'est quand même passer à coté d'un truc absolument fantastique quand on est joueur ! Et c'est inadmissible quand on est éditeur de jeu SimRacing.
+ ACC se lance en VR...mais il est super gourmand, et pour un résultat vraiment pas terrible. J'ai fait tous les tutos du net, éditer les fichiers pour ajouter du sharpening par ci, du resolution scale par là....On améliore, certes, mais on passe de moche à pas terrible si on compare à PC2 ou AMS2...
+ D'un point de vue contenu, j'ai acheté le pack GT4 avec le jeu. Si les circuits et les voitures sont fidèlement reproduit, ce qu'offre Automobilista 2 aujourd'hui me semble bien plus intéressant. Sans parler du fait qu'Automobilista 2 (AMS2 pour les intimes) est magnifique en VR, son contenu est assez dantesque, et le comportement des voitures tout aussi excellent. 
+
+Alors peut être qu'AMS2 n'a pas toute la subtilité d'Assetto CC sur les GT3....mais d'un autre coté, AMS propose tellement plus de circuits différents, de voitures (on y va de la Fiat Uno cup à la course de camion ! En passant par les classiques Formule (anciennes ou modernes), les GT1, GT3, GT4, GTE...).
+
+Bref, pour moi, ACC va prendre la poussière et je regrette mon achat, je trouve honteux le support de la VR par les éditeurs de ce jeu. Dommage, j'ai passé beaucoup de temps sur le premier Assetto, que je trouvais très fun.
+Mon avis serait probablement différent si je ne jouais pas en VR....mais en 2021, un bon support VR est indispensable sur une simulation de course automobile !
+Messieurs les devs svp sortez un "gros" patch pour enfin avoir un support VR décent et je prendrai beaucoup de plaisir sur ACC !
+
+#####
+
+les meilleurs son et effet de vitesse et attente  en esperant avec le plus grand des esperance qu il feront les formule un de 78 et surtout f1 bmw, mc laren et ferrari formule 1 de l année 2001, avec votre talent de la beauté et du son wowww ce sera la meiveille du monde. merci d avance. je suis pret a investir pour les avoir.  je suis heureux dans ce jeux. pour les setting parconte je suis pilote, serait cool qu il y est des setting deja parfait. et jai pas compris pourquoi dans les option vidéo si je met l image fenetre, qui n est pas fenetré, tout devient fluide.   ca je comprend pas. mais a partir de la que jai aimé le jeux car l imagne etait vraiment pas top. malgré ma super carte vidéo etc....  project car est un peu plus beau et requiere pas autant sur la carte vidéo et pc.   mais je prefere assetto pour le ressenti dans le volant et un peu plus de realisme. merci bcp. p.s. on est vraiment bcp de gens a esperer les f1. un rêve !!! du positif dans cette nouvelle année. oui oui oui et pourquoi pas avec le super circuit d estoril au brezil.   vraiment le top avec monaco  :)  merci merci merci
+
+#####
+
+Ce jeu est évidemment la nouvelle référence en terme de simulation de course de classe GT3. Non-seulement graphiquement superbe, la sensation de conduite est exemplaire. La physique est excellente et le retour de force est très détaillé. On peut vraiment ressentir le poids de la voiture et litéralement ne faire qu'un avec elle. Le cycle jour/nuit est bien rendu et la conduite sous la pluie est des plus intense. En gros, ce jeu est un MUST pour tout simracer adepte de GT3. On se voit sur la piste...
+
+#####
+
+je lai découvert en 2023 j'ai teste tout les jeux de voitures  forza , rfactor 2 etc,,  celui la est le meilleur pour moi les graphisme les sensations au volant etc... tout est top!!!  le prix et la taille du jeu tout est pour lui je le recommande il est vraiment bien pour moi c'est le top niveau simulation je m'en lasse pas vous ne serai pas déçu si vous l'achetez
+
+#####
+
+Très bonne simulation de course automobile.  On n'a pas l'impression de conduire des savonnettes comme dans d'autres jeux. Le résultat positif ou négatif des réglages ainsi que l'usure des pneus dépendent vraiment du style de pilotage. La régularité est très importante pour progresser, alors il faut maîtriser sa fougue et ne pas tenter systématiquement de faire le tour le plus rapide.
+
+#####
+
+Bonne simulation dans l'ensemble, bon ressenti au volant, beaux graphismes. Cependant le système de rating n'est pas encore au point (ne sait pas faire la différence entre créer un accident ou y être impliquer dedans), quelques petits points à revoir mais dans l'ensemble c'est un excellent jeu. 
+
+Amis de piste, si vous recherchez une simu axée sur le GT3 foncez les yeux fermés. C'est un 8/10 pour ma part !
+
+Peace.
+
+Ps : Ne vous fiez pas aux avis de Jean Kevin qui ont 3h sur le jeu alors que pendant ce temps des pilotes officiels du Blancpain GT (Romain MONTI par exemple) disent que la physique IRL / jeu est très bien retranscrite. ;)
+
+#####
+
+Top
+
+#####
+
+maybe the best SimRace of the past few years!
+Gentlemens, start your engines!
+thx Kunos <3
+
+push push push
+
+#####
+
+Un super simulateur qui melange competition et simulation. Si vous aimez la GT3 ce jeu est pour vous!
+
+#####
+
+très bon jeux  ..la sensation et extrêmement fluide on ressent bien les bordure les sous virage et sur virage si le réglage n'est pas correcte..... je suis très content
+
+#####
+
+super beau, super réaliste, il mérite largement sa place dans le top 3 des simulations automobiles.
+
+#####
+
+Très bon jeux, facile à prendre en main, de bon graphisme avec un bon gameplay
+
+#####
+
+Même s'il réside encore des bugs et que certaine fonctionnalités se font encore attendre, le plaisir de conduire prend le dessus sur les défauts de jeunesse.
+Le serieux de Kunos dans le suivi de ces précédente productions est plutôt rassurant. Si vous êtes amateur de simu GT3, que vous trouver iRacing trop cher, ACC peut remplir votre soif victoire ;)
+
+#####
+
+Les plus : 
+-Physique exceptionelle. Les sensations sont au rendez-vous
+- Beaux graphismes
+- Une IA correcte
+- Un systéme de notation pour les courses online apparement efficace. Course propre sur serveur publique, c'est rare.
+- Carrière correcte sans être exceptionnel
+Les moins : 
+- Seul defaut, du moins pour moi un seul championnat dispo le blancpain.
+
+#####
+
+Physique est bonne, la sensation est géniale, mais la physique des pneus c'est pas encore ça, maos c'est un excellent jeu
+
+#####
+
+Bonjour ou Bonsoir, à tous & à toutes...
+
+[h1]horodatage de cette review:[/h1]
+8 Mai 2021
+
+[h1]Notation :[/h1]
+16/20
+
+[h1]Prix légitime :[/h1]
+39.99€ - ( Chère payer pour pas grand chose )
+
+[h1]Heures de jeux :[/h1]
+[i]à l'heure ou j’écris cette évaluation*[/i] [b]= environ 14 heures en tout [/b]
+
+[h1]Les Plus :[/h1]
+[b]+ Une durée de vie illimité[/b]
+[b]+ Visuellement beau[/b]
+
+[h1]Les Moins :[/h1]
+[b]- Contenue faible[/b]
+[b]- Un communauté de niche[/b]
+[b]- Wreckfest de conpétition[/b]
+
+[h1]Mon avis personnel sur le jeux : [/h1]
+[i][b]Assetto Corsa Competizione[/b] : [/i] Vous aimer là GT3, et faire de la compétition, vous trouverez votre bonheur si vous arrivé a esquivé les cons qui vous rentre dans le cul sans que eux bouge d'un pouce, mais par contre vous vous allez faire un soleil ....
+
+Le système de "Safety racing" complètement péter ... il cherche pas qui fait de la merde il allume automatiquement les 2 personne qui ont tapé...
+
+Faite monté votre SR en solo ou sur des serveur LOW SR genre 20 car même ceux avec 20 de SR roule mieux que ceux qui on 60 de SR... une vaste blague, ce qui gâche énormément au jeu, malgré le contenue médiocre et les DLC hors de prix pour 3 caisse et 4 circuit, le jeux en lui même reste assez plaisant a jouer encore plus avec des amie en compétitions
+
+https://www.youtube.com/watch?v=9tLe4zhfYMc
+
+[b]Merci à ceux qui s'exprime dans les commentaires afin de partager leur avis positif ou négatif envers cette évaluation[/b]
+
+Cordialement Absolum
+
+#####
+
+Meilleur jeu simracing rapport qualité/prix.. c'est le jeu du peuple ! :D
+
+#####
+
+Pourriez-vous activer le soft lock car cela devient décourageant de devoir régler à chaque changement de véhicule l'angle de rotation du volant vous l'avez fait sur assetto corsa alors pourquoi pas sur ce jeu ? on ce le demande
+
+#####
+
+Juste "LA SIMULATION" du moment
+Précision des réglages très réaliste, réactions des véhicules propre à chacune
+Réalismes des tracés, superbe
+Quelques petits bugs sans grandes incidences et régulièrement corrigés
+Je recommande à 200% pour les fans de Simulation auto
+
+#####
+
+Franchement réaliste,très bonnes sensations,un système de serveurs avec ses restrictions permettant de faire jeux égales avec les autres pilotes. Et la dernière MAJ ne fait que renforcer mon évaluation en constatant que Kunos est à l'écoute des pilotes.
+
+#####
+
+Oui
+
+#####
+
+Top ! Rien a dire.
+
+#####
+
+Excellent jeux, une commu au top, mais surtout, un prix accessible, pas comme un iracing ou tu rack sans arrêt et qui est dépassé graphiquement. Les circuits sont nombreux, et plutôt bien reproduits. La mécanique de freins est différente d'iRacing, malgré cela, vous y trouverez du plaisir.
+
+*Réglages des voitures*
+Ils sont suffisamment nombreux pour s'amuser, mal traduit sur la vf mais on s'en sort, il y a pas mal de tutos pour expliquer un peu tout (en FR). A l'image d'iRacing, vous pourrez trouver des réglages à acheter ou reproduire sur certaines course en cherchant un peu.
+La gestion des pneus est un peu contraignante, car il faudra avoir systématiquement un PSI à jour pour correspondre aux température de piste, mais c'est une habitude à prendre.
+
+*Coté multi*
+En revanche, obligé d'aller sur des serveurs Privés comme LFM (lowfuelmotor) ou l'on retrouve le même systeme de SR et d'ELO qu'iRacing.  Car le multi classique est gaché par de nombreux débiles, les mêmes que vous retrouverez sur GT7 ou F1 2022 ;)
+
+
+#####
+
+super prenant !!!! On devient un vrai pilote ;)
+
+#####
+
+Après presque 300h, je peux enfin dire que je débute le sim racing et que c'est un plaisir après chaque course et la découverte de l'endurance en multi ! 
+Je recommande à tous les amoureux et passionnés du volant, il vous demandera de la patience et du temps mais il en vaut largement la peine !
+
+#####
+
+j'aime bien
+
+#####
+
+la simulation est très bien exécuter sur ce jeux , en même temps assetto c'est une valeur sûre
+
+
+#####
+
+Pouce bleu pour les graphismes, la météo changeante, les sensations du volant, les circuits au laser et le mod GT4.
+Pouce rouge pour le solo, la finition qui va avec, le mode carrière et la customisation des championnats. Et ça manque un peu de circuits.
+
+GT3, GT4 et c'est tout... Tout pour le multi... Je ne pense pas que j'y jouerai autant qu'Assetto Corsa qui était plus fun niveau contenu.
+
+#####
+
+1 on 6 game only !
+
+#####
+
+Franchement très bon ! Peu de contenu en termes de voitures et circuits par rapport à AC (et ses DLC) mais quelle qualité !!! Il y a aussi un système de rang fort utile pour rejoindre des sessions multi...
+On prend en tout cas beaucoup de plaisir à piloter sur ce ACC !!
+
+#####
+
+Au top !
+
+#####
+
+Immersif, beau et addictif, Assetto Corsa Competizione est la meilleur simulation de GT3 du marché. Sur le plan de la conduite, il n'a rien à se reprocher.
+
+Le problème vient du nombre de catégories de véhicules. Je suis conscient qu'il n'est pas possible de réaliser une simulation parfaite à ce prix avec des dizaines de catégories de véhicules. Kunos a d'ailleurs toujours été honnête sur la direction prise. Mais devant un jeu d'une telle qualité, il est difficile de ne pas vouloir différentes catégories permettant d'introduire le multiclasse. 
+
+Il me semble que l'ajout de la catégorie GT4 a été évoqué. Cette extension sera surement intéressante mais à titre personnel, j'attends davantage des véhicules avec des conduites vraiment différentes aux GT3 comme les LMP1/LMP2.
+
+En bref, si vous aimez les GT3, ce jeu est à acheter immédiatement.
+
+#####
+
+[ Mes impressions ]
+
+Tout l'ADN d'Assetto Corsa est là, en mieux. Au départ, j'étais un peu déçu de l'annonce : Competizione, The Official Blancpain GT Series Game. Ouai ? Boff, j'ai plus mes voitures de années 70 et 80 avec des gros disques en acier qui sifflent dans les gros freinages en appui. Et les Ferrari et Lamborghini de monsieur (je suis un peu blindé quand même) tout le monde qui roulent dans Monaco ? Et les mods ? En réalité, on aurait pu s'en douter depuis plusieurs années, Assetto Corsa a toujours été très orienté sur le GT2/GT3. Le GT2 n'existant plus... négocier une franchise officielle en GT3 n'est finalement pas tiré par les cheveux.
+La déception initiale passée, on est vite rassuré au premier lancement de la béta. Les bolides sont sublimes, les graphismes ont un super coup de boost avec le Unreal Engine. Les circuits de la série Blancpain sont tous énormes. J'attends avec impatience l'arrivée de Spa.
+
+Forcément en version finale c'est insolent tellement c'est bien fait. Les circuits sont tops. Un nouveau DLC apporte quatre nouveaux tracés dont les mythiques Suzuka et Laguna Seca. 
+
+[ Performance et optimisation ]
+
+Forcement, Unreal Engine 4, c'est bien plus gourmant que le moteur d'Assetto Corsa. En même temps, on retrouve tout ce qu'il manquait : une météo avec de la pluie, une gestion avec un vrai tyre-model des pneus sur la piste, sèche comme mouillée. N'oublions pas non plus les cycles jour/nuit avec notament les gestions des phares. Tous ces effets alourdissent forcement un peu la charge graphique. Concràtement, ça fonctionne à merveille sur un i5 avec 16 Go de RAM et une GTX 970. On n'est pas en ultra partout mais c'est tout de même très beau à plus de 60 FPS.
+
+[ Durée de vie du jeu ]
+
+En durée de vie, on est comme pour Assetto Corsa sur plusieurs centaines d'heures de jeu. Perso, j'ai 950 heures sur Assetto. Maintenant, le choix des voitures et des circuits étant plus vaste, peut-être que 500 heures suffiront à me satisfaire.
+
+[ Les points forts du jeu ]
+
+☑ Le championnat Blancpain GT Series, un must pour moi après la F1 en Europe
+☑ Le nouveau moteur graphique basé sur l'Unreal Engine 4
+☑ La météo avec pluie et phase Jour/Nuit
+☑ Les sons dans les véhicules sont très sympa, plus immersif quand dans le volume 1
+☑ Le système de rating semble sympa, à voir si ça apporte quelque chose pour le multi
+☑ Une Early Access déjà bien fournie et un tarif de lancement à 25€ pour la première release.
+
+[ Les défauts du jeu ]
+
+☑ Peu de véhicules et de circuits, mais c'est fidèle au championnat
+☑ Pas de possibilité de modding, sans doute lié à la licence
+
+Il y a bien quelques petits soucis supplémentaires, mais je n'en parle pas ici, nous sommes en Early Access, ça devrait être réglé avant la sortie.
+
+[ JE RECOMMANDE LE JEU ]
+
+Oui, oui et oui. Comme indiqué plus haut, c'est clairement avec la F1 les deux championnats que je suis en France. C'est tellement beau les courses Blancpain avec plus de 30 voitures en piste simultanément en Endurance. J'ai toute confiance en Kunos vu l'excellent Assetto Corsa sorti en 2013 alors go go go sur Competizione. C'est magnifique.
+
+#####
+
+Dinguerie
+
+#####
+
+ah bah ué fieu
+
+#####
+
+Négatif car clairement pas prêt pour la VR.
+
+- Ergonomie des menus à revoir, impossible d'utiliser la souris
+- HUD qui bouge avec les mouvement de tête inssuportable
+- le rendu en VR n'est pas à la hauteur, compromis entre netteté et fps impossible à atteindre. Je dois me contenter d'un rendu médiocre et plutot flou et pixélisé pour esperer parfois atteindre 90fps. Ceci en solo, si l'on ajoute des IA alors ce n'est plus jouable en VR (config 9900k Oc 5.1 ghz + 2080 Rtx).
+
+#####
+
+pour ceux qui aime la GT3 il ne faut pas hésiter parcontre si je devais donner un défaut de ce jeux ce serais que dans les sessions de debutant quand quelqu'un te rentre de dedans c'est les 2 joueurs qui sont pénalisés du coup il y a certaines personnes qui en font expres or que l'on essaye d'avoir une conduite propre mais une fois que l'on as un bon niveau de SA et que l'on peut aller dans les meilleurs serveurs les gens sont bien plus serieux
+
+#####
+
+bon jeu ca promet  voila; j'attend d'avoir un pc plus puissant
+
+#####
+
+Le multiplayer est nulle.. les gens se comporte comme des cochons meme a un niveu de securité au dessus de SA80. Aller sur des platerformes comme LFM etc...  la moitier n'arriveront pas à passer la Liscence tellement que c est des bourrins sur le multiplayer. Les serveurs ACC sont des nids a GTA gamers et les dev n'ont que rien a faire du multiplayers. les gens ne sont pas assez sanctionés. Aller sur LFM vous verez la difference entre des serveurs ESPORT et des serveurs de debiles mentales qui pensent etre sur FORZA et se disent SIMRACER. Je ne recommande pas ce jeu pour le Multiplayer sur server ACC sans liscence LFM.
+
+#####
+
+Vraiment une super simulation et l'immersion est bien présente.
+Graphiquement c'est très beau, beaucoup de détail ce qui contribue à l'immersion, encore plus si vous avez la chance d'être en triple screen.
+Au niveau des sensations c'est très bon, le FFB est peut-être perfectible mais c'est déjà plus que correct.
+Il est vrai qu'il n'y a qu'une catégorie "la GT3" mais si vous êtes passionnés de cette catégorie (comme moi) on ne se lasse pas.
+Fait partie des 2 meilleurs simulations actuellement (avec RFACTOR 2) à mon gout (bien sûr), mais au niveau immersion ACC est un cran au dessus.
+
+#####
+
+tres bon simu
+
+#####
+
+First of all, i'm playing on a T300RS + F1 Wheel + T3PA Pro Pedals, and all of them were (kind of) easy to configure, and I can get a good FFB out of it, IMO better than what Assetto Corsa has to offer.
+
+Graphics are good, even on a mid-end config (FX 8370E and RX480) the game looks gorgeous, and photorealistic, fluid on my resolution too (2560*1440).
+
+Sounds are pretty awesome I must say, we're getting close to some Raceroom Racing Experience level on that way.
+
+As of now you only get the Lamborghini Huracan GT3 and the Nurburgring GP layout, but hey, remember, IF YOU BUY THE GAME NOW, YOU'LL GET ALL OF IT FOR ONLY 25 BUCKS...
+
+That's a YES. Buy it now, even with the actual lack of content, it'll get better and better and better.
+
+#####
+
+Pour les amoureux des courses d'endurance et des GT3, allez-y !
+
+#####
+
+La meilleur simu à mon gout. J'attends les GT4 avec impatience!
+
+#####
+
+Commencé à la manette, j'ai vraiment accroché au jeux et j'ai donc investi dans un volant et pédalier... Merci pour les économies :)
+
+#####
+
+Super jeu ! Belle amélioration sur tous les points par rapport à la précédente version. Hâte de le découvrir avec mon nouveau volant mais déjà persuadé que ce sera un pur plaisir. Je recommande.
+
+#####
+
+Perso ACC est une des meilleures simu . Mais le systeme de penalité est nul , ex: suur monza tu couupe les chicane presque gratuitement , mais par contre tu sort large a Lesmo 3 X = Drive Throug . Ensuite online une vrai plaie le rating car si un imbécille decide de te rentre dedans et tu perds egalement du SA . alors soyons ce n'est qu'un jeu , OK , Mais cela vraiment frustrant de voirune couurse ruuiné par un Conn*** qui ne cherche qu'a enmerder les autres . Il serait temps de revoir le systeme online Open Lobby avec des Ban et des cote de fairplay .
+
+#####
+
+Jeux magnifique au niveau visuel et sonore
+Un laser scan des piste et un comportement des voiture tres realiste
+j'avais 170 h sur project cars 2  et  50h sur assetto corsa en 7 ans.
+la j'en suis à 270 h en 7 mois. 
+ce jeux est une claque
+
+#####
+
+Ma première simu en ligne, et franchement je trouve le jeu très accessible et fun pour débuter. On sent bien les différence entre les véhicules (par exemple entre les moteurs centraux/à l'avant), la Porsche Cup est très marrante, et y a pas mal de circuits sympas (surtout en DLC, malheureusement). J'ai pu redécouvrir Oulton Park notamment et quel plaisir !
+
+#####
+
+La référence du simracing, graphismes de haut niveau (demande une grosse config...), le multi est le mode le plus intéressant avec une vraie BOP qui colle vraiment avec l'esprit de compétition GT series
+
+#####
+
+Très bonne simulation.
+
+:: Points positifs ::
+
+- Le réalisme / la physique poussée (impact réel de la météo, des températures, des dégâts etc...), chaque voiture est différente et ne se comportera pas de la même manière s'il y a le plein d'essence ou non, ou si les pressions des pneus sont trop hautes / trop basses etc...
+
+- Le jeu est exigent et vous pousse à vous améliorer en apprenant chaque circuit par coeur.
+
+- Toutes les voitures et circuits sont laserscannés.
+
+- La communauté de Simracers est très accueillante et bienveillante de manière générale (à condition de faire l'effort de rouler propre bien entendu).
+
+- Excellentes sensations au volant !
+
+:: Points négatifs ::
+
+- Quelques bugs, même en 2021 (chrono qui déconne parfois et surtout les micro freezes quand quelqu'un rejoint un serveur multi, c'est très chiant).
+
+- Jeu assez gourmand en terme de performance.
+
+:: Conclusion ::
+
+Un jeu à ne pas mettre entre toutes les mains. Il faudra du temps et de l'entraînement pour vraiment prendre du plaisir sur ACC. Encore plus pour le maîtriser. En revanche, si vous êtes passionné de simu automobile et/ou de GT3, foncez ! Le jeu vraiment grisant quand on commence à enchaîner des tours rapides et propres au milieu d'un peloton de 40 autres furieux de l'asphalte.
+
+#####
+
+Super SIMULATEUR si vous chercher un jeux arcade bien il et pas fais pour vous!
+Volant obligatoire! dommage pour le nombre de ceruit ....
+Graphique super beaux et volant facile a régler.
+je le recommande a ceux qui aime jouer la simulation et qui respecte les autres pilotes!
+
+#####
+
+After 220h on this game, i can say...it's kreaking damn good. 
+Content is big enough for a lot of fun ! Everything is thus polished and you feel a lot of passion has gone into this game. 
+Close fight is awesome, online public lobbies are great most of the time on servers with ahigh saftey rating requirement. You can find a good bunch of leagues too. 
+For me it's one of the best racing games, yes there are some bugs and some lacks but they are fixed little by little. triple screen support is a very nice feature.
+Best game for gt3 fans.
+
+#####
+
+Fan de GT3 achetez les yeux fermé
+
+#####
+
+Nice GT sim
+
+#####
+
+oui
+
+#####
+
+SUper simu réaliste, faut pas hésiter à l'acheter c'est la référence en terme de GT
+
+#####
+
+Meilleur jeu de simulation de simracing que je connaisse. J'avais déjà aimé Assetto Corsa premier du nom. Là je suis encore plus fan. Non seulement il est beau grâce au moteur graphique utilisé, mais en plus la retranscription des effets de conduites sont vraiment bluffant. Il ne me manque plus que d'ajouter une roue fanatec type CSL Elite McLaren GT3 et une base CS V2.5 à mon pédalier CSP V3. Et bientôt aussi ma future button box fait maison. Franchement, chapeau l'équipe de Kunos pour le travail réalisé. Vivement la version finale du jeu.
+
+#####
+
+Meilleur simulation automobile du moment ! Très bon travail de KUNOS aussi bien pour l'ambiance visuel et sonore, les graphismes sont juste a tombé (hight ou ultra) et les sensations de pilotage son très bien rendu. Encore merci pour nous pondre des simulations aussi plaisante et aussi réaliste. BRAVO KUNOS !!!
+
+#####
+
+EXCELLENT
+
+#####
+
+Player of racing videos games since i was a kid in the 90s, this Assetto Corsa Competizione is a rough diamond. The graphics are amazing, the feeling with the wheel (thrustmaster ts-pc racer & fanatec csl elite pedals) is excellent, the IA is very challenging and have a nice behaviour, the sounds are perfect, and you have several play modes for have fun....
+I will follow the development of this game wich is already good, but can became legendary good !
+
+#####
+
+The feeling is positive, the sound is great, yeah, out there there's bigger and better sim-softwares, but this is a good option if you like the visual portento and you don't want to sacrifice the feeling.
+
+#####
+
+Jeu prometeur!! bien hate de voir une fois le sortie officiel!!
+
+#####
+
+Exellente simulation, le seul reproche pourrait être qu'il n'y a qu'une seule classe de voiture pour le moment et que les suivantes seront en DLC
+
+#####
+
+très décu de la 1.2 en VR , 
+il est devenu injouable avec oculus , passé 1h30 à essayé de réglé les problèmes pour au final laissé tombé car rien n'y fait
+
+#####
+
+Etant déjà un grand fan du premier Assetto Corsa, je ne peux que recommander cette suite.
+
+Attention cependant, le jeu étant en Early Access, il est normal que tout ne soit pas encore optimisé ou parfait.
+Mais je trouve cela assez passionant, de pouvoir voir la progression du jeu, le développement, et l'incroyable travail de cette "petite" équipe de Kunos.
+
+#####
+
+i'm in my mom's carrr
+
+brum brum
+
+#####
+
+Superbe, il faut juste ce donné la peine de créer son setup volant correctement pour apprécier le ffb du jeu.
+
+#####
+
+je le recommande fortement pour les amateurs de course automobile sensation et realiste garantie
+
+#####
+
+I have to say that the level of refinement that you can find in this simulation is astonishing. The driving feels great, the setups are quite complexes and the overall feeling is really immersive. The only downside is that it is a power hungry game, you need a good computer, but it offers the best racing experience available.
+
+#####
+
+La simulation ultime actuel du championnat GT3. Full stop.
+
+#####
+
+Best GT3 racing sim... A must have for every simracing enthousiath!
+
+#####
+
+Excellent jeu bien fini et super moteur graphique
+
+#####
+
+Top !!!
+Dommage cependant pour la version VR mal optimisée, sinon ce titre est excellent.
+
+#####
+
+Jamais beaucoup joué à des jeux de caisses et encore moins de la simulation racing. Un jour je suis rentré avec logitech g920 et aillant déjà un casque vr j’ai pris le jeu en solde novembre passé. 
+
+Depuis, ben depuis… j’ai revendu le logitech et acheté du fanatec, changé le casque vr et fait un big update de mon pc. 
+
+Punaise que le jeu est bon, beau, frustrant aussi. Mais tous les soirs l’appel d’une course se fait. En ligne (surtout lfm) ou avec l’ai, c’est jouissif.
+
+#####
+
+Cool game
+
+#####
+
+:) très bon jeu réaliste
+
+#####
+
+excellent simulateur de course
+
+
+#####
+
+Incroyable
+
+#####
+
+je découvre avec un volant g29, une fois calibré c'est un régal
+
+#####
+
+Best simulation. Graphics great, FFB great, i recommand over every other sim-racing.
+
+Need lot of time to master, multiple hundred of hours, but great satisfaction :) 
+
+
+
+#####
+
+Très bon
+
+#####
+
+Je dis oui.
+
+#####
+
+jeux très cool si on aime les simulateur de course
+
+#####
+
+realiste
+
+#####
+
+Un bon jeu ou on a de bonne sensation dans le volant mais totalement défoncé par les joueurs complètement trisomiques. Ma première course depuis peut être un an, je suis en tête sur silverstone quand soudain un pilote en drapeau bleu me bloque ( surement un gros con qui ne connais pas les règles de course et les drapeaux ) , je le double mais premier virage le gars essai de me rentrer dedans, je freine il se met tout seul dans le décor et la le gars reviens en coupant tout les virages et me passe devant je me dis " ok je le fou dehor" je le met dehors ce qui est légitime et le gars revient et me nique ma course en me rentrant dedans puis dans tout le monde après avoir fait plus de 30 min de course ... ACC est une p***** de m**** qui vous procurera frustration tellement les lobby sont arcades et ne donne aucune punition si votre comportement est digne d'un FDP .
+
+#####
+
+ACC est un jeu incroyable.
+
+#####
+
+Very nice game but online ruined by Forza players without any respect. Looks like F1 Games...
+
+#####
+
+Best GT Sim Game
+
+#####
+
+simulation GT par excellence
+
+#####
+
+A fuir en VR.
+
+je modifie mon avis maintenant que j'ai une 4080 + 5800X3D mais toujours à fuir en VR...
+
+Je ne vais pas donner d'avis sur les aspects simulation, c'est du Assetto Corsa, c'est du très bon, un FFB meilleur que dans le premier des comportements de véhicules qui semblent plus réalistes mais aussi plus difficile à maîtriser (enfin pour moi)... 
+
+Le problème est que si vous voulez jouer en VR (ce qui est certainement le cas si vous avez un jour goûté à la simulation auto en VR. Impossible pour moi de jouer autrement), alors ce jeu est à fuir !
+
+Graphiquement, même si en flat il est très beau, en VR il est atroce et il y a du cliping à mort.
+
+J'arrive à avoir un rendu visuel acceptable mais à condition de mettre quasi tout en low dans le jeu sauf les textures et quelques effets + l'antialiasing au max + DLSS qualité qui ne dégrade quasi pas l'image avec les paramètre du dessous.
+
+Dans le logiciel Oculus pc : 
+- résolution en 5408 x 2896 
+
+Dans Oculus Debug Tool :
+- le "Pixels Per Display Pixel Override" en 1.2, 
+- codec h265, SLiceed encoding à "on", 
+- Encode resolution width à 4080, 
+- Link sharpening en "quality"
+
+Dans OpenXR Toolkit, augmentation de la résolution encore de je ne sais plus combien + rendu foveal et mode turbo.
+
+Avec ca, c'est presque pas trop flou lol et c'est presque fluide en 72hz seulement ! Pour dire, F123 perf presque mieux que ce ACC.
+
+Il persiste une espèce de voile par devant qui gâche tout. D'ailleurs je conseille de désactiver les effet post processing qui accentuent cet effet. Je pense que le souci vient du moteur de jeu UE4 utilisé. Si le prochain Assetto Corsa est développé avec UE5, on aura peut-être quelque chose de mieux...
+
+Je ne suis même pas sûr qu'avec une 4090 ya moyen d'avoir quelque chose de vraiment beau...
+
+Si vous voulez jouer en VR à une bonne simulation automobile, foncez plutôt sur Automobilista2 ou Assetto Corsa premier du nom moddé avec Content Manager beaucoup mieux optimisés pour la VR.
+
+#####
+
+sa serais plus cool d'avoir des song plus réaliste comme iracing ^^
+
+
+#####
+
+Tres bonnes sensation
+
+#####
+
+un plaisir ce jeu.
+
+#####
+
+cool
+
+#####
+
+tres realiste
+
+#####
+
+NICE
+
+#####
+
+Très bonne simulation pour les amoureux de GT.
+C'est la "meilleure" simulation de GT sur le marché, et je ne veux pas entrer dans le débat avec Iracing. 
+
+Mais pour le prix, et avec les communautés qui se développent, c'est clairement un jeu à posséder.
+
+#####
+
+top
+
+#####
+
+cool
+
+#####
+
+Pour ceux qui aiment le pilotage pure sur circuit. Un volant est préférable pour profiter pleinement du jeux. Pour la VR, prévoir une bonne bécane. Le top, tout simplement.
+
+#####
+
+Problémes de configuration de volant ! Lors de la configuration des touches d'accéleration et de freinage le jeu considére que cela doit etre obligatoirement un axe et non une touche ducoup les pédales fournis avec des volants style T150 sont obsolétes. Je ne peut pas jouer au jeux autre qu'avec une manette je suis trés deçue.  MAJ: aprés un téléchargement d'un driver trhusmaster sur leur site et  une configuration dans les paramètres périphérique le problémes est résolue.         
+
+  Le jeu est un simulateur automobile pousser et précis mais il manque de contenu en général.
+ Les DLC offre un peut plus de contenu cela dit il n'y a pas les voitures prototypes ainsi que le circuit des 24 du Mans et pour ma pars cela est un gros point faible.
+
+#####
+
+Très très bonne simulation auto (peut etre même la meilleur).
+Graphisme et effet visuel très agréable à l'oeil. Météo dynamique. La physique est pour moi très très bonne. Le son des engins sont tout aussi bon. Les propriétaires d'un systême hifi en prendront pleins les mirettes. Mais (car il y a toujours un mais) malgrés nombre de circuit convenable je choix des voiture et très restreint (GT3, GT4 en DLC, Porsche Cup et SuperTrofeo). Le titre ne manquera pas d'avoir à l'avenir de plus en plus de contenus additionnels avec pourquoi une nouvelle catégories. les menus sur PC sont pas troujours top, comptabilité console oblige... On regrette un peu la gestion des colisions entre véhicules trop brutal par moment (carrosserie pas déformable). Enfin, bien que les dégâts mécanique et visuel sois prise en compte, ACC ne prend pas en compte les débris de crash. Pas de roue qui s'arrache, pas de rétro qui se détache, zero débris sur la piste. 
+
+Bref globalement excellent et indispensable pour tout bon simracer!
+
+Attention tout de même d'avoir un bon PC. A y jouer avec un volant pour en profiter pleinement ;).
+
+#####
+
+Réalisme
+
+#####
+
+.
+
+#####
+
+Excellent avec le DLC GT4
+
+#####
+
+Excellent jeu qui reprend tous ce qui vient du GT World Challenge Europe et de l'Intercontinental GT Challenge appartenant à SRO Motorsports Group
+
+#####
+
+Pour moi la meilleure simulation GT3, vivement de pouvoir test les GT4
+
+#####
+
+Top !
+
+#####
+
+top
+
+#####
+
+Excellente simulation, pour peu que l'on soit bien équipé chez soi.
+Les sensations sont très bonnes, on s'y croirait !
+
+#####
+
+excellente simulation. réaliste à coupé le souffle surtout en
+VR
+
+#####
+
+belle simulation
+
+#####
+
+Foncez sans hésiter !
+Rien à reprocher à cette simulation, tout y est excellent: 
+sensations, gestion du volant, ambiance, pluie, nuit, modélisation des circuits, compétition online, etc.
+Même le système d'évaluation est réussi, punitif mais motivant
+
+3 petits défauts: le système de sélection de serveurs frustrant, un retour de force moins riche que sur Assetto classique, une seule catégorie de voiture (GT3 et seulement les circuits qui vont avec)
+
+#####
+
+Réaliste aussi bien visuellement que dans les sensations qu'ils proposent, ACC est un des jeux de courses simulation majeur de ces dernières années.
+
+Bien qu'extrêmement difficile, il permet d'acquérir les bases du pilotage facilement, permettant aux débutants d'appréhender le jeu à leur rythme tout en laissant une marge de progression énorme aux spécialistes du genre.
+
+Un must have pour les pilotes virtuels :D
+
+#####
+
+tres bon jeu
+
+#####
+
+Une des meilleures simulations autos même si pour le moment le contenu n'est pas beaucoup fourni et uniquement du GTR 3 pour le moment (plus de véhicules en GT3 seraient le bienvenu). Très bonnes sensations, multi qui se développe, de beaux rendus et sons très bons. Bientôt de nouvelles mises à jour et dlc.
+
+#####
+
+Good sim-racing.
+
+#####
+
+best GT simulation
+
+#####
+
+Les grognons diront qu'il y a trop peu de circuits, trop peu de voitures, trop peu de catégories. Mais c'est une simulation pointue, des comportements réalistes, un respect du sport automobile rarement vu jusque là. Il corrige ce que son prédécesseur n'avait pas: météo, arrêt au stand, mode carrière. le changement de moteur graphique s'est bien passé et le jeu reste agréable à regarder. Mais qu'importe la plastique, c'est volant en main qu'il délivre toute sa saveur et il n'y a pas d'autre manière de le déguster. A posséder absolument dans son dossier simulation de course !
+
++ moteur physique, un plaisir de conduite inégalé 
++ on peut apprendre à son rythme, on progresse vraiment
++ safety first en ligne. Ca change
++ météo, cycle jour nuit, super pour les courses d'endurances
+
+- Un peu trop punitif sous la pluie
+- Attention aux drapeaux bleus, vos concurrents freinent comme des bourrins pour vous laisser passer !
+- Presque impossible d'y jouer sans volant...
+- je suis pas pilote de GT3... donc je suis pas dans le jeu...;)
+
+#####
+
+on s'y croirait presque!!!!
+
+
+#####
+
+Best sim of the moment.
+
+#####
+
+Envoûtant par sa fidélité, sa complexité et le réalisme des sensations qu’il procure, Competizione est bien parti pour être la sortie à ne pas manquer, pour tous les amateurs de simulation de course.
+
+#####
+
+Super jeu, 
+J'ai essayé : PC2, Assetto corsa, Iracing, F1 2019 et c'est sur Competizione que je reviens toujours, le système de Safety est vraiment pas mal et pas d'abonnement ! 
+Dommage que nous sommes limité sur le GT3 mais si on veux se "perfectionner" pour ressentir l'évolution personnel sur chaque piste, c'est très bien, 
+Pas beaucoup de circuit également, mais au moins, cela évite que l'on se perde et ainsi exploser de beau temps :). 
+La personnalisation et très réussite, plus que les autres jeu (cela reste bien entendu mon avis et chacun c'est goûts)
+Je recommande vivement.
+
+#####
+
+Excellente simulation auto GT !
+
+#####
+
+Tres bonne simu !
+
+#####
+
+Jeu complètement raté en VR sous moteur Unreal.
+Je finis mon championnat en cours et ensuite désinstallation définitive.
+Je reviens sur mon post.
+ce n'est pas encore çà, mais les mises à jour améliorent considérablement je jeu. Avec des réglages, on peux dorénavant profiter de la VR dans des conditions raisonnables. Attention tout de même à la bête qu'il faut derrière.
+
+#####
+
+Le meilleur jeu de simulation dans sa catégorie. Je vous conseille FORTEMENT de jouer avec un volant, or vous ne prendriez pas de plaisir à jouer à ce jeu !
+
+Je recommande aux nouveaux joueurs de jouer d'abord en solo avant d'attaquer le multijoueur pour éviter de crasher les autres au premier virage.
+Le jeu est équipé d'un système d'évaluation (évaluation de compétence de connaissance de la piste, contrôle du véhicule, régularité, sécurité,...) et aussi d'un mode classé. Il faut avoir une évaluation de sécurité assez élevée pour pouvoir rejoindre ce mode de jeu, tout comme certains serveurs de la communauté. Cela permet d'assurer aux joueurs d'avoir des courses avec des gens qui font attention et qui ne crashent personne, mais cela empêche aux débutants de pouvoir jouer avec des gens du niveau supérieur.
+
+Chaque voiture est unique, elles ont chacune leur différente façon de se conduire. Les pistes sont laser-scan, cela veut dire que les tracés des pistes sont au plus proche de la réalité.
+
+Si vous cherchez une simulation de jeu de course dans la catégorie GT3, dans lequel vous pourrez voir votre courbe de progression et jouer avec des joueurs respectueux (attention à ne pas aller sur des serveurs qui demandent peu d'évaluation de sécurité) alors je vous conseille vivement ce jeu !
+
+/!\ Attention à ceux qui voudraient enregistrer leur jeu, il vous faudra une configuration puissante, malgré les moult patch d'optimisation /!\
+
+#####
+
+Excellent !
+
+#####
+
+très bonne simulation auto
+
+#####
+
+Excelangue
+
+#####
+
+au top
+
+#####
+
+Il reste encore quelques petits trucs à améliorer sur le rating pilote en multi (surtout pour les personnes quittant en pleine course qui ne sont pas assez pénalisé), mais le kiff !!!! 
+Graphiquement gourmand et pas encore opti totalement mais on en prend plein les yeux et les oreilles. Merci Kunos.
+
+#####
+
+Trés bon jeux de course de simulation enfin les GT3 et le championnat Blancpain. le jeux est réaliste à mort même un peut  trop car le jeux est FORT GOURMAND en graphisme et devient difficile à jouer et tout le graphisme mis au plus bas dommage. c'est la seul chose qui faudrait changer mettre un graphisme beaucoup moins gourmand. Mais aussi non a part ça je recommande le jeux à 100%
+
+#####
+
+J'ai profité du début de l'été pour l'acheter et depuis 2 jours je m'éclate. J'ai eu la série des GTR, des GT légend puis Assetto corsa premier du nom et avec ce nouvel opus j'ai encore pris une claque. Graphisme magnifique et conduite difficile et réelle. Superbe jeu.
+Voilà maintenant un mois que je pilote sur ce jeu. Une mise à jour hier, c'est super, les améliorations s'enchaînent pour le plaisir des joueur. 
+Le jeu est de mieux en mieux.
+Un regrêt c'est le rating. Un joueur vous rentre dedans par derrière en allant tout droit dans son virage et vous prenez aussi une pénalité au rating, alors que vous n'y pouvez rien.
+
+#####
+
+Très bon jeu , la carrière reste en retrait par rapport au multi , pas mal de mauvais pilotes mais on s'en sort ^^
+
+#####
+
+Assetto corsa competizione is an extraordinary game!
+I have not seen a game with such accomplished details!
+ACC imposes a new standard in many areas : Rating, driving experience, sound, rules applications, weather conditions, day / night cycles ...
+I play simulations game for 12 years now, and I went through Gtr2, Race, Rfactor, Assetto Corsa ... and frankly, this game focusing on Blancpain, is another dimension! Some prople  will see limited content, where I personnaly see that it gives the opportunity to go further, focusing on a license!
+We can actually blame Kunos for a buggy v1, and not a full accomplished v1, but Kunos is working hard to finalize all that.
+This game has an huge potential, it requires some personal investment, it's true, but it provides in exchange a rare and unequaled pleasure!
+You don't like GT3 cars, don't buy it or don't tell it has a limited content, you know what you buy...
+You like the GT3, and have a good config, go for it! It's a real dream !
+
+#####
+
+Sans doute le meilleur jeu de simulation, tout simulateur confondu. Il n'y à rien de meilleur que cette simulation Blancpain. Physique superbe, jeu très beau, bref rien à dire si ce n'est de remercier les devs pour ce bijoux.
+
+le reste c'est que du bla bla ^^ Je le conseille à tout les amateurs de vraie sensation.
+
+#####
+
+Après un départ laborieux (peu de contenu, FFB déplorable), la version 1.0 est parfaitement aboutie !
+De beau circuits, une IA pas trop débile, des voitures magnifiques et une physique des plus réussi.
+
+Je recommande franchement aux simracer (attention pas forcement accessible aux débutants)
+
+#####
+
+C'est le premier shoot, meme si il y a eu une version beta avant il est evident que kunos n'a pas encore terminé le développement et que plusieurs maj font ameliorer le tout. 
+
+La conduite est agréable, le triple écran est maintenant possible meme si loin d'etre parfait. Le fbb non plus n'est pas encore en version finale selon moi mais reste bon.
+
+Mois j'y crois et j'attends vraiment les courses d'endurance avec la possibilité de courir avec des potes sur la meme voiture.
+
+#####
+
+tout, le principal le plaisir de jouer, une ia correcte, des graphique au top des détail de partout
+
+#####
+
+oui le jeu est bon oui il est beau meme tres beau  les effet de pluie son excelent  le son juste magnifique   oui je n'ait que 10h de jeu mais j'attendait  la version fini avec impatient mais pour l'instant appart l'aspect il equivaut pas assetto corsa niveau ressentie et force feedback assetto 1er est bcp mieux pour l'instant et je l'espere au niveau ressentie que competizione desoler  kunos mais ses ca faite le teste prener une piste sur competizione et une voiture gt3 qui a aussi sur assetto 1er et refaite la meme piste avec le mm vehicule sur assetto 1er et vous aller constater la meme chose que moi niveau ressentie et force feedback bien sur si votre volantest bien calibrer .SI on doit sacrifier les ressentie et le forcefeeback pour les graphisme je prefere jouer a un jeu moin beau mais avoir vraiment l'impression de piloter un vrai vehicule  j'ai 300h et plus  a assetto et il  est mieux que competizione pour le moment .Je placerai competizion entre pcar et assetto niveau ressentie et forcefeedback  et de plus pour ceux qui l'ignore car j'ai vue plusieur commentaire que assetto n'a pas  de cycle jour ,nuit et de pluie que l'interface est mieux sur competizione ses parce que vous avez pas content manager,avec sol 1.1.1, car oui a tous sur assetto 1er faut juste chercher pour revenir a notre sujet  je recommende assetto competizione quand meme car je suis sur que kunos fera des mise a jour coter ressentie et force feedback  et qu'il sera parmi les meilleur  simu et je changerai peut etre mon evaluation a ce moment  et peut etre avec  un volant direct drive les ressentie sont meilleur mais avec mon t300rs alcantara non
+
+#####
+
+Du bon, du beau, du sérieux, tout ce que j'aime.
+Les physics sont plutôt pas mal. Les circuits sont beaux et bien réalisés.
+
+J'apprécie particulièrement la génération automatique de fichiers motec i2 pro, même si les données ne sont pas complètes pour le moment (il manque la température des pneus et des freins).
+
+Depuis quelques mois, trackIr est supporté. Je suis comblé.
+
+Bref, je recommande.
+
+Edit : Les températures des freins / pneus (entre autres paramètres) sont maintenant disponibles sous motec.
+
+#####
+
+Vraiment bon pour un early access. Pas encore parfait mais devient de mieux en mieux à chaque patch, vraiment fun et pas facile. Vous aimez les GT ? Foncez ! Vroum vroum gaz !
+
+#####
+
+pour le puristes du genre
+
+#####
+
+Circuit Paul Ricard >> All
+
+#####
+
+plutot sympa une vrai impression de vitesse le son es plutot cool tres immersif j ai hate de voir la suite
+
+#####
+
+very good game nice forcefeed back
+
+#####
+
+Les +
+Physique et FFB extrêmement réussis
+Graphiquement joli, circuits ultra détaillés et animés
+Un challenge en ligne avec classement mondiaux
+Solo réussi grâce a une IA intelligente
+
+Les -
+Contenu très pauvre
+Mal optimisé pour la VR
+
+#####
+
+La physique est bonne bien que la sensation est légèrement différente de celle d'Assetto Corsa 1er du nom.
+Une ambiance sonore travaillée et immersive.
+
+Menus pas toujours intuitifs
+GTX 1050 2Go : privilegier les paramètres graphiques en low/medium (sauf textures ultra) pour une fluidité optimale.
+
+#####
+
+Jeux très bien fait et très proche du réel ! Attention la prise en main de l'huracan est quand meme compliqué XD dommage que on nous fait commencé avec une si grosse voiture ! Sinon très bon jeu et impatient que les prochaines mises a jours arrivent !
+
+#####
+
+Un excellent début pour cet accès anticipé, jouabilité au top, garphismes somptueux et on ne perd pas ses repères avec AC. Que du bonheur, vivement d'autres viotures et le mode multi en novembre.
+
+#####
+
+Build 1/ je garde le jeu car la base est là, mais vous avez du travail car en l'état le plaisir à y jouer est moyen! Avez-vous déjà piloté une Supercar ? A suivre...........
+
+Build 2/ Bof Bof, il y a encore du travail.
+
+Build 3/ Suite à la troisième mise à jour, de mieux en mieux, tres bien cette BMW.
+
+Build 4/ Super cette Ferrari 488, super propre la modélisation et le son 1000 x mieux que PC2, un vrai son de GT3!
+Le plaisir de conduite au volant est présent, très bien, vivement la suite.
+Merci à l'équipe !
+
+Build 5/ Super Zolder, reste à corriger les bugs du multi et gérer le triple screen !
+Foncer.........
+
+Build 6 et la suite: Encore Trop de Bugs !
+
+Config, pas de probléme, 60 fps en EPIC / HIGHT en 5760x1080 (3 écrans 27 pouces incurvé), i7-6700k + Gigabyte RTX 2080 Ti + DDR4 CORSAIR 32 Go en 3200 Mhz + SSD M2 970 EVO PLUS + TS-XW Racer Sparco P310 Competition + Bass Shakers via Simhub.
+
+Mise à jour 1.2, à acheter sans risque, certainement la meilleur simulation!
+
+#####
+
+Avis après 20h de jeu : Premièrement, je précise que je joue au avec un Fanatec CSW 2.5, volant McLaren et pédalier Heusinkveld Pro.
+
+Pour le moment c'est très prometteur, le pilotage est précis, ça se rapproche du niveau de iRacing, l'ambiance sonore est à ce jour la meilleure toutes simus confondues (même devant Raceroom).
+
+En quick race on a vraiment l'impression de vivre une vraie course. Je suis impatient de tester la prochaine build en VR car en single screen c'est assez limité. les graphismes sont très jolis sans que ce soit une grosse claque visuelle.
+
+Que du bon pour le moent en tout cas.
+
+Edit après la MAJ 1.9 : Finalement pas au niveau de ce que j'attendais au tout début, mais cette MAJ améliore bon nombre de défauts (FFB légèrement mieux, réaction de la voiture sur les vibreurs plus réaliste), je me suis surpris à prendre du plaisir grâce notamment au mode Low Fuel Motorsport. Le jeu est également agréable en solo pour apprécier les graphismes & l'ambiance sonore.
+
+#####
+
+top
+
+
+#####
+
+Une super simulation. Je ne vais plus dutout sur Project Cars 2 ! Manque encore quelques amelioration pour les Admin serveur (Gestion des fenetre d'arret, changement de pilote...inclus mais fonctionne pas encore bien) 1.0.10
+Sinon au top !
+
+#####
+
+car
+
+#####
+
+Très bon simulateur.... magnifique ,recommandé....
+
+#####
+
+La simulation est au top ! Il y a de nombreux détails non présents dans d'autre jeu comme le pit limiter, le démarrage de la voiture manuel, le réglage du traction contrôle sur plusieurs niveaux, etc.
+Graphiquement, à puissance équivalente il n'est pas le jeu qui s'en sort le mieux mais ça reste jolie.
+
+#####
+
+super  jeux de simulation
+
+#####
+
+lourd de ouf
+
+#####
+
+Ayant joué à beaucoup de simracing, je recommande fortement ACC. Jeu Très complet d'un aspect graphique comme physique.
+
+#####
+
+cool
+
+#####
+
+Comme beaucoup de commentaire l'explique, c'est une très bonne simu et je ne m'attarderais pas la dessus.
+
+En revanche, les choses ce complique lorsque vous allez en multi. Les serveurs son peupler de TR** du C** qui ne respecte rien et ruine votre course en un instant. résultat sur une dixaine de course en mutli 2 ou 3 ce sont relativement bien passer et le reste a fini en rage quit a cause de mongol qui ne freine pas au premier virage et joue au auto-tamponneuse. Du coup je me cantonne a jouer solo( lorsque j'y joue, autant dire plus des masses) aller Go Iracing !!!
+
+#####
+
+Bon jeu seul, beaucoup de plaisirs en jouant avec une bonne communauté. Le jeu semble être une alternative à Iracing ...
+Problèmes, le système complet de rating est à mettre à la poubelle d'autant plus en montant en niveau sans parler de la "BOP" qui dans une "simulation" devrait suivre les perfs réelles des voitures et non mettre à niveau ce qui ne devrait pas l'être. Sans parler des retours de forces des volants qui sont mieux pour certaines marques que d'autres en bousillant l'étalonnage, déconfiguration, maximum de plage de réglage, etc. Par dessus tout, vendre des DLC pas du tout value for money ou "puber" des setups qui promettent monts et merveilles, sans moi. (pour ceux qui me demanderont, il faut un certain temps de jeu avant de poster un avis. Chose que j'ai faite)
+
+MAJ 2023 : Toujours ce système de rating si bien fait, mais maintenant pour que les joueurs arrivent à finir la course le format des courses "CP" est de 30 min ...... dans un jeu GT "simu" sous License". Le premier Assetto vaut le coup, il y a des comu, pas que de la GT et une vrai simu. C'est sûrement dans les vieux pots qu'on fait de la meilleure confiture.
+
+#####
+
+Je conseil.
+
+Voilà, c'est tout pour moi.
+
+#####
+
+Just great
+
+#####
+
+Rien à dire, c'est un Assetto ! ;)
+
+#####
+
+Pour une alpha plutot prometeur
+Actuelement 3 eme mise a jour donc 3 circuit 3 voitures ( 3 comportement different ) 
+les circuit sont extrat et les voiture au top chacune a ces avantage et ces inconvenient a par peut etre la BMW qui semble un peu etrange
+je vais pas evaluer les graphismes qui pour moi sont assez secondaire a par peu être la pluie sur le bitume un peu trop brillant
+le FFB tres bon 
+option graphique j'ai un double ecran pour l'instant on peu pas basculer d'un ecran a l'autre via le jeu, obligé de passer par windows
+il est vrai que tant que c'est une alpha je vais pas trop pousser le jeu, mais pour l'instant ça envoi du patté
+mise a jour 0.7
+franchement ce jeu va envoyer du lourd
+puré jusque 50 joueurs en multi ^^
+le multi pas trop testé
+
+pour le test des différents roadmap je vous renvoi a regarder  https://www.youtube.com/watch?v=TTVtK0t0j6E
+
+je vais seulement commencer a y jouer un petit peu plus régulièrement
+
+traduction tout n'est pas traduit en français mais l'essentiel est la , j'espère que l'audio serra aussi en français mais la je crois que je rêve ( oui je déteste les voix english )
+
+#####
+
+Le Jeu est vraiment bien pour ceux qui comme moi n'aime que les simulations et pas les jeux d'arcade.
+Pour contre, le gros point négatif c'est qu'il est vraiment trop gourmand au niveau matériel informatique.
+
+#####
+
+Après 75min de jeu....j'ai tres hate a la prochaine mise a jour !!!!!!
+
+#####
+
+Best game ever
+
+#####
+
+GENIAL
+
+#####
+
+très bonne simu de GT3
+
+#####
+
+c'est prometteur, mais il y aencore beaucoup à fairen les graphismes sont très moyens , les ressources importantes (test avec une 1080 OC zotac). on est encore très très loin de project cars 2.
+
+#####
+
+Pas déçu. On retrouve le super FFB d'Assetto Corsa, les circuits laser-scannés, certifié VR, RTX + la nouvelle gen de graphismes grâce à l'UE4, le cycle jour/nuit et la variation métérologique. Cerise sur le gâteau, on a un mode multi 5 étoiles avec les courses officielles du Blancpain GT Series. Je vous passe les détails mais je crois qu'il ne manque rien à ce jeu...
+
+#####
+
+Des sensations de dingue avec des sons sublime ultra immersif, encore un cran au dessus d'assetto corsa premier du nom! Niveau graphisme, je vais etre dur mais je trouve qu'ils sont loin d'exploter le UE4 à fond, j'ai été un chouille deçu du rendu, un chouille ^^ cela dit il n'est encore quand accès anticipé et les devs decouvrent le moteur, je suis sur que Kunos va nous faire de belle maj ! Je recommande sans problème ce nouveau AC!!!
+
+#####
+
+Je dis un grand OUI à cette nouvelle version de Assetto Corsa.
+Bien qu'elle soit plus tournée GT que l'ancienne je la trouve tout aussi plaisante à jouer.
+
+La conduite est un régal, la physique est bonne, le jeu est bien plus beau que son prédécéseur, et LA VUE CASQUE PUTAIN !
+
+Pour le moment le contenu est très réstreint mais c'est une early access qui permet d'avoir le jeu a moindre cout n'hesitez pas à l'acheter si vous aimez les simulations de ce type.
+
+#####
+
+très bon jeu avec de très belles sensations, j'attends avec impatience le full game
+
+#####
+
+pur simulation a jouer au volant ,manette passez votre chemin c incontrolable.
+
+#####
+
+De très loin la meilleure simulation à l'heure actuelle !
+
+#####
+
+Très bonne sensation de conduite à la manette, je vais voir ce que cela donne au volant dans quelques jours mais pour un accés anticipé il est très très prometteur ! 
+
+Je ne regrette pas mes 25€ inviestis !
+
+#####
+
+Build numero 2, une deuxieme tres belle erection.
+FFb casi parfait
+bravo continuez comme ca du tres tres bon travail MERCI aux dev
+
+#####
+
+TOP
+
+#####
+
+Juste parfait !
+
+#####
+
+very good game
+
+#####
+
+Un jeu sublime, tant graphiquement qu'au niveau de la physique!
+
+Si vous jouez au volant, vous allez adorer conduire ces GT3 et GT4 (bientôt TC avec le TC France?) sur les circuits des GT World Challenge, Intercontinental GT Challenge, GT4 European Series et maintenant British GT! C'est clairement LE jeu pour rouler en GT : la physique est un régal et vous allez en redemander à la fin de chaque course!
+C'est aussi un jeu tourné vers l'eSport et les ligues multijoueur. Vous ne voulez pas jouer avec de bêtes IA qui peuvent parfois vous rendre fou.olle.s? Rejoignez une ligue et roulez avec des pilotes de tous niveaux! L'endurance vous donne des frissons? Tous les formats sont proposés sur ce jeu : de 3 à 24h, de Silverstone à Bathurst, ce n'est pas ce qu'il manque!
+AllInRacing, ApexOnlineRacing, The SimGrid, Assetto InterTeam (organisant la course de charité des 24h pour Anna), AllSimRacing Team... ce ne sont que quelques noms parmi tant d'autres!!!
+
+[u]En résumé :[/u] actuellement le meilleur jeu de GT, une physique et des graphismes (surtout pour les intérieurs) impressionnants, une communauté française et internationale immense et la promesse de centaines heures de pure plaisir seul ou en équipe au volant de sublimes voitures sur des circuits laser-scannés qui vont vous donner du fil à retordre!
+
+#####
+
+Best feeling in a sim, it feels really food getting laps in those beast of GT3 cars
+
+#####
+
+SUPER SIMULATION POUR LES AMATEURS DE GT3 !!!
+
+#####
+
+un gameplay d'une rare excellence. on se croirait dans le cockpit
+
+#####
+
+ACC est une bonne simulation de courses GT3. Les sensations sont réalistes et le jeu est très beau. Le mode carrière a vite trouvé ses limites pour moi ainsi que l’intelligence artificielle des adversaires. En revanche en ligne avec une ligue et des pilotes sérieux (éviter les lobbys publics est préférable), il offre une expérience immersive de haut niveau.
+
+#####
+
+Exellent
+
+#####
+
+Graphismes : ok, c'est joli... même avec une machine de moyen calibre, on s'en sort.
+Solo : oui, sympa pour prendre en main
+Multijoueur : quelques courses pénibles, comme pour tous les jeux. il est préférable de joueur en ligue notamment sur LFM
+
+Simulation : le jeu sera une vraie simulation lorsque le TOE GATE sera résolu (toe arrière négatif -0.4 et hop c'est parti... the joke...). 
+
+FFB : bien en dessous de Rf2.
+
+J'adore AC mais ACC manque cruellement des qualités d'Iracing (IR, SOF) et des qualités de simu d'RF2 (bien entendu je ne parle par des mods d'RF2 qui est devenu plus plaisant avec son UI et du multi fantomatique). Je trouve bizarre pour une "simu" que certains jouent peinard au pad grâce aux assists, jouer avec la vue capot me gêne également pour une "simulation".
+Bref, l'aspect console friendly ne colle pas avec une simulation digne de ce nom.
+
+En si on veut accéder à ts les éléments du jeu (voitures + tracks) hop => 90 €...... Donc je reste  sur Rf2 , même après la maj 1.9 .^^
+
+#####
+
+Communauté catastrophique, impossible de finir une course sans voir des tocard te briser ton expérience, décevant, j'ai failli me prendre tous les DLC. Mais franchement aucun interêt vu qu'en GT4 les serveurs son vide
+Niveau FFB il est vraiment frustrant, y'a pas grand choses, j'ai plus de sensations dans les pit lanes que sur la piste, c'est très basique comme sensations rien de vraiment ouff
+au niveau des freins c'est extremement plat, 
+il ne se passe rien pas de ressenti wallou.
+
+Rfactor 2 et Ams2 sont bien plus interressant quoi que Ams2 est désert aussi mais la commu est top
+
+le jour ou ont pourras un content manager sur ACC 
+
+"Nan,, Vraiment, Je suis déçu..."
+
+
+#####
+
+Ce jeu et une très bonne simulation, si vous avez un volant vous allez vous faire plaisir, c'est assez proche de iRacing niveau conduite mais pour un prix très abordable, la communauté organise pas mal de courses (endurance et sprint) et en général les gens sont sympa ;)
+
+#####
+
+u
+
+#####
+
+Rien à ajouter une super simulation.
+
+#####
+
+Que du bonheur
+
+#####
+
+La voiture ça va vite ! :)
+
+#####
+
+Bêta très prometteuse! Les sensations sont présentes, un régal, hâte de tester le jeu final qui sera une tuerie de toute évidence ! :)
+
+#####
+
+génial en tout points
+
+#####
+
+vraiment excellent !!!
+
+#####
+
+très réaliste
+
+#####
+
+Déjà Fan d'Assetto Corsa je valide cet Assetto Corsa Competizione !
+On profite pleinement de ce ACC avec un volant, c'est clairement + axé simulation.
+Le système de Rating permet de rouler correctement en Multi, beaucoup de server, pas de lag en multi, pas de plantage de mon côté pour le moment.
+
+
+#####
+
+best jeui ever
+
+#####
+
+vraiment bien fait, me rapelle un peu GT sur play au vu de la concentration qu il faut pour conduire une vrai course et pas 5 tour
+
+#####
+
+ok
+
+#####
+
+au top
+
+#####
+
+super simulation
+
+#####
+
+Track limits : 5 sec penalty for Ocon
+
+#####
+
+Beau, Fade, Chiant ..je retourne sur un vrais Simu.
+
+#####
+
+No Fiat Mulitplat !
+No Good VR Support, occulus+3070 its still ugly then ContentManager
+at 2.5h of play i didn made a race just trying get nice graphics as ContentManager
+
+#####
+
+Mieux depuis la dernière mise à jour
+
+#####
+
+56
+
+#####
+
+il sont sérieux c'est développeur même NetKarPro faisait mieux niveau FFB,
+il y a du mieux 3 ans plus tard c'est déjà bien
+
+#####
+
+Attention a avoir une configuration de fou moi i7 7900k avec rtx 2080 ti le jeu en élévé je suis à 54 fps avec 3 écrans 32 pouces 2560x1440p avec des grosses chutes d'images... Le jeu n'est pas optimisé !!! dommage
+Attention 21/02/2021 et 45 heures de jeu pour moi vos DLC pour le moment vous pouvez les garder car le jeu en triple screen n'est pas du tout optimisé !!! il vaut mieux rester sur Iracing ou Assetto corsa premier du nom avec des graphismes beaux et fluides !!!
+
+#####
+
+La meilleur Sim Racing existante
+
+#####
+
+This game is simply amazing 
+(bis)
+
+#####
+
+Pour un jeu en early access, il y a déjà de quoi faire ! Bien sûr les mises à jours vont arriver dans les prochains mois avec de nouvelles voitures, des nouveaux circuits, le multijoueur... Mais c'est déjà bien d'être au volant d'une Huracan sur le circuit du Nurburgring^^.
+Très bon rendu avec le nouveau moteur graphique, cependant gourmand en ressource mais il faut s'y attendre avec les nouveaux jeux qui vont arriver également en cette fin d'année.
+Une simulation encore plus pousée, conduite sur la pluie, de nuit..., entrée dans les stands avec régulateur, flashlight, une conduite plus fluide, on perçoit mieux le contact avec l'asphalt, vibreur, conduire sans les aides est un vrai bonheur, on s'y croirait presque !
+Certains joueurs/pilotes vont certainement trouver des petits défauts mais ça reste très minime vue comment le jeu est déjà avancé.
+Je dirais en résumer, du bon travail Kunos Simulazioni !
+
+#####
+
+Super Simulation
+
+#####
+
+Very good simulation game, even more realistic than the first Assetto Corsa.
+
+#####
+
+ce 'vieux' jeu est comme le bon vin. Il ne cesse de s’améliorer de mise à niveau en mise à niveau.
+c'est une pure simulation, loin des fades jeux typés arcade qui pullule sur le store. Une pure beautés dans tous les sens.
+
+#####
+
+20/20
+
+
+#####
+
+ressenti de simulation superbe en revanche les graphismes de pistes et d'exterieur ainsi que le son pourrait être revu
+
+#####
+
+exceptionnel , super realiste , pour les Fan de GT
+
+#####
+
+Très bon jeu
+
+#####
+
+Ce jeux me convient .
+
+#####
+
+Ayant une grande expérience des simulateurs de conduite, je peux vous assurer qu'Assetto Corsa Competizione fait dorénavant parti de mon top trois des meilleurs simus du marché, sur PC. Son, sensations, graphismes, interface... au toooop! Achetez les yeux fermés, mais ouvrez-les quand le virage arrive!... Allé, j'y retourne!
+P.S.: attention: interface volant à retour de force, obligatoire! (ce n'est pas un jeu d'arcade!). 
+
+
+#####
+
+not bad
+
+#####
+
+Excellente simulation, mais on se passerait bien des plantages intempestifs empêchant tout bonnement de poursuivre les modes Carrière et Championnat...
+
+#####
+
+se jeu est incroiable
+
+#####
+
+il est bien wallah
+
+#####
+
+Graphiquement très réussi/ Super Physique. N'hésitez pas à acheter ce jeu! Plaisir garanti
+
+#####
+
+rien na dire propre
+
+#####
+
+...
+
+#####
+
+OF COURSE
+
+#####
+
+VROUM VROUM LA FEFE !
+
+#####
+
+tres bonne simulation
+
+#####
+
+vroum vroum la vitesse
+
+#####
+
+Injouable en multi joueur tellement il y a d'abrutis sur les serveurs qui ne pense qu'à défoncer les autres  joueurs !!!
+
+#####
+
+DINGUE GENRE
+
+#####
+
+
+
+#####
+
++
+
+#####
+
+Great game .Graphics and physics uptodate.A must..
+
+#####
+
+Je recommande :)
+
+#####
+
+Bien sur que je recommande ce jeu. Il est trop bon.
+
+#####
+
+Le jeu est juste incroyable & hyper immersif
+
+#####
+
+
+
+
+
+#####
+
+La meilleure simu GT3, devant Iracing.
+
+#####
+
+Meilleur que iracing grace à lfm
+
+#####
+
+bien
+
+#####
+
+Meilleur simu de GT3 actuellement sur le marché !
+
+#####
+
+rendu de la vitesse minable ... je deteste ce moteur graphique .
+
+#####
+
+Nous on fait vroum vroum ! Parce que les filles elles aiment quand ça fait vroum vroum !
+
+#####
+
+a
+
+#####
+
+Dinguerie absolue 👌
+
+#####
+
+L'un si ce n'est LE meilleur jeu de simulation du monde actuellement. Les PJ2 et autres soit-disant simulateur peuvent aller se coucher. Tout ce qui manquait à Assetto Corsa est là, météo, pitstop réaliste, excellent graphisme, des sons à coupé le souffle, des réglages poussées, un multijoueur compétitifs etc... Vous avez vraiment l'impression de piloter les voitures et c'est un véritable régale, une toute nouvelle expérience de pilotage et une impression de réalisme extrême. 
+Je ne peux que vous le conseillez, malgré le fait qu'il n'y ait qu'une seule voiture et qu'un seul circuit pour l'instant, c'est un régale. Et le reste ne devrait pas tarder dans tout les cas.
+
+#####
+
+Config I7 4k4 avec GTX 1070
+
+Alors que dire 20 voitures + pluie stable à 40 FPS avec tout en full, donc que du bon.
+Sinon que dire bravo pour cet opus en EA vraiment très prometteur.
+Graphisme au top on s'y crois vraiment. Le son euh OUAAAAAAAAAA.
+
+Pour les amateurs de simracing vous ne serai pas décus, moi même étant un joueur d'iracing je sais de quoi je parle.
+
+Alors si la GT3 vous tente, foncez, car en plus de son prix en EA il vaut vraiement le coup
+
+#####
+
+cool
+
+#####
+
+Sensation au rendez vous !
+Je recomande à 200% !
+
+#####
+
+TRES BON JEUX
+
+
+#####
+
+BONJOURS TRES BON SIMU VOITURES
+
+
+#####
+
+Prometteur...
+
+#####
+
+Vrooooooooooooom
+
+#####
+
+ne pas acheter si vous jouez en vr
+
+#####
+
+UE4 best idea ever...
+- Lourd et pas optimisé
+- Pas de gestion du triple screen
+- Plus de sous pour faire un vrai Online intéressant alors qu'ils avaient toutes les cartes en main et ce n'était pas le bout du monde avec une seule série. Sans compter que AC + SRS = gg.
+Pour ceux qui recherchent une vraie expérience Online, c'est la sortie de piste.
+
+Steam dans toute sa nuance c'est "Oui / Non", donc je vais être tout autant subtil et sortir le non.
+
+Ça se joue sur 2 points :
+
+- Le jeu est finalement assez correct sur la forme (avec une très très bonne machine pour le faire tourner) mais pas assez pointu sur le fond par rapport à d'autres jeux de simulation.
+Ce n'est plus ce que je recherche.
+
+- Le flou entretenu depuis le début avec le "Competizione". Les devs se réveillent sur les derniers jours "Non non on n'avait rien promis, vous avez mal compris".
+
+Ah ouais et ton "Rating System" dans ta roadmap développé sur 6 build c'est pour avoir un lobby des années 90 ?
+
+La sentence est irrévocable : ce soir, c'est le choix de la "Competizione" sous UE4 qui quitte l'aventure de l'Histoire du Simracing !
+(Restez sous AC d'ailleurs)
+
+#####
+
+carrément ++++
+un must ,dur mais must ,faut s'accroché , il vaut le coup !en vr encore ++
+
+#####
+
+ffff
+
+#####
+
+vroom vroom
+
+#####
+
+Dommage le jeu aurait pu être excellent. L'IA est plus que décevante, elle ne respecte aucune règles de fair play et ne recoit aucune sanction en cas de faute alors que le joueur en prends tout le temps. cela gache l'experience et rend le jeu injouable. De plus L'IA est tellement mal faite qu'elle sait meme pas vous éviter pendant un dépassement. malheureusment je ne peux plus me faire rembourser. attention a vous en achetant ca. je ne recommande pas 
+et si la team voit ca bah finissez vos jeux correctement avant de les sortir
+
+
+#####
+
+Vroum
+
+#####
+
+Exigeant, frustrant, mais quel pied !
+
+#####
+
+Négatif car clairement pas prêt pour la VR.
+
+#####
+
+can't work properly with windows mixed reality headset in VR. stay on AC1
+
+#####
+
+Trop de rageu sur ce jeu et impsssible de s'en débarasser
+
+#####
+
+Je ne peu que comparer a AC, le menu principal est nul et peu intuitif, les graphismes sont sans doute beau pour ceux qui ont un CG a 2000€...  sinon vous vous contenterez de 40fps aux résolutions les plus basses.. avec les yeux qui pleurent.. je recommande donc pas.
+I can only make the comparaison to AC.. first menu is ankward and not intuitive at all, no doubt the grafics ares georgous is you own a 2000€ grafic card, if not make up with 40fps at lower resolutions, having you eyes full of tears.. So i would not recommand
+
+#####
+
+Si vous voulez jouer en solo c'est pas mal, sinon c'est un jeu de singes, aucun système punitif contre les toxiques qui ne savent pas freiner c'est juste impossible de lancer une partie sans se faire ram ou taper dans le cul.
+Dommage que je ne puisse pas me faire rembourser, le contenu est tellement pauvre. Et le programme Lambo c'est de la merde.
+
+#####
+
+n'a pas fonctionné sur mon ordi
+
+#####
+
+remplis de beug , un enfer a faire tourner
+
+#####
+
+Merci les devs de passer le système minimal de win7 à win10 lors du passage de la 1.7 à la  1.8.
+Bien sûr sans possibilité de revenir avec la 1.7 qui marche. 
+
+Je résume donc : l'achète un jeu, j'y joue 11hrs et ensuit la mise à jour, hop remise à niveau de win7 à 10 et je ne peux plus jouer. Même pas on prévient hein!
+
+Ajoutez à cela des sales gamins de 5 ans online, incapables de gérer leur frustration et qui rendent l'expérience vraiment décevante en multi, du genre : "ouin ouin le gars tourne 2 sec plus vite que moi, alors je le torpille au prochain freinage!"
+
+#####
+
+le meilleur qualité pris sur les simu de course d'endurance
+
+#####
+
+Super simulation, mais : Il faut acheter le jeu (normal jusque là) et nous n'avons accès qu'à très peu de véhicule. Il faut encore acheter des "packs" de voiture.
+
+#####
+
+Simulation automobile très poussée !
+
+Le jeu est magnifique, les effets sont superbes (surtout la nuit), la bande sonore est également incroyable. 
+Le système de ratings est très bien repris également, il nous permet de rejoindre des serveurs selon notre niveau ce qui permet d'affronter d'autres joueurs avec un bon niveau pour des courses bien plus fair play et intéressantes. 
+
+Il faut impérativement y jouer avec un bon volant pour être dedans, le jeu sera alors très immersif.
+
+#####
+
