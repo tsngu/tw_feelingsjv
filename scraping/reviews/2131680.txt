@@ -1,69 +1,69 @@
-[h1][b]Les fondations de la série[/b][/h1]
-[h1]-------------------------------------[/h1]
-[h1][b]Metal Gear[/b][/h1]
-Le premier jeu de la série, toutes les bases étaient là.
+h1bles fondations de la sériebh1
+h1h1
+h1bmetal gearbh1
+le premier jeu de la série toutes les bases étaient là
 
-[h1]Les plus[/h1]
-• Un gameplay simple mais très prenant
-• [u]La plupart des objets emblématiques déjà là[/u] (boîte en carton, cigarettes, lunettes thermiques, masque à gaz, jumelles, missiles RC…)
-• Un level design qui demande de la réflexion
-• OST de qualité
+h1les plush1
+ un gameplay simple mais très prenant
+ ula plupart des objets emblématiques déjà làu boîte en carton cigarettes lunettes thermiques masque à gaz jumelles missiles rc
+ un level design qui demande de la réflexion
+ ost de qualité
 
-[h1]Les moins[/h1]
-• [u]Aucune indication sur la clé à utiliser sur une porte[/u] : on est obligé de toutes les essayer sachant qu'on en a 8 à la fin du jeu
-• Quand on est dans une pièce avec du gaz, il faut enlever son masque à gaz pour utiliser un autre objet comme le détecteur de mine ou trouver la bonne clé pour sortir de la salle et donc on prend des dégâts stupidement.
-• Des boss anecdotiques
-[h1]-------------------------------------[/h1]
-[h1][b]Metal Gear 2: Solid Snake[/b][/h1]
-Un jeu incroyable qui améliore tous les aspects de son prédécesseur. Si vous aimez [i]Metal Gear Solid[/i] c'est impératif d'y jouer pour comprendre que MGS est une sorte de remake de MG2, [b]tout était là[/b] : la fréquence à trouver hors du jeu, un admirateur qui nous appelle devant un champ de mine, la clé qui se transforme avec la température, la femme infiltrée qu'on doit retrouver dans les toilettes, la poursuite dans les escaliers de la tour…
+h1les moinsh1
+ uaucune indication sur la clé à utiliser sur une porteu  on est obligé de toutes les essayer sachant quon en a 8 à la fin du jeu
+ quand on est dans une pièce avec du gaz il faut enlever son masque à gaz pour utiliser un autre objet comme le détecteur de mine ou trouver la bonne clé pour sortir de la salle et donc on prend des dégâts stupidement
+ des boss anecdotiques
+h1h1
+h1bmetal gear 2 solid snakebh1
+un jeu incroyable qui améliore tous les aspects de son prédécesseur si vous aimez imetal gear solidi cest impératif dy jouer pour comprendre que mgs est une sorte de remake de mg2 btout était làb  la fréquence à trouver hors du jeu un admirateur qui nous appelle devant un champ de mine la clé qui se transforme avec la température la femme infiltrée quon doit retrouver dans les toilettes la poursuite dans les escaliers de la tour
 
-[h1]Les plus[/h1]
-• [u]Le gameplay amélioré[/u] : les gardes ont un cône de vison plutôt qu'une ligne, on peut ramper, faire du bruit en tapant sur les murs ou en marchant sur les grilles…
-• L'histoire et les personnages bien au-dessus du premier
-• On peut fusionner 3 clés en une seule
-• Un level design bien plus riche que le premier, les environnements sont bien plus identifiables (armurerie, dortoir, marais…)
-• [u]Des boss bien plus intéressants[/u] à affronter que dans le premier jeu
-• [u]Des tonnes d'idées partout[/u] comme le Tap Code à déchiffrer par exemple
-• Très bonne OST
+h1les plush1
+ ule gameplay amélioréu  les gardes ont un cône de vison plutôt quune ligne on peut ramper faire du bruit en tapant sur les murs ou en marchant sur les grilles
+ lhistoire et les personnages bien audessus du premier
+ on peut fusionner 3 clés en une seule
+ un level design bien plus riche que le premier les environnements sont bien plus identifiables armurerie dortoir marais
+ udes boss bien plus intéressantsu à affronter que dans le premier jeu
+ udes tonnes didées partoutu comme le tap code à déchiffrer par exemple
+ très bonne ost
 
-[h1]Les moins[/h1]
-• Des fois on retrouve bloqué et la solution est vraiment tordue, notamment le passage avec le deltaplane et le sens du vent.
-• Certains objets quasiment inutiles (bouteille d'oxygène, tapis de camouflage…)
-[h1]-------------------------------------[/h1]
-[h1][b]Au niveau du portage[/b][/h1]
-Je vous recommande le [b][i]MGSHD Fix[/i][/b] pour changer la résolution des jeux verrouillée à 720p. J'ai eu un bug dans Metal Gear 2 où le framerate chutait après un certain temps de jeu et ne remontait plus, faisant ainsi tourner le jeu au ralenti (corrigé en configurant du borderless avec [i]MGSHD Fix[/i]). 
-La traduction est toujours la même que le portage PS2 c'est-à-dire avec plein de fautes d'orthographe, de conjugaison et quelques phrases qui n'ont pas de sens.
-Pour MG2 on nous fournit la table pour décrypter le Tap Code mais uniquement dans le launcher, pas moyen d'y accéder une fois le jeu lancé. Il manque aussi les manuels des jeux qui contiennent des informations nécessaires pour jouer, obligé d'aller chercher sur Internet.
-
-#####
-
-c'est bien mais c'est cher
+h1les moinsh1
+ des fois on retrouve bloqué et la solution est vraiment tordue notamment le passage avec le deltaplane et le sens du vent
+ certains objets quasiment inutiles bouteille doxygène tapis de camouflage
+h1h1
+h1bau niveau du portagebh1
+je vous recommande le bimgshd fixib pour changer la résolution des jeux verrouillée à 720p jai eu un bug dans metal gear 2 où le framerate chutait après un certain temps de jeu et ne remontait plus faisant ainsi tourner le jeu au ralenti corrigé en configurant du borderless avec imgshd fixi 
+la traduction est toujours la même que le portage ps2 cestàdire avec plein de fautes dorthographe de conjugaison et quelques phrases qui nont pas de sens
+pour mg2 on nous fournit la table pour décrypter le tap code mais uniquement dans le launcher pas moyen dy accéder une fois le jeu lancé il manque aussi les manuels des jeux qui contiennent des informations nécessaires pour jouer obligé daller chercher sur internet
 
 #####
 
-Les bases d'une des plus grandes sagas videoludique.
-
-A faire en devoir de mémoire :)
+cest bien mais cest cher
 
 #####
 
-The man who killed the men who sold the world.
+les bases dune des plus grandes sagas videoludique
+
+a faire en devoir de mémoire 
 
 #####
 
-Bonjour,
-
-Déjà on ne peut pas changer le fullscreen / windowed de ce double jeu. C'est vraiment hyper chiant.
-Ensuite, à quoi bon mettre un système de savegame si ça nous renvoie chaque fois dans notre dernier passage à l'ascenseur ?
-On reçoit des messages sur notre radio pour téléphoner à une certaine fréquence mais ça ne répond jamais sauf à des endroits IMPOSSIBLE à devenir.
-Il faut irrémédiablement aller sur internet trouver les astuces car sinon c'est pour vous arracher les cheveux (je parle ici du 1)
-
-Pour le 2, c'est encore pire, les ennemis vous détectent et vous allez changer de map, le jeu vous laisse 2 secondes pour ne plus être dans l'angle de vue des ennemis (trouver un tournant, un trou ou autre) sinon un ennemi revient avec un bruit insupportable de détection et c'est reparti...
-Franchement, le 2 est horrible à jouer. Autant le 1 malgré les défaut, j'ai apprécié découvrir le jeu et les objets, autant le 2... Les ennemis sont insupportables
+the man who killed the men who sold the world
 
 #####
 
-+1
+bonjour
+
+déjà on ne peut pas changer le fullscreen  windowed de ce double jeu cest vraiment hyper chiant
+ensuite à quoi bon mettre un système de savegame si ça nous renvoie chaque fois dans notre dernier passage à lascenseur 
+on reçoit des messages sur notre radio pour téléphoner à une certaine fréquence mais ça ne répond jamais sauf à des endroits impossible à devenir
+il faut irrémédiablement aller sur internet trouver les astuces car sinon cest pour vous arracher les cheveux je parle ici du 1
+
+pour le 2 cest encore pire les ennemis vous détectent et vous allez changer de map le jeu vous laisse 2 secondes pour ne plus être dans langle de vue des ennemis trouver un tournant un trou ou autre sinon un ennemi revient avec un bruit insupportable de détection et cest reparti
+franchement le 2 est horrible à jouer autant le 1 malgré les défaut jai apprécié découvrir le jeu et les objets autant le 2 les ennemis sont insupportables
+
+#####
+
+1
 
 #####
 

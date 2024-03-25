@@ -1,569 +1,569 @@
-https://youtu.be/wTOR2dYxaUE
+httpsyoutubewtor2dyxaue
 
-Gameplay et découverte du jeu ci-dessus :)
-Le jeu ressemble énormément tout du moins par ses mécaniques et éléments de gameplay au très classique Game Dev Tycoon.
-Vous débuterez votre aventure dans un simple studio en tant que programmeur de jeux vidéos. Votre objectif est de faire le jeu parfait afin d'obtenir les faveurs des médias spécialisés. En effet, obtenir une bonne note des médias augmentera considérablement les ventes de votre jeu et ainsi vos profits afin de pouvoir poursuivre le développement de votre petite entreprise en emménageant dans de nouveaux locaux plus spacieux et ainsi pouvoir recruter de nouveaux employés.
-Le jeu donne également l'opportunité au joueur de mettre des bâtons dans les roues de vos concurrents par divers méthodes de sabordage !
+gameplay et découverte du jeu cidessus 
+le jeu ressemble énormément tout du moins par ses mécaniques et éléments de gameplay au très classique game dev tycoon
+vous débuterez votre aventure dans un simple studio en tant que programmeur de jeux vidéos votre objectif est de faire le jeu parfait afin dobtenir les faveurs des médias spécialisés en effet obtenir une bonne note des médias augmentera considérablement les ventes de votre jeu et ainsi vos profits afin de pouvoir poursuivre le développement de votre petite entreprise en emménageant dans de nouveaux locaux plus spacieux et ainsi pouvoir recruter de nouveaux employés
+le jeu donne également lopportunité au joueur de mettre des bâtons dans les roues de vos concurrents par divers méthodes de sabordage 
 
-Pour être bref, si vous aimiez les titres comme Dev Game Tycoon vous ne serez pas dépaysé, puisque finalement le jeu reste très classique dans son genre. En revanche, les personnes découvrant ce type jeu en auront entièrement pour leur faim :)
+pour être bref si vous aimiez les titres comme dev game tycoon vous ne serez pas dépaysé puisque finalement le jeu reste très classique dans son genre en revanche les personnes découvrant ce type jeu en auront entièrement pour leur faim 
 
-Mon avis : 
+mon avis  
 
-☐ Je ne conseillerais pas ce jeu même à mon pire ennemi
-☐ Les fans du genre ou de la franchise
-☐ Les casual gamers
-☑Tout public
-☐ Les hardcore gamers
-☐ Les PGM sud-coréens
+ je ne conseillerais pas ce jeu même à mon pire ennemi
+ les fans du genre ou de la franchise
+ les casual gamers
+tout public
+ les hardcore gamers
+ les pgm sudcoréens
 
-• Graphismes •
+ graphismes 
 
-☐ À vomir par terre
-☐ Très mauvais
-☐ Mauvais
-☑ Corrects
-☐ Très bons
-☐ Beaux à en chialer (contextuellement)
+ à vomir par terre
+ très mauvais
+ mauvais
+ corrects
+ très bons
+ beaux à en chialer contextuellement
 
-• Qualité-prix •
+ qualitéprix 
 
-☐ Complètement abusif
-☐ Assez cher
-☐ Raisonnable
-☑ Pas très cher
-☐C’est donné
+ complètement abusif
+ assez cher
+ raisonnable
+ pas très cher
+cest donné
 
-• Configuration PC recommandée •
+ configuration pc recommandée 
 
-☑ Entrée de gamme
-☐ Milieu de gamme
-☐ Haut de gamme
-☐ Un PC de la NASA
+ entrée de gamme
+ milieu de gamme
+ haut de gamme
+ un pc de la nasa
 
-• La prise en main •
+ la prise en main 
 
-☐ Nécessite l'implantation d'un nouveau bras
-☐ Difficile
-☐ Nécessite quelques heures
-☑ Facile
-☐ Inné
+ nécessite limplantation dun nouveau bras
+ difficile
+ nécessite quelques heures
+ facile
+ inné
 
-• Durée de vie •
+ durée de vie 
 
-☐ Moins longtemps qu'une mouche
-☐ Brève
-☑ Plusieurs heures
-☐ Une dizaine d’heures
-☐ Plusieurs dizaines d'heures
-☐ Une centaine d’heures
-☐ Plusieurs centaines d'heures
+ moins longtemps quune mouche
+ brève
+ plusieurs heures
+ une dizaine dheures
+ plusieurs dizaines dheures
+ une centaine dheures
+ plusieurs centaines dheures
 
-• Bugs •
+ bugs 
 
-☐ Le jeu est codé avec le cul :)
-☐ Les bugs gênent énormément le gameplay
-☐ Les bugs ne gênent pas le gameplay mais sont présents
-☑ Quelques bugs
-☐ Le jeu est codé à la perfection
+ le jeu est codé avec le cul 
+ les bugs gênent énormément le gameplay
+ les bugs ne gênent pas le gameplay mais sont présents
+ quelques bugs
+ le jeu est codé à la perfection
 
-• Avis général •
+ avis général 
 
-☐ N'y jouez surtout pas
-☐ À vos risques et périls
-☑ Jouez-y si vous avez assez d’argent
-☐ Ne perdez pas plus de temps et jouez-y !
-☐ Un must !
-
-#####
-
-Un excellent jeu de gestion. Pour info je joue directement en mode normal, "the hard way".
-Note: je n'ai jamais joué à Game Dev Studio, mais pas mal à Game Dev Story sur mobile. Il y a evidemment quelques similitudes, mais City Game Studio va plus loin. Il est tout à fait envisageable à partir d'un moment de se contenter d'éditer des jeux faits par d'autres studios, c'est viable! Et si le jeu s'appelle "City", c'est parce que toute la ville tourne autour de ça, avec la possibilité de créer des universités, d'acheter des bâtiments...
-
-J'apprécie particulièrement le fait d'avoir de la compétition et des vraies informations financières. Il est POSSIBLE de perdre dans City Game Studio, et ce n'est pas basé sur le hasard. On apprend à optimiser son jeu à chaque fois qu'on en crée un nouveau d'un genre déjà essayé et au fur et à mesure notre studio maîtrise le genre.
-
-Il y a du challenge parce qu'il y a beaucoup de paramètres à gérer, et même quelques minijeux pour briser la monotonie. Je suis loin d'avoir tout vu.
-
-J'ajoute que le développeur est français et très à l'écoute. Et un bonus pour utiliser Godot Engine ;)
-
+ ny jouez surtout pas
+ à vos risques et périls
+ jouezy si vous avez assez dargent
+ ne perdez pas plus de temps et jouezy 
+ un must 
 
 #####
 
-Ayant joué à tous les jeux de types game dev, celui-ci est de loin le meilleur alliant simplicité et profondeur de gameplay.
-J'ai pu suivre tout le développement du jeu étant Beta-tester depuis 2019 et l'évolution est folle.
+un excellent jeu de gestion pour info je joue directement en mode normal the hard way
+note je nai jamais joué à game dev studio mais pas mal à game dev story sur mobile il y a evidemment quelques similitudes mais city game studio va plus loin il est tout à fait envisageable à partir dun moment de se contenter déditer des jeux faits par dautres studios cest viable et si le jeu sappelle city cest parce que toute la ville tourne autour de ça avec la possibilité de créer des universités dacheter des bâtiments
 
-Grand bravo a Bino pour la release.
+japprécie particulièrement le fait davoir de la compétition et des vraies informations financières il est possible de perdre dans city game studio et ce nest pas basé sur le hasard on apprend à optimiser son jeu à chaque fois quon en crée un nouveau dun genre déjà essayé et au fur et à mesure notre studio maîtrise le genre
 
-#####
+il y a du challenge parce quil y a beaucoup de paramètres à gérer et même quelques minijeux pour briser la monotonie je suis loin davoir tout vu
 
-Très gros potentiel, j'avais adoré game dev tycon alors je ne peux qu'aimer ce genre de jeu. Le dév est à l'écoute et les maj récurrente.
-
-#####
-
-https://www.youtube.com/watch?v=9YbfXcxpBOI
-
-[h1] Une petite présentation vidéo si vous ne voulez pas lire la review [/h1] 
-
-Il s'agit selon moi d'un Game Dev Studio en version amélioré avec des idées beaucoup plus poussé.
-
-Le concept est simple vous prenez la direction de votre propre studio de développement, et le but est de faire des jeux vidéos. Vous devez donc pour cela trouver le bon mélange entre chaque genre/thème, voir sur qu'elle domaine vous devez vous attarder. Plus de design ? Plus de dev ou de polissage ? A vous de décider !
-
-A vous de faire grandir votre studio en recrutant de nouveaux employés, avec une équipe équilibré et un peut de chance vous finirez peut-être par racheter vos concurrents et devenir le leader du jeux vidéo !
-
-#####
-
-De mon point de vue, Il n'a y pas mieux en matière de jeux de dev tycoon.
-Et le jeux est mis a jour régulièrement, j'ai rarement vu autant suivi par ses créateurs.
-
-#####
-
-Clairement de très très loin le meilleur GameDev Tycoon que j'ai pu tester;
-jeu vraiment très complet, avec des mods a foison, avec beaucoup de points abordés et de fonctionnalités qu'on ne voit pas dans les autres du même genre, des devs actifs et des MAJ régulières, et une complexité vraiment bien dosée: dans les premières parties il y a quand même une difficulté pour assimiler tout ce qu'on peut faire mais le tuto est vraiment bien et on est jamais perdu, et on peut aller très loin une fois qu'on maîtrise le tout
-
-Si vous aimez ce type de jeu ou les jeux de gestion en général, n'hésitez pas une seconde et foncez! 
+jajoute que le développeur est français et très à lécoute et un bonus pour utiliser godot engine 
 
 
 #####
 
-Really great game :) ! It's something different that what we are used to play. I've started to play during the alpha and i've seen par of the evolution of the game, i've played again just before it's Steam Store release and it was better. You develop your company by making new games, following ingame actualities, asking your retro gaming memory to remember success that can inspirate your chocies in game, etc.
+ayant joué à tous les jeux de types game dev celuici est de loin le meilleur alliant simplicité et profondeur de gameplay
+jai pu suivre tout le développement du jeu étant betatester depuis 2019 et lévolution est folle
 
-At the begining you feel like there is not much things to do, but the game is made to unlock new functions while you play (and it goes quite fast so no worry about that) so you can be more and more confident, more and more able to manage new things, and end up with a ton of things to manage and you can do it quite well.
-
-Give a try to this game, also the developer is really nice and available to answer all questions and give tips, he also continue to develop his game on Twitch and it's quite funny to interact with him ^^.
-
-#####
-
-Un jeu complet avec un développeur a l'écoute !
-
-Si vous aimez apprendre un jeu a force d'y jouer en recommençant une partie a chaque nouvelle notion découverte et bien je vous le conseille. ( c'est une méthode d'apprentissage que j'utilise vous n'êtes pas obligé de faire comme ça :D )
+grand bravo a bino pour la release
 
 #####
 
-Tout simplement le meilleur jeu du style. Je n'en dis pas plus à vous de le découvrir.
+très gros potentiel javais adoré game dev tycon alors je ne peux quaimer ce genre de jeu le dév est à lécoute et les maj récurrente
 
 #####
 
-Le jeu semble très simple mais plus on joue plus on découvre sa complexité.
-Le développeur continue toujours à le rendre meilleur via des mise à jours
+httpswwwyoutubecomwatchv9ybfxcxpboi
+
+h1 une petite présentation vidéo si vous ne voulez pas lire la review h1 
+
+il sagit selon moi dun game dev studio en version amélioré avec des idées beaucoup plus poussé
+
+le concept est simple vous prenez la direction de votre propre studio de développement et le but est de faire des jeux vidéos vous devez donc pour cela trouver le bon mélange entre chaque genrethème voir sur quelle domaine vous devez vous attarder plus de design  plus de dev ou de polissage  a vous de décider 
+
+a vous de faire grandir votre studio en recrutant de nouveaux employés avec une équipe équilibré et un peut de chance vous finirez peutêtre par racheter vos concurrents et devenir le leader du jeux vidéo 
 
 #####
 
-Ce jeu est super complet et a une bonne durée de vie
+de mon point de vue il na y pas mieux en matière de jeux de dev tycoon
+et le jeux est mis a jour régulièrement jai rarement vu autant suivi par ses créateurs
 
 #####
 
-Très bon petit jeu. Game Dev Tycoon reste la référence puisqu'il a été le premier mais ce City Game Studio est bien plus complet ... Top :)
+clairement de très très loin le meilleur gamedev tycoon que jai pu tester
+jeu vraiment très complet avec des mods a foison avec beaucoup de points abordés et de fonctionnalités quon ne voit pas dans les autres du même genre des devs actifs et des maj régulières et une complexité vraiment bien dosée dans les premières parties il y a quand même une difficulté pour assimiler tout ce quon peut faire mais le tuto est vraiment bien et on est jamais perdu et on peut aller très loin une fois quon maîtrise le tout
 
-#####
-
-Jeu prometteur assez semblable à Mad Games Tycoon avec notamment des améliorations bienvenues comme le système de déblocage de genres et de connaissance/maitrise de ceux ci (pas besoin de rechercher les thèmes), meilleure gestion du personnel, marketing, la décoration du bureau a un impact sur les employés, possibilité d'organiser des conventions (4 jeux max présentés par contre peu importe la taille), plus besoin de 36 moteurs de jeu pour chaque genre...Beaucoup d'autres petites ajouts sympa comme n'être jamais à court de contrats ou construire des bâtiments sur une carte de ville. Egalement les algorithmes de ventes sont bien plus réalistes, l'édition de jeux est mieux faite. Il n'y a pas d'aspect production par contre.
-Néanmoins il partage également les mêmes défauts (voir mon évaluation) à savoir certains aspects totalement scriptés et statiques comme les concurrents qui ici n'évoluent pas du tout avec le temps et coûtent moins qu'acheter le bureau qu'ils occupent seul, et qui ont une toute petite équipe ne correspondant en rien leur perf et popularité, ils semblent d'ailleurs tous ne pas être capables de sortir mieux que 80/100 au passage de ce que j'ai vu. Les consoles sortent avec des stats supérieures au max possible avec les compos dispo à ce moment là et obtiennent des centaines de jeux créés pour la plateforme alors qu'il n'y a personne pour les développer (j'ai racheté tout le monde), et il est impossible de sortir de jeux pour une console que l'on développe avant sa sortie. Un gros problème qui m'a pas mal embêté est qu'il n'est pas possible de réaffecter une tâche une fois lancée ou d'ajouter des équipes dessus. Il y a également quelques soucis d'ajustement majeurs : j'ai créé mon premier gros fps en ligne à abonnement en 2004. Je me retrouve avec un jeu qui a crevé le plafond et généré plus d'argent que des dizaines de jeux et ma console réunie (dans les 17 Milliards) avec au pic 180 Millions de joueurs simultanés (nécessitant des centaines de serveurs) et 1 Milliards d'opus vendus... Le prix de location d'un bureau est inférieur au salaire d'1 employé et marginal rendant l'achat inintéressant. J'ai du oublier quelques détails.
-Achetez en connaissance de cause, tout à fait jouable en l'état et très léger. Ces défauts seront sans doute gommés progressivement le développeur semble réactif et à l'écoute.
-
-#####
-
-Après avoir testé un peu tous les jeux du genre : GamersGoMakers (très bon jeu), Game Dev Tycoon, Mad Games Tycoon 1 et 2, maintenant celui ci et attention roulement de tambour..... Celui là est juste le meilleur de tous objectivement.
-
-Le jeu est extrêmement bien suivi alors qu'il n'est plus en early access, des mises à jours régulières viennent peaufiner et améliorer le gameplay.
-
-Si vous avez un peu joué aux jeux concurrents, ici la grosse différence est que vous avez accès à une ville avec la possibilité : d'acheter, de louer ou même de faire construire vos futurs studios ou bâtiment de convention. Ainsi que des universités pour former vos employés ! Bref de quoi étendre votre Empire sur le marché et dominer tous vos concurrents.
-
-Vous pouvez bien entendu créez vos propres consoles, vos moteurs de jeux, faire des portages, des réédition GOTY et en choisir le prix. Vous pourrez aussi créer votre magasin dématérialisé à l'instar de Steam ou Epic pour proposer tous vos jeux ainsi que ceux des autres et même ajouter des fonctionnalités (forum, workshop, whislist etc.) pour attirer de nouveaux utilisateurs.
-Bref je parle pas de tous le reste, MMO, Lootbox, microtransaction, abonnements mensuel, publicités, comptabilité, hypothèque, décorations des studios, ressources humaines, marketing, étude de marché, soldes, achat ou location de serveurs en ligne etc.
-
-La difficulté à l'air bien géré, il faut s'accrocher à certains moments pour ne pas faire faillite, embaucher au bon moment, se demander si c'est le bon moment de louer un nouveau studio. Et petit bonus pour la fin il y a  même des mini-jeux pour pirater les jeux des concurrents, se protéger des attaques de hacker ou même pour débloquer de nouveau genre de jeux.
-
-C'est que du tout bon je vous dis !
-
-#####
-
-Très sympatique dans la même vibe que Game Dev Tycoon en plus complet (en tout cas par rapport à l'époque où j'y avais joué) attention à l'addiction cependant
-
-#####
-
-On le compare à Game Dev Tycoon mais City Game Studio c'est bien plus. Plus riche de par ses mécaniques, plus de possibilités ! Un très bon jeu de gestion qui offre bon nombre de possibilités. En plus c'est du made in France, merci pour ce jeu de qualité ! Un must have pour tous ceux qui aiment le genre ! Franchement foncez c'est du tout bon !
-
-#####
-
-[h1]J’étais dans mon garage et j’ai eu envie de coder … [/h1]
-
-[h1]L’histoire : [strike]*/4[/strike][/h1]
-
-C’est un jeu de gestion/tycoon, il n’y a pas d’histoire en soit si ce n’est le postulat que vous débutez le jeu dans les prémices de l’industrie du jeu vidéo, que vous démarrez votre partie dans votre maison (à défaut de démarrer dans votre garage), et que vous vous lancez dans l’aventure de la création de votre propre développement de jeu vidéo. Voilà le pitch, qui vous emmènera jusqu’en décembre 2025, date butoir de fin du jeu, et plus si affinité, nous y reviendrons.
-
-[h1]Le Gameplay : 4/6[/h1]
-
-Côté Gameplay, City Game Studio se veut plutôt Userfriendly. Il est chez les GameDev Tycoon très abordable, avec un accompagnement progressif en début de partie au fil de votre progression et du passage de certains objectifs (atteindre x fans, faire x jeux, atteindre x de trésorerie etc.. etc…), paliers qui déverrouilleront de nouveaux éléments de gameplay au fil de l’eau qui viendront enrichir et compléter votre expérience.
-On retrouve la conception de jeu vidéo au centre de nos attentions bien évidemment, avec les différents genres à débloquer en fonction des points acquis à utiliser dans un arbre, certains genres étant plus couteux que d’autres ou se déverrouillant aussi via des évènements. La conception elle se fait en trois phases, le design, le développement et le polissage. Chaque phase proposant de choisir un pourcentage de travail parmi plusieurs domaines (Gameplay, UI, Graphismes etc…) en fonction de la phase qui, fonction du genre de jeu que vous faites, aura une conséquence sur sa qualité et la note final qu’il obtiendra auprès de la presse spécialisée, et par conséquent de la réception qu’il recevra de la part des joueurs et des ventes qui en découleront. C’est petit à petit que l’on apprendra à bien doser nos sliders, notamment à l’aide des Post mortems, soit l’analyse du développement et de la note du jeu post développement qui nous fera un retour succinct sur ce qui a bien marché et moins marché. 
-Il vous faudra également prendre en considération les tendances du moment en terme de thèmes de jeu (Cyberpunk, Steampunk, Antiquité, Mythologie, Anime, Urbain etc… ) parmi un très large panel, qui fluctue dans le temps et fonction de hit aussi qui peuvent marquer les tendances. Il faut donc être réactif voir devancer les choses, et bien marier les thèmes et les genres, tout ne s’accordant pas non plus et n’obérant pas d’un succès. 
-Les jeux sont de plusieurs types, indé, normaux, gros et AAA ; tous répondant à des critères pour être lancés bien spécifiques.
-S’ajoute à cela la possibilité de construire sa propre console (portable ou de salon, un peu gamebreaker à mon avis), la possibilité de changer de locaux dans une ville vaste (location/achat/constructions), la présence de concurrents (rachat possible, collaboration possible, piratage, espionnage également). Sans compter les conventions, dans lesquels vous aurez la possibilité de mettre en avant vos jeux.
-De manière générale, le gameplay de C.G.S. est très bien construit, fluide et bien guidé, il est difficile de se perdre. On retrouve le travers redondant des Game Dev Tycoon, mais en se lançant dans ce genre de jeu, c’est difficilement critiquable.
-
-[h1]Les Graphismes : 2 /4[/h1]
-
-C.G.S. ne brille pas par des graphismes mirobolants, mais ce n’est pas ce que l’on demande à ce genre de jeu. Ils font clairement le travail, même si la modélisation des personnages est un peu en retrait, de même que leurs animations. Du reste, il est plaisant et est parfaitement lisible.
-
-[h1]L’OST/L’ambiance sonore : 2/4[/h1]
-
-Il est rare, à ma connaissance, qu’un Tycoon ou qu’un jeu de gestion brille pour son OST. Ici, elle fait le travail via des musiques d’ambiance tout à fait sympathiques, un peu entêtantes, et reconnaissables. Les parties n’étant pas excessivement longues, ce n’est pas un défaut loin de là. 
-
-[h1]Technique : 4/6[/h1]
-
-Techniquement, depuis la 1.0, je n’ai rencontré aucun bug sur le jeu. Le travail est remarquable.
-Par contre, alors que le jeu est parfaitement fluide en début et milieu de partie, dès que l’on se retrouve avec une entreprise comptant de nombreux et gros studios, il arrive que le jeu ram, sur une grosse config (i5 13600k, RTX 4080, 32 Go RAM, SSD). Les latences sont brèves, mais fréquentes en fin de partie, sur l’ouverture de menus de gestions/créations de jeu trop rapides etc… c’est dommage
-
-[h1]Conclusion : 12/20[/h1]
-
-City Game Studio est un bon Tycoon/ jeu de création de jeux vidéos, abordable, offrant différents niveaux de difficultés. Il souffrira peut-être la comparaison avec des titres plus complets mais plus complexes. Il a pour atout de proposer des parties qui ne s’éternisent pas. Je recommande.
-
-[url=https://store.steampowered.com/curator/43564035/] [b]Découvrez mes évaluations Steam et abonnez-vous ici[/b] [/url]
-
-#####
-
-Un jeu de gestion qui devient très vite addictif !
-Des graphismes simple et efficace, la prise en main des différents panneaux de gestion est vraiment rapide !!
-
-Je le conseil ! +1
-
-#####
-
-Très bon jeu de gestion ! La prise en main est intuitive, le tutoriel se fait en quelques minutes. On devient rapidement accro tant le fait de créer son jeu est satisfaisant, voir les notes de la presse, consulter la courbe des ventes et la voir exploser... ainsi que son nombre de fan. Le tout dans une ambiance zen grâce à une bande-son originale et agréable pour se détendre et profiter du jeu. Des événements surprises sont de la partie. Certains plus fréquents que d'autres
-Ce jeu a tout pour vous occuper pendant un petit moment, il y a suffisamment de mécanismes à découvrir surtout si on veut faire les meilleurs jeux comme par exemple :
-- Prioriser correctement les étapes de développement en fonction du genre
-- Utiliser les bonnes combinaisons ( Genre / Plateforme )
-
-#####
-
-Très bien et apporte des éléments intéressants par rapport aux jeux du même genre auxquels j'ai pu jouer. Dev très sympa, stream son travail et proche de sa communauté ... bref, un beau projet et un bon jeu !
-
-#####
-
-Jeux très complet. Vraiment pas déçu. Le dev est a l'écoute de la communauté et compte continuer a suivre le jeux encore un moment.
-
-Le jeux est dans le style de Mad game Tycoon, Game dev, etc... mais avec bien sur quelque petite chose bien a lui qui rend le jeux sympathique. 
-
-
-
+si vous aimez ce type de jeu ou les jeux de gestion en général nhésitez pas une seconde et foncez 
 
 
 #####
 
-Vous voici à la tête d'une société de jeux vidéo, certes ce n'est pas le premier à proposer ce concept mais ce jeu, développé par une seule personne est une pépite. Encore en early access au moment où j'écris ce commentaire, il est déjà très complet, les mises à jours sont régulières et n'apportent que des bonnes idées. Selon moi c'est déjà le meilleur de sa catégorie, je recommande vivement aux amateurs du genre.
+really great game   its something different that what we are used to play ive started to play during the alpha and ive seen par of the evolution of the game ive played again just before its steam store release and it was better you develop your company by making new games following ingame actualities asking your retro gaming memory to remember success that can inspirate your chocies in game etc
+
+at the begining you feel like there is not much things to do but the game is made to unlock new functions while you play and it goes quite fast so no worry about that so you can be more and more confident more and more able to manage new things and end up with a ton of things to manage and you can do it quite well
+
+give a try to this game also the developer is really nice and available to answer all questions and give tips he also continue to develop his game on twitch and its quite funny to interact with him 
 
 #####
 
-Vraiment un jeu hyper addictif voir meme trop !
-Je le conseil au personne passionné de jeu de gestion posé !
-Dans ce jeu tout prens son temps un peu a la maniere de Project Hospital (excellent aussi )
-Bravo au developpeur pour ce super boulot .
+un jeu complet avec un développeur a lécoute 
+
+si vous aimez apprendre un jeu a force dy jouer en recommençant une partie a chaque nouvelle notion découverte et bien je vous le conseille  cest une méthode dapprentissage que jutilise vous nêtes pas obligé de faire comme ça d 
 
 #####
 
-Jeu que je recommande vivement ! Tombé dessus complétement par hasard en me perdant un peu sur youtube, je ne regrette absolument pas mon achat ! Pour ceux hésitant encore à sauter le pas, sâchez que ce jeu est un mix de tout les jeux du genre reprenant très grandement comme base dans son gameplay, celle de l'excellent Game Dev Tycoon. Le gameplay y est similaire et est aussi simpliste dans son interface mais tout de même poussé dans ses fonctionnalités. 
-
-Ce jeu reprend bien l'expression du "Easy to learn Hard to master". Vous prendrez le jeu très facilement en main, le tutoriel vous guidant au départ est très complet et bien expliqué et vous suit tout au long du jeu à chaque nouvelle fonctionnalité débloquée. L'interface est aussi très friendly, néanmoins si vous souhaitez réellement arriver au bout d'une partie et faire de votre studio un véritable incontournable de l'industrie, il faudra apprendre et recommencer. Que vous soyez un gros ou petit joueur de jeux de gestion, ce jeu saura vous faire passer quelques bonnes heures !
+tout simplement le meilleur jeu du style je nen dis pas plus à vous de le découvrir
 
 #####
 
-Jeu addictif vraiment top si vous aimez les jeux de gestion. Je ne connais pas ses concurrents, mais celui ci est très complet :
-[list]
-    [*] gestion des jeux vidéos,
-    [*] des portages
-    [*] des micro-transactions
-    [*] des magasins dématérialisés
-    [*] de la création de consoles
-    [*] de son moteur de jeu
-    [*] de vos équipes
-    [*] faire appel à d'autres studios en renfort
-    [*] l'achat et l'aménagement des locaux (que vous pouvez automatiser si cela ne vous intéresse pas
-    [*] participer à des salons et en créer
-[/list]
-
-Vous débloquerez de nouveaux genres de jeu (via un arbre) au fil de la partie, vous pouvez racheter vos concurrents, faire de la publicité via différents canaux, mettre vos jeux en soldes, analyser les ventes, etc...) 
-Bref en terme de contenu il y a de quoi faire. 
-
-Même si c'est anécdotique et que de mon point de vue, ça n'apporte pas grand chose car très facile (ça dépend surement du mode de difficulté choisi), vous pourrez même pirater les concurrents. Pas essentiel, mais ça a le mérite d'être présent.
-
-Pour les points négatifs, car le jeu est toujours en alpha : 
-[list]
- [*] Difficile à appréhender pour un néophyte car pas encore de tuto (mais prévu). Par contre le développeur met de + en + d'info bulle pour guider le joueur. (Encore faut-il avoir le réflexe de passer sa souris sur les éléments). Comme on ne sait pas où il y a des infobulles, je passe ma souris partout ^^) 
-    [*] La gestion des différents studios. Peut être il y a un truc à faire pour améliorer ce point là. Quand on commence à en avoir des dizaines, on leur fait faire un peu tout et n'importe quoi. J'ai l'impression qu'il n'y a pas de spécialisation des studios. Donc quand je lance le développement d'un projet, je mets n'importe quelle équipe dessus sans trop regarder quel studio c'est et ça fait le job (enfin je crois ^^). 
-    [*] Le temps défile très vite et je trouve très difficile de sortir une même licence tous les ans surtout quand on sort d'autres licences à côté. (mais je m'organise peut être très mal :slight_smile: )
-    [*] Le rachat de la concurrence qui est un peu flou et qui pourrait apporter beaucoup plus d'éléments que des nouveaux locaux / équipes, comme les jeux en cours de développement par les studios rachetés, leurs licences, ou de nouveaux indices pour améliorer nos jeux.
-[/list]
-
-Avant la sortie officielle, de nouveaux éléments viendront s'ajouter au jeu. Les mods permettent aussi de rajouter du contenu. 
-
-Le discord permet d'échanger avec la communauté si vous avez des questions et le développeur qui est à l'écoute des joueurs pour développer de nouveaux éléments. 
-
-Bref, je recommande sans hésitation
+le jeu semble très simple mais plus on joue plus on découvre sa complexité
+le développeur continue toujours à le rendre meilleur via des mise à jours
 
 #####
 
-Après l'avoir testé en février 2021 et à la sortie du jeu dans sa version aboutie, fin Août 2021, je donne enfin mon avis final sur le jeu.
-
-A l'époque, je trouvais le jeu beaucoup trop difficile et le rapport succès commerciaux / échecs était beaucoup trop sévère, malgré la qualité des jeux et la publicité que l'on effectuait pour ces derniers.
-Depuis, le problème est réglé et j'effectuerais donc une liste de points positifs et négatifs de la manière la plus objective possible.
-
-                                                        LES POINTS POSITIFS :
-
-- La création des studios et leur personnalisation. Un grand catalogue de produits pour les meilleurs architectes (d'entre-nous.)
-- La carte du monde et la possibilité de louer/d'acheter des biens immobiliers. C'est très bien pensé. Vous aurez le choix niveau constructions entre studios de dev, universités ou salles d'expositions. 
-- L'originalité du jeu, parmi une panoplie de jeux du même genre. City Game Studio se démarque très bien de ses concurrents en venant poser comme principe du jeu, la coopération et la gestion des différents studios de votre entreprise. Vous jonglerez entre chacun d'entre-eux pour réaliser vos projets.
-- Les références amusantes (comme le 3615 USUL, ancienne émission hebdomadaire chez JVC)
-- Le développement des jeux qui évoluent avec le temps, les technologies...etc.
-- Le temps et le budget d'un jeu qui augmentent selon les priorités de développement. Si l'on souhaite consacrer d'avantage de temps pour le son, il faudra plus de temps ainsi que mettre d'avantage de biftons. Pas mal.
-- La négociation avec les éditeurs comme Nintendo et les différentes offres de ces derniers à certains moments de votre partie.
-- La possibilité de MAJ les moteurs sans devoir en créer un nouveau à chaque fois.
-- Le système de création de marché digital et de console vraiment bien fait. Bravo !
-- Le jeu est très beau dans son ensemble, il est propre graphiquement.
-- Le son est correct, il fait le café.
-- La formation des employés par le biais des universités. Ouais, pas mal ! 
-- La possibilité de consulter les statistiques avancées de chaque jeu (nombre de joueurs, revenus pour chaque type : micro-transactions, DLC, ventes du jeu...etc.)
-- La possibilité de faire des soldes de jeux, de consoles...etc. Pleins de petites touches d'originalité sur le gameplay qui sont appréciables.
-- Pouvoir attaquer de manière illégale les concurrents (voler des technologies, pirater certains de leurs jeux...etc.) 
-Dommage juste qu'il n'y ait pas de partie juridique au sein de l'entreprise, pour avoir à gérer des litiges avec des entreprises rivales. 
-
-En parlant des aspects un peu dommage, passons aux points négatifs du jeu...
-
-                                                                      LES POINTS NEGATIFS :
-
-- Les contrats d'édition vraiment à la ramasse tant les objectifs sont complexes à réaliser ou les contrats peu réalistes (ex : un éditeur qui va vous proposer de développer un jeu sur une vieille console de 15 ans avec peu de parts de marché et des jeux avec des combos invraisemblables entre thèmes et genres...)
-- Le nombre de fans qui n'augmente jamais... Le meilleur moyen reste le fait de racheter des concurrents pour gagner leur nombre de fans. Cependant, ça manque de cohérence de devoir créer des jeux indépendants car vous avez 5k fans et d'avoir la possibilité financière de racheter des R* à 70k fans sans problème. De même qu'avec des jeux qui se vendront très bien, qui auront de bonnes critiques ne vous rendront pas forcément plus connus... Il faut faire vraiment des tonnes et des tonnes de jeux pour dépasser les 10 000 fans sans avoir à racheter tous les concurrents, qui on ne sait comment, ont 8x plus de fans que vous...
-- L'avancée trop rapide des technologies des différents moteurs de jeu par rapport à la capacité technique des plateformes. Sans avoir à faire ses propres consoles et de mettre les meilleurs composants, devoir faire des jeux pour des consoles existantes, comme la NES avec un moteur de jeu déjà suffisamment complexe, fera que vous serez obligé de vous brider volontairement sur chacun de vos jeux parce qu'il vous sera impossible de mettre le nb de technologies que vous souhaitez mettre. Même si vous êtes en train de développer un jeu de taille "GROS" ou "AAA". Que vous choisissiez un jeu indé ou un AAA, cela ne changera en rien le nb de technologies pouvant être utilisées dans le jeu que vous développez car comme dit précédemment, seul le support aura un impact sur ça. 
-- L'impossibilité de créer des filiales. Racheter vos concurrents ne fera que racheter les licences, les employés, les studios ainsi que le nombre de fans. Ils ne pourront pas devenir autonomes comme sur Mad Games Tycoon ou Software Inc, donc mis à part pour voler l'intégralité de leurs fans, ne le faites pas. Quoi que, vous pouvez revendre leurs studios et donc regagner l'intégralité de la somme que vous aviez investi pour les racheter, ce qui vous aura permis de... racheter un concurrent gratuitement, à partir du moment que vous avez eu la somme nécessaire à un moment précis ?
-- L'absence des marchés boursiers, des brevets...etc : Pas fondamental mais ça aurait été un petit plus.
-- Les statistiques qui ne sont visibles qu'à l'échelle mensuelle. On manque forcément de recul sur les données que l'on nous permet de voir. On aurait aimé pouvoir consulter les finances de son entreprise, par exemple, sur des années entières afin de pouvoir consulter son évolution ou son bilan comptable, d'années en années jusqu'à l'année présente.
-- Le manque de moyens de financements : seule l'hypothèque est disponible. On aurait aimé avoir le prêt bancaire, la vente de parts de son entreprise...etc.
-
-En conclusion, le jeu est très bon. Il est stable, ne demande pas un gros PC pour pouvoir être joué et mérite sa part d'attention. Il a de très bonnes idées et sort bien du lot. C'est un bon jeu de simulation/gestion donc si vous êtes friands comme moi de ce genre de jeux : foncez !
-Au pire, vous vous direz qu'il manque quelques fonctionnalités que vous auriez apprécié trouver dans ce jeu, au mieux, vous apprécierez pendant une bonne dizaine, cinquantaine d'heures, l'expérience qui vous sera proposée.
-
-Merci à toutes les personnes, d'avoir lu ce roman.
-La prochaine fois, je proposerai une lecture de ce commentaire, à une entreprise de livres audio, comme un ancien chef d'Etat d'un pays européen connu.
-Blague à part, merci au développeur et bonne continuation !
+ce jeu est super complet et a une bonne durée de vie
 
 #####
 
-Possibilité de passer de bon moment sur ce jeu .Malgré une difficulté mal dosé, les 1ere années sont les plus intéressante, apres on se lasse vite
+très bon petit jeu game dev tycoon reste la référence puisquil a été le premier mais ce city game studio est bien plus complet  top 
 
 #####
 
-Une pépite dans son genre ! Même si je comprends pas tout c'est un réel plaisir de jouer à ce jeu de gestion d'entreprise vidéo-ludique et passer d'un développeur seul à une grosse entreprise capable de sortir des AAA à la chaîne.
-Mention spécial à l'espionnage et piratage de ses concurrents !
-S/O Binogure
+jeu prometteur assez semblable à mad games tycoon avec notamment des améliorations bienvenues comme le système de déblocage de genres et de connaissancemaitrise de ceux ci pas besoin de rechercher les thèmes meilleure gestion du personnel marketing la décoration du bureau a un impact sur les employés possibilité dorganiser des conventions 4 jeux max présentés par contre peu importe la taille plus besoin de 36 moteurs de jeu pour chaque genrebeaucoup dautres petites ajouts sympa comme nêtre jamais à court de contrats ou construire des bâtiments sur une carte de ville egalement les algorithmes de ventes sont bien plus réalistes lédition de jeux est mieux faite il ny a pas daspect production par contre
+néanmoins il partage également les mêmes défauts voir mon évaluation à savoir certains aspects totalement scriptés et statiques comme les concurrents qui ici névoluent pas du tout avec le temps et coûtent moins quacheter le bureau quils occupent seul et qui ont une toute petite équipe ne correspondant en rien leur perf et popularité ils semblent dailleurs tous ne pas être capables de sortir mieux que 80100 au passage de ce que jai vu les consoles sortent avec des stats supérieures au max possible avec les compos dispo à ce moment là et obtiennent des centaines de jeux créés pour la plateforme alors quil ny a personne pour les développer jai racheté tout le monde et il est impossible de sortir de jeux pour une console que lon développe avant sa sortie un gros problème qui ma pas mal embêté est quil nest pas possible de réaffecter une tâche une fois lancée ou dajouter des équipes dessus il y a également quelques soucis dajustement majeurs  jai créé mon premier gros fps en ligne à abonnement en 2004 je me retrouve avec un jeu qui a crevé le plafond et généré plus dargent que des dizaines de jeux et ma console réunie dans les 17 milliards avec au pic 180 millions de joueurs simultanés nécessitant des centaines de serveurs et 1 milliards dopus vendus le prix de location dun bureau est inférieur au salaire d1 employé et marginal rendant lachat inintéressant jai du oublier quelques détails
+achetez en connaissance de cause tout à fait jouable en létat et très léger ces défauts seront sans doute gommés progressivement le développeur semble réactif et à lécoute
 
 #####
 
-Excellent, pas de phases d'attente, possibilités de lancer plusieurs jeux, de faire des portages, d'ameliorer le moteur de jeu, de s'occuper de contrats, de dévelloper de l'indie jusqu'au AAA, On peut avoir plusieurs studios, racheter les concurrents, aller ou créer des expositions, gérer son STEAM en ligne, j'en passe et des meilleurs, et le jeu va s'améliorer et ajouter un workshop, la difficulté est selectionnable, pour un early access il est déja jouable de bout en bout, si tous les jeux pouvaient être comme ça, FONCEZ !!!
+après avoir testé un peu tous les jeux du genre  gamersgomakers très bon jeu game dev tycoon mad games tycoon 1 et 2 maintenant celui ci et attention roulement de tambour celui là est juste le meilleur de tous objectivement
+
+le jeu est extrêmement bien suivi alors quil nest plus en early access des mises à jours régulières viennent peaufiner et améliorer le gameplay
+
+si vous avez un peu joué aux jeux concurrents ici la grosse différence est que vous avez accès à une ville avec la possibilité  dacheter de louer ou même de faire construire vos futurs studios ou bâtiment de convention ainsi que des universités pour former vos employés  bref de quoi étendre votre empire sur le marché et dominer tous vos concurrents
+
+vous pouvez bien entendu créez vos propres consoles vos moteurs de jeux faire des portages des réédition goty et en choisir le prix vous pourrez aussi créer votre magasin dématérialisé à linstar de steam ou epic pour proposer tous vos jeux ainsi que ceux des autres et même ajouter des fonctionnalités forum workshop whislist etc pour attirer de nouveaux utilisateurs
+bref je parle pas de tous le reste mmo lootbox microtransaction abonnements mensuel publicités comptabilité hypothèque décorations des studios ressources humaines marketing étude de marché soldes achat ou location de serveurs en ligne etc
+
+la difficulté à lair bien géré il faut saccrocher à certains moments pour ne pas faire faillite embaucher au bon moment se demander si cest le bon moment de louer un nouveau studio et petit bonus pour la fin il y a  même des minijeux pour pirater les jeux des concurrents se protéger des attaques de hacker ou même pour débloquer de nouveau genre de jeux
+
+cest que du tout bon je vous dis 
 
 #####
 
-Je recommande ce jeu fortement, pour le prix c'est worth! 
-(et merci popcorn/domingo)
+très sympatique dans la même vibe que game dev tycoon en plus complet en tout cas par rapport à lépoque où jy avais joué attention à laddiction cependant
 
 #####
 
-https://www.youtube.com/watch?v=7rlRITHOQYE&t=682s
-
-Ce jeux est une pure merveille, j'ai pu le test sur les conseils d'un ami et sur ce coups, j'ai bien fait de l'écouté, certes le jeux est assez difficile de prime abord mais une fois cette étape passé, on découvre un univers  et un jeux qui est vraiment extra, les mécaniques sont très sophistiquées et les features nombreuses, certes ce jeux est inspiré de made game et game dev mais il réussi à faire mieux que ces ainés! A conseiller à tous les fans de jeux vidéo et de gestion!!!
+on le compare à game dev tycoon mais city game studio cest bien plus plus riche de par ses mécaniques plus de possibilités  un très bon jeu de gestion qui offre bon nombre de possibilités en plus cest du made in france merci pour ce jeu de qualité  un must have pour tous ceux qui aiment le genre  franchement foncez cest du tout bon 
 
 #####
 
-Binogure te met pas la pression avec ton jeu ! Il est vraiment bien ! 
+h1jétais dans mon garage et jai eu envie de coder  h1
 
-Juste ma machine a café qui casse souvent mais c'est un détail nul !
-MERCI BINOGURE, en plus d'être bien de base tu continues à le mettre à jour et c'est encore plus mieux. DONC CIMER GROS
+h1lhistoire  strike4strikeh1
 
-#####
+cest un jeu de gestiontycoon il ny a pas dhistoire en soit si ce nest le postulat que vous débutez le jeu dans les prémices de lindustrie du jeu vidéo que vous démarrez votre partie dans votre maison à défaut de démarrer dans votre garage et que vous vous lancez dans laventure de la création de votre propre développement de jeu vidéo voilà le pitch qui vous emmènera jusquen décembre 2025 date butoir de fin du jeu et plus si affinité nous y reviendrons
 
-Un bon jeu de gestion de création de studios. Créer par une seule personne qui y met tout son coeur ! Certes il reste des petites choses à améliorer mais n'oubliez pas qu'il est encore en développement et s'améliore de jour en jour !! :D
+h1le gameplay  46h1
 
-#####
+côté gameplay city game studio se veut plutôt userfriendly il est chez les gamedev tycoon très abordable avec un accompagnement progressif en début de partie au fil de votre progression et du passage de certains objectifs atteindre x fans faire x jeux atteindre x de trésorerie etc etc paliers qui déverrouilleront de nouveaux éléments de gameplay au fil de leau qui viendront enrichir et compléter votre expérience
+on retrouve la conception de jeu vidéo au centre de nos attentions bien évidemment avec les différents genres à débloquer en fonction des points acquis à utiliser dans un arbre certains genres étant plus couteux que dautres ou se déverrouillant aussi via des évènements la conception elle se fait en trois phases le design le développement et le polissage chaque phase proposant de choisir un pourcentage de travail parmi plusieurs domaines gameplay ui graphismes etc en fonction de la phase qui fonction du genre de jeu que vous faites aura une conséquence sur sa qualité et la note final quil obtiendra auprès de la presse spécialisée et par conséquent de la réception quil recevra de la part des joueurs et des ventes qui en découleront cest petit à petit que lon apprendra à bien doser nos sliders notamment à laide des post mortems soit lanalyse du développement et de la note du jeu post développement qui nous fera un retour succinct sur ce qui a bien marché et moins marché 
+il vous faudra également prendre en considération les tendances du moment en terme de thèmes de jeu cyberpunk steampunk antiquité mythologie anime urbain etc  parmi un très large panel qui fluctue dans le temps et fonction de hit aussi qui peuvent marquer les tendances il faut donc être réactif voir devancer les choses et bien marier les thèmes et les genres tout ne saccordant pas non plus et nobérant pas dun succès 
+les jeux sont de plusieurs types indé normaux gros et aaa  tous répondant à des critères pour être lancés bien spécifiques
+sajoute à cela la possibilité de construire sa propre console portable ou de salon un peu gamebreaker à mon avis la possibilité de changer de locaux dans une ville vaste locationachatconstructions la présence de concurrents rachat possible collaboration possible piratage espionnage également sans compter les conventions dans lesquels vous aurez la possibilité de mettre en avant vos jeux
+de manière générale le gameplay de cgs est très bien construit fluide et bien guidé il est difficile de se perdre on retrouve le travers redondant des game dev tycoon mais en se lançant dans ce genre de jeu cest difficilement critiquable
 
-Très bon jeu, un peut dificil au début mais une fois qu'on a bien compris les mécanismes tout devient plus simples. Je recommande vraiment !
+h1les graphismes  2 4h1
 
-#####
+cgs ne brille pas par des graphismes mirobolants mais ce nest pas ce que lon demande à ce genre de jeu ils font clairement le travail même si la modélisation des personnages est un peu en retrait de même que leurs animations du reste il est plaisant et est parfaitement lisible
 
-Tellement de fonctionalitées bien sympa incluses dans ce jeu, le fait de pouvoir racheter les concurrents, de demander à un autre studio de publier votre jeu car vous êtes entrain de développer un marché dématerialisé en même temps, et votre deuxième équipe prépare l'édition GOTY de votre meilleure vente de l'année. 
-Des ajouts bien sympas en tout cas pour tout ceux qui ont aimé Game Dev Tycoon entre autres, sachant que le développeur est tout seul sur le projet un gros bravo à lui !
+h1lostlambiance sonore  24h1
 
-#####
+il est rare à ma connaissance quun tycoon ou quun jeu de gestion brille pour son ost ici elle fait le travail via des musiques dambiance tout à fait sympathiques un peu entêtantes et reconnaissables les parties nétant pas excessivement longues ce nest pas un défaut loin de là 
 
-Jeu extrèmement complet, addictif et avec beaucoup de paramètres, pour pimenter de plus en plus les parties. Développeur à l"écoute et qui répond aux questions très rapidement. La période couverte va des années 70 à 2020. Mention spéciale au piratage, très drôle ! Je recommande ce jeu si vous avez aimez les autres dans le même genre.
+h1technique  46h1
 
-#####
+techniquement depuis la 10 je nai rencontré aucun bug sur le jeu le travail est remarquable
+par contre alors que le jeu est parfaitement fluide en début et milieu de partie dès que lon se retrouve avec une entreprise comptant de nombreux et gros studios il arrive que le jeu ram sur une grosse config i5 13600k rtx 4080 32 go ram ssd les latences sont brèves mais fréquentes en fin de partie sur louverture de menus de gestionscréations de jeu trop rapides etc cest dommage
 
-Petit jeux sympathique pour perdre plusieurs heures
+h1conclusion  1220h1
 
-#####
+city game studio est un bon tycoon jeu de création de jeux vidéos abordable offrant différents niveaux de difficultés il souffrira peutêtre la comparaison avec des titres plus complets mais plus complexes il a pour atout de proposer des parties qui ne séternisent pas je recommande
 
-Très bon jeu indépendant et régulièrement mis à jour par le seul et unique développeur.
-
-A l'écoute de la communauté, joli titre.
-
-#####
-
-Les jeux suivants ont été une source d'inspiration pour City Game Studio:
-Game Dev Story
-Game Dev Tycoon
-Software Inc
-Sim City
-Mad Games Tycoon
-
-C'est vrai et c'est très bien fait. 
-
-Ce jeu est une pépite, tout est bien pensé et intuitif.
-Que dire à part que si vous appréciez ce genre de jeu, foncez vous ne serez pas déçu.
-
-Ah oui j'allais oublié, les dev travaillent encore dessus, que demander de plus ?
+urlhttpsstoresteampoweredcomcurator43564035 bdécouvrez mes évaluations steam et abonnezvous icib url
 
 #####
 
-Bon jeu, dev à l'écoute !
+un jeu de gestion qui devient très vite addictif 
+des graphismes simple et efficace la prise en main des différents panneaux de gestion est vraiment rapide 
+
+je le conseil  1
 
 #####
 
-Le jeu est incroyable pour voir qu'il a été fait par une seule personne ! Pour le moment 0 bugs pour moi .
+très bon jeu de gestion  la prise en main est intuitive le tutoriel se fait en quelques minutes on devient rapidement accro tant le fait de créer son jeu est satisfaisant voir les notes de la presse consulter la courbe des ventes et la voir exploser ainsi que son nombre de fan le tout dans une ambiance zen grâce à une bandeson originale et agréable pour se détendre et profiter du jeu des événements surprises sont de la partie certains plus fréquents que dautres
+ce jeu a tout pour vous occuper pendant un petit moment il y a suffisamment de mécanismes à découvrir surtout si on veut faire les meilleurs jeux comme par exemple 
+ prioriser correctement les étapes de développement en fonction du genre
+ utiliser les bonnes combinaisons  genre  plateforme 
 
 #####
 
-Un bon jeu de gestion, beaucoup de contrôle sont présent pour nous aider à réaliser LE jeu qui nous permettra d'agrandir notre studio.
-On est un peu comme au casino, en envoie des développements à la chaîne en espérant ramasser un max :D
-On ne peut cependant pas faire n'importe quoi, j'ai fais un game over en moins de 10 années de développement.
-pas très habitué au genre gestion, j'ai était agréablement surpris. Un bon petit jeu, très prenant. 
+très bien et apporte des éléments intéressants par rapport aux jeux du même genre auxquels jai pu jouer dev très sympa stream son travail et proche de sa communauté  bref un beau projet et un bon jeu 
+
+#####
+
+jeux très complet vraiment pas déçu le dev est a lécoute de la communauté et compte continuer a suivre le jeux encore un moment
+
+le jeux est dans le style de mad game tycoon game dev etc mais avec bien sur quelque petite chose bien a lui qui rend le jeux sympathique 
+
+
 
 
 
 #####
 
-Très bon jeu avec des good vibes de game dev tycoon, mais avec ce petit truc en plus que je vous laisserez découvrir, un dev FR à l'écoutes des demandes, et réactif ça fait plaisir
+vous voici à la tête dune société de jeux vidéo certes ce nest pas le premier à proposer ce concept mais ce jeu développé par une seule personne est une pépite encore en early access au moment où jécris ce commentaire il est déjà très complet les mises à jours sont régulières et napportent que des bonnes idées selon moi cest déjà le meilleur de sa catégorie je recommande vivement aux amateurs du genre
 
 #####
 
-Vraiment très sympa, le jeu est pas tant répétitif que ça vu qu'il y a beaucoup d'étapes à débloquer, et de gameplay différents, y'en a peut être même trop ce qui fait qu'on n'utilise pas toutes les parts du jeu dans une partie et c'est plus à notre 2 ou 3ième partie qu'on essaie de découvrir les trucs qu'on a pas fait.
-Je recommande à tout fan de Tycoons et Game Dev Tycoon en particulier, car le jeu s'en inspire sans non plus faire du copier/collé ou moins bien ^^
+vraiment un jeu hyper addictif voir meme trop 
+je le conseil au personne passionné de jeu de gestion posé 
+dans ce jeu tout prens son temps un peu a la maniere de project hospital excellent aussi 
+bravo au developpeur pour ce super boulot 
 
 #####
 
-Après 90 minutes de jeu. Prise en main agréable. Les mécaniques sont fluides.
-Très bon jeu pour passer la journée attention le temps passe vite quand nous sommes dessus :)
+jeu que je recommande vivement  tombé dessus complétement par hasard en me perdant un peu sur youtube je ne regrette absolument pas mon achat  pour ceux hésitant encore à sauter le pas sâchez que ce jeu est un mix de tout les jeux du genre reprenant très grandement comme base dans son gameplay celle de lexcellent game dev tycoon le gameplay y est similaire et est aussi simpliste dans son interface mais tout de même poussé dans ses fonctionnalités 
 
-Continuez comme cela.
-
-#####
-
-Très bon jeu avec un énorme suivi c'est parfait pour chill, merci Xavier pour ce poulet.
+ce jeu reprend bien lexpression du easy to learn hard to master vous prendrez le jeu très facilement en main le tutoriel vous guidant au départ est très complet et bien expliqué et vous suit tout au long du jeu à chaque nouvelle fonctionnalité débloquée linterface est aussi très friendly néanmoins si vous souhaitez réellement arriver au bout dune partie et faire de votre studio un véritable incontournable de lindustrie il faudra apprendre et recommencer que vous soyez un gros ou petit joueur de jeux de gestion ce jeu saura vous faire passer quelques bonnes heures 
 
 #####
 
-Attention ... Ce jeu et extrêmement addictif !!! 
+jeu addictif vraiment top si vous aimez les jeux de gestion je ne connais pas ses concurrents mais celui ci est très complet 
+list
+     gestion des jeux vidéos
+     des portages
+     des microtransactions
+     des magasins dématérialisés
+     de la création de consoles
+     de son moteur de jeu
+     de vos équipes
+     faire appel à dautres studios en renfort
+     lachat et laménagement des locaux que vous pouvez automatiser si cela ne vous intéresse pas
+     participer à des salons et en créer
+list
 
-Un jeu de micro-gestion ou vous gérez votre propre studio de création de jeu vidéo, mais il va bien au-delà ! 
+vous débloquerez de nouveaux genres de jeu via un arbre au fil de la partie vous pouvez racheter vos concurrents faire de la publicité via différents canaux mettre vos jeux en soldes analyser les ventes etc 
+bref en terme de contenu il y a de quoi faire 
 
-Vous débuterez l'aventure tout seul dans une pièce de quelques mètres carré à tenter de sortir "la pépite" qui vous permettra d'investir dans du personnel et du nouveau matériel, pour finir dans un building gigantesque grouillant de monde  à produire les meilleurs jeux et console jamais produite par le passé ! 
+même si cest anécdotique et que de mon point de vue ça napporte pas grand chose car très facile ça dépend surement du mode de difficulté choisi vous pourrez même pirater les concurrents pas essentiel mais ça a le mérite dêtre présent
 
-Recrutez vos équipes, améliorer vos infrastructures, achetez de nouveaux bâtiments, recherchez de nouvelles technologies pour améliorer vos console et mieux vous positionner face à vos concurrents. Car oui, il y a des concurrents sérieux mais n'ayez crainte vous pourrez si vous êtes ambitieux finir par les racheter ! hé hé
+pour les points négatifs car le jeu est toujours en alpha  
+list
+  difficile à appréhender pour un néophyte car pas encore de tuto mais prévu par contre le développeur met de  en  dinfo bulle pour guider le joueur encore fautil avoir le réflexe de passer sa souris sur les éléments comme on ne sait pas où il y a des infobulles je passe ma souris partout  
+     la gestion des différents studios peut être il y a un truc à faire pour améliorer ce point là quand on commence à en avoir des dizaines on leur fait faire un peu tout et nimporte quoi jai limpression quil ny a pas de spécialisation des studios donc quand je lance le développement dun projet je mets nimporte quelle équipe dessus sans trop regarder quel studio cest et ça fait le job enfin je crois  
+     le temps défile très vite et je trouve très difficile de sortir une même licence tous les ans surtout quand on sort dautres licences à côté mais je morganise peut être très mal slight_smile 
+     le rachat de la concurrence qui est un peu flou et qui pourrait apporter beaucoup plus déléments que des nouveaux locaux  équipes comme les jeux en cours de développement par les studios rachetés leurs licences ou de nouveaux indices pour améliorer nos jeux
+list
 
-Ce petit jeu, devenu au fil du temps un jeu très bien fourni, très amusant et ultra addictif grâce au travail de Xavier qui depuis plusieurs années déjà ne cesse d'ajouter du contenu mais aussi d'améliorer le gameplay et l'ergonomie en jeu. 
+avant la sortie officielle de nouveaux éléments viendront sajouter au jeu les mods permettent aussi de rajouter du contenu 
 
-En bref, si vous aimez les jeux chill et les jeux de gestion City Game Studio est fait pour vous ! FONCEZ :) 
+le discord permet déchanger avec la communauté si vous avez des questions et le développeur qui est à lécoute des joueurs pour développer de nouveaux éléments 
+
+bref je recommande sans hésitation
+
+#####
+
+après lavoir testé en février 2021 et à la sortie du jeu dans sa version aboutie fin août 2021 je donne enfin mon avis final sur le jeu
+
+a lépoque je trouvais le jeu beaucoup trop difficile et le rapport succès commerciaux  échecs était beaucoup trop sévère malgré la qualité des jeux et la publicité que lon effectuait pour ces derniers
+depuis le problème est réglé et jeffectuerais donc une liste de points positifs et négatifs de la manière la plus objective possible
+
+                                                        les points positifs 
+
+ la création des studios et leur personnalisation un grand catalogue de produits pour les meilleurs architectes dentrenous
+ la carte du monde et la possibilité de louerdacheter des biens immobiliers cest très bien pensé vous aurez le choix niveau constructions entre studios de dev universités ou salles dexpositions 
+ loriginalité du jeu parmi une panoplie de jeux du même genre city game studio se démarque très bien de ses concurrents en venant poser comme principe du jeu la coopération et la gestion des différents studios de votre entreprise vous jonglerez entre chacun dentreeux pour réaliser vos projets
+ les références amusantes comme le 3615 usul ancienne émission hebdomadaire chez jvc
+ le développement des jeux qui évoluent avec le temps les technologiesetc
+ le temps et le budget dun jeu qui augmentent selon les priorités de développement si lon souhaite consacrer davantage de temps pour le son il faudra plus de temps ainsi que mettre davantage de biftons pas mal
+ la négociation avec les éditeurs comme nintendo et les différentes offres de ces derniers à certains moments de votre partie
+ la possibilité de maj les moteurs sans devoir en créer un nouveau à chaque fois
+ le système de création de marché digital et de console vraiment bien fait bravo 
+ le jeu est très beau dans son ensemble il est propre graphiquement
+ le son est correct il fait le café
+ la formation des employés par le biais des universités ouais pas mal  
+ la possibilité de consulter les statistiques avancées de chaque jeu nombre de joueurs revenus pour chaque type  microtransactions dlc ventes du jeuetc
+ la possibilité de faire des soldes de jeux de consolesetc pleins de petites touches doriginalité sur le gameplay qui sont appréciables
+ pouvoir attaquer de manière illégale les concurrents voler des technologies pirater certains de leurs jeuxetc 
+dommage juste quil ny ait pas de partie juridique au sein de lentreprise pour avoir à gérer des litiges avec des entreprises rivales 
+
+en parlant des aspects un peu dommage passons aux points négatifs du jeu
+
+                                                                      les points negatifs 
+
+ les contrats dédition vraiment à la ramasse tant les objectifs sont complexes à réaliser ou les contrats peu réalistes ex  un éditeur qui va vous proposer de développer un jeu sur une vieille console de 15 ans avec peu de parts de marché et des jeux avec des combos invraisemblables entre thèmes et genres
+ le nombre de fans qui naugmente jamais le meilleur moyen reste le fait de racheter des concurrents pour gagner leur nombre de fans cependant ça manque de cohérence de devoir créer des jeux indépendants car vous avez 5k fans et davoir la possibilité financière de racheter des r à 70k fans sans problème de même quavec des jeux qui se vendront très bien qui auront de bonnes critiques ne vous rendront pas forcément plus connus il faut faire vraiment des tonnes et des tonnes de jeux pour dépasser les 10 000 fans sans avoir à racheter tous les concurrents qui on ne sait comment ont 8x plus de fans que vous
+ lavancée trop rapide des technologies des différents moteurs de jeu par rapport à la capacité technique des plateformes sans avoir à faire ses propres consoles et de mettre les meilleurs composants devoir faire des jeux pour des consoles existantes comme la nes avec un moteur de jeu déjà suffisamment complexe fera que vous serez obligé de vous brider volontairement sur chacun de vos jeux parce quil vous sera impossible de mettre le nb de technologies que vous souhaitez mettre même si vous êtes en train de développer un jeu de taille gros ou aaa que vous choisissiez un jeu indé ou un aaa cela ne changera en rien le nb de technologies pouvant être utilisées dans le jeu que vous développez car comme dit précédemment seul le support aura un impact sur ça 
+ limpossibilité de créer des filiales racheter vos concurrents ne fera que racheter les licences les employés les studios ainsi que le nombre de fans ils ne pourront pas devenir autonomes comme sur mad games tycoon ou software inc donc mis à part pour voler lintégralité de leurs fans ne le faites pas quoi que vous pouvez revendre leurs studios et donc regagner lintégralité de la somme que vous aviez investi pour les racheter ce qui vous aura permis de racheter un concurrent gratuitement à partir du moment que vous avez eu la somme nécessaire à un moment précis 
+ labsence des marchés boursiers des brevetsetc  pas fondamental mais ça aurait été un petit plus
+ les statistiques qui ne sont visibles quà léchelle mensuelle on manque forcément de recul sur les données que lon nous permet de voir on aurait aimé pouvoir consulter les finances de son entreprise par exemple sur des années entières afin de pouvoir consulter son évolution ou son bilan comptable dannées en années jusquà lannée présente
+ le manque de moyens de financements  seule lhypothèque est disponible on aurait aimé avoir le prêt bancaire la vente de parts de son entrepriseetc
+
+en conclusion le jeu est très bon il est stable ne demande pas un gros pc pour pouvoir être joué et mérite sa part dattention il a de très bonnes idées et sort bien du lot cest un bon jeu de simulationgestion donc si vous êtes friands comme moi de ce genre de jeux  foncez 
+au pire vous vous direz quil manque quelques fonctionnalités que vous auriez apprécié trouver dans ce jeu au mieux vous apprécierez pendant une bonne dizaine cinquantaine dheures lexpérience qui vous sera proposée
+
+merci à toutes les personnes davoir lu ce roman
+la prochaine fois je proposerai une lecture de ce commentaire à une entreprise de livres audio comme un ancien chef detat dun pays européen connu
+blague à part merci au développeur et bonne continuation 
+
+#####
+
+possibilité de passer de bon moment sur ce jeu malgré une difficulté mal dosé les 1ere années sont les plus intéressante apres on se lasse vite
+
+#####
+
+une pépite dans son genre  même si je comprends pas tout cest un réel plaisir de jouer à ce jeu de gestion dentreprise vidéoludique et passer dun développeur seul à une grosse entreprise capable de sortir des aaa à la chaîne
+mention spécial à lespionnage et piratage de ses concurrents 
+so binogure
+
+#####
+
+excellent pas de phases dattente possibilités de lancer plusieurs jeux de faire des portages dameliorer le moteur de jeu de soccuper de contrats de dévelloper de lindie jusquau aaa on peut avoir plusieurs studios racheter les concurrents aller ou créer des expositions gérer son steam en ligne jen passe et des meilleurs et le jeu va saméliorer et ajouter un workshop la difficulté est selectionnable pour un early access il est déja jouable de bout en bout si tous les jeux pouvaient être comme ça foncez 
+
+#####
+
+je recommande ce jeu fortement pour le prix cest worth 
+et merci popcorndomingo
+
+#####
+
+httpswwwyoutubecomwatchv7rlrithoqyet682s
+
+ce jeux est une pure merveille jai pu le test sur les conseils dun ami et sur ce coups jai bien fait de lécouté certes le jeux est assez difficile de prime abord mais une fois cette étape passé on découvre un univers  et un jeux qui est vraiment extra les mécaniques sont très sophistiquées et les features nombreuses certes ce jeux est inspiré de made game et game dev mais il réussi à faire mieux que ces ainés a conseiller à tous les fans de jeux vidéo et de gestion
+
+#####
+
+binogure te met pas la pression avec ton jeu  il est vraiment bien  
+
+juste ma machine a café qui casse souvent mais cest un détail nul 
+merci binogure en plus dêtre bien de base tu continues à le mettre à jour et cest encore plus mieux donc cimer gros
+
+#####
+
+un bon jeu de gestion de création de studios créer par une seule personne qui y met tout son coeur  certes il reste des petites choses à améliorer mais noubliez pas quil est encore en développement et saméliore de jour en jour  d
+
+#####
+
+très bon jeu un peut dificil au début mais une fois quon a bien compris les mécanismes tout devient plus simples je recommande vraiment 
+
+#####
+
+tellement de fonctionalitées bien sympa incluses dans ce jeu le fait de pouvoir racheter les concurrents de demander à un autre studio de publier votre jeu car vous êtes entrain de développer un marché dématerialisé en même temps et votre deuxième équipe prépare lédition goty de votre meilleure vente de lannée 
+des ajouts bien sympas en tout cas pour tout ceux qui ont aimé game dev tycoon entre autres sachant que le développeur est tout seul sur le projet un gros bravo à lui 
+
+#####
+
+jeu extrèmement complet addictif et avec beaucoup de paramètres pour pimenter de plus en plus les parties développeur à lécoute et qui répond aux questions très rapidement la période couverte va des années 70 à 2020 mention spéciale au piratage très drôle  je recommande ce jeu si vous avez aimez les autres dans le même genre
+
+#####
+
+petit jeux sympathique pour perdre plusieurs heures
+
+#####
+
+très bon jeu indépendant et régulièrement mis à jour par le seul et unique développeur
+
+a lécoute de la communauté joli titre
+
+#####
+
+les jeux suivants ont été une source dinspiration pour city game studio
+game dev story
+game dev tycoon
+software inc
+sim city
+mad games tycoon
+
+cest vrai et cest très bien fait 
+
+ce jeu est une pépite tout est bien pensé et intuitif
+que dire à part que si vous appréciez ce genre de jeu foncez vous ne serez pas déçu
+
+ah oui jallais oublié les dev travaillent encore dessus que demander de plus 
+
+#####
+
+bon jeu dev à lécoute 
+
+#####
+
+le jeu est incroyable pour voir quil a été fait par une seule personne  pour le moment 0 bugs pour moi 
+
+#####
+
+un bon jeu de gestion beaucoup de contrôle sont présent pour nous aider à réaliser le jeu qui nous permettra dagrandir notre studio
+on est un peu comme au casino en envoie des développements à la chaîne en espérant ramasser un max d
+on ne peut cependant pas faire nimporte quoi jai fais un game over en moins de 10 années de développement
+pas très habitué au genre gestion jai était agréablement surpris un bon petit jeu très prenant 
+
 
 
 #####
 
-Meilleur jeu de simulation de création de jeu vidéo au jour d'aujourd'hui, il complète admirablement Game Dev Tycoon rendant sont ancêtre démodé, sont prix est vite rentabilisé, vous ne verrez pas le temps passer.
+très bon jeu avec des good vibes de game dev tycoon mais avec ce petit truc en plus que je vous laisserez découvrir un dev fr à lécoutes des demandes et réactif ça fait plaisir
 
 #####
 
-Mad Games Tycoon semble vraiment impossible à inégaler mais ce jeu reste tout de même très bon et un des meilleurs du genre.
+vraiment très sympa le jeu est pas tant répétitif que ça vu quil y a beaucoup détapes à débloquer et de gameplay différents yen a peut être même trop ce qui fait quon nutilise pas toutes les parts du jeu dans une partie et cest plus à notre 2 ou 3ième partie quon essaie de découvrir les trucs quon a pas fait
+je recommande à tout fan de tycoons et game dev tycoon en particulier car le jeu sen inspire sans non plus faire du copiercollé ou moins bien 
 
 #####
 
-Bonjour à tous,
+après 90 minutes de jeu prise en main agréable les mécaniques sont fluides
+très bon jeu pour passer la journée attention le temps passe vite quand nous sommes dessus 
 
-Je vous fait part aujourd'hui de ma recommandation du jeu City Game Studio qui est sans aucun doute un excellent jeu à la fois drôle et prenant, on commence à jouer et lorsqu'on relève la tête déjà deux heures se sont écoulés ! 
-
-Le jeu est excellent et propose de nombreuses fonctionnalités pour tuer la redondance et l'ennui. Je suis impressionné par le travail fourni par ce jeu qui est pour l'heure en Early Access et je suis certain que ce jeu est un must à avoir dans sa bibliothèque Steam.
-
-Alors n'hésitez plus, achetez-le !
+continuez comme cela
 
 #####
 
-Trés bon EA je dirais, dev a l'écoute MAJ quotidienne pour le moment! Que du Bon
-
-Bien sur faut aimer le genre mais si vous etes fan FONCEZ
-
-
-Edit: Sortie de l'EA, le jeu est encore suivis par le dev. 
-Le gameplay a bien évoluer, beaucoup plus de possibilités de créations de jeu, consoles etc
+très bon jeu avec un énorme suivi cest parfait pour chill merci xavier pour ce poulet
 
 #####
 
-Super jeux ! J'adore
+attention  ce jeu et extrêmement addictif  
 
-#####
+un jeu de microgestion ou vous gérez votre propre studio de création de jeu vidéo mais il va bien audelà  
 
-Ce jeu est vraiment super ! Ayant beaucoup joué à Game Dev Tycoon, je trouve ce jeu beaucoup plus complet et divertissant que GDT et il n'est encore qu'en early access ! En plus de cela le développeur est très actif (plusieurs MAJ par semaine) et très ouvert aux suggestions.
-Je recommande ce jeu à tout les amateurs du genre, c'est une perle rare !
+vous débuterez laventure tout seul dans une pièce de quelques mètres carré à tenter de sortir la pépite qui vous permettra dinvestir dans du personnel et du nouveau matériel pour finir dans un building gigantesque grouillant de monde  à produire les meilleurs jeux et console jamais produite par le passé  
 
-#####
+recrutez vos équipes améliorer vos infrastructures achetez de nouveaux bâtiments recherchez de nouvelles technologies pour améliorer vos console et mieux vous positionner face à vos concurrents car oui il y a des concurrents sérieux mais nayez crainte vous pourrez si vous êtes ambitieux finir par les racheter  hé hé
 
-Je viens d'acheter le jeu, certainement l'un des premiers, et les bugs commencent déjà à se montrer, j'choisis mon studio et pendant que je plaçais mes bureaux hop impossible de quitter le mode de déco du coup alt f4 forcé et sauvegarde non enregistré.
+ce petit jeu devenu au fil du temps un jeu très bien fourni très amusant et ultra addictif grâce au travail de xavier qui depuis plusieurs années déjà ne cesse dajouter du contenu mais aussi daméliorer le gameplay et lergonomie en jeu 
 
-
-Ensuite, faudrait aussi être capable de jauger le bruit du courrier, le son est archi cancer et fais extrêmement mal aux oreilles, le post mortem est extrêmement faible en terme d'infos, il nous en faut plus. Dans l'ensemble le jeu reste ok, mais peut mieux faire, il faudrait aussi rajouter  plus de thèmes, parce que trop peu. 
-
-Dans l'ensemble il est pas recommandé, mais si les prochains patchs sortent des nouveautés c'est avec grand plaisir que je le mettrais en Recommandé !
-
-
-Edit : Bug corrigé, et pour le son  du courriel c'est "effet spéciaux" que j'avais foutu  à fond, je viens de m'en rendre compte, sinon quelques petites idées, il faudrait aussi des interviews "Bon jeu, être modeste" ça peut booster nos ventes etc, sinon le délire d'avoir plusieurs studio est excellent. On peut faire plusieurs jeux d'un coup j'imagine.
-
-Recommandé !
-
-#####
-
-Ce jeu est un master peace, vraiment merci du fond du cœur pour un jeu avec ce gameplay, dont je rêvais depuis toujours, pour moi tu es l'un des meilleurs devs.
-
-Les bugs que j'ai pu remarquer: 
-- Jeu de fin de l'année (plus disponible à un stade du jeu)
-
-Des trucs que j'aurais aimé: 
-- Je suis un fou de jeu de Simulation/ RPG, pour ce qui est simulation ... tu as vraiment dépassé mes attentes largement, merci infiniment!
-Reste plus qu'à ajouter plus du côté RPG <3, ça serait super d'avoir une histoire, de gérer la vie du PDG ou bien d'être employé au début...
-
-Mais sinon mec... T'est le meilleur dev pour moi !!! chapeau pour tous ce que t'as fait c'est du 
-'M A S T E R   P I E C E'.
-En vrai je préfère largement que tu bosses sur un nouveau jeu et qui soit meilleur que celui-là... OOF ça serait le jeu de l'année pour moi sincèrement (J'achète même à 50 balles direct.) 
-
-Continue comme ça, encore merci infiniment !
+en bref si vous aimez les jeux chill et les jeux de gestion city game studio est fait pour vous  foncez  
 
 
 #####
 
-Bon jeu de gestion, chaque partie est unique, je le recommande!
+meilleur jeu de simulation de création de jeu vidéo au jour daujourdhui il complète admirablement game dev tycoon rendant sont ancêtre démodé sont prix est vite rentabilisé vous ne verrez pas le temps passer
 
 #####
 
-SUPER JEUX
+mad games tycoon semble vraiment impossible à inégaler mais ce jeu reste tout de même très bon et un des meilleurs du genre
 
 #####
 
-Franchement un super bon jeu. Voir le développeur développer son jeu, écouter sa communauté. Avoir une passion de fou pour nous faire passer un bon moment. C'est que du bon ! 
+bonjour à tous
 
-Si tu aimes les jeu du genre, tu vas juste beaucoup t'amuser et pas voir le temps passer. En tout cas moi, c'est ce que j'ai ressenti
+je vous fait part aujourdhui de ma recommandation du jeu city game studio qui est sans aucun doute un excellent jeu à la fois drôle et prenant on commence à jouer et lorsquon relève la tête déjà deux heures se sont écoulés  
 
-#####
+le jeu est excellent et propose de nombreuses fonctionnalités pour tuer la redondance et lennui je suis impressionné par le travail fourni par ce jeu qui est pour lheure en early access et je suis certain que ce jeu est un must à avoir dans sa bibliothèque steam
 
-Jeux de Gestion très intéressant j'adore !!!
-
-#####
-
-Jeu assez addictif et développer par une seule personne en plus !
+alors nhésitez plus achetezle 
 
 #####
 
-bon jeu a la game dev tycoon , beaucoup de potentiel
+trés bon ea je dirais dev a lécoute maj quotidienne pour le moment que du bon
+
+bien sur faut aimer le genre mais si vous etes fan foncez
+
+
+edit sortie de lea le jeu est encore suivis par le dev 
+le gameplay a bien évoluer beaucoup plus de possibilités de créations de jeu consoles etc
+
+#####
+
+super jeux  jadore
+
+#####
+
+ce jeu est vraiment super  ayant beaucoup joué à game dev tycoon je trouve ce jeu beaucoup plus complet et divertissant que gdt et il nest encore quen early access  en plus de cela le développeur est très actif plusieurs maj par semaine et très ouvert aux suggestions
+je recommande ce jeu à tout les amateurs du genre cest une perle rare 
+
+#####
+
+je viens dacheter le jeu certainement lun des premiers et les bugs commencent déjà à se montrer jchoisis mon studio et pendant que je plaçais mes bureaux hop impossible de quitter le mode de déco du coup alt f4 forcé et sauvegarde non enregistré
+
+
+ensuite faudrait aussi être capable de jauger le bruit du courrier le son est archi cancer et fais extrêmement mal aux oreilles le post mortem est extrêmement faible en terme dinfos il nous en faut plus dans lensemble le jeu reste ok mais peut mieux faire il faudrait aussi rajouter  plus de thèmes parce que trop peu 
+
+dans lensemble il est pas recommandé mais si les prochains patchs sortent des nouveautés cest avec grand plaisir que je le mettrais en recommandé 
+
+
+edit  bug corrigé et pour le son  du courriel cest effet spéciaux que javais foutu  à fond je viens de men rendre compte sinon quelques petites idées il faudrait aussi des interviews bon jeu être modeste ça peut booster nos ventes etc sinon le délire davoir plusieurs studio est excellent on peut faire plusieurs jeux dun coup jimagine
+
+recommandé 
+
+#####
+
+ce jeu est un master peace vraiment merci du fond du cœur pour un jeu avec ce gameplay dont je rêvais depuis toujours pour moi tu es lun des meilleurs devs
+
+les bugs que jai pu remarquer 
+ jeu de fin de lannée plus disponible à un stade du jeu
+
+des trucs que jaurais aimé 
+ je suis un fou de jeu de simulation rpg pour ce qui est simulation  tu as vraiment dépassé mes attentes largement merci infiniment
+reste plus quà ajouter plus du côté rpg 3 ça serait super davoir une histoire de gérer la vie du pdg ou bien dêtre employé au début
+
+mais sinon mec test le meilleur dev pour moi  chapeau pour tous ce que tas fait cest du 
+m a s t e r   p i e c e
+en vrai je préfère largement que tu bosses sur un nouveau jeu et qui soit meilleur que celuilà oof ça serait le jeu de lannée pour moi sincèrement jachète même à 50 balles direct 
+
+continue comme ça encore merci infiniment 
+
+
+#####
+
+bon jeu de gestion chaque partie est unique je le recommande
+
+#####
+
+super jeux
+
+#####
+
+franchement un super bon jeu voir le développeur développer son jeu écouter sa communauté avoir une passion de fou pour nous faire passer un bon moment cest que du bon  
+
+si tu aimes les jeu du genre tu vas juste beaucoup tamuser et pas voir le temps passer en tout cas moi cest ce que jai ressenti
+
+#####
+
+jeux de gestion très intéressant jadore 
+
+#####
+
+jeu assez addictif et développer par une seule personne en plus 
+
+#####
+
+bon jeu a la game dev tycoon  beaucoup de potentiel
 
 #####
 
@@ -571,77 +571,77 @@ ce jeu est très sympas
 
 #####
 
-Sympas mais répétitif
+sympas mais répétitif
 
 #####
 
-Le jeu semble simple mais plus on joue plus on découvre les possibilités du jeu et de sa complexité.
-Il est possible de prendre des mods qui enrichisse encore plus le jeu et c'est un +.
-Le développeur continue à rendre le jeu meilleur via des mises à jours constantes hâte de voir comment le jeu va s'améliorer ;)
-
-
-
-#####
-
-Jeu complet avec de bonnes idées. Des parties toutes differentes genial.Pour les adoreurs des jeux de gestions. Je recommande(En plus le dev est ultra sympa ;))
-
-#####
-
-Digne successeur des jeux du même genre , en y important de bonnes idées.
-
-#####
-
-Test du jour 1 de la sortie du jeu, 
-
-Jusqu'à maintenant, je n'ai pas rencontré de bug, ce qui est très bon pour une alpha jour 1 :)
-
-J'aimerais avoir l'option de sauvegardé, ce qui n'est toujours pas le cas,
-
-Le jeu a beaucoup de potentiel, il me fait penser à Mad, ce qui est vraiment bon car j'ai plus de 1000 heures sur ce dernier.
-
-#####
-
-Déjà une chose avant de commencer les devs enfin plutôt "LE DEV" est français
-
-City game studio et innovent et testent des choses que n’a pas faites la concurrence c'est sa force surtout le dev qui est à la sur-écoute de sa communauté avec des lives twitch et serveur discord 
-
-D'ailleurs si vous avez peur que game dev  tycoon soit mieux ou complet et ba je peux vous dire que le jeu est déjà plus complet que game dev tycoon
-
-bref si vous le voulez pas l’acheter maintenant attendez les mises à jour le jeu n'est qu'en early accès et il vient de sortir et le dev prévoit déja du lourds (enfin j'espére)  
-
+le jeu semble simple mais plus on joue plus on découvre les possibilités du jeu et de sa complexité
+il est possible de prendre des mods qui enrichisse encore plus le jeu et cest un 
+le développeur continue à rendre le jeu meilleur via des mises à jours constantes hâte de voir comment le jeu va saméliorer 
 
 
 
 #####
 
-Seul reproche : manque de tutoriel
-
-Gros point positif : développeur a l'écoute et très communicatif
+jeu complet avec de bonnes idées des parties toutes differentes genialpour les adoreurs des jeux de gestions je recommandeen plus le dev est ultra sympa 
 
 #####
 
-I need more endgame content... What about VR games ? What about making our own computer ? Why i can't simply sell license of my hardwares to others ? So they can make games on it and i will gain money without doing repetitively contactants to make games on it ?
-Why not making other hardware components, like gaming keyboard or mouses, or screens and so on ?
-What about making goodies of my games ? like figurines etc ?
-And later on, i need a game that can go more far than that. 30h and its done.
-I hope that this game will have more updates, more content, because its actually fun to play, but with a lot of issues, like macromanagement..
-Well, good work anyway, will still keep it, maybe will modify my evaluation one day ^^
-I will change my review if i could see a roadmap ^^ But for sure, if updates keep on, i will ;)
-Great job devs
-
-Revommandation changed, i like this game, and i want to see it evolve with time ! Please devs, keep on new features, we count on you ;)
+digne successeur des jeux du même genre  en y important de bonnes idées
 
 #####
 
-Tres intéraissent
+test du jour 1 de la sortie du jeu 
+
+jusquà maintenant je nai pas rencontré de bug ce qui est très bon pour une alpha jour 1 
+
+jaimerais avoir loption de sauvegardé ce qui nest toujours pas le cas
+
+le jeu a beaucoup de potentiel il me fait penser à mad ce qui est vraiment bon car jai plus de 1000 heures sur ce dernier
 
 #####
 
-NV GESTION IL EST COOL POUR LE RESTE G PAS COMPRIS LA LOGIQUE DANS L'ENSEMBLE PLUTOT INTERRESSANT
+déjà une chose avant de commencer les devs enfin plutôt le dev est français
+
+city game studio et innovent et testent des choses que na pas faites la concurrence cest sa force surtout le dev qui est à la surécoute de sa communauté avec des lives twitch et serveur discord 
+
+dailleurs si vous avez peur que game dev  tycoon soit mieux ou complet et ba je peux vous dire que le jeu est déjà plus complet que game dev tycoon
+
+bref si vous le voulez pas lacheter maintenant attendez les mises à jour le jeu nest quen early accès et il vient de sortir et le dev prévoit déja du lourds enfin jespére  
+
+
+
 
 #####
 
-...
+seul reproche  manque de tutoriel
+
+gros point positif  développeur a lécoute et très communicatif
+
+#####
+
+i need more endgame content what about vr games  what about making our own computer  why i cant simply sell license of my hardwares to others  so they can make games on it and i will gain money without doing repetitively contactants to make games on it 
+why not making other hardware components like gaming keyboard or mouses or screens and so on 
+what about making goodies of my games  like figurines etc 
+and later on i need a game that can go more far than that 30h and its done
+i hope that this game will have more updates more content because its actually fun to play but with a lot of issues like macromanagement
+well good work anyway will still keep it maybe will modify my evaluation one day 
+i will change my review if i could see a roadmap  but for sure if updates keep on i will 
+great job devs
+
+revommandation changed i like this game and i want to see it evolve with time  please devs keep on new features we count on you 
+
+#####
+
+tres intéraissent
+
+#####
+
+nv gestion il est cool pour le reste g pas compris la logique dans lensemble plutot interressant
+
+#####
+
+
 
 #####
 
@@ -649,7 +649,7 @@ cx bi1
 
 #####
 
-Jeu très bon dans sa catégorie :)
+jeu très bon dans sa catégorie 
 
 #####
 
@@ -657,63 +657,63 @@ j
 
 #####
 
-游戏慢慢的越来越比以前好了，玩起来比一开始的时候好了很多，UI也更棒了，
+游戏慢慢的越来越比以前好了玩起来比一开始的时候好了很多ui也更棒了
 下面想和开发者提一些建议
-（Give developers some advice）
-我希望可以增加一个培训员工的设计I hope to add a design that can train employees.
-因为大部分工作室只有少部分是高质量的，如果可以在制作的同时让其他工作室开始培训并提升工作室的能力会好一些
-Because most studios are only a small part of high quality, it would be better if you could make other studios start training and improve the studio's ability while making.
+give developers some advice
+我希望可以增加一个培训员工的设计i hope to add a design that can train employees
+因为大部分工作室只有少部分是高质量的如果可以在制作的同时让其他工作室开始培训并提升工作室的能力会好一些
+because most studios are only a small part of high quality it would be better if you could make other studios start training and improve the studios ability while making
 
 #####
 
-C'est un très bon jeu même si la prise en main est très dificile
+cest un très bon jeu même si la prise en main est très dificile
 
 #####
 
-Un jeu plus complète que les autres jeux de simulation de développement de jeux-vidéo
+un jeu plus complète que les autres jeux de simulation de développement de jeuxvidéo
 
 #####
 
-Jeu sympa qui s'est bonifié dans le temps fait un BG. Le BG est à l'écoute de la commu, ça fait plaisir. Le jeu est chill et plein de clin d'oeil à découvrir et sera nostalgique pour les plus boomers d'entre vous.
+jeu sympa qui sest bonifié dans le temps fait un bg le bg est à lécoute de la commu ça fait plaisir le jeu est chill et plein de clin doeil à découvrir et sera nostalgique pour les plus boomers dentre vous
 
-Je pense qu'il va me falloir plusieurs heures et parties pour bien percer les mécaniques du jeu plus profondes que les autres jeux du genre
-
-#####
-
-Que dire de ce jeu ? a part que pour une EA il est vraiment complet ! 
-Dans quel Game Dev Tycoon ont peut acheté plusieurs studios et piquer les employés de la concurrence ?
-
-Oui il y a des bugs mais si il sont signalé ils sont très vite régler.
-
-Le jeu peut faire peur (coucou les avatars sans visage) ;)
-
-Des majs PLUSIEURS fois par jour, oui ont a un dev qui taff ! Ha oui parlons du dev il est SEUL et a l'écoute de la communauté !
-
-Des features sont en cours et j'ai hate qu'elles soient la !
-
-Je ne peu que vous encouragez a l'acheter si vous aimez Game Dev Tycoon ou Mad Games Tycoon !
-
-Vous voulez le voir en action allez faire un tour sur son stream c'est cool !
+je pense quil va me falloir plusieurs heures et parties pour bien percer les mécaniques du jeu plus profondes que les autres jeux du genre
 
 #####
 
+que dire de ce jeu  a part que pour une ea il est vraiment complet  
+dans quel game dev tycoon ont peut acheté plusieurs studios et piquer les employés de la concurrence 
+
+oui il y a des bugs mais si il sont signalé ils sont très vite régler
+
+le jeu peut faire peur coucou les avatars sans visage 
+
+des majs plusieurs fois par jour oui ont a un dev qui taff  ha oui parlons du dev il est seul et a lécoute de la communauté 
+
+des features sont en cours et jai hate quelles soient la 
+
+je ne peu que vous encouragez a lacheter si vous aimez game dev tycoon ou mad games tycoon 
+
+vous voulez le voir en action allez faire un tour sur son stream cest cool 
+
+#####
+
 
 
 #####
 
-Fan de "Game Dev" vous pouvez y aller les yeux fermés !
+fan de game dev vous pouvez y aller les yeux fermés 
 
 #####
 
-Nul nul nul ! Les choix nont aucune incidence sur les ventes, même en facile, on fait rapidement faillite. Manque d'explication ce tuto, trop d'informations et trop de mails dans le jeu
+nul nul nul  les choix nont aucune incidence sur les ventes même en facile on fait rapidement faillite manque dexplication ce tuto trop dinformations et trop de mails dans le jeu
 
 #####
 
-Jeux hasardeux franchement a éviter, jeux très inspiré de "Mad Games Tycoon" et de "Game Dev Tycoon" sans vraiment amener un plus à par une carte avec une seul vile dommage d avoir prolonger le développement de 3-4 mois on ne sait pas pour quoi au final, sans compté que l on est très limité dès le début du jeux.
+jeux hasardeux franchement a éviter jeux très inspiré de mad games tycoon et de game dev tycoon sans vraiment amener un plus à par une carte avec une seul vile dommage d avoir prolonger le développement de 34 mois on ne sait pas pour quoi au final sans compté que l on est très limité dès le début du jeux
 
 #####
 
-super jeu j'aime bien la gestion j'ai hate de voir l'evolution de ce jeu
+super jeu jaime bien la gestion jai hate de voir levolution de ce jeu
 
 #####
 
@@ -721,28 +721,28 @@ j ai cree gta 9
 
 #####
 
-Très bon jeu. des heures passées dessus et toujours autant de plaisir
+très bon jeu des heures passées dessus et toujours autant de plaisir
 
 #####
 
-Très bon jeu de gestion, les mises à jour sont toujours très intéressantes et le développeur communique souvent sur l'avancé du dev.
+très bon jeu de gestion les mises à jour sont toujours très intéressantes et le développeur communique souvent sur lavancé du dev
 
 #####
 
-Un jeux par ses graphismes qui peut repousser certains comme moi mais les mécaniques intéressantes et profondes sont présentes et incitent à rester et finalement on kiff. Ca reste un jeux casual pour se détendre mais qui mérite d'être connu grâce à une réelle profondeur qu'on ne perçoit qu'en jouant.
-Le développeur, est présent en permanence sur discord, il répond très rapidement (!), corrige les bugs mineurs rapportés en quelques heures. Il n'en reste quasiment plus à ce jour, sauf ceux introduits par les nouveaux contenus.
+un jeux par ses graphismes qui peut repousser certains comme moi mais les mécaniques intéressantes et profondes sont présentes et incitent à rester et finalement on kiff ca reste un jeux casual pour se détendre mais qui mérite dêtre connu grâce à une réelle profondeur quon ne perçoit quen jouant
+le développeur est présent en permanence sur discord il répond très rapidement  corrige les bugs mineurs rapportés en quelques heures il nen reste quasiment plus à ce jour sauf ceux introduits par les nouveaux contenus
 
 #####
 
-J'adore City Game Studio. Je ne comprends pas pourquoi mais c'est vraiment super, j'apprécie le relancer régulièrement, recommencer une partie jusqu'à "finir le jeu". Je vous le conseille vivement!
+jadore city game studio je ne comprends pas pourquoi mais cest vraiment super japprécie le relancer régulièrement recommencer une partie jusquà finir le jeu je vous le conseille vivement
 
 #####
 
-Very good
+very good
 
 #####
 
-Best game dev simulator ever.
+best game dev simulator ever
 
 #####
 
@@ -750,50 +750,50 @@ me likey
 
 #####
 
-Excellent jeu, fun et amusants, mais quand on arrive à un certain niveau ça commence à lag mais cela derange pas, j'ai bien aimé
+excellent jeu fun et amusants mais quand on arrive à un certain niveau ça commence à lag mais cela derange pas jai bien aimé
 
 #####
 
-Super jeu de simulation de gestion de studio de jeu vidéo. 
-Il y a du chalenge dès le niveau median !
-Amusez vous bien !
+super jeu de simulation de gestion de studio de jeu vidéo 
+il y a du chalenge dès le niveau median 
+amusez vous bien 
 
 #####
 
-Super Jeu !
+super jeu 
 
-A faire absolument !! 
+a faire absolument  
 
-Bravo Bino !
-
-==
-
-Very great game !!
-Do it !
+bravo bino 
 
 
-#####
 
-Un bon jeu  très sympa  de développement et de gestion de jeux Vidéo, bien que un peu long vers la fin quand on a débloquer toute les mécaniques du jeu, pas toute simple a prendre en main. 
-Je recommande sans aucun souci et encore plus quand le développeur est toujours a l'oeuvre avec des mises jours plusieurs fois par an.
-Bon jeu a tous et merci de m'avoir lu.
+very great game 
+do it 
+
 
 #####
 
-développeur toujours actif après la sortie de sont jeu !
+un bon jeu  très sympa  de développement et de gestion de jeux vidéo bien que un peu long vers la fin quand on a débloquer toute les mécaniques du jeu pas toute simple a prendre en main 
+je recommande sans aucun souci et encore plus quand le développeur est toujours a loeuvre avec des mises jours plusieurs fois par an
+bon jeu a tous et merci de mavoir lu
 
 #####
 
-pas mal du tout, plus développé que Game Dev Tycoon et demande d'y réfléchir à deux fois avant de confirmer les stats de création de jeu
-pour le prix (15balles), c'est cool
+développeur toujours actif après la sortie de sont jeu 
 
 #####
 
-J'adore ce jeu, vraiment, ultra complet. Jy passe des nuits entiere quand je me lance. 
+pas mal du tout plus développé que game dev tycoon et demande dy réfléchir à deux fois avant de confirmer les stats de création de jeu
+pour le prix 15balles cest cool
 
-Et le Dev améliore vraiment son jeu avec le temps, a tel point que je ne vois plus qu'une chose a ameliorer
+#####
 
-La seule chose a améliorer a mon sens, c 'est l'amenagement des studios pour les AAA. Il serait cool que les plus gros batiment puissent accueillir automatiquement 100 employés plutot que 63max, obligeant a avoir deux studios pour faire un AAA.
+jadore ce jeu vraiment ultra complet jy passe des nuits entiere quand je me lance 
+
+et le dev améliore vraiment son jeu avec le temps a tel point que je ne vois plus quune chose a ameliorer
+
+la seule chose a améliorer a mon sens c est lamenagement des studios pour les aaa il serait cool que les plus gros batiment puissent accueillir automatiquement 100 employés plutot que 63max obligeant a avoir deux studios pour faire un aaa
 
 #####
 
@@ -801,7 +801,7 @@ trop bien
 
 #####
 
-Très adictif
+très adictif
 
 #####
 
@@ -809,18 +809,18 @@ superbe jeu
 
 #####
 
-Très bon jeux, en plus de ça on a un DEV a l'écoute qui bosse bien sur le jeux !
+très bon jeux en plus de ça on a un dev a lécoute qui bosse bien sur le jeux 
 
 #####
 
-Jeu très cool, il semble combler plusieurs points que je trouvais très frustrants dans Game Dev Tycoon.
-Il y a pas mal de choses à faire et encore je suis qu'au début, on peut faire des choix qui ont un réel impact, et on peut décider de se concentrer plus sur certains points que d'autres, il n'y a pas une seul chemin possible.
+jeu très cool il semble combler plusieurs points que je trouvais très frustrants dans game dev tycoon
+il y a pas mal de choses à faire et encore je suis quau début on peut faire des choix qui ont un réel impact et on peut décider de se concentrer plus sur certains points que dautres il ny a pas une seul chemin possible
 
-Je mettrais à jour cet avis si en jouant d'avantage ma vision du jeu change, mais je pense que mon avis résume bien comment je vois le jeu dans l'ensemble actuellement, si vous avez déjà joué à d'autres jeux de simulation de développement de jeu mais que vous avez été frustré en trouvant qu'il y avait pas assez d'impact selon vos actions, n'hésitez pas !
+je mettrais à jour cet avis si en jouant davantage ma vision du jeu change mais je pense que mon avis résume bien comment je vois le jeu dans lensemble actuellement si vous avez déjà joué à dautres jeux de simulation de développement de jeu mais que vous avez été frustré en trouvant quil y avait pas assez dimpact selon vos actions nhésitez pas 
 
 #####
 
-Super bien comme jeu, il a des dev qui prend soin de leur jeu.
+super bien comme jeu il a des dev qui prend soin de leur jeu
 
 #####
 
@@ -828,69 +828,69 @@ oui le dev est un bon
 
 #####
 
-Pour ma part, ce jeu de gestion est sympa comme tout, pas très différent des autres jeux du même type mais j'ai quand même beaucoup aimé. Je me suis bien marrer dessus dans la création de nouveaux noms de jeux et le côté concurrence est très drôle aussi quand on s'y attends pas (je spoil pas dans le doute).
-Ce jeu ne révolutionne pas les jeux de gestion certes mais il est très efficace, les graphismes sont sympas, les interfaces aussi et le gameplay simple et agréable.
+pour ma part ce jeu de gestion est sympa comme tout pas très différent des autres jeux du même type mais jai quand même beaucoup aimé je me suis bien marrer dessus dans la création de nouveaux noms de jeux et le côté concurrence est très drôle aussi quand on sy attends pas je spoil pas dans le doute
+ce jeu ne révolutionne pas les jeux de gestion certes mais il est très efficace les graphismes sont sympas les interfaces aussi et le gameplay simple et agréable
 
-Pandara_TV (Indie Night Fever)
-
-#####
-
-Une tuerie ce jeux, on a une sensation de liberté dans le choix de la direction qu'on veut donner à notre entreprise. 
-Le milliard !!!!!!!!!!! ( sketch des inconnus lol )
+pandara_tv indie night fever
 
 #####
 
-Bon jeux juste fans tros complique a avoir
+une tuerie ce jeux on a une sensation de liberté dans le choix de la direction quon veut donner à notre entreprise 
+le milliard   sketch des inconnus lol 
 
 #####
 
-Je laisse aussi ma petite contribution à cet excellent jeu (malheureusement pas premier du nom) en espérant qu'il se fasse connaître bien plus, parce qu'il le mérite. Dev à l'écoute (merci à toi d'ailleurs), features excellentes et très poussées (et qui continuent d'évoluer). A comparer avec GDT ou MGT 1 et 2, mais celui-ci me semble être meilleur. Il lui manque juste ce petit truc en plus pour le faire percer par rapport aux autres. 
-
-Personnellement, le seul défaut que je peux lui trouver c'est de s'arrêter trop vite, comme ses homologues. Mon dieu que ça serait énorme si on pouvait continuer à être surpris jusqu'en 2150 (ou plus encore !) avec des idées nouvelles qui n'existent peut-être pas mais qui pourraient exister (des consoles jusqu'à la Playstation 15 par exemple) ou des composants hors du commun (RAM DDR8) ou des SSD NVME++ de 100To que sais-je... des choses ingénieuses, même des termes qui n'existent pas, on s'en fout pourvu que ça fasse "FUTUR" et que ça pousse le délire de la gestion encore plus loin, l'expérience encore plus immersive. 
-
-Quelle déception pour un joueur comme moi de voir que le jeu s'arrête en 2025. Pour info, MGT2 laisse des nouveautés jusqu'en 2040. C'est pas grand chose, RAM 64go, 16core CPU, Ray-Tracing etc... Mais ça donne la sensation que le jeu ne fini pas vite et qu'on a encore du chemin à faire. Jusqu'en 2040 en tout cas. 
-
-Je chipote je sais. Mais pour un tryharder comme moi qui fait des run à sens unique et qui optimise tout, le jeu arrive trop rapidement au bout sans que j'ai eu le temps de diversifier mon gameplay. L'horreur pour un jeu de gestion de ce calibre, qui reste encore aujourd'hui pour moi le numéro 1. D'ailleurs je vais me relancer une partie de ce pas.
+bon jeux juste fans tros complique a avoir
 
 #####
 
-Excellent jeu, très addictif.
-Un petit jeu de gestion créé par un développeur très accessible et réactif. Il est à l'écoute des retours et des questions et est très agréable.
+je laisse aussi ma petite contribution à cet excellent jeu malheureusement pas premier du nom en espérant quil se fasse connaître bien plus parce quil le mérite dev à lécoute merci à toi dailleurs features excellentes et très poussées et qui continuent dévoluer a comparer avec gdt ou mgt 1 et 2 mais celuici me semble être meilleur il lui manque juste ce petit truc en plus pour le faire percer par rapport aux autres 
 
-On ne s'ennuie jamais et on prend un grand plaisir à créer des jeux puis voir l'argent qu'il nous a rapporté (ou pas).
-Je recommande.
+personnellement le seul défaut que je peux lui trouver cest de sarrêter trop vite comme ses homologues mon dieu que ça serait énorme si on pouvait continuer à être surpris jusquen 2150 ou plus encore  avec des idées nouvelles qui nexistent peutêtre pas mais qui pourraient exister des consoles jusquà la playstation 15 par exemple ou des composants hors du commun ram ddr8 ou des ssd nvme de 100to que saisje des choses ingénieuses même des termes qui nexistent pas on sen fout pourvu que ça fasse futur et que ça pousse le délire de la gestion encore plus loin lexpérience encore plus immersive 
 
-#####
+quelle déception pour un joueur comme moi de voir que le jeu sarrête en 2025 pour info mgt2 laisse des nouveautés jusquen 2040 cest pas grand chose ram 64go 16core cpu raytracing etc mais ça donne la sensation que le jeu ne fini pas vite et quon a encore du chemin à faire jusquen 2040 en tout cas 
 
-Une vraie pépite !
-Nous commençons dans les années 70 dans notre chambre obscure avec un budget de 300k (merci l'héritage de papy !), à développer un Pong. Pour finir à notre époque, à la tête de notre propre studio a développer un triple A.. Ou bien vous serez ruiné avant.
-
-Les possibilités sont énormes ! Vous pouvez créer votre magasin dématérialisé, votre propre console, votre moteur de jeu en open source ou en propriétaire (qui peut vous rapporter des royalties), des DLC, aller dans des conventions, racheter des concurrents...
-
-Ce jeu est addictif, nous sommes toujours dans le développement du jeu qui sera reconnu par les critiques, qui propulsera notre studio sur le devant de la scène et qui nous rapportera le plus d'argent.
-
-Le seul "défaut" qu'on pourrait lui trouver c'est que l'on connait l'histoire du jeu video et on peut l'anticiper. Par exemple, dans les années 90, il vaut mieux acheter une licence chez Sony plutôt que chez Sega.
-
-Bref au top.
+je chipote je sais mais pour un tryharder comme moi qui fait des run à sens unique et qui optimise tout le jeu arrive trop rapidement au bout sans que jai eu le temps de diversifier mon gameplay lhorreur pour un jeu de gestion de ce calibre qui reste encore aujourdhui pour moi le numéro 1 dailleurs je vais me relancer une partie de ce pas
 
 #####
 
-Addictif et le dévelloppeur est très réactif sur Discord !
+excellent jeu très addictif
+un petit jeu de gestion créé par un développeur très accessible et réactif il est à lécoute des retours et des questions et est très agréable
+
+on ne sennuie jamais et on prend un grand plaisir à créer des jeux puis voir largent quil nous a rapporté ou pas
+je recommande
 
 #####
 
-Un des meilleurs jeu indé tout thème confondu
+une vraie pépite 
+nous commençons dans les années 70 dans notre chambre obscure avec un budget de 300k merci lhéritage de papy  à développer un pong pour finir à notre époque à la tête de notre propre studio a développer un triple a ou bien vous serez ruiné avant
+
+les possibilités sont énormes  vous pouvez créer votre magasin dématérialisé votre propre console votre moteur de jeu en open source ou en propriétaire qui peut vous rapporter des royalties des dlc aller dans des conventions racheter des concurrents
+
+ce jeu est addictif nous sommes toujours dans le développement du jeu qui sera reconnu par les critiques qui propulsera notre studio sur le devant de la scène et qui nous rapportera le plus dargent
+
+le seul défaut quon pourrait lui trouver cest que lon connait lhistoire du jeu video et on peut lanticiper par exemple dans les années 90 il vaut mieux acheter une licence chez sony plutôt que chez sega
+
+bref au top
 
 #####
 
-Très bon jeu de gestion et simulation de développement de jeu vidéo ! 
-
-Je chercher une alternative moins redondante que Game Dev Tycoon que j'avais néanmoins bien aimé et je l'ai trouvé. Foncez vite acheter ce jeu !
-En plus c'est un développeur français et actif, vous n'aurez donc aucun mal à soumettre vos idées !
+addictif et le dévelloppeur est très réactif sur discord 
 
 #####
 
-Excellent jeu indé !
+un des meilleurs jeu indé tout thème confondu
+
+#####
+
+très bon jeu de gestion et simulation de développement de jeu vidéo  
+
+je chercher une alternative moins redondante que game dev tycoon que javais néanmoins bien aimé et je lai trouvé foncez vite acheter ce jeu 
+en plus cest un développeur français et actif vous naurez donc aucun mal à soumettre vos idées 
+
+#####
+
+excellent jeu indé 
 
 #####
 
@@ -898,8 +898,8 @@ good
 
 #####
 
-Même si quelques améliorations pourraient se faire pour fluidifier l'interface, le jeu est addictif, dans la lignée d'autres jeux du genre (Game Dev Tycoo), mais en plus facile (après cela dépend du niveau choisi).
-Je le conseille.
+même si quelques améliorations pourraient se faire pour fluidifier linterface le jeu est addictif dans la lignée dautres jeux du genre game dev tycoo mais en plus facile après cela dépend du niveau choisi
+je le conseille
 
 #####
 
@@ -911,7 +911,7 @@ nickel
 
 #####
 
-Très bon jeu. Très complet par rapport à d'autre jeux de simulation de studio de jeu, une très belle découverte. Ps (vous recrutez pas des dev par hasard? ^^)
+très bon jeu très complet par rapport à dautre jeux de simulation de studio de jeu une très belle découverte ps vous recrutez pas des dev par hasard 
 
 #####
 
@@ -919,45 +919,45 @@ tres bien mais manque quelque chose
 
 #####
 
-Game Dev Tycoon en mieux, avec plus de contenu, plus de jouabilité, plus d'avancé dans l'évolution du jeu au fil de la partie et moins redondant pour le coup. 
+game dev tycoon en mieux avec plus de contenu plus de jouabilité plus davancé dans lévolution du jeu au fil de la partie et moins redondant pour le coup 
 
-En plus, il a subi plusieurs mises à jour, alors que son prédécesseur semble à l'abandon.
-
-#####
-
-Super jeu, j'adore passer du temps dans ce jeu pour me détendre. Les mécanismes de jeu sont très bons, la gestion des studios n'est pas si facile qu'on peut le croire ce qui donne beaucoup d'attrait au jeu.
+en plus il a subi plusieurs mises à jour alors que son prédécesseur semble à labandon
 
 #####
 
-Très bon jeu
+super jeu jadore passer du temps dans ce jeu pour me détendre les mécanismes de jeu sont très bons la gestion des studios nest pas si facile quon peut le croire ce qui donne beaucoup dattrait au jeu
 
 #####
 
-Jeu sympa pour passer le temps
+très bon jeu
 
 #####
 
-Ce n'est pas un jeu, mais LE jeu qu'il faut avoir si vous aimez créer votre boite de jeu Indé.
-Plusieurs niveau de difficulté
-Une évolution au cours du temps pour ne pas tomber dans la monotonie.
-
-Vous pourrez créer et aménager votre studio
-Construire vos bâtiments
-Racheter la concurrence
-Créer vos jeux bien sur
-Mais aussi votre propre console de jeu.
-Gerer votre nouveau "steam"
-
-
-Bref que du bonheur
-
-Et pour couronner le tout, le développeur est super sympa.
-
-Alors que faites vous à lire la fin de ma recommandation, vous devriez déjà l avoir acheté pour le lancer et vous amusez plutôt que de me lire ^^
+jeu sympa pour passer le temps
 
 #####
 
-J'adore la simulation et j'ai séché ce jeu ! il est incroyable pour tout ceux qui aiment la gestion.
+ce nest pas un jeu mais le jeu quil faut avoir si vous aimez créer votre boite de jeu indé
+plusieurs niveau de difficulté
+une évolution au cours du temps pour ne pas tomber dans la monotonie
+
+vous pourrez créer et aménager votre studio
+construire vos bâtiments
+racheter la concurrence
+créer vos jeux bien sur
+mais aussi votre propre console de jeu
+gerer votre nouveau steam
+
+
+bref que du bonheur
+
+et pour couronner le tout le développeur est super sympa
+
+alors que faites vous à lire la fin de ma recommandation vous devriez déjà l avoir acheté pour le lancer et vous amusez plutôt que de me lire 
+
+#####
+
+jadore la simulation et jai séché ce jeu  il est incroyable pour tout ceux qui aiment la gestion
 
 #####
 
@@ -965,7 +965,7 @@ excellent jeu
 
 #####
 
-Le meilleur tycoon de développement de jeu vidéo sur Steam. Les mises à jours sont extrêmement fréquentes, le développeur est génial (très à l'écoute!), la communauté est active, et le prix est raisonnable. Le jeu va suffisamment en profondeur pour me plaire, et la difficulté est bien gérée.
+le meilleur tycoon de développement de jeu vidéo sur steam les mises à jours sont extrêmement fréquentes le développeur est génial très à lécoute la communauté est active et le prix est raisonnable le jeu va suffisamment en profondeur pour me plaire et la difficulté est bien gérée
 
 #####
 
@@ -973,83 +973,83 @@ Le meilleur tycoon de développement de jeu vidéo sur Steam. Les mises à jours
 
 #####
 
-Dur a prendre en mains au debut mais au bout de 30 h de lecture des tutots le jeu ma respecter je valide de ouf
+dur a prendre en mains au debut mais au bout de 30 h de lecture des tutots le jeu ma respecter je valide de ouf
 
 #####
 
-Première partie fini... 
+première partie fini 
 
-Je me permet donc une évaluation : 
+je me permet donc une évaluation  
 
-Toute les évaluation vont dans le juste. Mise à pars une qui dit ne pas aimer mais démontre des centaines d'heures sur se jeu. Se jeu est profond ! Il y  à de multiple facteur a prendre en compte. Ce qui le rend facile mais à la fois complexe. Si vous aimez le genre, n'hésitez pas ! Vous ne serez pas déçus. 
-J'ai qu'une seul envie la à l'heure actuelle... Recommencez une partie en ayant les connaissance de la précédente.
-Merci Bigornau pour se jeu ! J'ai pas finit de m'amuser dessus. Tu à presque penser à tout... Et ceci est incroyable car s'est devenue tellement rare de nos jours. Alors, quand on apprend que tu est seul au développement... C'est juste extraordinaire ! Je suis en admiration devant... 
-Je vais suivre avec impatience tes prochaine création. Merci
-
-#####
-
-J'ai joué au jeux à sa sortie et il était déjà très bien. Je viens de le relancer en début de semaine et il est carrément génial.
-Très profond, plusieurs façons de jouer.
-Je retrouve mes sensations de jeunesse à jouer jusqu'à 3:00 du matin et à chaque fois dire : "je termine ça et je déco". 1 heure après toujours connecté... ça faisait un moment que cette sensation ne m'étais pas arrivé.
-
-Excellents moments
+toute les évaluation vont dans le juste mise à pars une qui dit ne pas aimer mais démontre des centaines dheures sur se jeu se jeu est profond  il y  à de multiple facteur a prendre en compte ce qui le rend facile mais à la fois complexe si vous aimez le genre nhésitez pas  vous ne serez pas déçus 
+jai quune seul envie la à lheure actuelle recommencez une partie en ayant les connaissance de la précédente
+merci bigornau pour se jeu  jai pas finit de mamuser dessus tu à presque penser à tout et ceci est incroyable car sest devenue tellement rare de nos jours alors quand on apprend que tu est seul au développement cest juste extraordinaire  je suis en admiration devant 
+je vais suivre avec impatience tes prochaine création merci
 
 #####
 
-Addictif !
+jai joué au jeux à sa sortie et il était déjà très bien je viens de le relancer en début de semaine et il est carrément génial
+très profond plusieurs façons de jouer
+je retrouve mes sensations de jeunesse à jouer jusquà 300 du matin et à chaque fois dire  je termine ça et je déco 1 heure après toujours connecté ça faisait un moment que cette sensation ne métais pas arrivé
 
-Excellent jeu, qui met un moment à démarrer, mais auquel on prend très vite goût, surtout une fois plongé dans le début des années 90 et son explosion de consoles en tout genre. Vraiment très bon !
-
-#####
-
-Jeu très sympa , j'ai passé d'agréable heures sur ce jeu .
+excellents moments
 
 #####
 
-Bon jeu, un développeur active, j'ai adoré le jeu et le rocommende !
+addictif 
+
+excellent jeu qui met un moment à démarrer mais auquel on prend très vite goût surtout une fois plongé dans le début des années 90 et son explosion de consoles en tout genre vraiment très bon 
 
 #####
 
-Attiré par son Game Design que je trouve très agréable, j'ai ensuite beaucoup apprécié sa mécanique de jeu.
-Avec une difficulté variable.Si vous voulez la jouer détendue, faite une partie en facile, mais si vous voulez du challenge, passez en mode normal voir même en difficile.
-Vous pouvez jouer un petit studio indé, ou un gros studio AAA et pourquoi pas faire votre propre console.
-Le jeu est déjà bien complet et pourtant de nouvelles mise a jour sont prévues (1.3, 1.4, ... ), ce qui promet encore plus d'heures de jeu en vue. Et si ça suffit pas ! Vous avec les mods !
-Bref un très bon jeu de gestion et pas cher !!
+jeu très sympa  jai passé dagréable heures sur ce jeu 
 
 #####
 
-Après Game Dev Tycoon qui m'a pris beaucoup de temps, je retrouve un jeu similaire encore plus complet que ce dernier. City Game Studio est addictif et je perd du sommeil à cause de lui.
+bon jeu un développeur active jai adoré le jeu et le rocommende 
 
 #####
 
-Vraiment un bon jeu...asser adictif !
+attiré par son game design que je trouve très agréable jai ensuite beaucoup apprécié sa mécanique de jeu
+avec une difficulté variablesi vous voulez la jouer détendue faite une partie en facile mais si vous voulez du challenge passez en mode normal voir même en difficile
+vous pouvez jouer un petit studio indé ou un gros studio aaa et pourquoi pas faire votre propre console
+le jeu est déjà bien complet et pourtant de nouvelles mise a jour sont prévues 13 14   ce qui promet encore plus dheures de jeu en vue et si ça suffit pas  vous avec les mods 
+bref un très bon jeu de gestion et pas cher 
 
 #####
 
-Plus casual que Software Inc (que je vous recommande également), mais super cool et prenant :)
+après game dev tycoon qui ma pris beaucoup de temps je retrouve un jeu similaire encore plus complet que ce dernier city game studio est addictif et je perd du sommeil à cause de lui
 
 #####
 
-Vraiment complet, un développeur au petit soin avec son jeu c'est très agréable. Il faut s'accrocher les premières 30 minutes pour se mettre dedans et puis une fois ce palier passé, vous ne compterez plus les heures!
+vraiment un bon jeuasser adictif 
 
 #####
 
-[h1]C'est un bon jeu qui a beaucoup de qualités !![/h1]
-
-Le jeu à la difficulté que j'attends et ça c'est cool car ce genre de jeu est souvent trop facile. Il y a plein de fonctionnalités qui nous surprennent positivement auxquelles on n'y avait pas pensé et qui ajoute du contenu. Il y a tout ce que j'aime dans ce genre de jeu donc c'est parfait. [b]N'hésitez pas à l'acheter il vaut son prix !![/b]
+plus casual que software inc que je vous recommande également mais super cool et prenant 
 
 #####
 
-une gestion sympa et une touche de nostalgie franchement reussi.
+vraiment complet un développeur au petit soin avec son jeu cest très agréable il faut saccrocher les premières 30 minutes pour se mettre dedans et puis une fois ce palier passé vous ne compterez plus les heures
 
 #####
 
-Jeu très prenant. Quelques petites choses manquent mais c'est un très bon jeu
+h1cest un bon jeu qui a beaucoup de qualités h1
+
+le jeu à la difficulté que jattends et ça cest cool car ce genre de jeu est souvent trop facile il y a plein de fonctionnalités qui nous surprennent positivement auxquelles on ny avait pas pensé et qui ajoute du contenu il y a tout ce que jaime dans ce genre de jeu donc cest parfait bnhésitez pas à lacheter il vaut son prix b
 
 #####
 
-Un excellent jeux, je le recommande vivement. 
-Suffisamment bon pour ne pas voir passer les heures de jeux et de vraiment s'amuser et se détendre a chaque partie.
+une gestion sympa et une touche de nostalgie franchement reussi
+
+#####
+
+jeu très prenant quelques petites choses manquent mais cest un très bon jeu
+
+#####
+
+un excellent jeux je le recommande vivement 
+suffisamment bon pour ne pas voir passer les heures de jeux et de vraiment samuser et se détendre a chaque partie
 
 #####
 
@@ -1057,15 +1057,15 @@ bon jeu
 
 #####
 
-étant adepte de Game Dev Tycoon, ce jeu est bien plus complet, plus accrocheur, même si il y n'y a plus beaucoup de mise à jour j'espère que le jeu continuera à être amélioré et ainsi nous donner la référence dans le genre.
+étant adepte de game dev tycoon ce jeu est bien plus complet plus accrocheur même si il y ny a plus beaucoup de mise à jour jespère que le jeu continuera à être amélioré et ainsi nous donner la référence dans le genre
 
 #####
 
-Best Devs Game in the market !
+best devs game in the market 
 
 #####
 
-Really a complex mix between mad game tycoon and game dev tycoon. Awesome and not easy to master it at all ! i highly recommend it for all the fans of this genre !
+really a complex mix between mad game tycoon and game dev tycoon awesome and not easy to master it at all  i highly recommend it for all the fans of this genre 
 
 #####
 
@@ -1073,93 +1073,93 @@ cool
 
 #####
 
-Beaucoup de mécaniques à prendre en main, mais ce jeu est déjà pour moi un must have en jeu de gestion ! Tout est pensé à la lettre, les possibilités sont immenses et le plaisir de faire évoluer son studio est vraiment génial. Très complet, graphismes très agréables et sensation de liberté.
+beaucoup de mécaniques à prendre en main mais ce jeu est déjà pour moi un must have en jeu de gestion  tout est pensé à la lettre les possibilités sont immenses et le plaisir de faire évoluer son studio est vraiment génial très complet graphismes très agréables et sensation de liberté
 
 #####
 
-Un excellent jeu de gestion encore en évolution. Rappelez vous que le développeur est TOUT SEUL à faire son jeu. Une prouesse, s'il en est.
+un excellent jeu de gestion encore en évolution rappelez vous que le développeur est tout seul à faire son jeu une prouesse sil en est
 
-An Excellent Gestion Game. Keep in mind that the creator is alone to code it. Amazing, isn't it ??
-
-#####
-
-Après 50h, je pense que je peux dire que j'ai aimé le jeu
+an excellent gestion game keep in mind that the creator is alone to code it amazing isnt it 
 
 #####
 
-Très bon jeux de gestion de studio de jeux vidéo, qui a bien évolué
+après 50h je pense que je peux dire que jai aimé le jeu
 
 #####
 
-Accès anticipé déjà très cool. Hate pour la version final.
+très bon jeux de gestion de studio de jeux vidéo qui a bien évolué
 
 #####
 
-Génial !
+accès anticipé déjà très cool hate pour la version final
 
 #####
 
-avec les mise à jours se jeu bien que vu et revu apporte de nouvelles chose et est bien partie pour perdurer. Il est très sympas une fois en main et on y voit vraiment pas le temps passer . . .
+génial 
 
 #####
 
-Bon jeu mais faudrait ajouter plus de contenu sinon tout le reste est top pour moi !
+avec les mise à jours se jeu bien que vu et revu apporte de nouvelles chose et est bien partie pour perdurer il est très sympas une fois en main et on y voit vraiment pas le temps passer   
 
 #####
 
-pas mal du tout encore un peu de taf sur le jeu mais de tres bon moments passé !!
+bon jeu mais faudrait ajouter plus de contenu sinon tout le reste est top pour moi 
 
 #####
 
-Super jeu, je l'avais rembourser une premiere fois car je le trouver trop facile. Mais en faite j'avais compris après
-que ma première partie etait en mod facile.
-Bref JOUER A CE PUTAIN DE JEUX.
-Merci.
+pas mal du tout encore un peu de taf sur le jeu mais de tres bon moments passé 
 
 #####
 
-Super jeu !
+super jeu je lavais rembourser une premiere fois car je le trouver trop facile mais en faite javais compris après
+que ma première partie etait en mod facile
+bref jouer a ce putain de jeux
+merci
 
 #####
 
-Vraiment bon jai vu le jeux commencer et son developpement ce poursivre en ligne sur le twitch du créateur que je vous invite a regarder
+super jeu 
 
 #####
 
-Le mixe parfait entre Mad Game et Game Dev Tycoon. Celui-ci est plus basé sur la gestion de plusieurs studio et le jeu s'il continu d'être mis à jour, pourrait devenir le jeu parfait du genre.
+vraiment bon jai vu le jeux commencer et son developpement ce poursivre en ligne sur le twitch du créateur que je vous invite a regarder
 
 #####
 
-Très bon jeu de simulation si vous aimez le genre. Très complet et très détaillés ce qui rend le jeu plus immersif une fois bien lancé.
+le mixe parfait entre mad game et game dev tycoon celuici est plus basé sur la gestion de plusieurs studio et le jeu sil continu dêtre mis à jour pourrait devenir le jeu parfait du genre
 
 #####
 
-Je suis attentivement le dev de ce jeux de gestion. Il a de très bonne idée innovante. J'aimerais qu'il nous permette aussi de créer nous même du hard wer, mais pour l'instant il n'y a pas encore cette fonctionnalité. Alors les dev si vous lisez ces lignes, je vous transmet l'idée. Je recommande le jeux
+très bon jeu de simulation si vous aimez le genre très complet et très détaillés ce qui rend le jeu plus immersif une fois bien lancé
 
 #####
 
-Très bon jeu
+je suis attentivement le dev de ce jeux de gestion il a de très bonne idée innovante jaimerais quil nous permette aussi de créer nous même du hard wer mais pour linstant il ny a pas encore cette fonctionnalité alors les dev si vous lisez ces lignes je vous transmet lidée je recommande le jeux
 
 #####
 
-Bon jeu
+très bon jeu
 
 #####
 
-Très bon jeu de gestion pour tous amateur du genre
+bon jeu
 
 #####
 
-J'y ai joué 200h et encore, j'ai joué à ce jeu modérément car Binogure (Le développeur) et la communauté Discord a apporté beaucoup de contenu et de patchs de bugs durant l'Early Access. 
+très bon jeu de gestion pour tous amateur du genre
 
-Le jeu en lui meme est beaucoup plus complet que ce que fait les même jeux du genre. Je ne vais pas faire la liste de tout ce qu'il est possible de faire mais tout ce que je peux dire, c'est qu'on se sent vraiment comme un patron d'un grand éditeur de jeux tel que Ubisoft ou Activision par exemple.
-Si vous êtes fan de jeux et gestion et juste pas totalement réticent des "game devs", je ne peux que vous conseiller le jeu ! 
+#####
 
-Si vous vous demandez quel prix vaut ce jeu, je vous dirais, si vous êtes fan de simu, que pour 20€ ou en dessous, vous ne pouvez pas être déçu !
+jy ai joué 200h et encore jai joué à ce jeu modérément car binogure le développeur et la communauté discord a apporté beaucoup de contenu et de patchs de bugs durant learly access 
 
-Edit : Pour commencer le jeu, je vous conseille vivement de commencer en facile voire en très facile. Le jeu est très difficile en difficulté normale (difficulté 3) pour un joueur qui n'a jamais joué au jeu. Pour bien comprendre les bases du jeu, commencez en Très facile ou en facile puis augmentez la difficulté après 2-3 parties au minimum. Je pense que même en très facile, vous arriverez à faire banqueroute la première fois.
+le jeu en lui meme est beaucoup plus complet que ce que fait les même jeux du genre je ne vais pas faire la liste de tout ce quil est possible de faire mais tout ce que je peux dire cest quon se sent vraiment comme un patron dun grand éditeur de jeux tel que ubisoft ou activision par exemple
+si vous êtes fan de jeux et gestion et juste pas totalement réticent des game devs je ne peux que vous conseiller le jeu  
 
-Vraiment, c'est un jeu que je vous recommande.
+si vous vous demandez quel prix vaut ce jeu je vous dirais si vous êtes fan de simu que pour 20 ou en dessous vous ne pouvez pas être déçu 
+
+edit  pour commencer le jeu je vous conseille vivement de commencer en facile voire en très facile le jeu est très difficile en difficulté normale difficulté 3 pour un joueur qui na jamais joué au jeu pour bien comprendre les bases du jeu commencez en très facile ou en facile puis augmentez la difficulté après 23 parties au minimum je pense que même en très facile vous arriverez à faire banqueroute la première fois
+
+vraiment cest un jeu que je vous recommande
 
 #####
 
@@ -1167,15 +1167,15 @@ tres bon jeux ca change un peux des autres jeux de gestion de jeux video
 
 #####
 
-GAME LOVE
+game love
 
 #####
 
-très bon jeu même si la durée de vie n'est pas énorme
+très bon jeu même si la durée de vie nest pas énorme
 
 #####
 
-jeux très complet pour leurs 1 ans si vous aimez les jeux de gestion avec du challenge je vous le conseille :D
+jeux très complet pour leurs 1 ans si vous aimez les jeux de gestion avec du challenge je vous le conseille d
 
 #####
 
@@ -1183,105 +1183,105 @@ tres bon jeu et tres agéable
 
 #####
 
-Une claque. Un coup de cœur. City Game Studio impressionne tant par sa richesse que par la qualité de finition proposée. Pour un jeu en accès anticipé, c'est un sans faute sur le plan technique : les graphismes sont de qualité, les chargements très rapides, l'interface claire et très bien conçue. Mais c'est surtout par les nombreuses mécaniques de gameplay proposées et par sa richesse de contenu que City Game Studio finira par vous éblouir : développer, concevoir, optimiser, embaucher, déménager, agencer, rechercher, promouvoir, racheter le concurrent, le pirater. La durée de vie est d'ores et déjà colossale, et la rejouabilité des plus totales. Une petite pépite de jeu de gestion, qui continue à s'étoffer au fil des mises à jour.
-Notre test complet : https://atrium4game.com/city-game-studio-notre-test-de-ce-jeu-de-gestion-avec-un-grand-g
+une claque un coup de cœur city game studio impressionne tant par sa richesse que par la qualité de finition proposée pour un jeu en accès anticipé cest un sans faute sur le plan technique  les graphismes sont de qualité les chargements très rapides linterface claire et très bien conçue mais cest surtout par les nombreuses mécaniques de gameplay proposées et par sa richesse de contenu que city game studio finira par vous éblouir  développer concevoir optimiser embaucher déménager agencer rechercher promouvoir racheter le concurrent le pirater la durée de vie est dores et déjà colossale et la rejouabilité des plus totales une petite pépite de jeu de gestion qui continue à sétoffer au fil des mises à jour
+notre test complet  httpsatrium4gamecomcitygamestudionotretestdecejeudegestionavecungrandg
 
 #####
 
-Dans la lignée de Game Dev Tycoon, Game Dev Studio, etc...
+dans la lignée de game dev tycoon game dev studio etc
 
-Mais ici le concept va encore plus loin dans les différentes possibilités de gameplay ! Offre un contenu appréciable pour un accès anticipé. 
+mais ici le concept va encore plus loin dans les différentes possibilités de gameplay  offre un contenu appréciable pour un accès anticipé 
 
-Mes débuts : https://youtu.be/WqzjO0zOPHs
-
-#####
-
-Super jeu :P
+mes débuts  httpsyoutubewqzjo0zophs
 
 #####
 
-Je le recommande a 10e, j'espère vraiment qu'il y'auras de grande mise à jour a l'avenir.
+super jeu p
 
 #####
 
-Bien qu'en accès anticipé, ce jeu dispose d'une grande profondeur. (plus que certains acteurs de ce type de jeux)
-Gestion des concurents avec de l'espionnage ou des crackage de jeu afin de faire tomber les ventes de tes concurents
-Ce qui laisse espéré un release de très très bonne qualité.
-Quelques améliorations à éditer et le jeu sera classe.
-
-En plus un Studio Franco Canadien !!!!
-
-Continus dans ton excellent travail Bino. (Découvert sur live de domingo)
+je le recommande a 10e jespère vraiment quil yauras de grande mise à jour a lavenir
 
 #####
 
-TOP !!!!!!!!!!!
+bien quen accès anticipé ce jeu dispose dune grande profondeur plus que certains acteurs de ce type de jeux
+gestion des concurents avec de lespionnage ou des crackage de jeu afin de faire tomber les ventes de tes concurents
+ce qui laisse espéré un release de très très bonne qualité
+quelques améliorations à éditer et le jeu sera classe
+
+en plus un studio franco canadien 
+
+continus dans ton excellent travail bino découvert sur live de domingo
 
 #####
 
-Le jeu est poussé en gestion, c'est vraiment cool !
+top 
 
 #####
 
-une perle. Merci à popcorn de mettre des jeux comme ça en avant
+le jeu est poussé en gestion cest vraiment cool 
 
 #####
 
-Très bon jeu, beaucoup plus poussé qu'un "certain" jeu qui traite du même sujet.
-Le développeur est très réactif et il est à l'écoute des remarques faites par les utilisateurs.
+une perle merci à popcorn de mettre des jeux comme ça en avant
 
 #####
 
-.
+très bon jeu beaucoup plus poussé quun certain jeu qui traite du même sujet
+le développeur est très réactif et il est à lécoute des remarques faites par les utilisateurs
 
 #####
 
-Un jeu très attractif, malgrès ses concurrents direct comme game dev tycoon. City game studio arrive à sortir du lot grace a sa profondeur et simplicité.
-Le jeu est déjà très complet.
-Cela serait bien d'avoir une interface avec la possibilité de voir les effets des micro-transactions ou encore les effets des soldes . 
-Merci pour ce jeu, j'ai hate de voir l'avenir de ce jeu ainsi que ses futures fonctionalitées.
-Merci également à domingo pour la découverte de ce jeu
+
 
 #####
 
-Bleuffé par le travail du developpeur
+un jeu très attractif malgrès ses concurrents direct comme game dev tycoon city game studio arrive à sortir du lot grace a sa profondeur et simplicité
+le jeu est déjà très complet
+cela serait bien davoir une interface avec la possibilité de voir les effets des microtransactions ou encore les effets des soldes  
+merci pour ce jeu jai hate de voir lavenir de ce jeu ainsi que ses futures fonctionalitées
+merci également à domingo pour la découverte de ce jeu
 
 #####
 
-Clairement le meilleur jeu de gestion de studio de dev' !
-En plus créé par un français que demande le peuple !
-
-Complet, difficile mais pas trop tout ça en early access !
-
-Pour les fans de Game Dev Studio, achetez le ! Nom de Zeus !
+bleuffé par le travail du developpeur
 
 #####
 
-Le jeu est complet et vraiment bien, conseiller fortement (Merci PA pour la découverte)
+clairement le meilleur jeu de gestion de studio de dev 
+en plus créé par un français que demande le peuple 
+
+complet difficile mais pas trop tout ça en early access 
+
+pour les fans de game dev studio achetez le  nom de zeus 
 
 #####
 
-Très bon jeu de gestion
+le jeu est complet et vraiment bien conseiller fortement merci pa pour la découverte
 
 #####
 
-Excellent jeu, vive Bino
+très bon jeu de gestion
 
 #####
 
-génial!
+excellent jeu vive bino
 
 #####
 
-bon jeu on s'amuse facilement
+génial
 
 #####
 
-Très bon jeu. ! Ce qui me fait dire ça c'est qu'on ne voit pas le temps passé une fois branché dessus. Bravo au développeur qui nous propose un jeu très riche et plein de subtilités... que je ne maîtrise pas encore complètement et c'est tant mieux. ;)
+bon jeu on samuse facilement
 
 #####
 
-BON JEUX 
+très bon jeu  ce qui me fait dire ça cest quon ne voit pas le temps passé une fois branché dessus bravo au développeur qui nous propose un jeu très riche et plein de subtilités que je ne maîtrise pas encore complètement et cest tant mieux 
+
+#####
+
+bon jeux 
 
 
 #####
@@ -1290,96 +1290,96 @@ superbe jeux complet et tres addictif
 
 #####
 
-FORMAT EFFICACE
+format efficace
 
 #####
 
-Incroyable.
+incroyable
 
 #####
 
-Tres bien
+tres bien
 
 #####
 
-Jeu vraiment sympas
-Assez compliqué sur le long terme faut vraiment doser son développement contrairement à game dev tycoon qui est plus simpliste
+jeu vraiment sympas
+assez compliqué sur le long terme faut vraiment doser son développement contrairement à game dev tycoon qui est plus simpliste
 
 #####
 
-Tres bon jeu
+tres bon jeu
 
 #####
 
-Beaucoup plus approfondi que Game Dev Tycoon
+beaucoup plus approfondi que game dev tycoon
 
 #####
 
-Very good game, very deep and complete.
+very good game very deep and complete
 
 #####
 
-Je recommande City Game Studio à tous pour ceux et celles qui sont fans de ce genre de jeu. il est toujours en accès anticipé mais à également beaucoup de contenus à ce jour (MAJ, Piratage, Gestion des employés, Publicité, démo etc...) cependant j'aimerais pour ma part un peu plus de choix pour les thèmes et aussi pouvoir choisir 2 ou voir 3 thèmes différents et pareil pour le Genre par exemple (RPG + Aventure) si possible avec plus de détails. 
+je recommande city game studio à tous pour ceux et celles qui sont fans de ce genre de jeu il est toujours en accès anticipé mais à également beaucoup de contenus à ce jour maj piratage gestion des employés publicité démo etc cependant jaimerais pour ma part un peu plus de choix pour les thèmes et aussi pouvoir choisir 2 ou voir 3 thèmes différents et pareil pour le genre par exemple rpg  aventure si possible avec plus de détails 
 
-Pourquoi pas mettre nos jeux en accès anticipé ? ça serais fun avec les retours du publiques ;) 
- Je met un gros pouce bleu au Dev car il fait un travail remarquable surtout qu'il est à l'écoute de sa communauté.
-
-#####
-
-J'aime le jeu, c'est dommage qu'il manque des options de filtrage pour les jeux publié ou du portfolio, ça serais plus pratique pour les suite, mise à jour, publicités, ou encore pour retirer un jeu de la vente.
+pourquoi pas mettre nos jeux en accès anticipé  ça serais fun avec les retours du publiques  
+ je met un gros pouce bleu au dev car il fait un travail remarquable surtout quil est à lécoute de sa communauté
 
 #####
 
-Je n'ai que quelques heures de played mais pour un genre qui ne me plait pas trop à la base, je me suis beaucoup amusé.
-Je ne peux que le recommander!
-
-Enjoy...
+jaime le jeu cest dommage quil manque des options de filtrage pour les jeux publié ou du portfolio ça serais plus pratique pour les suite mise à jour publicités ou encore pour retirer un jeu de la vente
 
 #####
 
-Très bon jeu de gestion ! 
-Avec un développement actif et réactif qui ajoute de la profondeur au jeu au fûr et à mesure .
+je nai que quelques heures de played mais pour un genre qui ne me plait pas trop à la base je me suis beaucoup amusé
+je ne peux que le recommander
+
+enjoy
+
+#####
+
+très bon jeu de gestion  
+avec un développement actif et réactif qui ajoute de la profondeur au jeu au fûr et à mesure 
 
 
 #####
 
-Un jeu très complexe, assez difficile à appréhender mais très bien construit en globalité. On ne vois pas le temps passer en jouant à ce jeu. Il n'y a pas de routine, on est en perpétuelle évolution ce qui change de beaucoup de jeux pourtant AAA. 
+un jeu très complexe assez difficile à appréhender mais très bien construit en globalité on ne vois pas le temps passer en jouant à ce jeu il ny a pas de routine on est en perpétuelle évolution ce qui change de beaucoup de jeux pourtant aaa 
 
-Je recommande fortement ce jeu, si vous voulez vous passer du bon temps. 
-Une grande durée de vie !
-
-#####
-
-City Game Studio est sublime je trouve il remplace bien game dev tycoon , Mad Game Tycoon mais en plus réaliste donc si vous hésiter encore a l'acheter n'hésiter plus  . 
-
-En gros vous étes fan de jeu comme Game Dev Tycoon et Mad Game Tycoon est bah vous aller kiffer City Game Studio !
+je recommande fortement ce jeu si vous voulez vous passer du bon temps 
+une grande durée de vie 
 
 #####
 
-Je joue à ce jeux depuis un petit moment,  et pour moi, il s'agit du meilleur jeu de gestion du genre Game Dev. 
-Il a énormément de qualités: 
-- une bonne difficulté: présente mais gérable
-- beaucoup de types de jeux 
-- beaucoup de thèmes 
-- des concurrents à couler/racheter 
-- une gestion du personnel 
-- une gestion des studios
+city game studio est sublime je trouve il remplace bien game dev tycoon  mad game tycoon mais en plus réaliste donc si vous hésiter encore a lacheter nhésiter plus   
 
-Mais surtout ce jeu brille par les évolutions que met en place le développeur, et de la rapidité dont il fait preuve.
+en gros vous étes fan de jeu comme game dev tycoon et mad game tycoon est bah vous aller kiffer city game studio 
 
 #####
 
-Un jeu de gestion ou il faut faire des jeux vidéo . 
-Addictif on ce prend vite au jeu a vouloir développer son studio et faire des jeux de plus en plus gros le tout avec une bande son très sympathique
-La difficulté est assez élevé le temps de comprendre quel thème marche avec quel type de jeu (pour pas faire un navet).
-Puis les option se débloque au fur et a mesure de la partie pour arriver a faire le jeux de l année qui va rapporter gros.
-je recommande chaudement.
+je joue à ce jeux depuis un petit moment  et pour moi il sagit du meilleur jeu de gestion du genre game dev 
+il a énormément de qualités 
+ une bonne difficulté présente mais gérable
+ beaucoup de types de jeux 
+ beaucoup de thèmes 
+ des concurrents à coulerracheter 
+ une gestion du personnel 
+ une gestion des studios
+
+mais surtout ce jeu brille par les évolutions que met en place le développeur et de la rapidité dont il fait preuve
 
 #####
 
-Very good game, I recommand it !
+un jeu de gestion ou il faut faire des jeux vidéo  
+addictif on ce prend vite au jeu a vouloir développer son studio et faire des jeux de plus en plus gros le tout avec une bande son très sympathique
+la difficulté est assez élevé le temps de comprendre quel thème marche avec quel type de jeu pour pas faire un navet
+puis les option se débloque au fur et a mesure de la partie pour arriver a faire le jeux de l année qui va rapporter gros
+je recommande chaudement
 
-Très bon jeu ! Je recommande.
+#####
+
+very good game i recommand it 
+
+très bon jeu  je recommande
 
 #####
 

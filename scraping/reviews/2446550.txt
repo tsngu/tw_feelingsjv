@@ -1,682 +1,682 @@
-C'est décevant , mais sans une grande surprise..
+cest décevant  mais sans une grande surprise
 
-Franchement autant rester sur les jeux séparés pour un total de genre 6,5€ sur IG plutôt que 34€ ici
+franchement autant rester sur les jeux séparés pour un total de genre 65 sur ig plutôt que 34 ici
 
-c'est quoi la diff ici? 
-- passage en 64bits 
-- les cinématiques upscale grâce à l'IA (on adore ça en ce moment) mais l'espace de stockage aussi :)
-- un mod approprié d'un fan oklm et pas à jour en plus avec le DLC XBOX
-- youpii on peut jouer les héros assault sur d'autres maps que Mos Eisley!
-- 3 serveurs qui se battent en duel dédiés à Aspyr (bon pour le moment je n'ai pas vu un seul des serveurs full à voir dans la journée) ATTENTION ; FPS A 30 MAX
+cest quoi la diff ici 
+ passage en 64bits 
+ les cinématiques upscale grâce à lia on adore ça en ce moment mais lespace de stockage aussi 
+ un mod approprié dun fan oklm et pas à jour en plus avec le dlc xbox
+ youpii on peut jouer les héros assault sur dautres maps que mos eisley
+ 3 serveurs qui se battent en duel dédiés à aspyr bon pour le moment je nai pas vu un seul des serveurs full à voir dans la journée attention  fps a 30 max
 
 ah oui et des bugs bien relou en multi comme le fait que le compte à rebours pour venir sur le champ de bataille qui reste bloqué à 1
 
-le passage de la 1ere vue à la 3eme ne se fait plus par une touche , il faut passer par le menu obligatoirement
-un autre bug quand vous jouez en fenêtré, et que vous faites windows pour de la bureautique et que vous revenez ensuite sur le jeu, vous aurez un superbe curseur supplémentaire figé au milieu pour le plaisir des yeux.
+le passage de la 1ere vue à la 3eme ne se fait plus par une touche  il faut passer par le menu obligatoirement
+un autre bug quand vous jouez en fenêtré et que vous faites windows pour de la bureautique et que vous revenez ensuite sur le jeu vous aurez un superbe curseur supplémentaire figé au milieu pour le plaisir des yeux
 
-Et enfin sur la demi heure d'observation, une chose que j'ai pas trop compris ; on lance le jeu, on choisit entre BF1 et BF2 ok mais.. c'est quoi le truc en bas "enregistrer votre jeu" ça vient faire quoi?
+et enfin sur la demi heure dobservation une chose que jai pas trop compris  on lance le jeu on choisit entre bf1 et bf2 ok mais cest quoi le truc en bas enregistrer votre jeu ça vient faire quoi
 
-je clique pour comprendre ça fait un overlay steam qui tourne en boucle.. mystère pour moi.
+je clique pour comprendre ça fait un overlay steam qui tourne en boucle mystère pour moi
 
-En somme , je trouve que 34€ c'est un tarif abusé pour ce qu'on nous propose et ça risque de flopper très rapidement si ça ne change pas à mon avis
+en somme  je trouve que 34 cest un tarif abusé pour ce quon nous propose et ça risque de flopper très rapidement si ça ne change pas à mon avis
 
 #####
 
-Les mecs ont réussis à rater deux jeux en même temps, déjà c'est très fort mais en PLUS des jeux QUI DATENT D'IL Y A 20 ANS.
+les mecs ont réussis à rater deux jeux en même temps déjà cest très fort mais en plus des jeux qui datent dil y a 20 ans
 
-Je pense que personne ne s'en rend compte, ils ont juste montés la qualité qui n'est d'ailleurs quasiment pas visible pour les joueurs PC qui d'ailleurs n'ont rien à gagner à l'acheter je vous le dis tout de suite, parce que bon avoir 3 serveurs dès le lancement alors que sur SteamDB on peux voir qu'il y avais 9000 joueurs dans les premières heures c'est juste une insulte à notre communauté et je n'ai pas d'autre mot que de dire qu'ils se foutent de notre gueule.
+je pense que personne ne sen rend compte ils ont juste montés la qualité qui nest dailleurs quasiment pas visible pour les joueurs pc qui dailleurs nont rien à gagner à lacheter je vous le dis tout de suite parce que bon avoir 3 serveurs dès le lancement alors que sur steamdb on peux voir quil y avais 9000 joueurs dans les premières heures cest juste une insulte à notre communauté et je nai pas dautre mot que de dire quils se foutent de notre gueule
 
-petit récapitulatif des points qui sont juste inadmissibles :
+petit récapitulatif des points qui sont juste inadmissibles 
 
--Le prix pour le contenu changé
+le prix pour le contenu changé
 
--Les graphismes qui auraient pus êtres biens mieux
+les graphismes qui auraient pus êtres biens mieux
 
--COMMENT CA SEULEMENT 3 SERVEURS MULTIJOUEURS AU LANCEMENT ?????
+comment ca seulement 3 serveurs multijoueurs au lancement 
 
--Pourquoi changer le son du temps de chargement du premier Battlefront ?
+pourquoi changer le son du temps de chargement du premier battlefront 
 
--bloqué à 30 FPS si on host un serveur multijoueur (parce que c'est vrai qu'en 2024 c'est compliqué de faire des serveurs à 60 FPS ou plus sur des jeux qui datent d'il y a 20 ans et que tout le monde peux faire tourner)
+bloqué à 30 fps si on host un serveur multijoueur parce que cest vrai quen 2024 cest compliqué de faire des serveurs à 60 fps ou plus sur des jeux qui datent dil y a 20 ans et que tout le monde peux faire tourner
 
--Pas de crossplay pourtant je pense que c'est pas si compliqué à faire
+pas de crossplay pourtant je pense que cest pas si compliqué à faire
 
--En multijoueur les serveurs Héros contre Héros sont juste totalement déséquilibrés parce que les héros du côté obscur sont juste beaucoup trop fort et je pense que le moyen de changer ça serait de réduire les dégâts d'attaque et augmenter les coûts en endurance.
+en multijoueur les serveurs héros contre héros sont juste totalement déséquilibrés parce que les héros du côté obscur sont juste beaucoup trop fort et je pense que le moyen de changer ça serait de réduire les dégâts dattaque et augmenter les coûts en endurance
 
--Ils ont réussis à rater les animations de sabre laser d'Asajj Ventress
+ils ont réussis à rater les animations de sabre laser dasajj ventress
 
--Les axes Y  à la souris des vaisseaux sont inversés, et ne sont PAS CHANGEABLES dans le premier Battlefront.
+les axes y  à la souris des vaisseaux sont inversés et ne sont pas changeables dans le premier battlefront
 
--Et bien sûr pour ceux/celles qui ont pré commandés pour ceux qui se le demande, bas il n'y a aucune différence avec le jeux sans précommande ! Rien ! vraiment RIEN
+et bien sûr pour ceuxcelles qui ont pré commandés pour ceux qui se le demande bas il ny a aucune différence avec le jeux sans précommande  rien  vraiment rien
 
--Pas de VF ? c'est vraiment si compliqué de copier coller des fichiers audio ?
+pas de vf  cest vraiment si compliqué de copier coller des fichiers audio 
 
--Pas d'infos sur les mods
+pas dinfos sur les mods
 
 
-Résumé du jeux pour moi, c'est que c'est juste un bon foutage de gueule surtout que je pense qu'ils ne mettrons pas le jeux à jour et le laisseront comme ça parce que bon quand on vois l'état du jeux à sa sortie comment croire qu'il pourras s'améliorer sérieusement.
+résumé du jeux pour moi cest que cest juste un bon foutage de gueule surtout que je pense quils ne mettrons pas le jeux à jour et le laisseront comme ça parce que bon quand on vois létat du jeux à sa sortie comment croire quil pourras saméliorer sérieusement
 
-J'essai de ne pas être pessimiste mais comment ????? 
-Si le jeux change et obtiens des MAJ à l'avenir je reviendrais sur ce commentaire avec grand plaisir et j'ai malgré tout espoir de pouvoir le faire dans un sens positif.
+jessai de ne pas être pessimiste mais comment  
+si le jeux change et obtiens des maj à lavenir je reviendrais sur ce commentaire avec grand plaisir et jai malgré tout espoir de pouvoir le faire dans un sens positif
 
-En attendant, bas c'est simple, ne l'achetez pas, ou si vous voulez le faire bas prenez le jeux de 2005 et celui de 2004, vous jetterez juste votre argent à la poubelle en prenant cette édition.
+en attendant bas cest simple ne lachetez pas ou si vous voulez le faire bas prenez le jeux de 2005 et celui de 2004 vous jetterez juste votre argent à la poubelle en prenant cette édition
 
 
 
 
-- Update after patch 19/03/2024
+ update after patch 19032024
 
-Donc un patch correctif est sorti, celui ci règle plusieurs bugs/problèmes que j'avais cité plus tôt, en occurrence le son du temps de chargement sur le premier Battlefront, les touches de changement d'axes de rotation des vaisseaux toujours dans le premier Battlefront, des cinématiques manquantes dans le mode histoire ont étés rajoutées, et APPAREMMENT, le multijoueur serais réglé aussi, puis à la suite bien sûr des problèmes de bugs/ et de crashs font aussi partie du patch, ci joint :
+donc un patch correctif est sorti celui ci règle plusieurs bugsproblèmes que javais cité plus tôt en occurrence le son du temps de chargement sur le premier battlefront les touches de changement daxes de rotation des vaisseaux toujours dans le premier battlefront des cinématiques manquantes dans le mode histoire ont étés rajoutées et apparemment le multijoueur serais réglé aussi puis à la suite bien sûr des problèmes de bugs et de crashs font aussi partie du patch ci joint 
 
-https://support.aspyr.com/hc/en-us/articles/25127134058381--STAR-WARS-Battlefront-Classic-Collection-Update-I-Patch-Notes
+httpssupportaspyrcomhcenusarticles25127134058381starwarsbattlefrontclassiccollectionupdateipatchnotes
 
 
-En revanche, je l'ai appris en même temps que la release du patch, sachez que des preuves sont présentes, je préfère le préciser avant d'appuyer mes propos, que les personnages d'Asajj Ventress et Kit Fisto, ont étés VOLÉS À UN MODEUR.
+en revanche je lai appris en même temps que la release du patch sachez que des preuves sont présentes je préfère le préciser avant dappuyer mes propos que les personnages dasajj ventress et kit fisto ont étés volés à un modeur
 
-sources : https://www.ign.com/articles/star-wars-battlefront-modder-finds-further-evidence-classic-collection-uses-their-mod-despite-aspyr-promising-it-wouldnt
+sources  httpswwwigncomarticlesstarwarsbattlefrontmodderfindsfurtherevidenceclassiccollectionusestheirmoddespiteaspyrpromisingitwouldnt
 
-Je trouve ça juste SCANDALEUX, que non seulement le studio ai réussi à faire un jeux moins bien que les originaux alors que ce n'est absolument pas un remaster officiellement (petite pensée au commentaire de cet avis, sache que j'étais au courant, mais même pour un portage je le dis c'est de la M****).
+je trouve ça juste scandaleux que non seulement le studio ai réussi à faire un jeux moins bien que les originaux alors que ce nest absolument pas un remaster officiellement petite pensée au commentaire de cet avis sache que jétais au courant mais même pour un portage je le dis cest de la m
 
-À ce point là, c'est juste vouloir faire de la thune, si je n'avais pas acheté le jeux en précommande sur instant gaming j'aurais à coup sûr fais une demande de remboursement, mais si en plus le studio vole les fans, je dirais même ses clients (déjà que le prix de base c'est, disons le du vol) mais comment peux on défendre la classic collection ??? 
+à ce point là cest juste vouloir faire de la thune si je navais pas acheté le jeux en précommande sur instant gaming jaurais à coup sûr fais une demande de remboursement mais si en plus le studio vole les fans je dirais même ses clients déjà que le prix de base cest disons le du vol mais comment peux on défendre la classic collection  
 
-RIEN NE VA !
+rien ne va 
 
-Je suis déjà étonné qu'ils aient sortis un premier patch mais c'est trop tard, le mal est fait et certainement 60-70% des joueurs PC ont déjà dû faire une demande de remboursement ce qui est normal, je suis un grand fan de star wars, et encore plus de la franchise Battlefront, mais là c'est trop, on en avaient déjà marre de la gestion d'EA mais là c'est la goutte d'eau qui fais déborder le vase.
+je suis déjà étonné quils aient sortis un premier patch mais cest trop tard le mal est fait et certainement 6070 des joueurs pc ont déjà dû faire une demande de remboursement ce qui est normal je suis un grand fan de star wars et encore plus de la franchise battlefront mais là cest trop on en avaient déjà marre de la gestion dea mais là cest la goutte deau qui fais déborder le vase
 
-Même si le studio fait des patchs à répétitions il y a très très peu de chance que la classic collection remonte la pente, je continuerais malgré tout à faire des updates des patchs, mais je reste sur mon avis final d'origine, que je redis,
+même si le studio fait des patchs à répétitions il y a très très peu de chance que la classic collection remonte la pente je continuerais malgré tout à faire des updates des patchs mais je reste sur mon avis final dorigine que je redis
 
-"En attendant, bas c'est simple, ne l'achetez pas, ou si vous voulez le faire bas prenez le jeux de 2005 et celui de 2004, vous jetterez juste votre argent à la poubelle en prenant cette édition."
+en attendant bas cest simple ne lachetez pas ou si vous voulez le faire bas prenez le jeux de 2005 et celui de 2004 vous jetterez juste votre argent à la poubelle en prenant cette édition
 
-Cordialement.
+cordialement
 
 #####
 
-ASPYR MON AME
+aspyr mon ame
 
 #####
 
-Reprendre un jeu vieux de presque 20 ans pour le foirer plus que l'original et le vendre 30 boules, faut le faire.
+reprendre un jeu vieux de presque 20 ans pour le foirer plus que loriginal et le vendre 30 boules faut le faire
 
 #####
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠊⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀
-⠀⠀⠀⠀⠀⠀⠀⠀⡰⠈⠀⠀⠠⠂⠂⠀⠀⢀⣀⠀⠀⠀⢀⣀⣴⢟⠛⠉
-⠀⠀⠀⠀⠀⠀⠀⣾⣧⡠⣂⣤⣬⣲⣶⢷⣾⣛⠙⠳⠀⣤⣿⡿⠃⠂⠀⠀
-⣀⣀⣀⣀⣀⣀⡀⠛⢿⣷⠟⡋⣩⠻⣗⠀⠻⣝⢻⡌⠀⣍⡥⠊⠀⠀⠀⠀
-⠈⠑⢝⡻⠿⣿⣿⣿⣾⡟⠘⢋⡉⠞⠒⠒⠋⠈⢲⣿⣿⡛⠁⠀⠀⠀⠀⠀
-⠀⠀⠀⠈⠑⠢⠍⠙⣿⣿⣄⡀⣠⣎⡀⠤⢤⣢⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠙⠙⣿⣿⣿⣿⣿⣿⣛⣿⣿⣿⡅⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢀⣀⣴⣿⣿⣿⣿⣿⣿⣿⣿⢿⣫⢤⢙⢦⠰⣄⡀⠀⠀
-⠀⠀⠀⠀⠀⢠⣼⣿⣿⣿⣳⢻⣿⣿⣿⣿⣷⠾⠿⠋⠖⠄⠀⠙⠎⢷⡀⠀
-⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣯⡁⢿⣿⣿⣶⣶⣶⠶⠞⢉⣇⡀⠀⣀⣼⣷⠀
-⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣧⡾⢉⡛⠿⠢⢌⢀⣾⣿⣿⣿⣿⣿⣿⠀
-⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡦⡦⢮⠀⢰⡙⡛⠿⣿⣿⣿⠂
-⠀⠀⠀⠸⣿⠻⣿⣿⣿⣿⣿⣿⣿⣿⠯⢥⠾⠛⠢⣴⡿⡻⣞⢦⡀⠉⠉⠀
-⠀⠀⠀⠀⠀⠁⠈⠉⠉⠉⠉⠉⠁⠀⠀⠀⠉⠉⠉⠀⠀⠈⠈⠈⠉⠁⠀⠀⠀⠀⠀⠀
 
-Buy the game, you won't
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+buy the game you wont
+
 #####
 
-Ce jeu ne ressemble en rien aux simulations ni aux trailers.....
+ce jeu ne ressemble en rien aux simulations ni aux trailers
 
-Le concept était simple : 
-Tu prends le jeu et tu améliores les graphismes, 64 joueurs et expandre le héro assaut sur toutes les maps.
-Rien de bien dur.
+le concept était simple  
+tu prends le jeu et tu améliores les graphismes 64 joueurs et expandre le héro assaut sur toutes les maps
+rien de bien dur
 
-Devine quoi ? Ils ont tout foiré, ce jeu va rester dans les flops 2024 peut-etre meme etre le pire.
+devine quoi  ils ont tout foiré ce jeu va rester dans les flops 2024 peutetre meme etre le pire
 
-Pour 34 euros tu as :
-- les deux jeux
-- cinématiques manquantes sur BF2 (pourquoi faire çà produit pas d'argent?)
-- upscales les lumières, pas les graphismes donc aucun changement
-- deux maps du 1 sur le 2 WOAH
-- deux héros qui sont issus d'un mod, qu'ils ont "empruntes" ou "inspirer" (sans créditer l'auteur du mod des deux persos, c'est pas illégal vu que le jeu appartient à LucasArts mais c'est insultant), aller voir REDDIT ou internet pour plus d'explications
-- TROIS oui TROIS pauvres serveurs pour un lancement de jeu top 100 précommande soit 192 places pour + 6 000 joueurs, fantastique....(y en a plus maintenant mais y a genre 20 joueurs en multi le soir)
-- Problèmes de connexions tu laggais h24 sur les serveurs, certains avaient les textures manquantes qu'on a sur GMOD sur des maps comme HOTH.
-- sucés de m*rde, fais les mêmes actions encore et encore en boucle
+pour 34 euros tu as 
+ les deux jeux
+ cinématiques manquantes sur bf2 pourquoi faire çà produit pas dargent
+ upscales les lumières pas les graphismes donc aucun changement
+ deux maps du 1 sur le 2 woah
+ deux héros qui sont issus dun mod quils ont empruntes ou inspirer sans créditer lauteur du mod des deux persos cest pas illégal vu que le jeu appartient à lucasarts mais cest insultant aller voir reddit ou internet pour plus dexplications
+ trois oui trois pauvres serveurs pour un lancement de jeu top 100 précommande soit 192 places pour  6 000 joueurs fantastiquey en a plus maintenant mais y a genre 20 joueurs en multi le soir
+ problèmes de connexions tu laggais h24 sur les serveurs certains avaient les textures manquantes quon a sur gmod sur des maps comme hoth
+ sucés de mrde fais les mêmes actions encore et encore en boucle
 
-J'ose le dire mais ce jeu est un cashgrab, tu payes pour un remake qui a moins d'avantages que le jeu de base.....les mecs ont absolument rien fait, le jeu se résume à "Hé c'est star wars go faire un "remake" le moins cher possible pour le vendre le plus cher possible. Encore mieux le filer à un studio qui visiblement ment et ne sais pas ce qu'il fait, çà peut que marcher ! Les fans de Star Wars vont betement acheter notre m*rde !
+jose le dire mais ce jeu est un cashgrab tu payes pour un remake qui a moins davantages que le jeu de baseles mecs ont absolument rien fait le jeu se résume à hé cest star wars go faire un remake le moins cher possible pour le vendre le plus cher possible encore mieux le filer à un studio qui visiblement ment et ne sais pas ce quil fait çà peut que marcher  les fans de star wars vont betement acheter notre mrde 
 
 #####
 
-Premier point : Trop cher. Juste trop cher, ca serais un Remaster ok, pas de soucis, le prix serais justifier, mais la ... 
+premier point  trop cher juste trop cher ca serais un remaster ok pas de soucis le prix serais justifier mais la  
 
-Second point : Ou est la VF ? C'était si impossible que ça de récupérer la VF des anciens opus ? Quitte a ressortir les deux jeux dans un seul pack, autant tout mettre non ? 
+second point  ou est la vf  cétait si impossible que ça de récupérer la vf des anciens opus  quitte a ressortir les deux jeux dans un seul pack autant tout mettre non  
 
-Troisième point : C'est beau de nous vendre ça, perso je me suis attendu a une fusion des deux jeux, mais en fait pas du tout, j'ai mieux avec Battlefront 2 d'origine et un mod et pour moins cher ... 
+troisième point  cest beau de nous vendre ça perso je me suis attendu a une fusion des deux jeux mais en fait pas du tout jai mieux avec battlefront 2 dorigine et un mod et pour moins cher  
 
-Quatrième point : Le bon coté c'est que ça prend en charge les configurations ultra-wide, c'est bien, mais c'est vraiment le strict minimum possible, et c'est pas l'ajout des quelques contenus bonus qui me feront changer d'avis.
+quatrième point  le bon coté cest que ça prend en charge les configurations ultrawide cest bien mais cest vraiment le strict minimum possible et cest pas lajout des quelques contenus bonus qui me feront changer davis
 
-En bref : Rien ne justifie de vendre ça a 35€, ça serais vendu a 10-15€ encore ça serais passable, mais la y'a pas de travail de remaster, même pas un semblant d'effort en fait parce que ce qui aurait été incroyable ça aurait justement été de fusionner les deux jeux, reproduire la campagne du 1 sur le 2 qui a plus de fonctionnalités ! 
+en bref  rien ne justifie de vendre ça a 35 ça serais vendu a 1015 encore ça serais passable mais la ya pas de travail de remaster même pas un semblant deffort en fait parce que ce qui aurait été incroyable ça aurait justement été de fusionner les deux jeux reproduire la campagne du 1 sur le 2 qui a plus de fonctionnalités  
 
-Un retour sur le jeu d'origine et ses mods est une meilleure option.
+un retour sur le jeu dorigine et ses mods est une meilleure option
 
 #####
 
-Problèmes de serveurs , pas de VF tout ça pour 30 balles ?  Gardez votre jeu et go jouer au 2005
+problèmes de serveurs  pas de vf tout ça pour 30 balles   gardez votre jeu et go jouer au 2005
 
 #####
 
-Retenez bien le nom d'Aspyr, pour ne plus jamais subir une telle arnaque de leur part.
+retenez bien le nom daspyr pour ne plus jamais subir une telle arnaque de leur part
 
 #####
 
-Tellement dommage de jouer avec notre nostalgie pour nous faire vendre a prix fort 20 ans après les originaux !
+tellement dommage de jouer avec notre nostalgie pour nous faire vendre a prix fort 20 ans après les originaux 
 
-Points positif :
+points positif 
 
--La prise en charge des hautes définition avec un interface hd/4k
+la prise en charge des hautes définition avec un interface hd4k
 
--Le menu console de bf2 au lien du menu pc bien éclater de l'époque (par contre pourquoi avoir changement le bruit du chargement des map du 1 qui était tellement iconique ????)
+le menu console de bf2 au lien du menu pc bien éclater de lépoque par contre pourquoi avoir changement le bruit du chargement des map du 1 qui était tellement iconique 
 
--Les textures remanier notamment les skin ça fait plaisir
+les textures remanier notamment les skin ça fait plaisir
 
 
-Mais voila maintenant tout le reste c'est une succession de défaut qui saute aux yeux et faut pas plus de 10min de jeu pour les subir....
+mais voila maintenant tout le reste cest une succession de défaut qui saute aux yeux et faut pas plus de 10min de jeu pour les subir
 
-Points négatifs :
+points négatifs 
 
-1 : les bug de son en tout genre, j'ai eu des games entière ou le son a disparu, d'autre fois ou il y a un crash de son qui casse les oreilles pendant 1 seconde (assez souvent)
+1  les bug de son en tout genre jai eu des games entière ou le son a disparu dautre fois ou il y a un crash de son qui casse les oreilles pendant 1 seconde assez souvent
 
-2 : une IA a la ramasse, je sais bien que c'est qu'un remastered sans grande prétention mais vraiment le gros point faible de ses deux jeux qui font qu'ils ont EXTRÊMEMENT mal vieillit c'est bien l'IA qui en normal son c*n comme des ballait, et en difficile te one shoot a l'autre bout de la map, c'est vraiment frustrant
-J'ai fait une campagne Conquete Galactic en normal et si je ne carry pas mes coéquipiers en tuant au moins 70 ennemis la défaite est OBLIGATOIRE, ce qui montre l'inefficacité des bots alliés 
-(Mention spéciale a l'ia qui attaque en boucle la même planète malgres les défaites a la chaîne, c'est usant)
+2  une ia a la ramasse je sais bien que cest quun remastered sans grande prétention mais vraiment le gros point faible de ses deux jeux qui font quils ont extrêmement mal vieillit cest bien lia qui en normal son cn comme des ballait et en difficile te one shoot a lautre bout de la map cest vraiment frustrant
+jai fait une campagne conquete galactic en normal et si je ne carry pas mes coéquipiers en tuant au moins 70 ennemis la défaite est obligatoire ce qui montre linefficacité des bots alliés 
+mention spéciale a lia qui attaque en boucle la même planète malgres les défaites a la chaîne cest usant
 
--Les 2 serveurs multi qui ce battent en duel
+les 2 serveurs multi qui ce battent en duel
 
--Un filtre pour BF1 n'aurait pas était de refus, il est vraiment flou c'est pas agréable a l’œil
+un filtre pour bf1 naurait pas était de refus il est vraiment flou cest pas agréable a lœil
 
--L'absence de fv c'est un peu du foutage de gueule, alors qu'il y a les cinématiques en français mais pas les voix ig, chelou
+labsence de fv cest un peu du foutage de gueule alors quil y a les cinématiques en français mais pas les voix ig chelou
 
 
 
 
-Voila, heureusement qu'ils l'ont vite sorti après son annonce car honnêtement si j'avais du me hype pendant des mois pour au final avoir un tel résultat je l'aurais vraiment mal vécu 
+voila heureusement quils lont vite sorti après son annonce car honnêtement si javais du me hype pendant des mois pour au final avoir un tel résultat je laurais vraiment mal vécu 
 
-Je vais espérer voir des maj, mais pour les autres, ne l'acheter pas
+je vais espérer voir des maj mais pour les autres ne lacheter pas
 
 #####
 
-On va garder les souvenirs de l'époque c'est mieux....
+on va garder les souvenirs de lépoque cest mieux
 
 #####
 
-Enorme déception, le jeu se lance en QWERTY et impossible de le passer en AZERTY en jeu (lassant pour écrire dans le tchat), le bouton pour viser dans les commandes est très (trop?) bien caché, 32v32 pour 100 tickets ... bref, bien trop d'erreurs ajoutées à des jeux de 20 ans qui étaient déjà quasi parfaits
+enorme déception le jeu se lance en qwerty et impossible de le passer en azerty en jeu lassant pour écrire dans le tchat le bouton pour viser dans les commandes est très trop bien caché 32v32 pour 100 tickets  bref bien trop derreurs ajoutées à des jeux de 20 ans qui étaient déjà quasi parfaits
 
 #####
 
-Acheté par simple nostalgie, afin d'essayer de revivre de bon moments d'enfance... Cependant c’est une grosse déception à l'arrivé ! C'est seulement un portage des jeux des année 2004/2005 mais en buggé, et non optimiser... Autant rejoué sur ma PS2 ça sera meilleur ! Bref c'est nul... 34.14euros pour ça je demande le remboursement imédiat.
+acheté par simple nostalgie afin dessayer de revivre de bon moments denfance cependant cest une grosse déception à larrivé  cest seulement un portage des jeux des année 20042005 mais en buggé et non optimiser autant rejoué sur ma ps2 ça sera meilleur  bref cest nul 3414euros pour ça je demande le remboursement imédiat
 
 #####
 
-Aspyr, wtf !?
+aspyr wtf 
 
 #####
 
-C'est nul.
+cest nul
 
-Ils prennent des jeux, cultes, d'il y a vingt ans, qui existent toujours sur Steam pour un prix dérisoire, et nous les resservent comme ça... pas d'amélioration graphique, de gameplay, de nouveau contenu... bon allez si, on a deux nouveaux personnages et la possibilité de jouer le mode héros sur plus de cartes qu'à l'origine. Génial. 34 euros pour ça. Pour rappel, Battlefront 2 de 2005 possède une quantité monstrueuse de mods... donc l'intérêt de cette collection est déjà quasiment nul.
+ils prennent des jeux cultes dil y a vingt ans qui existent toujours sur steam pour un prix dérisoire et nous les resservent comme ça pas damélioration graphique de gameplay de nouveau contenu bon allez si on a deux nouveaux personnages et la possibilité de jouer le mode héros sur plus de cartes quà lorigine génial 34 euros pour ça pour rappel battlefront 2 de 2005 possède une quantité monstrueuse de mods donc lintérêt de cette collection est déjà quasiment nul
 
-Mais là où on l'attendait c'est pour le multijoueur avec matchmaking ! Ben ça ne marche pas. Le jeu crash en voulant lancer certaines cartes, les parties sont trop expéditives, serveurs de qualité médiocre et en petit nombre, je vois le chat en jeu indiquer que "le jeu est nul" et que "personne ne s'amuse"...
+mais là où on lattendait cest pour le multijoueur avec matchmaking  ben ça ne marche pas le jeu crash en voulant lancer certaines cartes les parties sont trop expéditives serveurs de qualité médiocre et en petit nombre je vois le chat en jeu indiquer que le jeu est nul et que personne ne samuse
 
-Bref, remboursement pour moi. Prenez les originaux ou limite BF2 de EA qui n'est pas trop mal, au moins il y a des gens en ligne et le jeu fonctionne.
+bref remboursement pour moi prenez les originaux ou limite bf2 de ea qui nest pas trop mal au moins il y a des gens en ligne et le jeu fonctionne
 
 #####
 
-Un jeu beaucoup trop cher et instable.
-Les sons sont bas et les voix en français ne sont même pas disponible.
+un jeu beaucoup trop cher et instable
+les sons sont bas et les voix en français ne sont même pas disponible
 
 #####
 
-Quelle déception ! S'agissant du solo : bug d'affichage sur certaines cartes, paramétrage des touches catastrophique...
-S'agissant du multi : nombre de serveurs jouables ridicule, problèmes de hitbox, connexion immonde... bref c'est injouable, une honte
+quelle déception  sagissant du solo  bug daffichage sur certaines cartes paramétrage des touches catastrophique
+sagissant du multi  nombre de serveurs jouables ridicule problèmes de hitbox connexion immonde bref cest injouable une honte
 
 
 #####
 
-So disappointing
+so disappointing
 
 #####
 
-Décevant, plus de négatif que de positif. Mieux vaut ajouter des mods à l'original, ce sera toujours mieux.
+décevant plus de négatif que de positif mieux vaut ajouter des mods à loriginal ce sera toujours mieux
 
 #####
 
-VRMT tres tres mauvais acheter l'origine et nn lui 
+vrmt tres tres mauvais acheter lorigine et nn lui 
 
 
 #####
 
-ctrl c  ctrl v avec les serveurs ouverts c'est la seule chose qu'on demandait. C'est une catastrophe.
+ctrl c  ctrl v avec les serveurs ouverts cest la seule chose quon demandait cest une catastrophe
 
 #####
 
-Retenez votre nostalgie, ne faites pas la même connerie...
-Les autres commentaires disent vrai :')
+retenez votre nostalgie ne faites pas la même connerie
+les autres commentaires disent vrai 
 
 #####
 
-Déception, pleins de truc manquant pour 2024 dans les paramètres, à attendre si ils rattrapent le truc ou pas.
+déception pleins de truc manquant pour 2024 dans les paramètres à attendre si ils rattrapent le truc ou pas
 
 #####
 
-Les serveurs en carton ça lag beaucoup trop, les paramètres, l'UI, les contrôles qui datent de 2005, la caméra hyper lente même avec la sensibilité à fond, la vf qui a disparue.  Le jeu qui pèse 63go wtf ??? bref je le conseille pas du tout pour le moment j'espère que des maj vont arriver très vite car c'est une honte.
+les serveurs en carton ça lag beaucoup trop les paramètres lui les contrôles qui datent de 2005 la caméra hyper lente même avec la sensibilité à fond la vf qui a disparue  le jeu qui pèse 63go wtf  bref je le conseille pas du tout pour le moment jespère que des maj vont arriver très vite car cest une honte
 
 #####
 
-Trop cher
+trop cher
 
 #####
 
-It's just the same old game, not a remaster or anything, I already have it...
+its just the same old game not a remaster or anything i already have it
 
 #####
 
-Je cherche encore le remake, 30€, c'est cher
+je cherche encore le remake 30 cest cher
 
 #####
 
-les games durent 2 min(t'a toujours le temps de t'ennuyer tkt) tu tires avec des balles de nerf(pour les lasers), les serveurs lag a mort et tout ça pour 62go(oui oui 3 pixels en 1080p pour 62go).
+les games durent 2 minta toujours le temps de tennuyer tkt tu tires avec des balles de nerfpour les lasers les serveurs lag a mort et tout ça pour 62gooui oui 3 pixels en 1080p pour 62go
 
 #####
 
-Première fois que je publie une review, c'est une honte de faire une ressortie dans cet état. N'achetez pas cette version tant qu'elle n'aura pas été fix si tant est qu'elle le soit un jour. Je suis juste dégoûtée d'avoir jouer légèrement + de 2h ce qui m'empêche de me faire rembourser. Pour moi on m'a volé.
+première fois que je publie une review cest une honte de faire une ressortie dans cet état nachetez pas cette version tant quelle naura pas été fix si tant est quelle le soit un jour je suis juste dégoûtée davoir jouer légèrement  de 2h ce qui mempêche de me faire rembourser pour moi on ma volé
 
 #####
 
-Gratuit le jeux vaut le coup sinon non
+gratuit le jeux vaut le coup sinon non
 
 #####
 
-Honteux. 
--Enormément de crash quand on rafraîchi la page pour trouver une partie, quand on a la chance d'entrer dans une partie, il y a des bugs à foison. 
-En 30 minutes de jeux, pû rentrer dans 1 partie et 10 secondes après elle était finie, et une autre ou je suis arrivé vers la fin, mais les 3 minutes de jeux qui m'ont été donnée de voir sans crash ont eu le temps de me montrer l'ampleur du désastre.
-Sans compter qu'il n'y a pas de voix fr.
-Des choix de commandes imcompréhensible (par ex: Axe de la souris inversé dans les vaisseaux, ce qui rend le mode Assaut Galactique très frustrant et peu fun a jouer, et impossible de changer!!!!!!; changement première et 3 eme personne dans les menus et pas de raccourci pour ça.)
-Même dire qu'ils ont fait le strict minimum serait donner trop de crédit au travail effectué.
-Bref, ce "classic" est pour le moment juste mauvais, il n'y a pas d'autres mots.
-Dans 1 semaine, il n'y a plus personne si les problèmes ne sont pas vite réglés.
+honteux 
+enormément de crash quand on rafraîchi la page pour trouver une partie quand on a la chance dentrer dans une partie il y a des bugs à foison 
+en 30 minutes de jeux pû rentrer dans 1 partie et 10 secondes après elle était finie et une autre ou je suis arrivé vers la fin mais les 3 minutes de jeux qui mont été donnée de voir sans crash ont eu le temps de me montrer lampleur du désastre
+sans compter quil ny a pas de voix fr
+des choix de commandes imcompréhensible par ex axe de la souris inversé dans les vaisseaux ce qui rend le mode assaut galactique très frustrant et peu fun a jouer et impossible de changer changement première et 3 eme personne dans les menus et pas de raccourci pour ça
+même dire quils ont fait le strict minimum serait donner trop de crédit au travail effectué
+bref ce classic est pour le moment juste mauvais il ny a pas dautres mots
+dans 1 semaine il ny a plus personne si les problèmes ne sont pas vite réglés
 
-Je ne vais pas refund, en espérant du mieux et attendre un peu avant de le relancer. Si c'est pas le cas, ben ce sera une jolie arnaque de 30 euros...
+je ne vais pas refund en espérant du mieux et attendre un peu avant de le relancer si cest pas le cas ben ce sera une jolie arnaque de 30 euros
 
 
 #####
 
-A fuir! 
-Ne perdez pas votre argent !
-Ne perdez pas votre temps !
+a fuir 
+ne perdez pas votre argent 
+ne perdez pas votre temps 
 
 #####
 
-En l’état impossible de jouer pour ma part car depuis toujours sur PC je joue mes FPS en axe Y inversé or là pour une obscure raison il est impossible d'inverser cet axe ... option la plus basique devant être au lancement d'un jeu bah elle y est pas. Ne parlons pas de combat spatial sans cette inversion :/ 
-Dommage, moi qui en attendais tant pour être déçu dès le lancement du jeu en à peine 5 min.
+en létat impossible de jouer pour ma part car depuis toujours sur pc je joue mes fps en axe y inversé or là pour une obscure raison il est impossible dinverser cet axe  option la plus basique devant être au lancement dun jeu bah elle y est pas ne parlons pas de combat spatial sans cette inversion  
+dommage moi qui en attendais tant pour être déçu dès le lancement du jeu en à peine 5 min
 
-En espérant un patch pour ça ... il va rester au placard en attendant.
+en espérant un patch pour ça  il va rester au placard en attendant
 
 #####
 
-une catastrophe les serveurs au fraises. Une honte.
+une catastrophe les serveurs au fraises une honte
 
 #####
 
-Je m'aperçois que je suis un abruti complet a avoir acheté exactement les mêmes jeux que j'ai mais en plus bugué.... N'achetez pas
+je maperçois que je suis un abruti complet a avoir acheté exactement les mêmes jeux que jai mais en plus bugué nachetez pas
 
 #####
 
-!
 
 
+
 #####
 
-Alors franchement je ne comprend pas les avis négatives et toutes ces mauvaise critique a deux balles ! Quand on parle d'un classique c'est classique remaster et pas un remake ou remaster réaliste comme les mods réaliste qu'on mettait sur le jeu de base ! 
+alors franchement je ne comprend pas les avis négatives et toutes ces mauvaise critique a deux balles  quand on parle dun classique cest classique remaster et pas un remake ou remaster réaliste comme les mods réaliste quon mettait sur le jeu de base  
 
-Pour moi ils ont amélioré le rendu graphique pour ne pas avoir les graphismes tout moche du jeu de base de l'époque et puis bientôt de nouveaux contenus vont s'ajouter au jeux et vous pouvez même moddé le jeu donc arrêtez de vous plaindre et de détruire cette MASTERCLASS !! Vous vous attendez a quoi sérieusement ? En matière de Multijoueur j'ai testé et il y a plein de serveur disponible, bien-sur quand vous choisissez avant dans les pré-réglage de partie Online votre jeu crash c'est normal mais vous êtes tellement flémmard de chercher des pré-réglage pour du online !! 
+pour moi ils ont amélioré le rendu graphique pour ne pas avoir les graphismes tout moche du jeu de base de lépoque et puis bientôt de nouveaux contenus vont sajouter au jeux et vous pouvez même moddé le jeu donc arrêtez de vous plaindre et de détruire cette masterclass  vous vous attendez a quoi sérieusement  en matière de multijoueur jai testé et il y a plein de serveur disponible biensur quand vous choisissez avant dans les préréglage de partie online votre jeu crash cest normal mais vous êtes tellement flémmard de chercher des préréglage pour du online  
 
-Donc pour moi ce remaster CLASSIC est extraordinaire pour du nolstalgie ainsi que de pouvoir jouer en multi sur ce pack de jeu alors que dans le classic normal on ne pouvait pas ! Donc fermez vos bouches et si vous êtes pas content eh bien restez sur vos mod sur le jeu de base MERCI !! A dire que plus tard le jeu va s’améliorer avec peut-être un DLC et d'autre planète ETC !! 
+donc pour moi ce remaster classic est extraordinaire pour du nolstalgie ainsi que de pouvoir jouer en multi sur ce pack de jeu alors que dans le classic normal on ne pouvait pas  donc fermez vos bouches et si vous êtes pas content eh bien restez sur vos mod sur le jeu de base merci  a dire que plus tard le jeu va saméliorer avec peutêtre un dlc et dautre planète etc  
 
-Vous pourrez Moddé ce jeu là grâce a Mod.IO autorisé par le studio Aspyre ! Voilas donc arrêtez de mettre des avis négatives si le jeu ne vous plait pas et que vous n'êtes pas Nostalgique et que les refontes graphique ne vous plaisent pas retournez sur BF 2017 !!
+vous pourrez moddé ce jeu là grâce a modio autorisé par le studio aspyre  voilas donc arrêtez de mettre des avis négatives si le jeu ne vous plait pas et que vous nêtes pas nostalgique et que les refontes graphique ne vous plaisent pas retournez sur bf 2017 
 
 #####
 
-[h2]34€ pour un Upscale graphique[/h2]
+h234 pour un upscale graphiqueh2
 
-Bien sûr, le jeu a été adapté aux écrans et configurations modernes.
+bien sûr le jeu a été adapté aux écrans et configurations modernes
 
-Cependant...
+cependant
 
-Premièrement, l'interface de sélection des jeux est répugnante. Extrêmement laide, surtout dans BF2, car ils ont conservé l'ancienne interface console, qui est non seulement laide mais aussi peu intuitive. 
+premièrement linterface de sélection des jeux est répugnante extrêmement laide surtout dans bf2 car ils ont conservé lancienne interface console qui est non seulement laide mais aussi peu intuitive 
 
-Où est passée la version PC de l'interface du jeu ? 
+où est passée la version pc de linterface du jeu  
 
-Ensuite, l'utilisation systématique des voix anglaises me frustre énormément dans tous les remasters ou remakes. La version française existe, pourquoi ne pas l'utiliser ?
+ensuite lutilisation systématique des voix anglaises me frustre énormément dans tous les remasters ou remakes la version française existe pourquoi ne pas lutiliser 
 
-En résumé : Payer 34 € pour une simple amélioration graphique, c'est hors de question. Je préfère retourner à la version originale qui dispose d'une interface supérieure, des mods et plus de fun et qui possède une version française.
+en résumé  payer 34  pour une simple amélioration graphique cest hors de question je préfère retourner à la version originale qui dispose dune interface supérieure des mods et plus de fun et qui possède une version française
 
 #####
 
-this is not a remaster, nobody announced this will be a remaster, its just the game with online fonction active include all dlc
-this make me feel nostalgic, yeah the game in conquest end too fast but its fun, stop bulshiting this game for no reason without even 1hour of play. its fun, its nice, it work, then play the game do your duty as a clone,droid,rebels or stormtrooper and enjoy 
-a 10/10 for this
+this is not a remaster nobody announced this will be a remaster its just the game with online fonction active include all dlc
+this make me feel nostalgic yeah the game in conquest end too fast but its fun stop bulshiting this game for no reason without even 1hour of play its fun its nice it work then play the game do your duty as a clonedroidrebels or stormtrooper and enjoy 
+a 1010 for this
 
 #####
 
-Il ne faut pas s'attendre à une révolution (en même temps connaissant Aspyr, c'est généralement des portages).
-Cela permet de jouer sans problèmes aux jeux sur nos ordis modernes, avec une légère amélioration graphique. Il est aussi possible de jouer à plus de 60 FPS.
+il ne faut pas sattendre à une révolution en même temps connaissant aspyr cest généralement des portages
+cela permet de jouer sans problèmes aux jeux sur nos ordis modernes avec une légère amélioration graphique il est aussi possible de jouer à plus de 60 fps
 
-En revanche les menus auraient pu être améliorés (notamment le menu pour modifier les commandes). Il est aussi dommage d'avoir séparé Battlefront 1 et 2 avec un profil différent, ça aurait été bien qu'ils soient ensemble notamment pour les options et pour l'harmonisation du jeu. Manque d'un menu "retour" également dans certains modes, ce qui nous obligent à démarrer la prochaine bataille et seulement ensuite à quitter.
+en revanche les menus auraient pu être améliorés notamment le menu pour modifier les commandes il est aussi dommage davoir séparé battlefront 1 et 2 avec un profil différent ça aurait été bien quils soient ensemble notamment pour les options et pour lharmonisation du jeu manque dun menu retour également dans certains modes ce qui nous obligent à démarrer la prochaine bataille et seulement ensuite à quitter
 
-Pour ceux qui ne savoir jamais quoi choisir comme serveur, possibilité de rentrer directement dans une partie "équilibré" avec d'autres joueurs, ça permet de jouer rapidement et de ne pas avoir à choisir son serveur. Du coup cela reste du basique, à voir si cela vous suffit ou pas (dommage qu'il n'y ai pas des stats plus poussés et un système de rang pour trouver des joueurs de notre niveau). Je ne sais pas non plus si ceux qui ont activés l'aide à la visée dans les options jouent avec ceux qui ne l'ont pas...
+pour ceux qui ne savoir jamais quoi choisir comme serveur possibilité de rentrer directement dans une partie équilibré avec dautres joueurs ça permet de jouer rapidement et de ne pas avoir à choisir son serveur du coup cela reste du basique à voir si cela vous suffit ou pas dommage quil ny ai pas des stats plus poussés et un système de rang pour trouver des joueurs de notre niveau je ne sais pas non plus si ceux qui ont activés laide à la visée dans les options jouent avec ceux qui ne lont pas
 
-Sinon le jeu reste toujours très bon : des batailles massives à la battlefield avec des armes, des véhicules et des vaisseaux Star Wars dans des lieux de l'univers. Malgré l'objectif presque toujours le même, les champs de batailles sont diversifié et obligent à jouer differemment. 
-Pour quelqu'un comme moi qui n'est pas très fort dans les FPS, le jeu est assez simple pour s'amuser, y compris en ligne. 
-Les campagnes sont interessantes (surtout celle du 2, qui ne se contente pas d'avoir les objectifs classiques.
+sinon le jeu reste toujours très bon  des batailles massives à la battlefield avec des armes des véhicules et des vaisseaux star wars dans des lieux de lunivers malgré lobjectif presque toujours le même les champs de batailles sont diversifié et obligent à jouer differemment 
+pour quelquun comme moi qui nest pas très fort dans les fps le jeu est assez simple pour samuser y compris en ligne 
+les campagnes sont interessantes surtout celle du 2 qui ne se contente pas davoir les objectifs classiques
 
-Cette nouvelle version permet de remonter l'envie des gens de jouer à Battlefront, les seveurs sont donc bien plein pour l'instant.
-A vous de voir donc le prix que vous êtes prêt à payer pour un jeu très bon, mais déjà connus (ne vous attendez pas à des améliorations faramineuses), avec une bonne affluence en ligne pour l'instant.
+cette nouvelle version permet de remonter lenvie des gens de jouer à battlefront les seveurs sont donc bien plein pour linstant
+a vous de voir donc le prix que vous êtes prêt à payer pour un jeu très bon mais déjà connus ne vous attendez pas à des améliorations faramineuses avec une bonne affluence en ligne pour linstant
 
 #####
 
-This is the way.
+this is the way
 
 #####
+
 
-.
 
 #####
 
-Serte sur pc la sorti de ce jeu peux être remise en question de par le fonctionnement encore parfaitement correcte des anciens battlefront 1 et 2, mais perso : osef prenez mon argent
+serte sur pc la sorti de ce jeu peux être remise en question de par le fonctionnement encore parfaitement correcte des anciens battlefront 1 et 2 mais perso  osef prenez mon argent
 
 #####
 
-Modification de mon évaluation précédente : C'est raté juste raté et le jeu à 20 ans et plus de bug que les originaux je voulais être indulgent mais là cava juste pas autant rejouer avec l'original qui coûte que quelques euros avec certains mods qui permette le multi je prècise. je modifie mon évaluation car quand on apprend que du contenu DLC est juste ajouter via le mod d'un moddeur sans le crédité et sans assumer c'est juste trop. 
+modification de mon évaluation précédente  cest raté juste raté et le jeu à 20 ans et plus de bug que les originaux je voulais être indulgent mais là cava juste pas autant rejouer avec loriginal qui coûte que quelques euros avec certains mods qui permette le multi je prècise je modifie mon évaluation car quand on apprend que du contenu dlc est juste ajouter via le mod dun moddeur sans le crédité et sans assumer cest juste trop 
 
 #####
 
-Très mauvais
+très mauvais
 
 #####
 
-Évaluation après 1h sur pc et 9h sur xbox one:
-Depuis le debut, Aspyr n'a jamais parlé d'un "REMASTER" et encore plus, de contenue inédit.
-Certes, le online notamment sur BF2 est pas très optimal, mais venant d'un petit studio comme Aspyr, il ne fallait pas s'attendre à mieux le jour de la sortie. En espérant tout de même que des mise a jours arrives prochainement.
-Cependant, le jeu en solo reste très bien pour tout les amoureux de la saga, les menus sont beaucoup plus agréables que l'original, graphiquement il y a un petit amélioration, notamment au niveau des textures.
-Niveau prix, est ce que cela vaut 30 euros... si des MAJ arrivent prochainement afin d’améliorer le online, alors oui.
-ça reste un excellent jeu pour les fan de star wars, il doit faire partie de leurs collections.
+évaluation après 1h sur pc et 9h sur xbox one
+depuis le debut aspyr na jamais parlé dun remaster et encore plus de contenue inédit
+certes le online notamment sur bf2 est pas très optimal mais venant dun petit studio comme aspyr il ne fallait pas sattendre à mieux le jour de la sortie en espérant tout de même que des mise a jours arrives prochainement
+cependant le jeu en solo reste très bien pour tout les amoureux de la saga les menus sont beaucoup plus agréables que loriginal graphiquement il y a un petit amélioration notamment au niveau des textures
+niveau prix est ce que cela vaut 30 euros si des maj arrivent prochainement afin daméliorer le online alors oui
+ça reste un excellent jeu pour les fan de star wars il doit faire partie de leurs collections
 
 #####
 
-Impossible de rechercher un serveur par mode de jeu, a chaque fois que je modifie les options de recherche et que je clique sur "rechercher" le jeu crash.
-Sans filtre j'ai trouvé pas mal de serveurs mais il y a énormément de bugs. En achetant ce jeu, j'ai voulu retrouver la vibe des anciens ST BF et leurs multijoueur (jeu qui reste mieux que celui de 2017) mais là je n'ai trouvé que la frustration de me faire voler 35€, c'est le refound.
+impossible de rechercher un serveur par mode de jeu a chaque fois que je modifie les options de recherche et que je clique sur rechercher le jeu crash
+sans filtre jai trouvé pas mal de serveurs mais il y a énormément de bugs en achetant ce jeu jai voulu retrouver la vibe des anciens st bf et leurs multijoueur jeu qui reste mieux que celui de 2017 mais là je nai trouvé que la frustration de me faire voler 35 cest le refound
 
 #####
 
-Je n'ai même pas fait une partie entière tellement je suis déçu du travail qui à été fait je m'attendais a une réunion des 2 jeux mais au final c'est juste une compilation des jeux avec quelques bonus, la qualité graphique n'a pas évolué (toujours 30 fps)
-ASPYR n'a pas respecté la communauté des fans de Star Wars, je rejoins totalement les autres commentaires négatifs.
+je nai même pas fait une partie entière tellement je suis déçu du travail qui à été fait je mattendais a une réunion des 2 jeux mais au final cest juste une compilation des jeux avec quelques bonus la qualité graphique na pas évolué toujours 30 fps
+aspyr na pas respecté la communauté des fans de star wars je rejoins totalement les autres commentaires négatifs
 
 #####
 
-bah le jeu est bien quoi ce sont les 2 battlefronts classiques. Le jeu n'a jamais été présenter comme un remastered, c'est juste le 1 et 2 dans une collection "dans cette collection classique complète." avec du contenu bonus et une petite refonte graphique, l'online fonctionne bien, les modes de jeu classique sont bien présents. Je ne comprends pas toutes ces évaluations négative :/
-Si vous avez déjà les anciens et que ça vous suffit bah forcément ne l'acheter pas et n'accuser pas le jeu d'être comme les anciens
+bah le jeu est bien quoi ce sont les 2 battlefronts classiques le jeu na jamais été présenter comme un remastered cest juste le 1 et 2 dans une collection dans cette collection classique complète avec du contenu bonus et une petite refonte graphique lonline fonctionne bien les modes de jeu classique sont bien présents je ne comprends pas toutes ces évaluations négative 
+si vous avez déjà les anciens et que ça vous suffit bah forcément ne lacheter pas et naccuser pas le jeu dêtre comme les anciens
 
 #####
 
-Bon jeux je ne comprend pas les autres avis zéro bug de mon coté quel plaisir de redécouvrir c'est ancien jeux
+bon jeux je ne comprend pas les autres avis zéro bug de mon coté quel plaisir de redécouvrir cest ancien jeux
 
 #####
 
-Vrais Battlefront comme a l’époque c'est génial
+vrais battlefront comme a lépoque cest génial
 
 #####
 
-Les mêmes feelings qu'a l'époque, je ne joue pas en ligne donc pas impacter par les serveurs. Un Plaisir !
+les mêmes feelings qua lépoque je ne joue pas en ligne donc pas impacter par les serveurs un plaisir 
 
 #####
 
-Un vrai plaisir de rejouer
-Juste la fanbase tryhard qui rage pck les serveurs étaient pas dispo seconde 1 de la sortie
+un vrai plaisir de rejouer
+juste la fanbase tryhard qui rage pck les serveurs étaient pas dispo seconde 1 de la sortie
 
 
 #####
 
-Je vois beaucoup de non recommender, je ne joue pas au multijoeur, mais toujours un plaisir de jouer ce jeu. Avec les nouveau personnage, c'est très fun de leur part.
+je vois beaucoup de non recommender je ne joue pas au multijoeur mais toujours un plaisir de jouer ce jeu avec les nouveau personnage cest très fun de leur part
 
 #####
 
-Pour avoir grandi avec cette licence sur PS2, avoir installé ces jeux en premier sur mon premier PC....
-La Nostalgie fait effet avec moi et je reconnais volontiers un plaisir en tant que passionné de Star Wars.
+pour avoir grandi avec cette licence sur ps2 avoir installé ces jeux en premier sur mon premier pc
+la nostalgie fait effet avec moi et je reconnais volontiers un plaisir en tant que passionné de star wars
 
-CEPENDANT! Ce jeu est une honte et Apyr à raté un jeu inratable et surtout QU'ILS N'AVAIENT PAS LE DROIT D'ECHOUER.
-Battlefront a une aura presque sacrée pour les joueurs, surtout les plus nostalgiques.
-Je ne comprends pas que les jeux d'origine sortis il y a 20 ans réussissent a mieux vivre avec les mods de la communauté, produits gratuitement, que ce "remake" fainéant où des développeurs professionnels sont payés pour le même travail.
+cependant ce jeu est une honte et apyr à raté un jeu inratable et surtout quils navaient pas le droit dechouer
+battlefront a une aura presque sacrée pour les joueurs surtout les plus nostalgiques
+je ne comprends pas que les jeux dorigine sortis il y a 20 ans réussissent a mieux vivre avec les mods de la communauté produits gratuitement que ce remake fainéant où des développeurs professionnels sont payés pour le même travail
 
-Les points positifs: 
--Des graphismes effectivement meilleurs (Merci l'IA)
--un feeling plus fluide en visée
--Hero Versus Villain qui peut être joué sur toutes les cartes.
--Les contenus DLC exclusifs à la Xbox enfin incrémentés dans une version toutes plateformes
-- Wouhou, de l'écran scindé sur PC en 2024!
+les points positifs 
+des graphismes effectivement meilleurs merci lia
+un feeling plus fluide en visée
+hero versus villain qui peut être joué sur toutes les cartes
+les contenus dlc exclusifs à la xbox enfin incrémentés dans une version toutes plateformes
+ wouhou de lécran scindé sur pc en 2024
 
-Points négatifs:
--Plus buggé que les versions originales
--Un pathfinding des bots pire que dans les versions d'origine sur certaines cartes (Port de Rhen Var, notamment)
--Des crash aléatoires récurrents (Quand on essaie de changer les paramètres graphiques, quand on cherche une partie en ligne, certaines missions de campagnes si certaines conditions sont remplies, etc...)
--Un Online vide de joueur en raison d'une Instabilité des serveurs.
+points négatifs
+plus buggé que les versions originales
+un pathfinding des bots pire que dans les versions dorigine sur certaines cartes port de rhen var notamment
+des crash aléatoires récurrents quand on essaie de changer les paramètres graphiques quand on cherche une partie en ligne certaines missions de campagnes si certaines conditions sont remplies etc
+un online vide de joueur en raison dune instabilité des serveurs
 
-Conclusion, Aspyr a complètement raté ce remake fainéant. L'achat de ce Battlefront Classic Collection ne se justifie uniquement si vous êtes sur console. Pour les PCistes, à moins que vous soyez un pigeon passionné comme moi, passez votre chemin, achetez la version 2004-2005 originale et moddez-le, le résultat ne sera que meilleur.
-Avec espoir que tous les problèmes seront réglés par les développeurs... Ou que la Communauté mod ce jeu pour nous soulager de la peine encourue...
+conclusion aspyr a complètement raté ce remake fainéant lachat de ce battlefront classic collection ne se justifie uniquement si vous êtes sur console pour les pcistes à moins que vous soyez un pigeon passionné comme moi passez votre chemin achetez la version 20042005 originale et moddezle le résultat ne sera que meilleur
+avec espoir que tous les problèmes seront réglés par les développeurs ou que la communauté mod ce jeu pour nous soulager de la peine encourue
 
 #####
 
-: )
+ 
 
 #####
 
-Ce jeu est une purge. Le remaster ne se ressent absolument pas. Contrôles infâmes, il m'a fallu 20 minutes pour pouvoir trouver et changer la touche pour viser. Graphismes beaucoup trop vieux. EA n'a pas encore rajouté leur micro transactions, une chance mais il faut s'attendre à tout avec eux. Je recommande seulement les campagnes solo mais le multijoueur est une purge.
+ce jeu est une purge le remaster ne se ressent absolument pas contrôles infâmes il ma fallu 20 minutes pour pouvoir trouver et changer la touche pour viser graphismes beaucoup trop vieux ea na pas encore rajouté leur micro transactions une chance mais il faut sattendre à tout avec eux je recommande seulement les campagnes solo mais le multijoueur est une purge
 
 #####
 
-TROP B1 MON ENFANCE
+trop b1 mon enfance
 
 #####
 
-Franchement, ça va.. le jeu aurait été a 20 euros la pilule serait passé je pense. Graphiquement on voit que c'est plus lisse et propre. N'oubliez pas qu'il y a 2 jeux pour 35 euros, sauf que personnes va sur le premier, 4% des joueurs on fait la première campagne... En tout cas en solo il n'y a pas de soucis, quelques bug bon d'accord, certes. Le multi j'ai pas essayé. Il y a 20 ans on jouait pas en multi, les jeux étés aussi cher, et on s'amusé tout autant, voir plus. Bref..
+franchement ça va le jeu aurait été a 20 euros la pilule serait passé je pense graphiquement on voit que cest plus lisse et propre noubliez pas quil y a 2 jeux pour 35 euros sauf que personnes va sur le premier 4 des joueurs on fait la première campagne en tout cas en solo il ny a pas de soucis quelques bug bon daccord certes le multi jai pas essayé il y a 20 ans on jouait pas en multi les jeux étés aussi cher et on samusé tout autant voir plus bref
 
 #####
 
-Je trouve les notes trop dur. Car déjà ils ne nous ont jamais promis un remaster ! Et puis le jeu reste hyper cool les petites touches de modernité par ci par là niveau graphisme font un bien fou ! Le mode héroïque sur 80% de maps et xxl sont géniaux à souhait !
+je trouve les notes trop dur car déjà ils ne nous ont jamais promis un remaster  et puis le jeu reste hyper cool les petites touches de modernité par ci par là niveau graphisme font un bien fou  le mode héroïque sur 80 de maps et xxl sont géniaux à souhait 
 
-Ok le multi est cassé mais attendez que cette hype de faut amoureux star wars parte et le jeux sera une petite pépite. 
+ok le multi est cassé mais attendez que cette hype de faut amoureux star wars parte et le jeux sera une petite pépite 
 
-Perso il est devenu mon jeu au quel je joue quand je ne sais pas à quoi jouer ! 
+perso il est devenu mon jeu au quel je joue quand je ne sais pas à quoi jouer  
 
-Étant un grand fan du deux je découvre le premier et tout me plais. 
+étant un grand fan du deux je découvre le premier et tout me plais 
 
-Seul petit point noir son prix il est vrai
+seul petit point noir son prix il est vrai
 
 #####
 
-Comme a l'époque, mais sans les bugs de souris et de résolution !
+comme a lépoque mais sans les bugs de souris et de résolution 
 
 #####
 
-Je trouve ca abérant de faire un "remaster" de ce niveau la bordel..
+je trouve ca abérant de faire un remaster de ce niveau la bordel
 
 #####
 
-Le plaisir de retrouver les anciens battlefront I & 2, avec un petit lissage graphique.
+le plaisir de retrouver les anciens battlefront i  2 avec un petit lissage graphique
 
--A lire les avis négatif, je voit pas a quoi ils s'attendaient .....
+a lire les avis négatif je voit pas a quoi ils sattendaient 
 
 #####
 
-On aurait aimer une légère amélioration graphique
-Une IA un peu plus fine
-En fait on joue clairement à l'poque de la ps2 
+on aurait aimer une légère amélioration graphique
+une ia un peu plus fine
+en fait on joue clairement à lpoque de la ps2 
 
-Un peu deg à se prix
+un peu deg à se prix
 
 #####
 
-Alors comme pour skyrim ce jeu est l un que j ai le plus fait et refait. Ainsi vous aurez l'avis de quelqu'un qui a pu comparer PS2 et ce jeu(oui oui je l ai rebranché pour comparer).
+alors comme pour skyrim ce jeu est l un que j ai le plus fait et refait ainsi vous aurez lavis de quelquun qui a pu comparer ps2 et ce jeuoui oui je l ai rebranché pour comparer
 
-Alors alors. Je lis partout que c'est pas si bien avec le multi tout ça, es ce vrai ? Voici mes +/- 100% Subjectif qui pourront évoluer au fur et à mesure que je continue a jouer:
+alors alors je lis partout que cest pas si bien avec le multi tout ça es ce vrai  voici mes  100 subjectif qui pourront évoluer au fur et à mesure que je continue a jouer
 
-Les plus : 
+les plus  
 
-+ BF1 et BF2 sont toujours merveilleux. le coté one man army en solo est vraiment prenant.
+ bf1 et bf2 sont toujours merveilleux le coté one man army en solo est vraiment prenant
 
-+ En solo le fun est immédiat pour les batailles au sol.
+ en solo le fun est immédiat pour les batailles au sol
 
-+ Les Conquêtes galactiques du 2, WOW toujours aussi bien. le coté poser des vaisseaux pour des batailles au sol ou au contraire les faire se rencontrer pour les batailles spatiales c'est vraiment cool. 
+ les conquêtes galactiques du 2 wow toujours aussi bien le coté poser des vaisseaux pour des batailles au sol ou au contraire les faire se rencontrer pour les batailles spatiales cest vraiment cool 
 
-+ Le gameplay est toujours aussi solide.
+ le gameplay est toujours aussi solide
 
-+ Les batailles sont vraiment sympa, le coté guerre avec beaucoup de troupes à l'écran rend bien.
+ les batailles sont vraiment sympa le coté guerre avec beaucoup de troupes à lécran rend bien
 
 
-Les moins:
+les moins
 
-- Alors pour la VF je n'ai pas compris, les mission d'entrainement et l avènement de l empire de BF2 ont leurs cinématiques en VF puis le jeu repasse qu'en VO. Pourquoi pas le reste en VF ou juste tout en VO?...
+ alors pour la vf je nai pas compris les mission dentrainement et l avènement de l empire de bf2 ont leurs cinématiques en vf puis le jeu repasse quen vo pourquoi pas le reste en vf ou juste tout en vo
 
-- Wow l'IA des alliés NPC en batailles spatiales ... Comment dire? En combat clone VS CSI j ai essayé de ne rien faire et bien on a perdu alors que le vaisseau ennemi avais encore ses boucliers ... Plusieurs fois dans le vaisseau clone, les alliés restent a fixer la canonnière sans monter dedans (plus de 6 soldats immobile). 
-Le pire c'est qu'en bougeant la canonnière cela ne règle rien. 
-A tester avec les autres factions. Evidemment le soucis n’existe pas sur PS2.
+ wow lia des alliés npc en batailles spatiales  comment dire en combat clone vs csi j ai essayé de ne rien faire et bien on a perdu alors que le vaisseau ennemi avais encore ses boucliers  plusieurs fois dans le vaisseau clone les alliés restent a fixer la canonnière sans monter dedans plus de 6 soldats immobile 
+le pire cest quen bougeant la canonnière cela ne règle rien 
+a tester avec les autres factions evidemment le soucis nexiste pas sur ps2
 
-- On va pas se mentir ce jeu est trop cher pour ce que c'est. Deux "nouveaux" héros et des textures de 2005 plus jolies... et bien sur la VF cité plus haut qui est juste la pour narguer. C'est vraiment peu d'ajout pour ce prix.
+ on va pas se mentir ce jeu est trop cher pour ce que cest deux nouveaux héros et des textures de 2005 plus jolies et bien sur la vf cité plus haut qui est juste la pour narguer cest vraiment peu dajout pour ce prix
 
-- J'ai testé un peu de multi et j'ai eu des déconnexions donc bon pas terrible pour le moment.
+ jai testé un peu de multi et jai eu des déconnexions donc bon pas terrible pour le moment
 
 
 
-Bref Globalement, la nostalgie mis de coté, c'est moyen. Les ajouts ne sont pas vraiment notable (face à la version PS2).Pour le moment prenez les originaux, ils sont bien moins cher, de facture identique et surtout on peut les modder.
+bref globalement la nostalgie mis de coté cest moyen les ajouts ne sont pas vraiment notable face à la version ps2pour le moment prenez les originaux ils sont bien moins cher de facture identique et surtout on peut les modder
 
 #####
 
-SCAM WARS A 35 BALLES
+scam wars a 35 balles
 
 #####
 
-Honteux de vendre 35€ un jeu qui est en moins bon état que le jeu à sa sortie en 2005. Tout ça pour rajouter quelques personnages. Aucun effort de mise à niveau graphique, les serveurs sont instables, c'est une HONTE. Encore un moyen de se faire du beurre sur le dos des fans de la licence. Si vous voulez jouer à BF2, achetez le jeu d'origine qui coute 5€ et qui jouit de pleins de mods bien plus honnêtes.
+honteux de vendre 35 un jeu qui est en moins bon état que le jeu à sa sortie en 2005 tout ça pour rajouter quelques personnages aucun effort de mise à niveau graphique les serveurs sont instables cest une honte encore un moyen de se faire du beurre sur le dos des fans de la licence si vous voulez jouer à bf2 achetez le jeu dorigine qui coute 5 et qui jouit de pleins de mods bien plus honnêtes
 
 #####
 
-Un manque de respect total pour tout fan de star wars et de la franchise Battlefront!
+un manque de respect total pour tout fan de star wars et de la franchise battlefront
 
-Les seuls intérêts de cette collection sont la "lourde" refonte graphique (coucou les 60gb sur le disque dur) ainsi que le multijoueur.
+les seuls intérêts de cette collection sont la lourde refonte graphique coucou les 60gb sur le disque dur ainsi que le multijoueur
 
-Aucun de ces deux aspects n'est satisfaisant, on fait plus face à une version alpha/beta d'un jeu terminé il y a 20 ans qu'à un produit fini.
+aucun de ces deux aspects nest satisfaisant on fait plus face à une version alphabeta dun jeu terminé il y a 20 ans quà un produit fini
 
-Sans compter les cinématiques manquantes dans la campagne de star wars battlefront 2 (sans explications du développeur), l'instabilité/lags/bugs pour le multijoueur ainsi que le prix excessif 35 euros pour deux jeux vieux de 20 ans.
+sans compter les cinématiques manquantes dans la campagne de star wars battlefront 2 sans explications du développeur linstabilitélagsbugs pour le multijoueur ainsi que le prix excessif 35 euros pour deux jeux vieux de 20 ans
 
-Il m'est impossible de jouer en multijoueur avec une personne résidant au Canada.
+il mest impossible de jouer en multijoueur avec une personne résidant au canada
 
-SI vous voulez découvrir ces excellents jeux de l'époque, il vaut mieux les prendre les originaux à part sur steam avec des mods.
+si vous voulez découvrir ces excellents jeux de lépoque il vaut mieux les prendre les originaux à part sur steam avec des mods
 
-En l'état FUYEZ cette collection !
+en létat fuyez cette collection 
 
 
 #####
 
-Bon jeu. Multi sympa
+bon jeu multi sympa
 
 #####
 
-Alors , avant toute chose , je précise que je n'ai pas eu l'occasion de jouer aux Battlefront originaux lors de leur sortie , ce qui fait que j'ai pu aborder cette compilation vierge de toute attente nostalgique , mon premier "contact" avec le Battlefront 2 de 2005 s'étant fait en regardant Bob Lennon y jouer .  Moi qui avait plutôt apprécié les Battlefront de Dice malgré leurs défauts ( je vais pas reparler de la polémique du Battlefront 2 de 2017 avec ses loot-box) , c'était donc l'occasion pour moi de découvrir ces premiers opus sans avoir à les modder pour bien les faire tourner sur ma bécane . 
+alors  avant toute chose  je précise que je nai pas eu loccasion de jouer aux battlefront originaux lors de leur sortie  ce qui fait que jai pu aborder cette compilation vierge de toute attente nostalgique  mon premier contact avec le battlefront 2 de 2005 sétant fait en regardant bob lennon y jouer   moi qui avait plutôt apprécié les battlefront de dice malgré leurs défauts  je vais pas reparler de la polémique du battlefront 2 de 2017 avec ses lootbox  cétait donc loccasion pour moi de découvrir ces premiers opus sans avoir à les modder pour bien les faire tourner sur ma bécane  
 
-Alors concernant les modes solo , le premier Battlefront s'avère sympathique avec  ses 2 campagnes prenant place pendant la guerre des clones ( sans les évènements de la Revanche des Sith , le jeu étant sorti un an avant le film ) et pendant la lutte de l'Alliance Rebelle contre l'Empire de Palpatine et de Dark Vador , son mode conquête galactique et son mode action immédiate qui nous plongent dans de véritables champs de batailles au coeur de l'univers de Star Wars . Mais son petit frère de 2005 est bien plus intéressant en terme de contenu , ajoutant une vraie campagne solo scénarisée ( c'est pas non plus la panacée en terme de narration , mais ça fait le café ) qui commence en parallèle de la Revanche des Sith et se poursuit jusqu'à la bataille de Hoth , au début de l'Empire contre-attaque , nous faisant jouer un soldat clone de la 501ème légion , véritable garde personnelle de Dark Vador , des batailles spatiales avec possibilité d'aborder le vaisseau amiral ennemi pour le bousiller de l'intérieur ( citez moi un autre jeu moder qui vous permet de faire ça ) et la possibilité d'incarner les héros et vilains emblématiques de la saga . 
+alors concernant les modes solo  le premier battlefront savère sympathique avec  ses 2 campagnes prenant place pendant la guerre des clones  sans les évènements de la revanche des sith  le jeu étant sorti un an avant le film  et pendant la lutte de lalliance rebelle contre lempire de palpatine et de dark vador  son mode conquête galactique et son mode action immédiate qui nous plongent dans de véritables champs de batailles au coeur de lunivers de star wars  mais son petit frère de 2005 est bien plus intéressant en terme de contenu  ajoutant une vraie campagne solo scénarisée  cest pas non plus la panacée en terme de narration  mais ça fait le café  qui commence en parallèle de la revanche des sith et se poursuit jusquà la bataille de hoth  au début de lempire contreattaque  nous faisant jouer un soldat clone de la 501ème légion  véritable garde personnelle de dark vador  des batailles spatiales avec possibilité daborder le vaisseau amiral ennemi pour le bousiller de lintérieur  citez moi un autre jeu moder qui vous permet de faire ça  et la possibilité dincarner les héros et vilains emblématiques de la saga  
 
-Maintenant que le décor est posé , il est temps de répondre aux critiques . Oui c'est vrai que ça peut paraître abusé de vendre 35 euros 2 jeux vieux de 20 ans dont le poids a par ailleur été beaucoup augmenté . Mais il faut prendre en compte le fait que les développeurs ont réhausser la résolution des textures des jeux , ce qui inévitablement les rend plus lourds à installer . Et vu leur âge , on peut effectivement attendre un tarif plus doux , mais rappelez-vous que EA fait bien pire à ce niveau là avec Jedi Survivor , ce jeu vendu 70 boules sur Steam qui pèse 150 giga , un cauchemar pour ceux qui n'ont pas la fibre , et optimisé avec le c*l . Concernant le multijoueur , je n'ai pas osé y toucher à cause des retours négatifs et du fait qu'il n'y ait apparement pas beaucoup de monde dessus , mais en solo le jeu est d'une fluidité impeccable ( encore heureux pour des jeux vieux de 20 ans vous me direz) et il ya largement de quoi faire avec tous les modes de jeu , toutes les map et tous les personnages jouables mis à disposition du joueur . Et concernant la VF , ceux qui se plaignent de son absence n'ont pas dû lancer la campagne du 2 , parce que rassurez-vous , les cinématiques ont gardé leur doublage français ( à signaler quand même qu'au lancement de la collection , les cinématiques de fin de mission étaient passées à la trappe , mais bizarrement , après la première mise à jour , elles sont revenues ) . C'est le doublage en VF des voix in-game qui est passé à la trappe , mais ça n'entrave pas le plaisir de jeu . Il ya quelques bugs par-ci par là , mais rien de très gênant . 
+maintenant que le décor est posé  il est temps de répondre aux critiques  oui cest vrai que ça peut paraître abusé de vendre 35 euros 2 jeux vieux de 20 ans dont le poids a par ailleur été beaucoup augmenté  mais il faut prendre en compte le fait que les développeurs ont réhausser la résolution des textures des jeux  ce qui inévitablement les rend plus lourds à installer  et vu leur âge  on peut effectivement attendre un tarif plus doux  mais rappelezvous que ea fait bien pire à ce niveau là avec jedi survivor  ce jeu vendu 70 boules sur steam qui pèse 150 giga  un cauchemar pour ceux qui nont pas la fibre  et optimisé avec le cl  concernant le multijoueur  je nai pas osé y toucher à cause des retours négatifs et du fait quil ny ait apparement pas beaucoup de monde dessus  mais en solo le jeu est dune fluidité impeccable  encore heureux pour des jeux vieux de 20 ans vous me direz et il ya largement de quoi faire avec tous les modes de jeu  toutes les map et tous les personnages jouables mis à disposition du joueur  et concernant la vf  ceux qui se plaignent de son absence nont pas dû lancer la campagne du 2  parce que rassurezvous  les cinématiques ont gardé leur doublage français  à signaler quand même quau lancement de la collection  les cinématiques de fin de mission étaient passées à la trappe  mais bizarrement  après la première mise à jour  elles sont revenues   cest le doublage en vf des voix ingame qui est passé à la trappe  mais ça nentrave pas le plaisir de jeu  il ya quelques bugs parci par là  mais rien de très gênant  
 
-Alors , est-ce que je vous recommande d'y jouer ? Tout dépend de vos attentes et de vos exigences . Si vous êtes un fan absolu de Star Wars , vous n'avez pas de raison de vous priver , surtout si vous voulez découvrir ou redécouvrir des classiques de leur genre et éventuellement oublier les Battlefront de Dice et la dernière trilogie sortie en date . Sinon , je vous conseillerais effectivement d'attendre une bonne promo et que le jeu ait bien été nettoyé de tous ses bugs après plusieurs mises à jour .
+alors  estce que je vous recommande dy jouer  tout dépend de vos attentes et de vos exigences  si vous êtes un fan absolu de star wars  vous navez pas de raison de vous priver  surtout si vous voulez découvrir ou redécouvrir des classiques de leur genre et éventuellement oublier les battlefront de dice et la dernière trilogie sortie en date  sinon  je vous conseillerais effectivement dattendre une bonne promo et que le jeu ait bien été nettoyé de tous ses bugs après plusieurs mises à jour 
 
 #####
 
-c'est un exploit
+cest un exploit
 
 #####
 
-Ça lag sa mère.
-Qu'est-ce que vous avez foutu ?!
+ça lag sa mère
+questce que vous avez foutu 
 
 #####
 
-Refound.
+refound
 
 #####
 
-They did patch the game, waooooooo.
-I admit its better but not perfect
+they did patch the game waooooooo
+i admit its better but not perfect
 
 #####
 
-Dans une galaxie lointaine, très lointaine...
+dans une galaxie lointaine très lointaine
 
-J'ai attendu ce moment depuis longtemps. Ce moment où des gens intelligents comprendraient enfin où est l'intérêt de sortir une édition classique sur les supports actuels.
+jai attendu ce moment depuis longtemps ce moment où des gens intelligents comprendraient enfin où est lintérêt de sortir une édition classique sur les supports actuels
 
-Aspyr a parfaitement compris les priorités. Relooker l'ensemble avec plus de finesse et de fluidité sans dénaturer l'œuvre originale. Alors certes, il n'y a pas de nouveautés, c'est du vieux, du déjà vu, du déjà joué, mais il y a UNE CHOSE qui m'a fait acheter cette version plus aboutie.
+aspyr a parfaitement compris les priorités relooker lensemble avec plus de finesse et de fluidité sans dénaturer lœuvre originale alors certes il ny a pas de nouveautés cest du vieux du déjà vu du déjà joué mais il y a une chose qui ma fait acheter cette version plus aboutie
 
-Le rendu final. Et particulièrement celui des unités en jeu. Les deux BF datant de 2004/2005 souffraient d'un problème de moteur limité ne permettant pas d'offrir sur le champ de bataille 64 bots ou joueurs au maximum de leur nombre de polygones respectifs. Pour ce faire, les développeurs avaient opéré un petit tour de magie que beaucoup de jeux utilisent depuis toujours. Avoir des unités en haute définition en avant plan et passer tout le reste en basse résolution dans un souci d'optimisation et de fluidité.
+le rendu final et particulièrement celui des unités en jeu les deux bf datant de 20042005 souffraient dun problème de moteur limité ne permettant pas doffrir sur le champ de bataille 64 bots ou joueurs au maximum de leur nombre de polygones respectifs pour ce faire les développeurs avaient opéré un petit tour de magie que beaucoup de jeux utilisent depuis toujours avoir des unités en haute définition en avant plan et passer tout le reste en basse résolution dans un souci doptimisation et de fluidité
 
-BF1 comptait 4 skins en haute résolution et 10 sur BF2. Il suffisait de jouer sur le couloir de Tantive IV pour voir le carnage de polygones.
+bf1 comptait 4 skins en haute résolution et 10 sur bf2 il suffisait de jouer sur le couloir de tantive iv pour voir le carnage de polygones
 
-Si, quelque part, beaucoup ni on vu que du feu, leur cerveau n'étant pas attiré par ce genre de détails, personnellement, c'est le point qui m'a fait soupirer bien des fois. Avoir des unités en basse résolution implique non seulement d'avoir des personnages plus cubique, mais aussi avec une animation réduite qui donnait lieu au célèbre "moonwalk" et à des personnages sans armes. Il n'y a pas que l'aspect visuel, mais aussi une question de gameplay, car impossible à l'époque de savoir d'où venaient les tirs. 
-En effet, une animation réduite et pas d'armes, les personnages n'envoyaient pas de projectiles visibles.
+si quelque part beaucoup ni on vu que du feu leur cerveau nétant pas attiré par ce genre de détails personnellement cest le point qui ma fait soupirer bien des fois avoir des unités en basse résolution implique non seulement davoir des personnages plus cubique mais aussi avec une animation réduite qui donnait lieu au célèbre moonwalk et à des personnages sans armes il ny a pas que laspect visuel mais aussi une question de gameplay car impossible à lépoque de savoir doù venaient les tirs 
+en effet une animation réduite et pas darmes les personnages nenvoyaient pas de projectiles visibles
 
-Cette mise à jour via cette édition, permet justement de corriger ce problème majeur. Tous les bots tirent en nombre et il est plus compliqué d'esquiver les tirs sans une couverture adéquate. Aujourd'hui, jouer sur des maps réduites et à couloirs comme Tantive IV devient risqué tellement ça tire dans tous les sens et c'est jouissif, en plus d'être crédible visuellement parlant. On est dans l'obligation de trouver un moyen de se mettre en couverture et ça change tout le gameplay. Et surtout, maintenant, on peut enfin faire de superbes screens, sans chercher à masquer ce qui n'est pas très joli.
+cette mise à jour via cette édition permet justement de corriger ce problème majeur tous les bots tirent en nombre et il est plus compliqué desquiver les tirs sans une couverture adéquate aujourdhui jouer sur des maps réduites et à couloirs comme tantive iv devient risqué tellement ça tire dans tous les sens et cest jouissif en plus dêtre crédible visuellement parlant on est dans lobligation de trouver un moyen de se mettre en couverture et ça change tout le gameplay et surtout maintenant on peut enfin faire de superbes screens sans chercher à masquer ce qui nest pas très joli
 
-Au delà de cet aspect que beaucoup trouveront "kitch", les maps ont aussi vu leurs textures retravaillées. On est loin de ce qui se fait aujourd'hui, mais ils ont respecté le jeu. Rien qui transcende l'esprit pour peu que l'on soit réfractaire aux gros changements. Des correctifs comme un problème jamais corrigé par Pandemic sur la map Death Star avec le compteur de mort comptant double pour les alliés. Enfin c'est fixé pour mon plus grand bonheur, via la dernière maj de mars 2024.
+au delà de cet aspect que beaucoup trouveront kitch les maps ont aussi vu leurs textures retravaillées on est loin de ce qui se fait aujourdhui mais ils ont respecté le jeu rien qui transcende lesprit pour peu que lon soit réfractaire aux gros changements des correctifs comme un problème jamais corrigé par pandemic sur la map death star avec le compteur de mort comptant double pour les alliés enfin cest fixé pour mon plus grand bonheur via la dernière maj de mars 2024
 
-Au final, le jeu est plus beau, fluide, mais il l'était déjà, surtout sur des bécanes actuelles. En fait, c'est une multitude de petits détails mis bout à bout qui font que cette Classic Collection vaut ses 34 euros. Il y a eu beaucoup de travail sur non pas un, mais les deux jeux de cette série emblématique. 
+au final le jeu est plus beau fluide mais il létait déjà surtout sur des bécanes actuelles en fait cest une multitude de petits détails mis bout à bout qui font que cette classic collection vaut ses 34 euros il y a eu beaucoup de travail sur non pas un mais les deux jeux de cette série emblématique 
 
-Je remercie Aspyr pour tout le travail apporté avec soin et une continuité dans les mises à jour pour corriger les quelques bugs qui restent. (Les canons lourds des AT-AT qui ne suivent pas les mouvements de la tête par exemple sur BF1.)
+je remercie aspyr pour tout le travail apporté avec soin et une continuité dans les mises à jour pour corriger les quelques bugs qui restent les canons lourds des atat qui ne suivent pas les mouvements de la tête par exemple sur bf1
 
-May the force be with you, always...
+may the force be with you always
 
-(Je ne joue pas en multijoueurs, donc calmez-vous^^.)
+je ne joue pas en multijoueurs donc calmezvous
 
 #####
 
-guys I'm ok with this game and I'm not sorry for that
+guys im ok with this game and im not sorry for that
 
 #####
 
-Le jeux n'en vaux pas la  chandelle , mais ou est l'investissement dans ce projet ?
+le jeux nen vaux pas la  chandelle  mais ou est linvestissement dans ce projet 
 
 #####
 
-sympa 15/20
+sympa 1520
 
 #####
 
-Après 20 ans de Battlefront 2 sur PS2 et PC, j'étais comme un dingue à l'annonce de la sortie d'un remake 2 en 1 d'une licence qui aujourd'hui encore influence énormément la communauté Star Wars.
+après 20 ans de battlefront 2 sur ps2 et pc jétais comme un dingue à lannonce de la sortie dun remake 2 en 1 dune licence qui aujourdhui encore influence énormément la communauté star wars
 
-Aspyr aura réussi l'exploit de pousser 99% de ceux ayant essayé leur remake à demander un remboursement.
+aspyr aura réussi lexploit de pousser 99 de ceux ayant essayé leur remake à demander un remboursement
 
-Pourquoi ? :
+pourquoi  
 
-- Le jeu est simplement un upscale en 4k des textures d'origines (énormes différences sur console, minimes sur PC). Le seul vrai changement c'est l'explosion de l'impact sur l'espace de stockage ;
-- Les campagnes (légendaires) des deux jeux ont vu leurs cinématiques tomber aux oubliettes ;
-- Les serveurs - au nombre incroyable de 3 - sont tellement à la ramasse qu'il se passe entre 0.5 et 1 (parfois 2!) secondes entre le moment où tu tires et celui où l'adversaire subit le tir. Plus de serveurs et pas en état végétatif aurait été plus un meilleur investissement ;
-- Héberger une partie multijoueur revient à accepter de saigner des yeux, avec un jeu alors bridé à 30 fps FIXE.
+ le jeu est simplement un upscale en 4k des textures dorigines énormes différences sur console minimes sur pc le seul vrai changement cest lexplosion de limpact sur lespace de stockage 
+ les campagnes légendaires des deux jeux ont vu leurs cinématiques tomber aux oubliettes 
+ les serveurs  au nombre incroyable de 3  sont tellement à la ramasse quil se passe entre 05 et 1 parfois 2 secondes entre le moment où tu tires et celui où ladversaire subit le tir plus de serveurs et pas en état végétatif aurait été plus un meilleur investissement 
+ héberger une partie multijoueur revient à accepter de saigner des yeux avec un jeu alors bridé à 30 fps fixe
 
-Seul point positif, le remplacement de l'ancien menu dégueu par celui de la version console (mais là encore upscaled et donc dégueulasse lui aussi quand on regarde de plus près).
+seul point positif le remplacement de lancien menu dégueu par celui de la version console mais là encore upscaled et donc dégueulasse lui aussi quand on regarde de plus près
 
-Alors certes il s'agit d'un remake de 2 jeux, mais demander de débourser 30 euros pour un upscale des textures, deux-trois maps bonus et jouer en mode bataille de héros sur quelques maps supplémentaires, c'est tout simplement du vol.
+alors certes il sagit dun remake de 2 jeux mais demander de débourser 30 euros pour un upscale des textures deuxtrois maps bonus et jouer en mode bataille de héros sur quelques maps supplémentaires cest tout simplement du vol
 
-Bilan : les mods graphiques et de serveurs de la communauté sont bien plus qualis, et eux respectent leurs utilisateurs en honorant leurs engagements. NEXT !
+bilan  les mods graphiques et de serveurs de la communauté sont bien plus qualis et eux respectent leurs utilisateurs en honorant leurs engagements next 
 
 #####
 
-I mean... it's Battlefront so I love it for sure!
+i mean its battlefront so i love it for sure
 
 #####
 
-buggé aussi bien visuellement, avec le son, et le multijoueurs... à fuir !
+buggé aussi bien visuellement avec le son et le multijoueurs à fuir 
 
 #####
 
-Buy the orignal games and mod them instead of buying this
+buy the orignal games and mod them instead of buying this
 
 #####
 
@@ -688,70 +688,70 @@ love it
 
 #####
 
-Quelle déception... Jeu sans intéret, même le multijoueur est mou et n'apporte pas grand chose. Les graphismes....quelle différence ?
-Passez votre chemin et gardez vos 35€ pour une réelle occasion.
+quelle déception jeu sans intéret même le multijoueur est mou et napporte pas grand chose les graphismesquelle différence 
+passez votre chemin et gardez vos 35 pour une réelle occasion
 
 #####
 
-A l'époque, c'était bien. Mais là, c'est juste pas possible.
-La sortie de cette collection nous rappelle que la nostalgie n'est pas une bonne conseillère. Et que les nouveaux Battlefront sont bien meilleurs.
+a lépoque cétait bien mais là cest juste pas possible
+la sortie de cette collection nous rappelle que la nostalgie nest pas une bonne conseillère et que les nouveaux battlefront sont bien meilleurs
 
-Cependant, jouez si vous souhaitez découvrir, ou pour un bon délire, ou si vous n'avez pas de PC assez puissants. Ce ne sont pas de "mauvais jeux" en soit. Juste : il existe bien mieux.
+cependant jouez si vous souhaitez découvrir ou pour un bon délire ou si vous navez pas de pc assez puissants ce ne sont pas de mauvais jeux en soit juste  il existe bien mieux
 
-Je mets quand même une revue positive, car il est très jouable, on peut s'amuser dessus.
+je mets quand même une revue positive car il est très jouable on peut samuser dessus
 
-(Je passe sur les oublis qui peuvent être corrigés, comme par exemple l'impossibilité d'inverser l'axe Y des vaisseaux spatiaux...)
-
-#####
-
-Aspyr are soulless scammers and I will never buy games produced by them again thank you.
+je passe sur les oublis qui peuvent être corrigés comme par exemple limpossibilité dinverser laxe y des vaisseaux spatiaux
 
 #####
 
-Au Lancement du jeu j'ai grave aimé le jeu est maintenant je prend aussi du plaisir a jouer a ce jeu malgré les gens qui joue plus au jeu : moi je ijoue des que je peut. 
+aspyr are soulless scammers and i will never buy games produced by them again thank you
+
+#####
+
+au lancement du jeu jai grave aimé le jeu est maintenant je prend aussi du plaisir a jouer a ce jeu malgré les gens qui joue plus au jeu  moi je ijoue des que je peut 
 
 
 
 #####
 
-Dont buy this game. Serveur are already empty (only 1500 players playing the game) 100 or less in multiplayer right now when im writhing this. Cash grab. And if you are there for the solo, jsut buy the old one (5-6 $) and mod it. Already refund.
+dont buy this game serveur are already empty only 1500 players playing the game 100 or less in multiplayer right now when im writhing this cash grab and if you are there for the solo jsut buy the old one 56  and mod it already refund
 
 #####
 
-A evité
+a evité
 
 #####
 
-Merci encore à Disney & à Aspyr d'avoir échoué sur la meilleur licence de la galaxie...
-Franchement on est sur un simple portage et vous n'êtes pas foutu de faire quelque chose de propre et sans aucun bug...
-Une incompétence des plus affligeante...
+merci encore à disney  à aspyr davoir échoué sur la meilleur licence de la galaxie
+franchement on est sur un simple portage et vous nêtes pas foutu de faire quelque chose de propre et sans aucun bug
+une incompétence des plus affligeante
 
 #####
 
-I love Star Wars Battlefront but this is realy a lazy job ... A lot of the option avalaible in the original game are gone, menus feels clunky and overall the game feels like a big copy/paste of the firt ones with little to no improvement.
-If this is a final product and no work is programed (at least QOL options) you shouldn't buy it out of sales.
+i love star wars battlefront but this is realy a lazy job  a lot of the option avalaible in the original game are gone menus feels clunky and overall the game feels like a big copypaste of the firt ones with little to no improvement
+if this is a final product and no work is programed at least qol options you shouldnt buy it out of sales
 
 #####
 
-Scam.....
+scam
 
 #####
 
-grosse déception probleme de serveurs beaucoup de bug je recommande absolument pas ce jeu et le pire ce n'est meme pas un remastered mais un portage et ils ont réussi a l'échouer
+grosse déception probleme de serveurs beaucoup de bug je recommande absolument pas ce jeu et le pire ce nest meme pas un remastered mais un portage et ils ont réussi a léchouer
 
 #####
 
-Attention : Je n'ai essayé que la partie multijoueur en ligne pour les deux titres.
+attention  je nai essayé que la partie multijoueur en ligne pour les deux titres
 
-Les points faibles : une collection qui propose des versions "modernes" des premiers Battlefront qui ne sont pas suffisamment différentes au niveau des graphismes et du contenu pour justifier l'espace disque d'un peu plus de 60 GO; les contrôles de certains véhicules dans Battlefront 1 qui restent encore très mauvais (aucune amélioration là-dessus); certains sons provenant des versions originaux qui ont des sonorités bizarre ici; on est ici bloqué en QWERTY contrairement aux versions précédentes qui sont pourtant sur Steam; Battlefront 2 a perdu sa VF pourtant présente dans sa version précédente sur Steam pour une raison inconnue.
+les points faibles  une collection qui propose des versions modernes des premiers battlefront qui ne sont pas suffisamment différentes au niveau des graphismes et du contenu pour justifier lespace disque dun peu plus de 60 go les contrôles de certains véhicules dans battlefront 1 qui restent encore très mauvais aucune amélioration làdessus certains sons provenant des versions originaux qui ont des sonorités bizarre ici on est ici bloqué en qwerty contrairement aux versions précédentes qui sont pourtant sur steam battlefront 2 a perdu sa vf pourtant présente dans sa version précédente sur steam pour une raison inconnue
 
-Les points forts : j'ai eu bizarrement des résultats correctes mais sans plus lors des parties en lignes, il est même probable que le problème des serveurs des premières heures de lancement a été résolu en grande partie; les deux jeux ont l'air stables; les menus de Battlefront 2 sont celles des versions consoles, elles sont donc meilleures que celles qu'on trouve sur le portage PC original; il s'agit des Battlefront originaux sans micro-transactions avec en plus le DLC Xbox.
+les points forts  jai eu bizarrement des résultats correctes mais sans plus lors des parties en lignes il est même probable que le problème des serveurs des premières heures de lancement a été résolu en grande partie les deux jeux ont lair stables les menus de battlefront 2 sont celles des versions consoles elles sont donc meilleures que celles quon trouve sur le portage pc original il sagit des battlefront originaux sans microtransactions avec en plus le dlc xbox
 
-Néanmoins, mon avis est mitigé et tend plus vers le négatif que le positif. Si vous avez déjà les deux Battlefront classiques sur Steam, cette collection ne vaut tout simplement pas la peine. Pour ma part, je vais demander un remboursement et me contenter des versions précédentes de ces deux jeux. Et si vous voulez quand même jouer à cette collection, privilégiez la version Switch : il parait que c'est la meilleure version et qu'on puisse y trouver des parties multijoueurs très facilement.
+néanmoins mon avis est mitigé et tend plus vers le négatif que le positif si vous avez déjà les deux battlefront classiques sur steam cette collection ne vaut tout simplement pas la peine pour ma part je vais demander un remboursement et me contenter des versions précédentes de ces deux jeux et si vous voulez quand même jouer à cette collection privilégiez la version switch  il parait que cest la meilleure version et quon puisse y trouver des parties multijoueurs très facilement
 
 #####
 
-"J'ai une grande affection pour les anciens jeux Battlefront, mais cette fois-ci, je suis contraint d'exprimer mon mécontentement. Le jeu ne fonctionne tout simplement pas correctement en ligne. Il est exaspérant de dépenser une somme conséquente pour des jeux qui présentent des dysfonctionnements ou qui sont truffés de bugs. Cela me désole profondément de devoir attribuer une évaluation négative, car j'ai toujours chéri ces jeux classiques. Toutefois, il est évident qu'Aspyr ne respecte pas ses engagements envers les joueurs.
+jai une grande affection pour les anciens jeux battlefront mais cette foisci je suis contraint dexprimer mon mécontentement le jeu ne fonctionne tout simplement pas correctement en ligne il est exaspérant de dépenser une somme conséquente pour des jeux qui présentent des dysfonctionnements ou qui sont truffés de bugs cela me désole profondément de devoir attribuer une évaluation négative car jai toujours chéri ces jeux classiques toutefois il est évident quaspyr ne respecte pas ses engagements envers les joueurs
 
 #####
 
@@ -759,126 +759,126 @@ good game
 
 #####
 
-Une vrai arnaque de vendre le jeu 35 euros pour avoir les mêmes jeux originaux avec + de beug et un multi éclaté au sols. 
+une vrai arnaque de vendre le jeu 35 euros pour avoir les mêmes jeux originaux avec  de beug et un multi éclaté au sols 
 
-Sans commentaires pour les nouveaux modèles comme celui de ventress qui est ultra mal fait et beugé a mort. 
+sans commentaires pour les nouveaux modèles comme celui de ventress qui est ultra mal fait et beugé a mort 
 
-Bref a fuir et prenez les 2 jeux originaux avec les mods créé par la communauté c'est mieux.
-
-#####
-
-So many bugs for such a high price and 62 go in installation ??? 
-
-I hope Aspyr will fix everything I still have some hope, but please, fix the game.
+bref a fuir et prenez les 2 jeux originaux avec les mods créé par la communauté cest mieux
 
 #####
 
-Le jeu est moins bon que celui de la PS2, n'y jouer pas. Des bugs, une visée immonde, surtout quand tu est dans un vaisseau spatial etc...
+so many bugs for such a high price and 62 go in installation  
+
+i hope aspyr will fix everything i still have some hope but please fix the game
 
 #####
 
-nostalgie !
+le jeu est moins bon que celui de la ps2 ny jouer pas des bugs une visée immonde surtout quand tu est dans un vaisseau spatial etc
 
 #####
 
-C’est à la fois une joie intense et une immense déception !
-
-	Une joie intense à cause de la nostalgie de ces jeux, pour y avoir passé plusieurs milliers d’heures devant ma Playstation 2, pour y avoir joué des soirées entières avec des amis en écran partagé ou expérimenté le mode LAN à défaut de pouvoir y jouer en ligne même si ce jeu proposé déjà une expérience en ligne à l’époque (Batllefront II 2005). Et surtout, pour y rejouer bien après ces années-là, pour l’avoir racheté sur Steam et avoir le plaisir à y rejouer sur PC et à se dire à chaque, que ce jeu est incroyable !
-	J’ai joué à énormément de FPS, j’ai été un bon pigeon en achetant les nouveaux Battlefront de EA, sauf le II, où j’ai attendu qu’il soit gratos sur Epic Games, et pour au finalement, toujours revenir sur ce bon vieux BF II de 2005 !
-	Un jeu de feu Lucas Art qui va fêter ses 20 ans et qui aujourd’hui n’a toujours pas trouvé de concurrent en termes de contenu, de style, d’équilibre, et même de graphisme (je pense notamment aux ondes lors des explosions et des débris de vaisseaux qui restent flottant dans l’espace.).
-Bref, si le jeu est bon en aspect pour moi, c’est uniquement à cause de ce grand passif que j’ai avec les licences Star Wars.
-
-	Une immense déception !
-Comment, aujourd’hui, l’industrie du jeu vidéoludique en est arrivée-là ! J’ai l’impression que les sociétés du genre sont devenues complètement empâtées de leurs succès d’autrefois, n’étant plus capables d’innover grandement ou alors par tâtonnement tellement timide que ça reste du « déjà mieux vu ». Pourquoi les plus grands succès en nombre de ventes sont des Remake ou Remastered ? Et surtout, COMMENT PEUT-ON FOIRER LE REMAKE D’UN JEU STABLE ?
-Les deux jeux en questions ont vu leur poids être multipliés par 6 ! Oui, c’est incroyable, avec le même contenu de base, si ce n’est que quelques ajouts, mais rien de bien nerveux.
-
-	Pour ce qui est de l’amélioration graphique, je m’excuse, mais je ne la vois quasiment pas ! Le jeu BF II de 2005 n’a pas évolué, et les MODS que vous pouvez y ajouter gratuitement, améliorent bien mieux le jeu de base (en contenu et en rendu graphique) sans faire peser plus du double du jeu de base. 
-Les améliorations audio sont buggés, certaines bandes sons n’existent tout simplement plus. Les textures en profondeurs de champ sont buggés. D’ailleurs, vous ne pouvez plus sortir du champ de bataille ou de l’espace, vous avez un mur invisible qui réoriente votre personnage ou votre vaisseau. Votre personnage s’embourbe également les pieds lorsqu’il y a des collisions avec les pentes ou les coins des zones (sur un couloir, un pont ou une route, ….)
-
-Un portage copier-coller de mauvaise qualité, les cinématiques sont souvent de moins bonnes qualités que sur les jeux de bases (par exemple : aller voir « entraînement spatial » du jeu BF II), c’est simplement illisible et à vomir !
-
-	UN jeu made in usa in 2024 ! C’est cool de se dire que les jeux étaient mieux traduits et mieux doublés auparavant, aujourd’hui, c’est la foire aux sous-titres avec de jolies coquilles. Pour les Battlefront, il y avait un doublage et une traduction de qualité et faites « de fond en comble » comme dirait Vador, et avec un choix de langue qui était possible !
-Là, c’est de l’anglais et puis va te faire cuire, car c’est la langue du « we’re the world », mais ces gros imbéciles de chez Aspyr on bien fait un copier-coller des cinématiques du jeu original dans leurs versions doublées. Alors pourquoi n’ont-ils pas fait la transposition des voix-off pour le jeu ? Pourquoi du travail à demi-fait ?
-
-EN CONCLUSION, je pense que vous l’aurait compris, ce jeu ne sera uniquement viable et jouable si des mises à jour viennent réparer les plus grosses erreurs de ces jeux ! Et croyez-moi, ils ont du pain sur la planche qui leur attend chez Aspyr, mais d’après ce que j’ai vu et lu, ils ont l’habitude de faire des boulettes… Alors ne vous faites pas trop d’espoir.
-Si vous voulez bénéficier d’une expérience STAR WARS BATLLEFRONT, malheureusement, seule la version de 2005 reste à ce jour, la plus perfectible et entièrement moddable, pour ce qui sont des expériences de shooter en ce genre-là !
-
-Que la force soit avec vous ! 
-Et que vos sous reposent en paix dans le porte-monnaie !
+nostalgie 
 
 #####
 
-Welcome to 2024 gaming, no one is spared not even 2005 games.
+cest à la fois une joie intense et une immense déception 
+
+	une joie intense à cause de la nostalgie de ces jeux pour y avoir passé plusieurs milliers dheures devant ma playstation 2 pour y avoir joué des soirées entières avec des amis en écran partagé ou expérimenté le mode lan à défaut de pouvoir y jouer en ligne même si ce jeu proposé déjà une expérience en ligne à lépoque batllefront ii 2005 et surtout pour y rejouer bien après ces annéeslà pour lavoir racheté sur steam et avoir le plaisir à y rejouer sur pc et à se dire à chaque que ce jeu est incroyable 
+	jai joué à énormément de fps jai été un bon pigeon en achetant les nouveaux battlefront de ea sauf le ii où jai attendu quil soit gratos sur epic games et pour au finalement toujours revenir sur ce bon vieux bf ii de 2005 
+	un jeu de feu lucas art qui va fêter ses 20 ans et qui aujourdhui na toujours pas trouvé de concurrent en termes de contenu de style déquilibre et même de graphisme je pense notamment aux ondes lors des explosions et des débris de vaisseaux qui restent flottant dans lespace
+bref si le jeu est bon en aspect pour moi cest uniquement à cause de ce grand passif que jai avec les licences star wars
+
+	une immense déception 
+comment aujourdhui lindustrie du jeu vidéoludique en est arrivéelà  jai limpression que les sociétés du genre sont devenues complètement empâtées de leurs succès dautrefois nétant plus capables dinnover grandement ou alors par tâtonnement tellement timide que ça reste du  déjà mieux vu  pourquoi les plus grands succès en nombre de ventes sont des remake ou remastered  et surtout comment peuton foirer le remake dun jeu stable 
+les deux jeux en questions ont vu leur poids être multipliés par 6  oui cest incroyable avec le même contenu de base si ce nest que quelques ajouts mais rien de bien nerveux
+
+	pour ce qui est de lamélioration graphique je mexcuse mais je ne la vois quasiment pas  le jeu bf ii de 2005 na pas évolué et les mods que vous pouvez y ajouter gratuitement améliorent bien mieux le jeu de base en contenu et en rendu graphique sans faire peser plus du double du jeu de base 
+les améliorations audio sont buggés certaines bandes sons nexistent tout simplement plus les textures en profondeurs de champ sont buggés dailleurs vous ne pouvez plus sortir du champ de bataille ou de lespace vous avez un mur invisible qui réoriente votre personnage ou votre vaisseau votre personnage sembourbe également les pieds lorsquil y a des collisions avec les pentes ou les coins des zones sur un couloir un pont ou une route 
+
+un portage copiercoller de mauvaise qualité les cinématiques sont souvent de moins bonnes qualités que sur les jeux de bases par exemple  aller voir  entraînement spatial  du jeu bf ii cest simplement illisible et à vomir 
+
+	un jeu made in usa in 2024  cest cool de se dire que les jeux étaient mieux traduits et mieux doublés auparavant aujourdhui cest la foire aux soustitres avec de jolies coquilles pour les battlefront il y avait un doublage et une traduction de qualité et faites  de fond en comble  comme dirait vador et avec un choix de langue qui était possible 
+là cest de langlais et puis va te faire cuire car cest la langue du  were the world  mais ces gros imbéciles de chez aspyr on bien fait un copiercoller des cinématiques du jeu original dans leurs versions doublées alors pourquoi nontils pas fait la transposition des voixoff pour le jeu  pourquoi du travail à demifait 
+
+en conclusion je pense que vous laurait compris ce jeu ne sera uniquement viable et jouable si des mises à jour viennent réparer les plus grosses erreurs de ces jeux  et croyezmoi ils ont du pain sur la planche qui leur attend chez aspyr mais daprès ce que jai vu et lu ils ont lhabitude de faire des boulettes alors ne vous faites pas trop despoir
+si vous voulez bénéficier dune expérience star wars batllefront malheureusement seule la version de 2005 reste à ce jour la plus perfectible et entièrement moddable pour ce qui sont des expériences de shooter en ce genrelà 
+
+que la force soit avec vous  
+et que vos sous reposent en paix dans le portemonnaie 
 
 #####
 
-Scam.
-
-Les voix sont buggé (j'ai eu les voix en Anglais). 
-Pese 30Go alors qu'il y a encore sur steam, celui de 2005, avec une vraie communauté encore active....... pour seulement 10€ au lieu de ce scam a 35€
-
-Ils se sont meme pas fait chier a refaire des menus correct ou a mettre des vidéos de bonnes qualités du coup les cinématiques sont des tas de pixels en 240p mais sur un écran 1080p alors c'est incompréhensible.
-
-Zéro travail pour 35€. je me demande s'ils n'ont pas juste volé un mod pour celui de 2005
+welcome to 2024 gaming no one is spared not even 2005 games
 
 #####
 
-Les versions originales au moins buguait pas, là l'UI est à chier, la police des textes, pas de VF alors alors qu'elles existent, en Ultrawide (21:9) c'est complètement cassé l'UI. Bref bien dommage
+scam
+
+les voix sont buggé jai eu les voix en anglais 
+pese 30go alors quil y a encore sur steam celui de 2005 avec une vraie communauté encore active pour seulement 10 au lieu de ce scam a 35
+
+ils se sont meme pas fait chier a refaire des menus correct ou a mettre des vidéos de bonnes qualités du coup les cinématiques sont des tas de pixels en 240p mais sur un écran 1080p alors cest incompréhensible
+
+zéro travail pour 35 je me demande sils nont pas juste volé un mod pour celui de 2005
 
 #####
 
-malgré la mise à jour dans star wars battlefront 1 rhen var ne fonctionne toujours pas ! et dans star wars battlefront ventress a le deuxième sabre qui n'a oas dans sa main !
+les versions originales au moins buguait pas là lui est à chier la police des textes pas de vf alors alors quelles existent en ultrawide 219 cest complètement cassé lui bref bien dommage
 
 #####
 
-Dog sh1t
+malgré la mise à jour dans star wars battlefront 1 rhen var ne fonctionne toujours pas  et dans star wars battlefront ventress a le deuxième sabre qui na oas dans sa main 
 
 #####
 
-Les paramètres.... Horrible pour modifier certaines touches. Lag / les games : (5 minutes grand max)  
-3 serveurs / L'hôte bloqué à 30 FPS... Bref nul....
+dog sh1t
 
 #####
 
-Désolé un jeu star wars de 2005 à 35 euros non c'est inadmissible il y trois serveurs full qui se courent après le battlefront 1 quasiment vide pas plus de nouveautés franchement garder votre argent en espèrent qu'ils arrivent à faire des prochaines mises à jour parce que sinon vous allez vite tourner en rond
+les paramètres horrible pour modifier certaines touches lag  les games  5 minutes grand max  
+3 serveurs  lhôte bloqué à 30 fps bref nul
 
 #####
 
-Extremement décevant, je le rembourse voici pourquoi,
--sincerement pour l'instant c'est vraiment de la merde
--L'interface est completement degeulasse
--Les serveurs sont vraiment a chier on est que tres peu de joueurs et on peut pas rejoindre des serveurs ou on est dedans mais on peut pas jouer, j'ai du créer un serveur pour pouvoir le tester
--Aissitot que j'ai rejoint ma partie, j'ai spawn et je n'avais plus de son
--Le gameplay est affreusement degeulasse
--Les graphiques etait supposé etre travailler mais il sont toujours aussi affreux
+désolé un jeu star wars de 2005 à 35 euros non cest inadmissible il y trois serveurs full qui se courent après le battlefront 1 quasiment vide pas plus de nouveautés franchement garder votre argent en espèrent quils arrivent à faire des prochaines mises à jour parce que sinon vous allez vite tourner en rond
+
+#####
+
+extremement décevant je le rembourse voici pourquoi
+sincerement pour linstant cest vraiment de la merde
+linterface est completement degeulasse
+les serveurs sont vraiment a chier on est que tres peu de joueurs et on peut pas rejoindre des serveurs ou on est dedans mais on peut pas jouer jai du créer un serveur pour pouvoir le tester
+aissitot que jai rejoint ma partie jai spawn et je navais plus de son
+le gameplay est affreusement degeulasse
+les graphiques etait supposé etre travailler mais il sont toujours aussi affreux
 les maps sont extremement vide et laide
-Je devrais marreter de m'expliquer sur ce jeu sinon EA vont me détester..
-Je lui donne la note de 2 sur 10.
+je devrais marreter de mexpliquer sur ce jeu sinon ea vont me détester
+je lui donne la note de 2 sur 10
 
 #####
 
-Bref, j'adore la série des jeux Battlefront. J'avait énormément d'espoir pour ce jeux, mais bon vue les critique et les millier de problème que possède le jeux. Je ne vous conseille pas de l'acheter. Jouer plus tot a Battlefront 2 sortie en 2017
+bref jadore la série des jeux battlefront javait énormément despoir pour ce jeux mais bon vue les critique et les millier de problème que possède le jeux je ne vous conseille pas de lacheter jouer plus tot a battlefront 2 sortie en 2017
 
 #####
 
-Tbh, just make better online servers and it's fun, just like ol' days
+tbh just make better online servers and its fun just like ol days
 
 #####
 
-Très décevant
+très décevant
 
 #####
 
-Horrible en tout points ! Je ne recommande vraiment pas
+horrible en tout points  je ne recommande vraiment pas
 
 #####
 
-Il ne s'agit que d'un patch. mais en aucun cas d'une remasterisation.
-S'il ne suivent pas le jeu en ajoutant du contenu restez sur les versions originales.
+il ne sagit que dun patch mais en aucun cas dune remasterisation
+sil ne suivent pas le jeu en ajoutant du contenu restez sur les versions originales
 
 #####
 
-Peux et serveurs de mauvaise qualité. Et aucun cross-platform... à rembourser
+peux et serveurs de mauvaise qualité et aucun crossplatform à rembourser
 
 #####
 

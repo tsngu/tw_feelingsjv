@@ -1,193 +1,193 @@
-[h1] La Honte de la simulation. [/h1]
+h1 la honte de la simulation h1
 
-Le concept est tellement attirant, le teaser présente un jeu complet, on se dit naïvement que THQ est allé voir du coté des concurrents pour voir ce qui se fait (Paradox Interactive ou Creative Assembly...). On se rêve déjà dirigeant d'une grande nation puis on lance le jeu et on devient dirigeant... d'un étron virtuel.
+le concept est tellement attirant le teaser présente un jeu complet on se dit naïvement que thq est allé voir du coté des concurrents pour voir ce qui se fait paradox interactive ou creative assembly on se rêve déjà dirigeant dune grande nation puis on lance le jeu et on devient dirigeant dun étron virtuel
 
-Mon évaluation vous paraît peut-être un poil orienté pour le moment alors je vais développer un peu. Le createur de personnage est bref. C'est une étape dispensable dans laquelle vous choisissez votre physique, votre langue, votre pays et votre religion. C'est tout. Vous ne reverrez pas votre personnage et ces caractéristiques sont aussi peu nombreuses qu'inutiles. 
+mon évaluation vous paraît peutêtre un poil orienté pour le moment alors je vais développer un peu le createur de personnage est bref cest une étape dispensable dans laquelle vous choisissez votre physique votre langue votre pays et votre religion cest tout vous ne reverrez pas votre personnage et ces caractéristiques sont aussi peu nombreuses quinutiles 
 
-Ensuite, la partie se lance (après un chargement relativement long) et c'est le drame. Première chose à savoir, c'est l'absence totale de tutoriel ou d'interaction dynamique avec le joueur (ce qui est [b]OBLIGATOIRE[/b] pour tout jeu de grande stratégie). Vous êtes sur une carte du monde, lancé dans le vide avec une UI qui malgré son apparence "correcte" manque de profondeur (pas de surbrillance, pas d'animation, pas de pop up). Le temps défile en jour et il n'y a ni avance rapide, ni raccourci pour le mettre en pause.
+ensuite la partie se lance après un chargement relativement long et cest le drame première chose à savoir cest labsence totale de tutoriel ou dinteraction dynamique avec le joueur ce qui est bobligatoireb pour tout jeu de grande stratégie vous êtes sur une carte du monde lancé dans le vide avec une ui qui malgré son apparence correcte manque de profondeur pas de surbrillance pas danimation pas de pop up le temps défile en jour et il ny a ni avance rapide ni raccourci pour le mettre en pause
 
-Les options sont nombreuses, vous allez commencer à faire le curieux, ajuster des paramètres de votre économie, votre diplomatie, votre politique [strike]et votre armée[/strike] mais rien ne se passera vraiment. Les chiffres bougent, certes... c'est à peu prés tout. Immersion inexistante. Interactions inexistantes.
+les options sont nombreuses vous allez commencer à faire le curieux ajuster des paramètres de votre économie votre diplomatie votre politique strikeet votre arméestrike mais rien ne se passera vraiment les chiffres bougent certes cest à peu prés tout immersion inexistante interactions inexistantes
 
-J'ai passé des milliers d'heures sur CK, les Civ, Hearts of Iron, Total War etc. Ce jeu n'arrive pas à la cheville de n'importe lequel de ces jeux. C'est vide, mal optimisé, moche et mensonger. Aujourd'hui, les éditeurs se permettent de nous pondre ces horreurs avec un joli teaser papier cadeau sans même les faire tester. J'ai réellement tenté de creuser mais je n'y ai trouvé qu'une perte de temps et d'argent. J'aurais préféré passer ces quelques heures à [strike]sculpter un phallus en pâte fimo[/strike] dormir, ça aurait été bien plus constructif. 
+jai passé des milliers dheures sur ck les civ hearts of iron total war etc ce jeu narrive pas à la cheville de nimporte lequel de ces jeux cest vide mal optimisé moche et mensonger aujourdhui les éditeurs se permettent de nous pondre ces horreurs avec un joli teaser papier cadeau sans même les faire tester jai réellement tenté de creuser mais je ny ai trouvé quune perte de temps et dargent jaurais préféré passer ces quelques heures à strikesculpter un phallus en pâte fimostrike dormir ça aurait été bien plus constructif 
 
-Certains espèrent que des "update" pourront améliorer l'état actuel du jeu et c'est la toute première fois de ma vie que je vous répondrais : Non, aucune mise à jour ne saurait rétablir cette maison en feu. [b]Le carnage est profond et l'arnaque est avéré.[/b]
-
-#####
-
-Horrible. Tout est raté sauf l'éditeur de personnage, qui n'a absolument aucune utilité dans le jeu, dommage le seul truc bien dans le jeu.
-Vraiment tout le reste est VRAIMENT raté. Ma carte graphique chauffe plus que sur CyberPunk alors que les graphismes sont ceux d'un jeu moyen de 2005.
-SuperPower 2 est mieux (même si vous ne pouvez pas jouer en plein écran et donc ne pouvez pas voir tout le jeu).
-Un seul thème musical qui se répète toutes les 10 secondes.
-Une seule vitesse de jeu.
-Impossible de mettre pause avec la barre espace, tout doit se faire avec la souris (en 2022, oui...).
-
-Sur Gamesplanet, Total War Warhammer 3 est à 45€, Crusader Kings 45€, Europa Universalis 35€, Heart of Irons 4 39€.
-SuperPower 3 est à 27€.
-Achetez n'importe lequel de ces jeux à la place de SuperPower 3. Ils sont même moins chers que SuperPower 3 lors des soldes.
-
-For english speaker:
-
-Horrible: run away. Everything is failed but the character editor, which unfortunately is useless once you have done your character...
-
-And why I cannot pause/resume game with space bar? We are in 2022, I want a game where keyboard is of any use!
-And why u must right click three times to open the quick menus? 
-And why u put all the quick menus in the bottom right corner while you got it right with SP2 15 years ago?
-And why my GPU is burning more with Superpower 3 than with CyberPunk?
-
-On gamesplanet, Total War Warhammer 3 is currently 45€, Crusader Kings III is 45€, Europa Universalis IV is 35€, Heart of Irons 4 is 39€.
-SuperPower 3 is 27€.
-BUY ANY ONE OF THESE GAMES INSTEAD, THEY ARE EVEN CHEAPER WHEN SPECIAL OFFERS ARE ON.
-
+certains espèrent que des update pourront améliorer létat actuel du jeu et cest la toute première fois de ma vie que je vous répondrais  non aucune mise à jour ne saurait rétablir cette maison en feu ble carnage est profond et larnaque est avéréb
 
 #####
 
-Jeu pas fini
+horrible tout est raté sauf léditeur de personnage qui na absolument aucune utilité dans le jeu dommage le seul truc bien dans le jeu
+vraiment tout le reste est vraiment raté ma carte graphique chauffe plus que sur cyberpunk alors que les graphismes sont ceux dun jeu moyen de 2005
+superpower 2 est mieux même si vous ne pouvez pas jouer en plein écran et donc ne pouvez pas voir tout le jeu
+un seul thème musical qui se répète toutes les 10 secondes
+une seule vitesse de jeu
+impossible de mettre pause avec la barre espace tout doit se faire avec la souris en 2022 oui
+
+sur gamesplanet total war warhammer 3 est à 45 crusader kings 45 europa universalis 35 heart of irons 4 39
+superpower 3 est à 27
+achetez nimporte lequel de ces jeux à la place de superpower 3 ils sont même moins chers que superpower 3 lors des soldes
+
+for english speaker
+
+horrible run away everything is failed but the character editor which unfortunately is useless once you have done your character
+
+and why i cannot pauseresume game with space bar we are in 2022 i want a game where keyboard is of any use
+and why u must right click three times to open the quick menus 
+and why u put all the quick menus in the bottom right corner while you got it right with sp2 15 years ago
+and why my gpu is burning more with superpower 3 than with cyberpunk
+
+on gamesplanet total war warhammer 3 is currently 45 crusader kings iii is 45 europa universalis iv is 35 heart of irons 4 is 39
+superpower 3 is 27
+buy any one of these games instead they are even cheaper when special offers are on
+
 
 #####
 
-déçu, il y a tellement de truc qui vont pas on dirait que le jeu est pas fini et qu'il reste 30% du jeu à faire, l'interface en jeu est horrible on dirait un jeu mobile c'est tellement gros ça prend tout l’écran a chaque fois que j'ouvre un truc je sais pas ou regarder il y a trop d'espace vide, il y a moins de contenu que sur superpower 2, ça fait plusieurs années que j'attends le jeu j’espère vraiment que les devs vont se rattraper, le jeu aurait du sortir bien plus tard ou pas à ce prix la (30 euros mais actuellement il est à 27 euros avec la promo) bref si vous voulez le jeu attendez avant de l'acheter sinon vous allez être déçu et trouver ça nul alors que le 2 était incroyable
+jeu pas fini
 
 #####
 
-Soyons francs, je n'ai acheté ce jeu que pour réaliser cette évaluation, ayant passé 8 heures dessus chez un tiers. J'ai donc pu tester plusieurs parties avec la France, le Brésil, la Nouvelle Zélande et enfin le Brunei.
-En ce qui me concerne, superpower 3 est un raté comme on en voit peu, ne parvenant même pas à égaler SP2, lequel date quand même de 2004. Faut le faire.
-
-
-Les graphismes.
-
-Dès l'écran d'accueil, on se rend compte des limites de la bête : on choisit entre le plein écran et le fenêtré. Si vous prenez la seconde option, une partie du menu disparaîtra dès que vous voudrez jouer en 2k ou plus. Dès lors, vous serez contraints de jouer en 1024. En 2022, ce n'est pas acceptable, tout simplement.
-
-L'éditeur de personnage.
-
-D'une part, il fonctionne bien, mais il pose plus de question qu'il n'en résout. Le jeu insiste sur l'importance de la langue et de la religion de votre personnage, mais concrètement, cela n'a aucune utilité. Alors pourquoi le préciser ? A mon avis, des mécaniques de soulèvements ou de guerres civiles basées sur l'ethnie, la culture, la religion devaient être prévues, mais ont été abandonnées en chemin.  C'est dommage.
-
-La localisation.
-
-Mal faite, mal finie. Certaines infobulles ne sont pas traduites, et d'autres n'ont aucun sens. Ainsi, on lira "si vous accumulez trop de dettes, votre pays deviendra insoluble". Oui, c'est présent dans le jeu. Par ailleurs, plusieurs icônes sont manquantes.
-
-Le tutoriel.
-
-Il brille par son absence. On trouve cependant 3 ou 4 courtes vidéos, en anglais, et non sous-titrées. Ca rejoint la localisation indigente.
-
-La population.
-
-Plein de données, mais dont ignore l'utilité dans le jeu. Je suis tout à fait d'accord que l'on me parle de masculinité, d'individualisme  et de culture d'obéissance, mais j'aimerais quand même avoir une explication sur son rôle et sa finalité.
-
-A contrario, au niveau de la politique intérieure, c'est le vide total. Aucun sondage sur l'opposition, ni sur son positionnement dans l'échiquier politique. Pas de campagne électorale du tout. C'est simple, un pop up m'a informé que j'avais été réélu. C'est une blague ?
-
-
-
-L'économie: 
-
-D'une part, elle n'est pas très personnalisée. Par exemple, que vous ayez des côtes ou pas, nulle trace d'industrie de la pêche .. Elle n'est pas davantage informative. Pour développer un secteur, vous devrez investir dedans, ce qui est logique, et vous aurez donc un impact environnemental (pollution, déforestation, ou occupation de terres arables). Alors, si vous avez les données avant d'investir, vous ignorez l'impact que vos futurs investissements pourraient avoir: c'est la surprise du chef !!
-
-Le budget
-
-le même amateurisme règne dans ce domaine. Les curseurs sont imprécis au possible, et en prime vous ne connaissez pas l'effet, là non plus, de vos décisions.
-Je prendrai l'exemple de l'éducation : vous augmentez le budget, ce qui sur la papier est une bonne chose, puisque vous pourrez développer le recherche civile ou militaire, ou encore le secteur tertiaire. Sauf que vous ne savez pas d'où vous démarrez, ni où vous arriverez. Il n'y a tout simplement aucun graphique du taux d'éducation de votre population, que ce soit en fonction de l'âge ou autre. Il n'y a rien pour le primaire, secondaires, supérieur, universitaire. Vous allez complètement en aveugle. Vos investissez dans des secteurs sans même savoir si vous aurez assez de personnel qualifié pour le travail. Du grand n'importe quoi !
-Même chose pour les infrastructures, c'est la grande inconnue.
-
-La dette, également. Si vous avez des fonds propres, vous pourriez être tenté de faire des remboursement anticipés. dans le cas de l'amérique du sud, c'est crucial tant le remboursement annuel pèse sur le budget. Eh bien non, c'est impossible. Vous continuez à rembourser pendant 20 ans, parce qu'il n'y a pas non plus d'étalement. Et quant au taux d'intérêt, je n'en ai pas vu mention, je me dis donc qu'il doit être fixe, que vous soyez vertueux ou pas .
-
-
-
-Politique:
-
-Quelques mots pour une grande absente. Vous ne connaissez pas votre place sur l'échiquier politique, ni celle de vos adversaires, d'ailleurs. Il n' y a du reste pas de représentation du spectre politique où que ce soit. Ce ne serait pourtant ni du luxe, ni bien difficile.
-
-Du coup, pas de politique sociale du tout, et quant à la politique éco, je vous en ai parlé plus haut. Dans les faits, il est impossible d'opérer la moindre dépense sociale.  Ce qui mène à un autre énorme problème: le chômage. C'est simple, j'ai pu maintenir une croissance à près de 3%, et le chômage n'a jamais cessé de monter. Ce qui assez logiquement à fait baisser mes revenus de façon drastique. Du grand n'importe quoi. 
-
-
-
-
-La diplomatie.
-
-Simpliste et peu ergonomique.
-Pour ma part, je n'ai pas pu remarquer si mes traités avec un pays donné pouvaient influencer mes relations avec un autre pays. Une alliance avec l' Iran pourraient-elles me valoir une mise au ban avec les USA ? Mystère.
-Quant à l'ergonomie, justement : si vous voulez faire un traité rapidement, vous avez un menu de sélection rapide pour les pays alliés ou en guerre. Pour les autres, vous devrez fermer les menus, chercher le pays sur la mappemonde, le sélectionner et ouvrir à nouveau le menu diplomatique.
-Préhistorique.
-
-A ce stade, j'ai jeté l'éponge sans même me lancer dans une guerre. Pour une guerre, il faut des alliés, une armée, des ressources, une industrie correcte, un ennemi qui ne vous tienne pas par les cou....es. Franchement, vu les problèmes en amont, ça ne m'a même pas donné envie de m'y mettre. Le menu militaire est crade, en plus d'être illogique. Vos chars du XXI eme siècle ont pour icônes des chars de la 2nde GM. Stupéfiant, mais rigoureusement exact.
-
-
-En conclusion, Superpower 3 est un jeu particulièrement raté auquel je cherche vainement la moindre qualité, réalisme, ou encore aspect pédagogique voire sociologique. Il y a probablement de bonnes idées, mais aucune n'est implémentée comme il se doit, et l'ensemble n'a aucun sens. En, l'état, y jouer relève du supplice. Les raccourcis clavier sont rares et insuffisants, il n'y a qu'une vitesse de jeu, etc ...
-
-A ce stade, le mieux est encore que l'éditeur le retire et rembourse tout le monde. Ensuite, à lui de le reprendre de fond en comble et de le sortir à nouveau dans un délai de 6 à 18 mois. S'il espère résoudre les failles et remonter la pente avec quelques patches, il se berce d'illusions. On ne revient pas de 8% d'opinions positives par un coup de baguette magique.
-
-[url=https://store.steampowered.com/curator/39131147-Jeux-joue/] Pour suivre mon groupe de curation[/url]
+déçu il y a tellement de truc qui vont pas on dirait que le jeu est pas fini et quil reste 30 du jeu à faire linterface en jeu est horrible on dirait un jeu mobile cest tellement gros ça prend tout lécran a chaque fois que jouvre un truc je sais pas ou regarder il y a trop despace vide il y a moins de contenu que sur superpower 2 ça fait plusieurs années que jattends le jeu jespère vraiment que les devs vont se rattraper le jeu aurait du sortir bien plus tard ou pas à ce prix la 30 euros mais actuellement il est à 27 euros avec la promo bref si vous voulez le jeu attendez avant de lacheter sinon vous allez être déçu et trouver ça nul alors que le 2 était incroyable
 
 #####
 
-j'aurais du écouter les avis désastreux et ne pas acheter
+soyons francs je nai acheté ce jeu que pour réaliser cette évaluation ayant passé 8 heures dessus chez un tiers jai donc pu tester plusieurs parties avec la france le brésil la nouvelle zélande et enfin le brunei
+en ce qui me concerne superpower 3 est un raté comme on en voit peu ne parvenant même pas à égaler sp2 lequel date quand même de 2004 faut le faire
+
+
+les graphismes
+
+dès lécran daccueil on se rend compte des limites de la bête  on choisit entre le plein écran et le fenêtré si vous prenez la seconde option une partie du menu disparaîtra dès que vous voudrez jouer en 2k ou plus dès lors vous serez contraints de jouer en 1024 en 2022 ce nest pas acceptable tout simplement
+
+léditeur de personnage
+
+dune part il fonctionne bien mais il pose plus de question quil nen résout le jeu insiste sur limportance de la langue et de la religion de votre personnage mais concrètement cela na aucune utilité alors pourquoi le préciser  a mon avis des mécaniques de soulèvements ou de guerres civiles basées sur lethnie la culture la religion devaient être prévues mais ont été abandonnées en chemin  cest dommage
+
+la localisation
+
+mal faite mal finie certaines infobulles ne sont pas traduites et dautres nont aucun sens ainsi on lira si vous accumulez trop de dettes votre pays deviendra insoluble oui cest présent dans le jeu par ailleurs plusieurs icônes sont manquantes
+
+le tutoriel
+
+il brille par son absence on trouve cependant 3 ou 4 courtes vidéos en anglais et non soustitrées ca rejoint la localisation indigente
+
+la population
+
+plein de données mais dont ignore lutilité dans le jeu je suis tout à fait daccord que lon me parle de masculinité dindividualisme  et de culture dobéissance mais jaimerais quand même avoir une explication sur son rôle et sa finalité
+
+a contrario au niveau de la politique intérieure cest le vide total aucun sondage sur lopposition ni sur son positionnement dans léchiquier politique pas de campagne électorale du tout cest simple un pop up ma informé que javais été réélu cest une blague 
+
+
+
+léconomie 
+
+dune part elle nest pas très personnalisée par exemple que vous ayez des côtes ou pas nulle trace dindustrie de la pêche  elle nest pas davantage informative pour développer un secteur vous devrez investir dedans ce qui est logique et vous aurez donc un impact environnemental pollution déforestation ou occupation de terres arables alors si vous avez les données avant dinvestir vous ignorez limpact que vos futurs investissements pourraient avoir cest la surprise du chef 
+
+le budget
+
+le même amateurisme règne dans ce domaine les curseurs sont imprécis au possible et en prime vous ne connaissez pas leffet là non plus de vos décisions
+je prendrai lexemple de léducation  vous augmentez le budget ce qui sur la papier est une bonne chose puisque vous pourrez développer le recherche civile ou militaire ou encore le secteur tertiaire sauf que vous ne savez pas doù vous démarrez ni où vous arriverez il ny a tout simplement aucun graphique du taux déducation de votre population que ce soit en fonction de lâge ou autre il ny a rien pour le primaire secondaires supérieur universitaire vous allez complètement en aveugle vos investissez dans des secteurs sans même savoir si vous aurez assez de personnel qualifié pour le travail du grand nimporte quoi 
+même chose pour les infrastructures cest la grande inconnue
+
+la dette également si vous avez des fonds propres vous pourriez être tenté de faire des remboursement anticipés dans le cas de lamérique du sud cest crucial tant le remboursement annuel pèse sur le budget eh bien non cest impossible vous continuez à rembourser pendant 20 ans parce quil ny a pas non plus détalement et quant au taux dintérêt je nen ai pas vu mention je me dis donc quil doit être fixe que vous soyez vertueux ou pas 
+
+
+
+politique
+
+quelques mots pour une grande absente vous ne connaissez pas votre place sur léchiquier politique ni celle de vos adversaires dailleurs il n y a du reste pas de représentation du spectre politique où que ce soit ce ne serait pourtant ni du luxe ni bien difficile
+
+du coup pas de politique sociale du tout et quant à la politique éco je vous en ai parlé plus haut dans les faits il est impossible dopérer la moindre dépense sociale  ce qui mène à un autre énorme problème le chômage cest simple jai pu maintenir une croissance à près de 3 et le chômage na jamais cessé de monter ce qui assez logiquement à fait baisser mes revenus de façon drastique du grand nimporte quoi 
+
+
+
+
+la diplomatie
+
+simpliste et peu ergonomique
+pour ma part je nai pas pu remarquer si mes traités avec un pays donné pouvaient influencer mes relations avec un autre pays une alliance avec l iran pourraientelles me valoir une mise au ban avec les usa  mystère
+quant à lergonomie justement  si vous voulez faire un traité rapidement vous avez un menu de sélection rapide pour les pays alliés ou en guerre pour les autres vous devrez fermer les menus chercher le pays sur la mappemonde le sélectionner et ouvrir à nouveau le menu diplomatique
+préhistorique
+
+a ce stade jai jeté léponge sans même me lancer dans une guerre pour une guerre il faut des alliés une armée des ressources une industrie correcte un ennemi qui ne vous tienne pas par les coues franchement vu les problèmes en amont ça ne ma même pas donné envie de my mettre le menu militaire est crade en plus dêtre illogique vos chars du xxi eme siècle ont pour icônes des chars de la 2nde gm stupéfiant mais rigoureusement exact
+
+
+en conclusion superpower 3 est un jeu particulièrement raté auquel je cherche vainement la moindre qualité réalisme ou encore aspect pédagogique voire sociologique il y a probablement de bonnes idées mais aucune nest implémentée comme il se doit et lensemble na aucun sens en létat y jouer relève du supplice les raccourcis clavier sont rares et insuffisants il ny a quune vitesse de jeu etc 
+
+a ce stade le mieux est encore que léditeur le retire et rembourse tout le monde ensuite à lui de le reprendre de fond en comble et de le sortir à nouveau dans un délai de 6 à 18 mois sil espère résoudre les failles et remonter la pente avec quelques patches il se berce dillusions on ne revient pas de 8 dopinions positives par un coup de baguette magique
+
+urlhttpsstoresteampoweredcomcurator39131147jeuxjoue pour suivre mon groupe de curationurl
 
 #####
 
-GolemLabs, ce petit studio qui se targue de faire des jeux poussés, avec une IA avancée, nous régale d'un jeu bâclé à un point tout juste hallucinant.
+jaurais du écouter les avis désastreux et ne pas acheter
 
-Il est tout bonnement infect: il a été expédié en quatrième vitesse sans aucune pensée pour les joueurs :
-- pas d'option pour accélérer la vitesse du jeu
-- les filtres pour la carte se désactivent tous seuls
-- impossible de créer ses propres presets militaires (en passant coucou les modèles de véhicules de la SGM en 2018)
-- une UI simplifiée digne d'un port mobile
-- les unités militaires qui sont arbitrairement bloquées sur place
+#####
 
-Même pas essayé le multijoueur mais j'imagine que ça a été rushé comme le reste.
-Des trucs aussi simple que faire tourner la caméra autour du globe est bancal ; saccadé, suit un axe improbable et dérive vers le Nord ou le Sud lorsqu'on essaye de faire un simple mouvement horizontal...
+golemlabs ce petit studio qui se targue de faire des jeux poussés avec une ia avancée nous régale dun jeu bâclé à un point tout juste hallucinant
 
-SP2 était bloqué dans une résolution d'un ancien temps et était parcouru de bugs infâmes (souvenez vous des fameuses provinces au Belize ou en Afrique de l'Ouest qui faisaient instantanément disparaître les armées qui y rentraient) mais il tenait debout. Lui.
+il est tout bonnement infect il a été expédié en quatrième vitesse sans aucune pensée pour les joueurs 
+ pas doption pour accélérer la vitesse du jeu
+ les filtres pour la carte se désactivent tous seuls
+ impossible de créer ses propres presets militaires en passant coucou les modèles de véhicules de la sgm en 2018
+ une ui simplifiée digne dun port mobile
+ les unités militaires qui sont arbitrairement bloquées sur place
+
+même pas essayé le multijoueur mais jimagine que ça a été rushé comme le reste
+des trucs aussi simple que faire tourner la caméra autour du globe est bancal  saccadé suit un axe improbable et dérive vers le nord ou le sud lorsquon essaye de faire un simple mouvement horizontal
+
+sp2 était bloqué dans une résolution dun ancien temps et était parcouru de bugs infâmes souvenez vous des fameuses provinces au belize ou en afrique de louest qui faisaient instantanément disparaître les armées qui y rentraient mais il tenait debout lui
 
 #####
 
 bonjour a vous
-Apres environ 10 heures de jeu, perso je suis déçus.
-de bugs en bugs,  
- c'est le néant le plus complet en terme de jouabilité.
+apres environ 10 heures de jeu perso je suis déçus
+de bugs en bugs  
+ cest le néant le plus complet en terme de jouabilité
 au début vous créer un personnage au final il ne vous sert a rien lol
-c'est fort dommage car l'idée est bonne...
-mon investissement est bien c'est 26.99 € a la poubelle
+cest fort dommage car lidée est bonne
+mon investissement est bien cest 2699  a la poubelle
 merci les développeurs
 
 #####
 
-Gameplay et mécanique de jeux a la ramasse et ne represente pas pour moi la suite de Superpower 2 + jeux abandonner par les dev
+gameplay et mécanique de jeux a la ramasse et ne represente pas pour moi la suite de superpower 2  jeux abandonner par les dev
 
 #####
 
-Pour le moment, je ne peux pas recommander ce jeu. Les bugs sont présents (fermeture du jeu inopinée par exemple). Pas vraiment eu le temps de voir aussi bien les guerres que l'économie du fait que le jeu n'est absolument pas optimisé (mon PC chauffe plus avec ce jeu en qualité basse qu'avec ACV en ultra). Je me fais rembourser, et verrai si les notes changent plus tard.
+pour le moment je ne peux pas recommander ce jeu les bugs sont présents fermeture du jeu inopinée par exemple pas vraiment eu le temps de voir aussi bien les guerres que léconomie du fait que le jeu nest absolument pas optimisé mon pc chauffe plus avec ce jeu en qualité basse quavec acv en ultra je me fais rembourser et verrai si les notes changent plus tard
 
 #####
 
-C'est scandaleux..
+cest scandaleux
 
 #####
 
-En gros c'est superpower 2 avec moins de texte, plus de graphiques et de nouvelles mécaniques de jeux. J'ai regarder beaucoup de gameplay sur youtube avant de l'acheter principalement a cause de l'avalanche d'avis négatif et les joueurs sont en général trop stupide pour comprendre le fonctionnement du jeux.
+en gros cest superpower 2 avec moins de texte plus de graphiques et de nouvelles mécaniques de jeux jai regarder beaucoup de gameplay sur youtube avant de lacheter principalement a cause de lavalanche davis négatif et les joueurs sont en général trop stupide pour comprendre le fonctionnement du jeux
 
-De ce que j'ai pu voir c'est exactement pareil que superpower 2 sauf que les champs de batailles sont présenté différemment, on a la possibilité d'oppresser sa population, la production de ressource ainsi que le commerce a complètement été retravailler ce qui rend le jeux plus intéressant. Les IA sont beaucoup plus réactives, elles produisent des unités, annexe des territoires...etc...etc La stabilité est devenue un point encore plus important. La nouvelle interface qui comprend moins de texte et plus de graphique nous donne une meilleur idée de l'impacte de nos décisions, par exemple si vous décidez d'investir dans une ressource agricole un graphique vous indique la population disponible pour ce secteur ainsi que la quantité de terre arable, puis le résultat de votre investissement.
-L’amélioration des unités est beaucoup mieux pensé, on a plus la possibilité de construire un tank pourri qui ressemble a un char Leclerc, le skin du véhicule sera automatiquement en accord avec ses spécificités, on peut même amélioré l'infanterie et ainsi créer des bataillons spécialisées dans tel ou tel domaine, ce qui nous offre comme opportunité de contenir un ennemi beaucoup plus puissant avec une armée moins chère en prenant l'avantage du terrain. Donc on peut se defendre et contenir un pays comme la chine avec un petit pays sans forcement dépenser des milliard dans son armée.     
+de ce que jai pu voir cest exactement pareil que superpower 2 sauf que les champs de batailles sont présenté différemment on a la possibilité doppresser sa population la production de ressource ainsi que le commerce a complètement été retravailler ce qui rend le jeux plus intéressant les ia sont beaucoup plus réactives elles produisent des unités annexe des territoiresetcetc la stabilité est devenue un point encore plus important la nouvelle interface qui comprend moins de texte et plus de graphique nous donne une meilleur idée de limpacte de nos décisions par exemple si vous décidez dinvestir dans une ressource agricole un graphique vous indique la population disponible pour ce secteur ainsi que la quantité de terre arable puis le résultat de votre investissement
+lamélioration des unités est beaucoup mieux pensé on a plus la possibilité de construire un tank pourri qui ressemble a un char leclerc le skin du véhicule sera automatiquement en accord avec ses spécificités on peut même amélioré linfanterie et ainsi créer des bataillons spécialisées dans tel ou tel domaine ce qui nous offre comme opportunité de contenir un ennemi beaucoup plus puissant avec une armée moins chère en prenant lavantage du terrain donc on peut se defendre et contenir un pays comme la chine avec un petit pays sans forcement dépenser des milliard dans son armée     
 
-Le gros problème de ce jeux est qu'il souffre d'un gros soucis de finition, au bout d'un moment ça lag tellement que aucune de vos actions ne prennent effet ou l'interface qui ne répond plus ce qui devient assez rapidement pénible et frustrant, le jeux n'a pas bénéficier de mis a jour depuis un bon moment et a l'air d'avoir été laissé a l'abandon. 
+le gros problème de ce jeux est quil souffre dun gros soucis de finition au bout dun moment ça lag tellement que aucune de vos actions ne prennent effet ou linterface qui ne répond plus ce qui devient assez rapidement pénible et frustrant le jeux na pas bénéficier de mis a jour depuis un bon moment et a lair davoir été laissé a labandon 
 
-Même si je me suis fait rembourser je met un avis positif pour encourager les devs, ce jeux a besoins d'une bonne maj technique.
-
-#####
-
-Jeu sorti beaucoup trop tôt! N'est pas à la hauteur de celui auquel il succède. Aucune logique économique (avec 100% de chômage, mon pays se porte très bien). La gestion de l'armée (si on peut dire qu'il y'en a une) est catastrophique. Et j'en passe, la floppée de commentaires se suffit. A éviter dans l'absolu.
+même si je me suis fait rembourser je met un avis positif pour encourager les devs ce jeux a besoins dune bonne maj technique
 
 #####
 
-Le jeu est nul... On passe plus de temps à attendre les chargements qu'à jouer !!
-Ne l'acheter pas, vous y perderez votre temps et votre argent !!
+jeu sorti beaucoup trop tôt nest pas à la hauteur de celui auquel il succède aucune logique économique avec 100 de chômage mon pays se porte très bien la gestion de larmée si on peut dire quil yen a une est catastrophique et jen passe la floppée de commentaires se suffit a éviter dans labsolu
 
 #####
 
-J'ai joué étant jeune à SuperPower puis SuperPower 2...
-J'ai passé des heures sur ces jeux.
-J'attendais le 3 depuis des années et je trouve un jeu ou l'on ne peut rien faire, littéralement injouable !
+le jeu est nul on passe plus de temps à attendre les chargements quà jouer 
+ne lacheter pas vous y perderez votre temps et votre argent 
 
-Je suis tellement déçu du studio qui a pour l'habitude de sortir des jeux de qualités...
+#####
 
-J'ai demandé un remboursement.
+jai joué étant jeune à superpower puis superpower 2
+jai passé des heures sur ces jeux
+jattendais le 3 depuis des années et je trouve un jeu ou lon ne peut rien faire littéralement injouable 
+
+je suis tellement déçu du studio qui a pour lhabitude de sortir des jeux de qualités
+
+jai demandé un remboursement
 
 #####
 
@@ -195,249 +195,249 @@ eclaté
 
 #####
 
-Le Teaser ma donner envie, sur le papier il avait tout pour passer des bon moments, mais une fois le jeux télécharger c'est la déception qui vous attend. Aucune vrais gestion économique, la gestion militaire que dire ... ils ont juste oublie ce point au moment du développement.   N'acheter pas ce jeux vous aller perdre du temps la meilleurs partie de ce jeux c'est la Cinématique et c'est tout. Steam ne devrait même pas proposer cette daube dans son catalogue.
+le teaser ma donner envie sur le papier il avait tout pour passer des bon moments mais une fois le jeux télécharger cest la déception qui vous attend aucune vrais gestion économique la gestion militaire que dire  ils ont juste oublie ce point au moment du développement   nacheter pas ce jeux vous aller perdre du temps la meilleurs partie de ce jeux cest la cinématique et cest tout steam ne devrait même pas proposer cette daube dans son catalogue
 
 #####
 
-Le jeu est mal fais , je peu que faire des échange commersial , je ne vous le recommende pas , le meilleur jeux en politique reste Power et révolution et encore il vende les dlc au mème prit du jeu mais bon.
+le jeu est mal fais  je peu que faire des échange commersial  je ne vous le recommende pas  le meilleur jeux en politique reste power et révolution et encore il vende les dlc au mème prit du jeu mais bon
 
 #####
 
-Il est déjà l'heure de faire une éval car ce jeu est tout simplement mauvais en l'état, et que je ne peux pas continuer à y jouer.
-Le trailer et les images donnaient envie, j'espérais une bonne mécanique et un gameplay plus intéressant pour un jeu de simulation géopolitique. Les possibilités pour gérer le pays et les relations internationales semblaient prometteuses mais malheureusement soient elles sont manquantes, soient bugués.
+il est déjà lheure de faire une éval car ce jeu est tout simplement mauvais en létat et que je ne peux pas continuer à y jouer
+le trailer et les images donnaient envie jespérais une bonne mécanique et un gameplay plus intéressant pour un jeu de simulation géopolitique les possibilités pour gérer le pays et les relations internationales semblaient prometteuses mais malheureusement soient elles sont manquantes soient bugués
 
-[h1] Les moins [/h1]
-- Pas de tutoriel. Pourtant, pour un jeu complexe de géopolitique, un tutoriel serait le bienvenue.
-- Le jeu propose des scénarios intéressants, mais en testant celui du conflit Ukraine-Russie, c'est devenu le bordel en 5 min avec des guerres déclarés de partout (sauf entre l'Ukraine et la Russie). 
-- La gestion économique n'a pas l'air de fonctionner. En voulant développer des industries, rien ne se passe (même après 1 an), même augmenter les taxes d'un secteur ne semble pas impacter les rentrées d'argent. Par contre, taxer le peuple ironiquement ça fonctionne.
-- Les relations internationales sont très limitées, elles peuvent basiquement se résumer à :
-[olist]
-    [*]Conclure deux traitées de bonnes ententes (culturel et développement humain) purement symboliques ou presque.
-    [*]Mettre une ambassade, faire un embargo, ou obtenir un accès militaire à un pays.
-    [*]Donne/Demander de l'argent ou des militaires (Sérieux..., l'Allemagne qui me demande 7 Milliards en début de partie comme ça, WTF !)
-[/olist]
-- Annexion ! Annexion ! Annexion ! Sérieusement, Poutine a participé au développement du jeu, le nombre d'annexions en une partie est ahurissant. Pourquoi les Etats-Unis annexent une région du Kazakhstan,... Et mon Dieu mais pourquoi l'Algérie d'un coup annexe une région de la Russie, puis attaque l'Italie sans prévenir, puis le Kosovo, puis la Hongrie. CE JEU N'A PAS DE SENS !!!
+h1 les moins h1
+ pas de tutoriel pourtant pour un jeu complexe de géopolitique un tutoriel serait le bienvenue
+ le jeu propose des scénarios intéressants mais en testant celui du conflit ukrainerussie cest devenu le bordel en 5 min avec des guerres déclarés de partout sauf entre lukraine et la russie 
+ la gestion économique na pas lair de fonctionner en voulant développer des industries rien ne se passe même après 1 an même augmenter les taxes dun secteur ne semble pas impacter les rentrées dargent par contre taxer le peuple ironiquement ça fonctionne
+ les relations internationales sont très limitées elles peuvent basiquement se résumer à 
+olist
+    conclure deux traitées de bonnes ententes culturel et développement humain purement symboliques ou presque
+    mettre une ambassade faire un embargo ou obtenir un accès militaire à un pays
+    donnedemander de largent ou des militaires sérieux lallemagne qui me demande 7 milliards en début de partie comme ça wtf 
+olist
+ annexion  annexion  annexion  sérieusement poutine a participé au développement du jeu le nombre dannexions en une partie est ahurissant pourquoi les etatsunis annexent une région du kazakhstan et mon dieu mais pourquoi lalgérie dun coup annexe une région de la russie puis attaque litalie sans prévenir puis le kosovo puis la hongrie ce jeu na pas de sens 
 
-[h1] Les Plus [/h1]
-- Il y a des rafales et le Charles-De-Gaulle dans le jeu.
-
-#####
-
-Attention n'achetez pas ce jeu !!! 
-
-
-ce que vous avez vu dans le spot est identique:
-
--vous verrez la vidéo au début
-- concernant les unités sont style "pac man" mais ça il ne vous l'ont pas montré
-- votre personnage sera une vignette dans un coin de la fenêtre
--globe avec une carte nue ou il faut passer la souris pour découvrir les lieux qui disparaissent
-
-
-nous vous aurons averti, "limite arnaque" pour un jeu 2022
+h1 les plus h1
+ il y a des rafales et le charlesdegaulle dans le jeu
 
 #####
 
-C'est la seule évaluation que j'ai posté.
-Le concept est incroyable mais c'est malheureusement la seule chose incroyable avec la quantité de bugs.
-Je suis extrêmement déçu, je devais jouer à ce jeu avec des amis comme je l'avais fait avec SuperPower 2 mais je leur ai dit de ne pas acheter le jeu. Je ne sais pas si des mises à jours suffiront mais je l'espère.
+attention nachetez pas ce jeu  
 
-Une petite partie de tous les problèmes rencontrés en moins de 5h de jeu :
-- Le bouton pause ne fonctionne pas bien
-- Le bouton pour "merge" (rassembler des troupes) fonctionnent une fois sur 2 et avec un délai énorme
-- On ne peut pas accélérer le temps donc le jeu est vite ennuyeux, j'ai eu le temps de manger j'ai laissé le jeu tourner il ne s'était rien passé d'incroyable...
-- Les données ne me semblent pas cohérentes, au début d'une partie avec l'Australie je peux mettre quasiment tous les budgets à fond en étant toujours en excédent
-- Pareil pour les productions du pays, au début de partie l'Australie est quasiment indépendante on importe rien la balance commerciale est à plusieurs centaines de milliards de dollars d'excédent (alors que l'Australie en 2018 la même année que le début de la partie avait une balance commerciale de 18 milliards)
-- L'IA ne sert à rien je suis allé jusqu'en 2026 il n'y a rien eu de spécial juste quelques pays qui ont développé une arme nucléaire mais pour ne rien en faire
-- Pas de sauvegarde automatique
-- Il manque des files pour la production d'unités ou encore la recherche
-- J'ai l'impression que le jeu consomme énormément de ressources pour un résultat franchement bof.
 
-La liste n'est pas exhaustive mais je ne recommanderai ce jeu à personne il n'est même pas terminé, j'ai trouvé, en cherchant dans les fichiers du jeu des commentaires des développeurs :
-"todo JR - doit être fait au niveau de la SRegion, pas du SCountry"
-"ATTENDRE LE BUILD POUR TESTER"
-Évidemment il y'a plein d'autres commentaires mais ce ne sont que des exemples.
-J'ai trouvé une ligne dans le fichier SuperPower3\Data\SP3.ini qui parle de la vitesse du jeu, j'ai donc essayé de la modifier pour l'accélérer mais ça n'a rien fait du tout...
+ce que vous avez vu dans le spot est identique
 
-Ne l'achetez pas, ou en tout cas tant qu'il ne sera pas terminé. A ce stade, ce jeu n'est pas jouable.
-A titre de comparaison Power & Revolution est parfaitement optimisé comparé à SuperPower 3.
+vous verrez la vidéo au début
+ concernant les unités sont style pac man mais ça il ne vous lont pas montré
+ votre personnage sera une vignette dans un coin de la fenêtre
+globe avec une carte nue ou il faut passer la souris pour découvrir les lieux qui disparaissent
+
+
+nous vous aurons averti limite arnaque pour un jeu 2022
 
 #####
 
-une petite découverte brut  pour vous faire un avis en français !
+cest la seule évaluation que jai posté
+le concept est incroyable mais cest malheureusement la seule chose incroyable avec la quantité de bugs
+je suis extrêmement déçu je devais jouer à ce jeu avec des amis comme je lavais fait avec superpower 2 mais je leur ai dit de ne pas acheter le jeu je ne sais pas si des mises à jours suffiront mais je lespère
 
-https://www.youtube.com/watch?v=USHrPVRnnvg
+une petite partie de tous les problèmes rencontrés en moins de 5h de jeu 
+ le bouton pause ne fonctionne pas bien
+ le bouton pour merge rassembler des troupes fonctionnent une fois sur 2 et avec un délai énorme
+ on ne peut pas accélérer le temps donc le jeu est vite ennuyeux jai eu le temps de manger jai laissé le jeu tourner il ne sétait rien passé dincroyable
+ les données ne me semblent pas cohérentes au début dune partie avec laustralie je peux mettre quasiment tous les budgets à fond en étant toujours en excédent
+ pareil pour les productions du pays au début de partie laustralie est quasiment indépendante on importe rien la balance commerciale est à plusieurs centaines de milliards de dollars dexcédent alors que laustralie en 2018 la même année que le début de la partie avait une balance commerciale de 18 milliards
+ lia ne sert à rien je suis allé jusquen 2026 il ny a rien eu de spécial juste quelques pays qui ont développé une arme nucléaire mais pour ne rien en faire
+ pas de sauvegarde automatique
+ il manque des files pour la production dunités ou encore la recherche
+ jai limpression que le jeu consomme énormément de ressources pour un résultat franchement bof
 
-#####
+la liste nest pas exhaustive mais je ne recommanderai ce jeu à personne il nest même pas terminé jai trouvé en cherchant dans les fichiers du jeu des commentaires des développeurs 
+todo jr  doit être fait au niveau de la sregion pas du scountry
+attendre le build pour tester
+évidemment il ya plein dautres commentaires mais ce ne sont que des exemples
+jai trouvé une ligne dans le fichier superpower3datasp3ini qui parle de la vitesse du jeu jai donc essayé de la modifier pour laccélérer mais ça na rien fait du tout
 
-c'es de mede
-
-#####
-
-Taiwan is a country
-
-#####
-
-Good game love it.
-
-#####
-
-J'adore
-
-#####
-
-Only one of its kind . I enjoy it a lot!
-
-#####
-
-Pas de problème de plantage pour moi mai quel que soucis le 1er le zoom on voi rien sur la carte les unités ce déplace mai pas de possibilité de voir les combats de près c'est vraiment pas super... Pas de ville sur la carte c'est super abstrait... On peux augmenté les investissements dans des domaines mai pas les diminué 
-Un peux plus d'options économique et autre serait pas de refus 
-
-Les point positifs:la carte est belle mai manque de détails ( villes qui manque ect) ça apporterait plus de profondeur de jeux
-Le multi joueur (pas testé) si il marche bien au top
-Interface claire et visuellement agréable
-Côté militaire à l'air sympa mai bridé par le Zoom qui rend les guerres impossible à géré 
-
-En résumé:
--Interface claire gros points fort à mon avis
--Manque d'options de gestions,économique, politique
--Manque Grafique évolutif pour suivre l'évolution de ça politique.
-Pour plus de profondeur de jeux
--Manque D'information sur la carte (ville route) 
--Zoom carte catastrophique à mon goûts qui rent le jeux difficilement jouable 
-
-Je recommande pas ce jeux en l'état mai j'espère les futures jours corrigerons les défauts de ce jeux qui pour moi a du potentiel
+ne lachetez pas ou en tout cas tant quil ne sera pas terminé a ce stade ce jeu nest pas jouable
+a titre de comparaison power  revolution est parfaitement optimisé comparé à superpower 3
 
 #####
 
-Malheureusement j'attendais ce jeux avec impatience mais là.Catastrophique je ne pensais pas que l'on pouvait sortir un jeux moins bon que GPS2022 🤬
+une petite découverte brut  pour vous faire un avis en français 
+
+httpswwwyoutubecomwatchvushrpvrnnvg
 
 #####
 
-Scandaleux et malhonnête de vendre ca.
+ces de mede
 
 #####
 
-Pire jeux possible qui est très slow, un genre de early access qui est en manque de contenue . Les développeurs s'en fou de leurs clients et nous vendre un produit sans contenue et valeurs ajoutée Merci vous
+taiwan is a country
 
 #####
 
-Jeu difficile à prendre en main mais comme beaucoup de jeu complexes.
-
-J'ai suivis de prêt la sortie et même si le jeu demande encore de l'amélioration, il est beaucoup mieux qu'à sa sortie et semble prometteur si les devs continuent à le maintenir!
-
-Hâte de voir la suite
+good game love it
 
 #####
 
-NUL
+jadore
 
 #####
 
-Jétais certain ca serrais un tres bon jeux comment je fait pour me faire rembourser sur instant gaming??? JE NE PEUT PAS  une vrai honte
+only one of its kind  i enjoy it a lot
 
 #####
 
-SuperPower 3 est un excellent jeu de stratégie moderne! L'intégration de vrai politiciens est très intéressante et la division du gameplay en 4 sphères rend le jeu bien structuré et complexe. Je n'y ai pas encore beaucoup joué, mais j'y retrouve déjà un jeu très réaliste qui compétitionne avec les grands noms de ce genre.
-Bref, bravo à Golemlabs, et quelle joie d'avoir un studio de qualité à Sherbrooke!
+pas de problème de plantage pour moi mai quel que soucis le 1er le zoom on voi rien sur la carte les unités ce déplace mai pas de possibilité de voir les combats de près cest vraiment pas super pas de ville sur la carte cest super abstrait on peux augmenté les investissements dans des domaines mai pas les diminué 
+un peux plus doptions économique et autre serait pas de refus 
+
+les point positifsla carte est belle mai manque de détails  villes qui manque ect ça apporterait plus de profondeur de jeux
+le multi joueur pas testé si il marche bien au top
+interface claire et visuellement agréable
+côté militaire à lair sympa mai bridé par le zoom qui rend les guerres impossible à géré 
+
+en résumé
+interface claire gros points fort à mon avis
+manque doptions de gestionséconomique politique
+manque grafique évolutif pour suivre lévolution de ça politique
+pour plus de profondeur de jeux
+manque dinformation sur la carte ville route 
+zoom carte catastrophique à mon goûts qui rent le jeux difficilement jouable 
+
+je recommande pas ce jeux en létat mai jespère les futures jours corrigerons les défauts de ce jeux qui pour moi a du potentiel
 
 #####
 
-Dommage, un début de projet intéressant et finalement plus rien. Déçu à 100% ! 
-
-Projet Mort
+malheureusement jattendais ce jeux avec impatience mais làcatastrophique je ne pensais pas que lon pouvait sortir un jeux moins bon que gps2022 
 
 #####
 
-Ceci est une insulte aux simulations !!
+scandaleux et malhonnête de vendre ca
 
 #####
 
-Any SuperPower game is better than this, no more patch.
-
-Buying a pair of socks would be a better investment.
+pire jeux possible qui est très slow un genre de early access qui est en manque de contenue  les développeurs sen fou de leurs clients et nous vendre un produit sans contenue et valeurs ajoutée merci vous
 
 #####
 
-Beaucoup trop  de bug de latence  la  première  guerre et hop  sa bug  missile nucléaire que détruit rien du tout 
+jeu difficile à prendre en main mais comme beaucoup de jeu complexes
+
+jai suivis de prêt la sortie et même si le jeu demande encore de lamélioration il est beaucoup mieux quà sa sortie et semble prometteur si les devs continuent à le maintenir
+
+hâte de voir la suite
+
+#####
+
+nul
+
+#####
+
+jétais certain ca serrais un tres bon jeux comment je fait pour me faire rembourser sur instant gaming je ne peut pas  une vrai honte
+
+#####
+
+superpower 3 est un excellent jeu de stratégie moderne lintégration de vrai politiciens est très intéressante et la division du gameplay en 4 sphères rend le jeu bien structuré et complexe je ny ai pas encore beaucoup joué mais jy retrouve déjà un jeu très réaliste qui compétitionne avec les grands noms de ce genre
+bref bravo à golemlabs et quelle joie davoir un studio de qualité à sherbrooke
+
+#####
+
+dommage un début de projet intéressant et finalement plus rien déçu à 100  
+
+projet mort
+
+#####
+
+ceci est une insulte aux simulations 
+
+#####
+
+any superpower game is better than this no more patch
+
+buying a pair of socks would be a better investment
+
+#####
+
+beaucoup trop  de bug de latence  la  première  guerre et hop  sa bug  missile nucléaire que détruit rien du tout 
 toujours en déficites tu sait pas pourquoi bref jeu baclés
 
 #####
 
-Ce jeux est décevant, la vidéo d'intro est la seul chose qui est beau dans le jeux, les models 3d sont dégueulase et vraiment laid et souvent n'ont aucun rapport avec le pays jouer, les interfaces sont surchargés, graphiquement le jeux est vraiment boff, le gameplay n'est pas du tout intuitif. Le jeux est remplis d'erreur, de bug et d'oublie, ce jeux n'as jamais été terminer. Uniquement jouable en anglais ... ce jeux ne vaut pas son prix, si il serait en vente à 5,99$ sa pourrait être tolérable mais il ne vaut clairement pas 29.99$, ce n'est qu'une tentative de jeux jamais fini et qui est affreux à jouer, l'idée est bonne mais le produit est affreux, très grosse lacune de compétence et de rigueur chez l'équipe de développement.
+ce jeux est décevant la vidéo dintro est la seul chose qui est beau dans le jeux les models 3d sont dégueulase et vraiment laid et souvent nont aucun rapport avec le pays jouer les interfaces sont surchargés graphiquement le jeux est vraiment boff le gameplay nest pas du tout intuitif le jeux est remplis derreur de bug et doublie ce jeux nas jamais été terminer uniquement jouable en anglais  ce jeux ne vaut pas son prix si il serait en vente à 599 sa pourrait être tolérable mais il ne vaut clairement pas 2999 ce nest quune tentative de jeux jamais fini et qui est affreux à jouer lidée est bonne mais le produit est affreux très grosse lacune de compétence et de rigueur chez léquipe de développement
 
 #####
 
-c'est de la merde voila ne l'acheter pas
+cest de la merde voila ne lacheter pas
 
 #####
 
-Jeu pas du tout au niveau de son prédécesseur... Franchement décevant ! Pas du tout intuitif, mal fait, incomplet, bref, de loin (pour l'instant j'espère), le plus mauvais jeu du secteur des jeux de géopolitique !
+jeu pas du tout au niveau de son prédécesseur franchement décevant  pas du tout intuitif mal fait incomplet bref de loin pour linstant jespère le plus mauvais jeu du secteur des jeux de géopolitique 
 
 #####
 
-tres decu....de m'avoir fais voler mon argent
+tres decude mavoir fais voler mon argent
 
 #####
 
-Jeu totalement nul. Les vidéos sont mensongères. La création du personnage est inutile. Le monde est vide, mort. Le fonctionnement est incompréhensible, on peine fortement à comprendre le fonctionnement économique. La gestion des guerres est tout aussi nulle.
+jeu totalement nul les vidéos sont mensongères la création du personnage est inutile le monde est vide mort le fonctionnement est incompréhensible on peine fortement à comprendre le fonctionnement économique la gestion des guerres est tout aussi nulle
 
 #####
 
-vraiment mauvais... c'est rien comparé a superpower 2
+vraiment mauvais cest rien comparé a superpower 2
 
 #####
 
-NUL NUL NUL
+nul nul nul
 
 #####
 
-trop de bugs ! 
-Peux d'action du joueur sur le pays (économie).
-J'ai encore de l'espoir avec des MAJ
+trop de bugs  
+peux daction du joueur sur le pays économie
+jai encore de lespoir avec des maj
 
 #####
 
-Clairement a éviter une grosse arnaque pour son prix !
+clairement a éviter une grosse arnaque pour son prix 
 
 #####
 
-La fin de l'abondance ! tuto : vous mettez votre pc sous le bureau et vous avez un radiateur d'appoint pour cet hiver =)
+la fin de labondance  tuto  vous mettez votre pc sous le bureau et vous avez un radiateur dappoint pour cet hiver 
 
 #####
 
-Nul
+nul
 
 #####
 
-Mmmh. lent moche loupé. bugs voila voila je demande un remboursement en espérant que des MAJ arrivent vite, très vite. C'est dommage beaucoup de potentiel.
+mmmh lent moche loupé bugs voila voila je demande un remboursement en espérant que des maj arrivent vite très vite cest dommage beaucoup de potentiel
 
 #####
 
-Je suis tellement abattu, que j'ai la flemme de faire un commentaire sur un jeu complétement raté que j'ai attendu 10 ans...
+je suis tellement abattu que jai la flemme de faire un commentaire sur un jeu complétement raté que jai attendu 10 ans
 
-fait incroyable : Mon PC supporte des jeux comme Escape from Tarkov et Battlefield sans trop de difficultés mais il est au bord du décés aprés 10 minutes de SuperPower 3....
-
-#####
-
-j'ai testé en vitesse, ca a l'air pas mal, biensur, il y a encore quelques bugs... mais il vient a peine de sortir...
-j'ai hâte de le tester en multi
+fait incroyable  mon pc supporte des jeux comme escape from tarkov et battlefield sans trop de difficultés mais il est au bord du décés aprés 10 minutes de superpower 3
 
 #####
 
-Le jeu n'est pas fini ! Interface horrible, on dirait un jeu mobile.
-Manque énormément de renseignement et de contrôle sur le pays pour que ça devienne intéressant...
+jai testé en vitesse ca a lair pas mal biensur il y a encore quelques bugs mais il vient a peine de sortir
+jai hâte de le tester en multi
 
 #####
 
-Mal optimisé
+le jeu nest pas fini  interface horrible on dirait un jeu mobile
+manque énormément de renseignement et de contrôle sur le pays pour que ça devienne intéressant
+
+#####
+
+mal optimisé
 
 #####
 
 un gros bull shit 
-l'interface est nul a rien y comprendre 
-la gestions économiques c'est juste de la grosse merde 
-c'est décevant  
+linterface est nul a rien y comprendre 
+la gestions économiques cest juste de la grosse merde 
+cest décevant  
 
 
 
@@ -445,43 +445,43 @@ c'est décevant
 
 #####
 
-C'est triste, je pensais que les reviews étaient exagérés mais c'est vraiment très précipité comme sortie et ça paraît. Aucune profondeur de gameplay, UI basique, des images qui ne se chargent pas parfois et se rechargent par la suite dans ce qui est pourtant des interfaces très simples, des sliders qui lag...
+cest triste je pensais que les reviews étaient exagérés mais cest vraiment très précipité comme sortie et ça paraît aucune profondeur de gameplay ui basique des images qui ne se chargent pas parfois et se rechargent par la suite dans ce qui est pourtant des interfaces très simples des sliders qui lag
 
-Pour donner un exemple j'ai modifié mon budget d'économie en l'augmentant, et après un mois le taux de chômage est passé de 13% à 50%! L'explication est que lorsqu'on augmente le niveau d'éducation, les citoyens sont sur-éduqués, je comprends, mais en un seul mois? Impossible. Mon pays était alors en récession juste à cause de ça.
+pour donner un exemple jai modifié mon budget déconomie en laugmentant et après un mois le taux de chômage est passé de 13 à 50 lexplication est que lorsquon augmente le niveau déducation les citoyens sont suréduqués je comprends mais en un seul mois impossible mon pays était alors en récession juste à cause de ça
 
-Même pour ceux qui préfèrent l'aspect militaire je ne vois pas l'intérêt de ce jeu... En espérant qu'ils s'améliorent avec des MAJ gratuites version NMS, mais dans l'état actuel c'est très décevant.
-
-#####
-
-Comment dire..... Non fini ? 
-
-C'est ça, manque 80% du gameplay et des fonctionnalité...
-
-Trés dommage, graphiquement bof.
-
-
-bref je déconseille a ce jour le 07/10/2022
-
+même pour ceux qui préfèrent laspect militaire je ne vois pas lintérêt de ce jeu en espérant quils saméliorent avec des maj gratuites version nms mais dans létat actuel cest très décevant
 
 #####
 
-nul, nul, nul 
-on nous a sur vendu un jeu qui n'a aucun intérêt que ce soit graphiquement (on se croirait a une autre époque du jeu vidéo)
-au niveau gestion cela n'a ni queue ni tête ,les affichages sont vraiment d'un autre temps
-une grosse mais vraiment grosse MAJ pourrait (je dis bien POURRAIT)sauvez le jeu mais faut tout reprendre a zéro 
-a l'heure actuelle .............FUYEZ
+comment dire non fini  
+
+cest ça manque 80 du gameplay et des fonctionnalité
+
+trés dommage graphiquement bof
+
+
+bref je déconseille a ce jour le 07102022
+
 
 #####
 
-J'étais fan de SP1 et SP2 mais ce jeu semble avoir été botché.
+nul nul nul 
+on nous a sur vendu un jeu qui na aucun intérêt que ce soit graphiquement on se croirait a une autre époque du jeu vidéo
+au niveau gestion cela na ni queue ni tête les affichages sont vraiment dun autre temps
+une grosse mais vraiment grosse maj pourrait je dis bien pourraitsauvez le jeu mais faut tout reprendre a zéro 
+a lheure actuelle fuyez
 
-Contrairement à SP2 tu ne peux pas accélérer/décélérer le temps. Il y a moins de fonctionnalités de simulation en général si on le compare à SP2, par exemple par rapport à la taxation, aux traités, espionnage, etc., légalités des langues, religion, etc. L'interface utilisateur est inefficace et ressemble à une application boboche android que tu roules sur un écran 2K.
+#####
 
-En contrepartie tu peux contrôler la taille de la barbe, grosseur du nez au millimètre près et la couleur de peau en 48 dérivations de teinte de ton personnage.
+jétais fan de sp1 et sp2 mais ce jeu semble avoir été botché
 
-En plus ce truc fait chauffer ma RTX dans le tapis même si dans les faits rien de bien beau n' est affiché à l'écran.
+contrairement à sp2 tu ne peux pas accélérerdécélérer le temps il y a moins de fonctionnalités de simulation en général si on le compare à sp2 par exemple par rapport à la taxation aux traités espionnage etc légalités des langues religion etc linterface utilisateur est inefficace et ressemble à une application boboche android que tu roules sur un écran 2k
 
-Je vais voir après les patchs mais ça semble être un échec pour un jeux qui devait être le successeur de SP2.
+en contrepartie tu peux contrôler la taille de la barbe grosseur du nez au millimètre près et la couleur de peau en 48 dérivations de teinte de ton personnage
+
+en plus ce truc fait chauffer ma rtx dans le tapis même si dans les faits rien de bien beau n est affiché à lécran
+
+je vais voir après les patchs mais ça semble être un échec pour un jeux qui devait être le successeur de sp2
 
 #####
 

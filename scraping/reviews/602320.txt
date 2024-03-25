@@ -1,264 +1,264 @@
--Jeu terminé en 15 heures , avec 5 étoiles à chaque maps (20 maps pour le moment);(en "rushant").
+jeu terminé en 15 heures  avec 5 étoiles à chaque maps 20 maps pour le momenten rushant
 
--Les graphismes sont mieux que dans le 1 (avis personnel).
+les graphismes sont mieux que dans le 1 avis personnel
 
--Niveau gestion; il y en a plus que dans le 1, dans le 1 vous pouviez seulement lancer les trains, les arrêter. Dans le 2, pareil sauf que vous pouvez acheter des trains pour en lancer d'autre et vous pouvez les améliorer ! Ce qui augmentera la quantité de personnes/matériaux à transporter.
+niveau gestion il y en a plus que dans le 1 dans le 1 vous pouviez seulement lancer les trains les arrêter dans le 2 pareil sauf que vous pouvez acheter des trains pour en lancer dautre et vous pouvez les améliorer  ce qui augmentera la quantité de personnesmatériaux à transporter
 
--Il y a quasiment pas de bugs, alors que le jeu est en accès anticipé, très bon point.
+il y a quasiment pas de bugs alors que le jeu est en accès anticipé très bon point
 
 
--J'attends avec impatience la sortie finale du jeu pour pouvoir terminer les 30 prochains niveaux et découvrir le mode éditeur avec son Workshop.
+jattends avec impatience la sortie finale du jeu pour pouvoir terminer les 30 prochains niveaux et découvrir le mode éditeur avec son workshop
 
-Si vous cherchez un jeu de train/gestion je vous le conseille !
-
-#####
-
-Trés bon petit jeu
-2 petit beug seulement, la roulette inversé par defaut et des petit lag lors de la mise enplace de ponts ou de tunnels 
-Graphiquement, c'est jolie, c'est sympa, 
-
-Je sais que c'est un accés anticipé, c'est pourquoi je ne dirais rien concernant l'abscence de mode "libre"
-La campagne peut prendre du temps si ont fait tout le jeu en 5 etoiles
-Je redige cette evaluation à l'instant meme ou je viens de faire les 20 niveaux à 5 etoiles 
-Ca prend du temps, de la reflexion, on se dit "MERDE!!!" ca va pas passer à 10 secondes prêt ... 
-On recommence, on ce dit "Tient! je vais faire comme ca, mettre un pont ici et un voie comme ca, pis ca passe =) 
-N'oublier surtout pas de faire pause des le debut du niveau pour faire vos premiere voie et SURTOUT de compter combien de train il vous faut de chaque. 
-N'hesitez pas aussi à blinder en ressources et en personnel, n'attendez pas que ca soit vide pour envoyé les trains .
-
-Je recommande 
-Bon travail aux dev =)
+si vous cherchez un jeu de traingestion je vous le conseille 
 
 #####
 
-Train valley est un petit jeu aux graphismes sympathiques et à la gestion limitée.Dans un temps impartit,il nous est demandé de contruire les voies reliant les gares afins d'y transporter des marchandises et voyageurs/ouvriers dans les bonnes stations.Bien plus qu'une simple suite,Train valley 2 avec son lot de nouveautés qui ne sont pas uniquement visuelles,reprends l'engouement du premier numero et avec un soupçon de génie relève le défi d'en faire un meilleur,ce qui est souvent rare tout de même,les suites etant souvent de pale copie au mieux,devenant initéressante au pire,rare sont les séries qui comblent les attentes des premiers amateurs/fans.Ici donc objectifs remplis.Tjrs en early accès afin de continuer à peaufiner ce second volet,je note également que quelques amériolations issues de cet opus sont portées au premier volet (les réglages de l'ui entre autre)...
-Le projet final nous donnera 50 lvl,un editeur de niveau et donc l'accès au worshop qui rallongera la vie assez conséquente du titre.
-Je recommande chaudement même en l'état car parfaitement jouable,en plusieurs langues et avec des dévellopeurs consciencieux et à l'écoute.
-Vivement la version finale.Tchou-tchou!
-Edit après la sortie de l'early la sortie d'un DLC de jeu et le fait que j'ai fini le jeu dans sa totalité,ne me manque que toutes les étoiles et 2-3 succès que je ne suis pas sur d'aller chercher,non seulement je maintiens mon évaluation mais j'aimerais préciser que ce jeu de train en mode casse-tête m'a vraiment ravi,j'avais aimé le premier celui-ci le surpasse largement et avec l'accès au workshop il est presque infini.Une réalisation au poil et une communauté assez variée réunie par l'amour du train;) achetez le vous regretterez pas.
+trés bon petit jeu
+2 petit beug seulement la roulette inversé par defaut et des petit lag lors de la mise enplace de ponts ou de tunnels 
+graphiquement cest jolie cest sympa 
+
+je sais que cest un accés anticipé cest pourquoi je ne dirais rien concernant labscence de mode libre
+la campagne peut prendre du temps si ont fait tout le jeu en 5 etoiles
+je redige cette evaluation à linstant meme ou je viens de faire les 20 niveaux à 5 etoiles 
+ca prend du temps de la reflexion on se dit merde ca va pas passer à 10 secondes prêt  
+on recommence on ce dit tient je vais faire comme ca mettre un pont ici et un voie comme ca pis ca passe  
+noublier surtout pas de faire pause des le debut du niveau pour faire vos premiere voie et surtout de compter combien de train il vous faut de chaque 
+nhesitez pas aussi à blinder en ressources et en personnel nattendez pas que ca soit vide pour envoyé les trains 
+
+je recommande 
+bon travail aux dev 
 
 #####
 
-Pour celles et ceux qui ne connaissent pas le premier du nom, TV2 est un jeu où l'on doit relier des gares avec des voies de chemin de fer afin de faire passer des trains pour amener les bonnes ressources aux bons demandeurs. Mais ne vous y trompez pas, TV2 n'est pas un jeu de gestion à la railroad tycoon mais bien un puzzle game. Chaque carte a une taille limitée et un terrain fixe et vous devrez trouver dans quel ordre relier les différentes gares et lancer vos trains afin de réussir les 5 challenges du niveau. 
-
-Bien que TV2  reprenne l'essentiel des mécaniques de TV1, l'équipe de développement a réussi en simplifiant quelques éléments à rendre le jeu bien plus fun que le précédent opus mais sans perdre la complexité. Pour moi c'est une réussite et j'attends les prochains niveaux avec impatience.
-
-Les + :
-• On prend du plaisir à résoudre des niveaux bien équilibrés
-• Les graphismes sont agréables
-• Aucun bug en 12 heures sur linux, clavier azerty parfaitement géré
-
-
-Les - :
-• La musique un peu répétitive, pourvu qu'il y ai des morceaux supplémentaires en version finale
-
+train valley est un petit jeu aux graphismes sympathiques et à la gestion limitéedans un temps impartitil nous est demandé de contruire les voies reliant les gares afins dy transporter des marchandises et voyageursouvriers dans les bonnes stationsbien plus quune simple suitetrain valley 2 avec son lot de nouveautés qui ne sont pas uniquement visuellesreprends lengouement du premier numero et avec un soupçon de génie relève le défi den faire un meilleurce qui est souvent rare tout de mêmeles suites etant souvent de pale copie au mieuxdevenant initéressante au pirerare sont les séries qui comblent les attentes des premiers amateursfansici donc objectifs remplistjrs en early accès afin de continuer à peaufiner ce second voletje note également que quelques amériolations issues de cet opus sont portées au premier volet les réglages de lui entre autre
+le projet final nous donnera 50 lvlun editeur de niveau et donc laccès au worshop qui rallongera la vie assez conséquente du titre
+je recommande chaudement même en létat car parfaitement jouableen plusieurs langues et avec des dévellopeurs consciencieux et à lécoute
+vivement la version finaletchoutchou
+edit après la sortie de learly la sortie dun dlc de jeu et le fait que jai fini le jeu dans sa totaliténe me manque que toutes les étoiles et 23 succès que je ne suis pas sur daller cherchernon seulement je maintiens mon évaluation mais jaimerais préciser que ce jeu de train en mode cassetête ma vraiment ravijavais aimé le premier celuici le surpasse largement et avec laccès au workshop il est presque infiniune réalisation au poil et une communauté assez variée réunie par lamour du train achetez le vous regretterez pas
 
 #####
 
-Un petit jeu de puzzle que j'ai bien apprécié. Le jeu est simple au début, et se complexifie au fur et à mesure que les niveaux progressent.
+pour celles et ceux qui ne connaissent pas le premier du nom tv2 est un jeu où lon doit relier des gares avec des voies de chemin de fer afin de faire passer des trains pour amener les bonnes ressources aux bons demandeurs mais ne vous y trompez pas tv2 nest pas un jeu de gestion à la railroad tycoon mais bien un puzzle game chaque carte a une taille limitée et un terrain fixe et vous devrez trouver dans quel ordre relier les différentes gares et lancer vos trains afin de réussir les 5 challenges du niveau 
 
-Si j'ai une critique, c'est que la difficulté des niveaux est relativement facile. Quoique j'ai dû recommencer quelques fois les niveaux plus avancées (surtout après que ma souris relache le bouton gauche par erreur, ou que je clique pour arrêter une locomotive alors que je voulais changer un aiguillage), j'ai trouvé assez aisé d'avoir 5 étoiles sur tous les niveaux (sauf 1). Pour ceux qui veulent une difficulté plus facile,  la difficulté vient surtout de la volonté d'atteindre ces 5 étoiles. Donc les niveaux deviennent très facile en ignorant les objectifs de temps et les objectifs supplémentaires.
+bien que tv2  reprenne lessentiel des mécaniques de tv1 léquipe de développement a réussi en simplifiant quelques éléments à rendre le jeu bien plus fun que le précédent opus mais sans perdre la complexité pour moi cest une réussite et jattends les prochains niveaux avec impatience
 
-#####
+les  
+ on prend du plaisir à résoudre des niveaux bien équilibrés
+ les graphismes sont agréables
+ aucun bug en 12 heures sur linux clavier azerty parfaitement géré
 
-- Train Valley avec un style low poly sympa
-- Des animations cools
-- Une gestion de la main d'oeuvre et des différentes matières premières à acheminer, ajoutant de la complexité
-- Une réduction de prix pour les possesseurs de Train Valley 1
-- Un éditeur / steamworks prévu
 
-Adeptes du premier ou amateurs de petits trains ;) foncez :)
-
-#####
-
-Jeux de casse tete beau et plaisant
-
-#####
-
-Les créateurs de "Train Valley" ont lancé une suite sans vraiment comprendre pourquoi les gens ont tant aimé le premier jeu. Malheureusement, cette suite a abandonné les aspects amusants du premier opus, tels que l'optimisation du réseau ferroviaire et la gestion précise des départs des trains. Elle les a remplacés par des niveaux beaucoup plus complexes, où l'optimisation n'est plus l'objectif principal. 
-
-Contrairement au premier jeu, où tout était très rapide si vous étiez compétent, dans cette suite, vous serez constamment en attente de productions à gauche et à droite, ce qui rend le jeu beaucoup moins dynamique. 
-
-Les défis qui étaient réalisables et amusants dans le premier jeu ont disparu, laissant la place à des défis où il faudra répéter de nombreuses fois un niveau peu plaisant en s'acharnant pour atteindre un des objectifs.
-
-#####
-
-J'adore ce jeu ! Les graphismes sont mignons. Les premiers niveaux sont simples, la difficulté est progressive. Les dlc ajoutent vraiment un plus avec le transport de passager et des niveaux qui changent au cours de la partie. Les défis sont nombreux. Pas de prise de tête, juste s'organiser, trouver le meilleur compromis, construction / voyages en train. Un super mélange de construction et de jouabilité. Je suis fan.
-
-Depuis l'ajout des rubis, la chasse aux succès est juste très élevées pour le terminer à 100%.
-
-#####
-
-J’avais ce jeu dans le viseur depuis longtemps, et quand j’ai vu son prix (celui de la clef), je me suis dis qu’il me le fallait.
-
-Ce jeu est un casse-tête assez mignon, assez simple, enfin, pour le premier niveau, car le jeu ne s’arrête pas de freezer.
-Bref, impossible de passer le premier niveau à cause des freezes.
-
-Alors oui, si je voulais je pourrais toujours demander de l’aide, mais pour un jeu sorti en 2019 avec autant de DLC, je n’ai pas envie d’aller plus loin qu’activer mode admin/compatibilité ou réinstaller le jeu.
-
-#####
-
-Un jeu de réflexion dans un univers très agréable, autant sur l'aspect visuel que sonore.
-
-Produisez vos ressources, acheminez les pour satisfaire les demandes des usines et/ou des villes, tout en vous assurant d'éviter les accidents. Car oui, vous n'y échapperez pas : vos trains finiront par se croiser de très près, parfois de trop près :) !
-
-Petit regret du côté de la gestion des aiguillages, il aurait été intéressant de pouvoir "verrouiller" un trajet entre un point A et un point B, sans devoir remettre manuellement les aiguillages après le passage d'un train qui a choisi une autre route.
-
-En résumé, c'est un casse-tête... relaxant ! Étonnant, mais pourtant ! 
-
-Je recommande !
-
-#####
-
-Casse-tête sympa mais la difficulté est trop importante à un certain niveau. Ca ne devient plus relaxant et on n'a pas la possibilité de passer un niveau pour s'attaquer au suivant.
-
-#####
-
-Un jeu comme je les aime, progressif et envoûtant. Difficile de s'arrêter avant d'obtenir 5 étoiles à chaque partie et de finir toutes les parties. Il y a assez de missions pour y passer plusieurs heures, journées, semaines ! Des terrains supplémentaires sont téléchargeables et on peut réaliser ses propres missions. Une très bonne suite à Train Valley !
-
-#####
-
-Bon jeu de réflexion/gestion du temps
-
-#####
-
-Excellent casse tête de gestion de train !
-
-Ici on doit poser nos rails de façon optimale en anticipant au possible ce qu'il faudra construire par la suite ( croisements, ponts, tunnels )
-Gérer nos aiguillages au cas par cas car ici, pas de double voies, attention au choc !
-Le tout pour faire un approvisionnement rapide et de qualité dans nos villes et nos usines de transformation.
-
-Bande son reposante et agréable ( vous en aurez bien besoin ! )
-
-Design épuré et simpliste mais de très belle qualité, j'ai bien accroché !
-
-Je n'ai pas le DLC mais le jeu de base va certainement m'occuper encore une grosse dizaine d'heures afin d'obtenir les 5 étoiles partout. Comptez une trentaine d'heures pour le terminer, un très joli rapport qualité prix ! ( Edit fin : Outch, 45h )
-
-#####
-
-Très bon jeu de réflexion encore suivi par l'équipe de développement qui propose régulièrement de nouveaux niveaux.
-
-#####
-
-Une très belle surprise !
-Alors que j'ai eu ce jeu en pack, j'ai tenté d'y jouer pour le désinstaller ensuite.
-
-ET bien depuis, j'y joue régulièrement.
-Un jeu de gestion light, mais loin d'être dénue de qualités.
-
-Essayez-le !
-
-#####
-
-Train Valley 2 est un petit jeu de casse tête sur le thème du train. Vous transportez des ressources d'un point A à un point B pour les combiner et les faire évoluer, un peu à la manière d'un Factorio. Ce jeu se veut casual, mais l'ergonomie des aiguillages fait que vous devez les surveiller constamment . Ce jeu amène finalement plus de stress et de frustration que de détente, surtout quand vous faites des accidents "à la con" parce qu'un train a modifié un aiguillage. 
-On se retrouve donc avec un jeu trop frustrant pour les casual gamers et trop simple pour les hardcore gamers. J'ai donc du mal à le recommander.
-
-#####
-
-Se jeux a changer ma vie
-
-#####
-
-Un jeu de rail plutôt mignon et plaisant à la première minute, puis... vite redondant. 
-Un gameplay chiant, si une erreur est commise et que vous voulez votre score max, relancez une partie. Et elles seront toutes les mêmes. Il n'y a pas d'automatisation, tout se fait au clic. 
-petit bravo pour les trains qui changent eux mêmes l'aiguillage en passant dessus. Franchement très relou comme idée. 
-
-Si vous voulez de la simu de transport, je ne peux que conseiller Open TTD, toujours gratuit et maintenant disponible sur steam.
-
-#####
-
-Je peux jouer qu'a 7 niveaux. comment faire pour en avoir plus?
-
-#####
-
-Train valley 2 est une version amelioré et modifier du 1er dans le sens ou les developpeurs se sont bien creusés la tête pour ne pas faire exactement la même chose et ameliorer l'experience de gestion.
-
-https://youtu.be/oEZDYlUlbT4
-
--les graphismes sont plus couleurs pastel qu'avant ce qui donne un coté plus vif  et moins terne que le 1er
--les musiques m'ont moins marqué que le 1er mais restent très sympa
--la où, dans le 1er, nous avions uniqement le controle sur les déplacement des trains, ici nous pouvont aussi choisir de les ameliorer et d'acheter des locomotives. ( pour les rendre plus rapide et transporter plus de ressources
--ressources, ainsi que leur production que l'on doit gerer pour finir les niveaux ce qui affirme le coté gestion du jeu!
--un éditeur de niveau avec le steam workshop est prévu! cela manquait cruellement au 1er opus
-
-si le 1 est un jeu de gestion assez simple mais sympa, le 2ème se rapproche un peu de jeux de gestion telle que des sim city (même s'il en est loin, c'est juste pour donner une idée)ce qui laisse moins la sensation de jeu répétitif que le 1er pouvait laisser.
-
-#####
-
-Dans la lignée du 1.
-
-Si vous aimez ce genre de jeu et le premier opus, vous pouvez vous lancer sans risque.
-
-Bon jeu.
-
-#####
-
-Fan des jeux de circulation et de train, J'ai tout de suite été séduite par Train valley. Puis j'ai acheté le 2. Par contre je ne m'attendais pas à un tel niveau de difficulté. Les premiers niveaux sont facile mais les 3 quarts restants sont un vrai challenge chronophage. J'ai fait une pause au bout d'environ la moitié du jeu. Puis je m'y suis remise et je ne décroche plus! Je viens même d'acheter tous les DLC, le pack est actuellement à -62% jusqu'au 8 février 2024, pile le bon timing! J'ai hâte aussi de la suite du jeu qui vient d'être annoncée: Train world. Je l'achèterais (en promo).
-
-#####
-
-Une tuerie. Hyper addictif. Je recommande vivement.
-
-#####
-
-Un concept simple entre gestion et puzzle, accrocheur et qui arrive toujours à se renouveler
-
-#####
-
-Très bon jeu, reprend tout ce qu'il y avait de bien dans le premier mais en le rendant plus complexe et en corrigeant certains aspects négatifs du premier (par exemple, deux trains qui passent sur des voies proches l'une de l'autre mais qui ne se superposent pas ne se rentrent désormais plus dedans). J'ai acheté les DLC mais ce n'est pas tant pour avoir plus de contenu que pour soutenir les développeurs, car les niveaux du workshop sont gratuits et suffisent à eux seuls à rendre le jeu quasi infini.
-
-#####
-
-Excellent jeu de gestion/casse-tête
-
-#####
-
-Très bon, une bonne difficulté croissante
-
-#####
-
-Très agréable.
-
-A essayer d'urgence !
-
-#####
-
-Excellent jeu. A peine au niveau 5 et on apprécie la progression dans la difficulté.
-Après avoir fait les premiers niveaux seul, nous jouons maintenant à deux : un adulte (qui manipule) et un enfant de 10 ans et on choisit la stratégie ensemble. Deux paires d'yeux, ce n'est aussi pas de trop pour surveiller les trains, les aiguillages, les ressources. On se régale !
-
-#####
-
-Suite de petites casses-têtes sympa.
-
-#####
-
-sympathique pour passer le temps sans trop se prendre la tete. Un jeu sans prétention, pour se détendre entre 2 trucs plus costaud. A prendre a petit prix.
-
-#####
-
-Excellent jeu de réflexion et de stratégie ! Je recommande vivement, d'autre jeu de ce genre sont si pauvre comparé à celui-ci.
-Compter ~70 heures avec le dlc pour le platine.
-
-#####
-
-J'adore le coté puzzle enigme , le difficulté augmente toujours un peu pour ne pas s'endormir sur ses lauriers ! Fan de train ce jeu est pour vous
-
-#####
-
-Ce jeu est tout simplement incroyable
-
-#####
-
-Jeu très sympa et demandant de la réflexion. Décors variés et difficulté progressive.
+les  
+ la musique un peu répétitive pourvu quil y ai des morceaux supplémentaires en version finale
 
 
 #####
 
-Jeu très sympa, graphisme, jouabilité, et aucun bug à déplorer. Un vrai plaisir d'optimiser chaque carte en fonction des objectifs qui nous sont donné. Vraiment surpris en bien !
-Après avoir atteint le niveau 25, je trouve le jeu extrêmement addictif ! Tout est bien façonné et pensé: missions, nombre de trains, temps à disposition, etc... C'est un jeu très équilibré,. Bravo !
+un petit jeu de puzzle que jai bien apprécié le jeu est simple au début et se complexifie au fur et à mesure que les niveaux progressent
+
+si jai une critique cest que la difficulté des niveaux est relativement facile quoique jai dû recommencer quelques fois les niveaux plus avancées surtout après que ma souris relache le bouton gauche par erreur ou que je clique pour arrêter une locomotive alors que je voulais changer un aiguillage jai trouvé assez aisé davoir 5 étoiles sur tous les niveaux sauf 1 pour ceux qui veulent une difficulté plus facile  la difficulté vient surtout de la volonté datteindre ces 5 étoiles donc les niveaux deviennent très facile en ignorant les objectifs de temps et les objectifs supplémentaires
 
 #####
 
-un petit jeu très agréable et relaxant, avec un bon challenge et une communauté active
+ train valley avec un style low poly sympa
+ des animations cools
+ une gestion de la main doeuvre et des différentes matières premières à acheminer ajoutant de la complexité
+ une réduction de prix pour les possesseurs de train valley 1
+ un éditeur  steamworks prévu
+
+adeptes du premier ou amateurs de petits trains  foncez 
+
+#####
+
+jeux de casse tete beau et plaisant
+
+#####
+
+les créateurs de train valley ont lancé une suite sans vraiment comprendre pourquoi les gens ont tant aimé le premier jeu malheureusement cette suite a abandonné les aspects amusants du premier opus tels que loptimisation du réseau ferroviaire et la gestion précise des départs des trains elle les a remplacés par des niveaux beaucoup plus complexes où loptimisation nest plus lobjectif principal 
+
+contrairement au premier jeu où tout était très rapide si vous étiez compétent dans cette suite vous serez constamment en attente de productions à gauche et à droite ce qui rend le jeu beaucoup moins dynamique 
+
+les défis qui étaient réalisables et amusants dans le premier jeu ont disparu laissant la place à des défis où il faudra répéter de nombreuses fois un niveau peu plaisant en sacharnant pour atteindre un des objectifs
+
+#####
+
+jadore ce jeu  les graphismes sont mignons les premiers niveaux sont simples la difficulté est progressive les dlc ajoutent vraiment un plus avec le transport de passager et des niveaux qui changent au cours de la partie les défis sont nombreux pas de prise de tête juste sorganiser trouver le meilleur compromis construction  voyages en train un super mélange de construction et de jouabilité je suis fan
+
+depuis lajout des rubis la chasse aux succès est juste très élevées pour le terminer à 100
+
+#####
+
+javais ce jeu dans le viseur depuis longtemps et quand jai vu son prix celui de la clef je me suis dis quil me le fallait
+
+ce jeu est un cassetête assez mignon assez simple enfin pour le premier niveau car le jeu ne sarrête pas de freezer
+bref impossible de passer le premier niveau à cause des freezes
+
+alors oui si je voulais je pourrais toujours demander de laide mais pour un jeu sorti en 2019 avec autant de dlc je nai pas envie daller plus loin quactiver mode admincompatibilité ou réinstaller le jeu
+
+#####
+
+un jeu de réflexion dans un univers très agréable autant sur laspect visuel que sonore
+
+produisez vos ressources acheminez les pour satisfaire les demandes des usines etou des villes tout en vous assurant déviter les accidents car oui vous ny échapperez pas  vos trains finiront par se croiser de très près parfois de trop près  
+
+petit regret du côté de la gestion des aiguillages il aurait été intéressant de pouvoir verrouiller un trajet entre un point a et un point b sans devoir remettre manuellement les aiguillages après le passage dun train qui a choisi une autre route
+
+en résumé cest un cassetête relaxant  étonnant mais pourtant  
+
+je recommande 
+
+#####
+
+cassetête sympa mais la difficulté est trop importante à un certain niveau ca ne devient plus relaxant et on na pas la possibilité de passer un niveau pour sattaquer au suivant
+
+#####
+
+un jeu comme je les aime progressif et envoûtant difficile de sarrêter avant dobtenir 5 étoiles à chaque partie et de finir toutes les parties il y a assez de missions pour y passer plusieurs heures journées semaines  des terrains supplémentaires sont téléchargeables et on peut réaliser ses propres missions une très bonne suite à train valley 
+
+#####
+
+bon jeu de réflexiongestion du temps
+
+#####
+
+excellent casse tête de gestion de train 
+
+ici on doit poser nos rails de façon optimale en anticipant au possible ce quil faudra construire par la suite  croisements ponts tunnels 
+gérer nos aiguillages au cas par cas car ici pas de double voies attention au choc 
+le tout pour faire un approvisionnement rapide et de qualité dans nos villes et nos usines de transformation
+
+bande son reposante et agréable  vous en aurez bien besoin  
+
+design épuré et simpliste mais de très belle qualité jai bien accroché 
+
+je nai pas le dlc mais le jeu de base va certainement moccuper encore une grosse dizaine dheures afin dobtenir les 5 étoiles partout comptez une trentaine dheures pour le terminer un très joli rapport qualité prix   edit fin  outch 45h 
+
+#####
+
+très bon jeu de réflexion encore suivi par léquipe de développement qui propose régulièrement de nouveaux niveaux
+
+#####
+
+une très belle surprise 
+alors que jai eu ce jeu en pack jai tenté dy jouer pour le désinstaller ensuite
+
+et bien depuis jy joue régulièrement
+un jeu de gestion light mais loin dêtre dénue de qualités
+
+essayezle 
+
+#####
+
+train valley 2 est un petit jeu de casse tête sur le thème du train vous transportez des ressources dun point a à un point b pour les combiner et les faire évoluer un peu à la manière dun factorio ce jeu se veut casual mais lergonomie des aiguillages fait que vous devez les surveiller constamment  ce jeu amène finalement plus de stress et de frustration que de détente surtout quand vous faites des accidents à la con parce quun train a modifié un aiguillage 
+on se retrouve donc avec un jeu trop frustrant pour les casual gamers et trop simple pour les hardcore gamers jai donc du mal à le recommander
+
+#####
+
+se jeux a changer ma vie
+
+#####
+
+un jeu de rail plutôt mignon et plaisant à la première minute puis vite redondant 
+un gameplay chiant si une erreur est commise et que vous voulez votre score max relancez une partie et elles seront toutes les mêmes il ny a pas dautomatisation tout se fait au clic 
+petit bravo pour les trains qui changent eux mêmes laiguillage en passant dessus franchement très relou comme idée 
+
+si vous voulez de la simu de transport je ne peux que conseiller open ttd toujours gratuit et maintenant disponible sur steam
+
+#####
+
+je peux jouer qua 7 niveaux comment faire pour en avoir plus
+
+#####
+
+train valley 2 est une version amelioré et modifier du 1er dans le sens ou les developpeurs se sont bien creusés la tête pour ne pas faire exactement la même chose et ameliorer lexperience de gestion
+
+httpsyoutubeoezdylulbt4
+
+les graphismes sont plus couleurs pastel quavant ce qui donne un coté plus vif  et moins terne que le 1er
+les musiques mont moins marqué que le 1er mais restent très sympa
+la où dans le 1er nous avions uniqement le controle sur les déplacement des trains ici nous pouvont aussi choisir de les ameliorer et dacheter des locomotives  pour les rendre plus rapide et transporter plus de ressources
+ressources ainsi que leur production que lon doit gerer pour finir les niveaux ce qui affirme le coté gestion du jeu
+un éditeur de niveau avec le steam workshop est prévu cela manquait cruellement au 1er opus
+
+si le 1 est un jeu de gestion assez simple mais sympa le 2ème se rapproche un peu de jeux de gestion telle que des sim city même sil en est loin cest juste pour donner une idéece qui laisse moins la sensation de jeu répétitif que le 1er pouvait laisser
+
+#####
+
+dans la lignée du 1
+
+si vous aimez ce genre de jeu et le premier opus vous pouvez vous lancer sans risque
+
+bon jeu
+
+#####
+
+fan des jeux de circulation et de train jai tout de suite été séduite par train valley puis jai acheté le 2 par contre je ne mattendais pas à un tel niveau de difficulté les premiers niveaux sont facile mais les 3 quarts restants sont un vrai challenge chronophage jai fait une pause au bout denviron la moitié du jeu puis je my suis remise et je ne décroche plus je viens même dacheter tous les dlc le pack est actuellement à 62 jusquau 8 février 2024 pile le bon timing jai hâte aussi de la suite du jeu qui vient dêtre annoncée train world je lachèterais en promo
+
+#####
+
+une tuerie hyper addictif je recommande vivement
+
+#####
+
+un concept simple entre gestion et puzzle accrocheur et qui arrive toujours à se renouveler
+
+#####
+
+très bon jeu reprend tout ce quil y avait de bien dans le premier mais en le rendant plus complexe et en corrigeant certains aspects négatifs du premier par exemple deux trains qui passent sur des voies proches lune de lautre mais qui ne se superposent pas ne se rentrent désormais plus dedans jai acheté les dlc mais ce nest pas tant pour avoir plus de contenu que pour soutenir les développeurs car les niveaux du workshop sont gratuits et suffisent à eux seuls à rendre le jeu quasi infini
+
+#####
+
+excellent jeu de gestioncassetête
+
+#####
+
+très bon une bonne difficulté croissante
+
+#####
+
+très agréable
+
+a essayer durgence 
+
+#####
+
+excellent jeu a peine au niveau 5 et on apprécie la progression dans la difficulté
+après avoir fait les premiers niveaux seul nous jouons maintenant à deux  un adulte qui manipule et un enfant de 10 ans et on choisit la stratégie ensemble deux paires dyeux ce nest aussi pas de trop pour surveiller les trains les aiguillages les ressources on se régale 
+
+#####
+
+suite de petites cassestêtes sympa
+
+#####
+
+sympathique pour passer le temps sans trop se prendre la tete un jeu sans prétention pour se détendre entre 2 trucs plus costaud a prendre a petit prix
+
+#####
+
+excellent jeu de réflexion et de stratégie  je recommande vivement dautre jeu de ce genre sont si pauvre comparé à celuici
+compter 70 heures avec le dlc pour le platine
+
+#####
+
+jadore le coté puzzle enigme  le difficulté augmente toujours un peu pour ne pas sendormir sur ses lauriers  fan de train ce jeu est pour vous
+
+#####
+
+ce jeu est tout simplement incroyable
+
+#####
+
+jeu très sympa et demandant de la réflexion décors variés et difficulté progressive
+
+
+#####
+
+jeu très sympa graphisme jouabilité et aucun bug à déplorer un vrai plaisir doptimiser chaque carte en fonction des objectifs qui nous sont donné vraiment surpris en bien 
+après avoir atteint le niveau 25 je trouve le jeu extrêmement addictif  tout est bien façonné et pensé missions nombre de trains temps à disposition etc cest un jeu très équilibré bravo 
+
+#####
+
+un petit jeu très agréable et relaxant avec un bon challenge et une communauté active
 
 #####
 
@@ -266,41 +266,41 @@ excellent
 
 #####
 
-Super addictif
+super addictif
 
 #####
 
-décevant, on passe du traditionnel "puzzle" à un truc avec des "surprises" qui viennent pas mal gacher le plaisir
+décevant on passe du traditionnel puzzle à un truc avec des surprises qui viennent pas mal gacher le plaisir
 
 #####
 
-La difficulté est bien gérée, les graphismes sont mignons et claire.
+la difficulté est bien gérée les graphismes sont mignons et claire
 
 #####
 
-Un des meilleurs dans le genre ! Achetez-le bordel ! Financez le n°3 svp héhé !
+un des meilleurs dans le genre  achetezle bordel  financez le n3 svp héhé 
 
 #####
 
-Très chouette jeu de casse-tête qui prend plus de temps et de réflexion que ce qu'on pourrait croire
+très chouette jeu de cassetête qui prend plus de temps et de réflexion que ce quon pourrait croire
 
 #####
 
-Excellent petit jeu de gestion facilement addictif, jouable aussi bien pour celles et ceux qui veulent juste se détendre, mais aussi pour celles et ceux qui veulent du défi à viser les 5 étoiles avec un difficulté très bien dosée.
+excellent petit jeu de gestion facilement addictif jouable aussi bien pour celles et ceux qui veulent juste se détendre mais aussi pour celles et ceux qui veulent du défi à viser les 5 étoiles avec un difficulté très bien dosée
 
-Pour avoir fini le 1er à 100% les gros changement résident dans le transport de différentes marchandises qu'il va falloir transformer de gares en gares, mais aussi la fin des pertes d'argent avec le temps (que ça soit au niveau des trains qu'il fallait faire partir le plus vite possible, mais aussi des impôts qui pouvaient facilement nous mettre en banqueroute!!).
+pour avoir fini le 1er à 100 les gros changement résident dans le transport de différentes marchandises quil va falloir transformer de gares en gares mais aussi la fin des pertes dargent avec le temps que ça soit au niveau des trains quil fallait faire partir le plus vite possible mais aussi des impôts qui pouvaient facilement nous mettre en banqueroute
 
-Bref super petit jeu simple, épuré, mais très efficace et addictif!
-
-#####
-
-Il est évident que ce jeu indépendant est une vraie merveille. Tout est génial que ce soit les idées, la musique, le graphisme, la programmation, les niveaux, le gameplay, la durée de vie, … tout est bon, même le prix.
-TV2 est plus un puzzle game que réellement un jeu ferroviaire mais pour ça il y a d'autres jeux sur Steam.
-Foncez acheter Train Valley 2 et vous vous amusez direct comme un fou avec !!
+bref super petit jeu simple épuré mais très efficace et addictif
 
 #####
 
-J'aime tout dans ce jeu, le jeu de base mais surtout tous les niveaux développés par les joueurs.
+il est évident que ce jeu indépendant est une vraie merveille tout est génial que ce soit les idées la musique le graphisme la programmation les niveaux le gameplay la durée de vie  tout est bon même le prix
+tv2 est plus un puzzle game que réellement un jeu ferroviaire mais pour ça il y a dautres jeux sur steam
+foncez acheter train valley 2 et vous vous amusez direct comme un fou avec 
+
+#####
+
+jaime tout dans ce jeu le jeu de base mais surtout tous les niveaux développés par les joueurs
 
 #####
 
@@ -308,131 +308,131 @@ nice game
 
 #####
 
-Un chouette jeu qui oblige à se concentrer afin d'affiner ses tactiques pour développer le réseau ferroviaires de chaque carte qui est unique. Chaque carte est un recommencement accompagné d'une nouvelle stratégie.
+un chouette jeu qui oblige à se concentrer afin daffiner ses tactiques pour développer le réseau ferroviaires de chaque carte qui est unique chaque carte est un recommencement accompagné dune nouvelle stratégie
 
 #####
 
-Très addictif. Si vous aimez les réseaux ferrés, à tester absolument.
+très addictif si vous aimez les réseaux ferrés à tester absolument
 
 #####
 
-Tchou tchou ce jeu est super prenant et bien fait donc pas besoin d'attendre pour l'avoir dans votre bibliothèque :D
-Le Worshop rajoute des tonnes de cartes super bien faite ce qui rend le temps de jeu infini !
+tchou tchou ce jeu est super prenant et bien fait donc pas besoin dattendre pour lavoir dans votre bibliothèque d
+le worshop rajoute des tonnes de cartes super bien faite ce qui rend le temps de jeu infini 
 
 #####
 
-Train Valley 2 est un de ces jeux faciles à prendre en main mais difficiles à maîtriser. Il vous faut relier différentes gares entre elles, envoyer des trains à droite, à gauche afin d'obtenir des ressources dans le but de manufacturer des produits transformés qu'il faudra à nouveau livrer ailleurs. Il faut avoir un oeil partout: sur les trains, les aiguillages, les stocks, etc. À mesure que vous progressez dans les niveaux, des difficultés originales apparaissent durant votre jeu: un volcan qui détruit certaines voies, une inondation coupant certains accès, etc. Réussir tous les défis d'un niveau en une seule tentative peut parfois s'avérer un véritable casse-tête. Pas de panique cependant, vous pouvez simplement terminer le niveau à votre rythme, sans vous soucier des défis, pour passer au suivant, sans compter que le Workshop offre de nombreux niveaux réalisés par la communauté. Finalement, c'est un jeu relaxant qui peut se transformer en véritable puzzle si vous le souhaitez. Le prix de 12,49€ me paraît cependant un poil élevé mais à moins de 10€, c'est un bon prix.
+train valley 2 est un de ces jeux faciles à prendre en main mais difficiles à maîtriser il vous faut relier différentes gares entre elles envoyer des trains à droite à gauche afin dobtenir des ressources dans le but de manufacturer des produits transformés quil faudra à nouveau livrer ailleurs il faut avoir un oeil partout sur les trains les aiguillages les stocks etc à mesure que vous progressez dans les niveaux des difficultés originales apparaissent durant votre jeu un volcan qui détruit certaines voies une inondation coupant certains accès etc réussir tous les défis dun niveau en une seule tentative peut parfois savérer un véritable cassetête pas de panique cependant vous pouvez simplement terminer le niveau à votre rythme sans vous soucier des défis pour passer au suivant sans compter que le workshop offre de nombreux niveaux réalisés par la communauté finalement cest un jeu relaxant qui peut se transformer en véritable puzzle si vous le souhaitez le prix de 1249 me paraît cependant un poil élevé mais à moins de 10 cest un bon prix
 
 #####
 
-<3
+3
 
 #####
 
-Après plus d'une vingtaine d'heures de jeu, je dois dire que ce jeu est vaiment sympa. Je pensais qu'il serais redondant mais les nouveaux défis et la difficulté sont croissants, je n'ai pas encore terminé la campagne mais je compte aller jusqu'au bout.
-L'éditeur de niveaux peut prolonger la durée de vie à l'infini. (même si il est un peu archaïque)
+après plus dune vingtaine dheures de jeu je dois dire que ce jeu est vaiment sympa je pensais quil serais redondant mais les nouveaux défis et la difficulté sont croissants je nai pas encore terminé la campagne mais je compte aller jusquau bout
+léditeur de niveaux peut prolonger la durée de vie à linfini même si il est un peu archaïque
 
 #####
 
-Un sympathique puzzle game, idéal pour se détendre en fin de journée. Le tout avec une sympathique communauté très active, ce qui ne gâche rien.
+un sympathique puzzle game idéal pour se détendre en fin de journée le tout avec une sympathique communauté très active ce qui ne gâche rien
 
 #####
 
-Détente assurée !
+détente assurée 
 
 #####
 
-Super jeu de gestion !
+super jeu de gestion 
 
 #####
 
-Que d'heures passées sur ce jeu.
-Attention, extrêmement addictif ! :-)
+que dheures passées sur ce jeu
+attention extrêmement addictif  
 
 #####
 
-Un jeu avec lequel on ne s'arrête plus de jouer.
-Graphisme agréable, musique non agressive, gameplay avec une difficulté croissante.
-Obtenir les 5 étoiles peut parfois relever du défi et c'est ce qui donne au jeu toute sa magie !
+un jeu avec lequel on ne sarrête plus de jouer
+graphisme agréable musique non agressive gameplay avec une difficulté croissante
+obtenir les 5 étoiles peut parfois relever du défi et cest ce qui donne au jeu toute sa magie 
 
 #####
 
-Très bon de réflexion...
+très bon de réflexion
 
 #####
 
-Très bon. Ça reprend les bases du premier jeu et améliore pas mal tout. Et en plus il y a beaucoup, mais beaucoup de niveaux! Plus un DLC!
+très bon ça reprend les bases du premier jeu et améliore pas mal tout et en plus il y a beaucoup mais beaucoup de niveaux plus un dlc
 
 #####
 
-Gameplay Fr :
-www.youtube.com/watch?v=0R8kgtL-Jp0
+gameplay fr 
+wwwyoutubecomwatchv0r8kgtljp0
 
-Train Valley 2 est un véritable bijou à récupérer pour 5,62€ en promo ou moins, qui vous retiendra de nombreuses heures. Ne vous y trompez pas, nous ne sommes pas face à un jeu de gestion/simulation mais bien un puzzle-game énigme original avec des trains qui feront cogiter vos méninges.
+train valley 2 est un véritable bijou à récupérer pour 562 en promo ou moins qui vous retiendra de nombreuses heures ne vous y trompez pas nous ne sommes pas face à un jeu de gestionsimulation mais bien un puzzlegame énigme original avec des trains qui feront cogiter vos méninges
 
-Digne héritier du premier Train Valley, sa suite le bonifie sur tous les plans : amélioration des graphismes, gameplay complètement revu et enrichie, et durée de vie infinie. Les développeurs nous gâtent.
+digne héritier du premier train valley sa suite le bonifie sur tous les plans  amélioration des graphismes gameplay complètement revu et enrichie et durée de vie infinie les développeurs nous gâtent
 
-Relativement relaxant, on se surprend à passer de niveau en niveau pour un total de 50 de base. Nous traversons également diverses époques qui couvrent le 19è, 20è et 21è siècle. La concentration sera de rigueur, une erreur d'inattention se paye souvent chers. Si vous aimez les défis, vous aurez l'occasion de remplir 3 objectifs bonus pour corser chacun des niveaux et vous apporter une plus grande satisfaction.
+relativement relaxant on se surprend à passer de niveau en niveau pour un total de 50 de base nous traversons également diverses époques qui couvrent le 19è 20è et 21è siècle la concentration sera de rigueur une erreur dinattention se paye souvent chers si vous aimez les défis vous aurez loccasion de remplir 3 objectifs bonus pour corser chacun des niveaux et vous apporter une plus grande satisfaction
 
-Comment pouvons-nous atteindre une durée de vie infinie avec 50 niveaux ? Très simplement grâce au workshop et sa communauté, mise en avant avec des défis hebdomadaires pour compléter le plus efficacement un niveau. Chaque carte est un nouveau challenge à relever, qui vous demandera de bien l'examiner et la comprendre pour optimiser votre réseau. Revers de la médaille, comme pour tout jeu à énigme, une fois la carte complété, la rejouabilité est proche du néant, puisque nous connaissons la solution.
+comment pouvonsnous atteindre une durée de vie infinie avec 50 niveaux  très simplement grâce au workshop et sa communauté mise en avant avec des défis hebdomadaires pour compléter le plus efficacement un niveau chaque carte est un nouveau challenge à relever qui vous demandera de bien lexaminer et la comprendre pour optimiser votre réseau revers de la médaille comme pour tout jeu à énigme une fois la carte complété la rejouabilité est proche du néant puisque nous connaissons la solution
 
-Le gameplay a été complètement revu pour l'enrichir et le bonifier, mais aussi varier les énigmes qui vont se présenter. A présent, vous êtes complètement autonome avec vos trains. A vous de décider quand et où les envoyer. Chaque carte présentera des villes avec des besoins à combler, et diverses usines pour produire des biens plus ou moins complexes avec de la main d'oeuvre. Si au début vous n'aurez besoin que de bois à collecter dans un camp de bûcheron, très vite, ce bois sera nécessaire pour fabriquer des planches, qui seront nécessaire pour construire des chaises, tout en alimentant une usine électrique en charbon pour permettre la fabrication des chaises... Bref, le jeu va rapidement s'enrichir et vous demander de bien planifier la circulation de vos trains. Naturellement, il est toujours nécessaire de gérer la circulation pour éviter les accidents intempestifs.
+le gameplay a été complètement revu pour lenrichir et le bonifier mais aussi varier les énigmes qui vont se présenter a présent vous êtes complètement autonome avec vos trains a vous de décider quand et où les envoyer chaque carte présentera des villes avec des besoins à combler et diverses usines pour produire des biens plus ou moins complexes avec de la main doeuvre si au début vous naurez besoin que de bois à collecter dans un camp de bûcheron très vite ce bois sera nécessaire pour fabriquer des planches qui seront nécessaire pour construire des chaises tout en alimentant une usine électrique en charbon pour permettre la fabrication des chaises bref le jeu va rapidement senrichir et vous demander de bien planifier la circulation de vos trains naturellement il est toujours nécessaire de gérer la circulation pour éviter les accidents intempestifs
 
-En parallèle, les graphismes sont devenus beaucoup plus agréable et mignon, avec un aspect carton qui fait penser un peu à des jouets. Le jeu assume complètement son aspect ludique, contrairement à son aîné qui proposait un design simili-réaliste bizarre.
+en parallèle les graphismes sont devenus beaucoup plus agréable et mignon avec un aspect carton qui fait penser un peu à des jouets le jeu assume complètement son aspect ludique contrairement à son aîné qui proposait un design similiréaliste bizarre
 
-Train Valley se révélait être une excellente surprise, sa suite est devenu un véritable joyau, pour peu que le concept vous intéresse. Et pour les plus nostalgiques, le DLC propose de retrouver le gameplay d'antan.
+train valley se révélait être une excellente surprise sa suite est devenu un véritable joyau pour peu que le concept vous intéresse et pour les plus nostalgiques le dlc propose de retrouver le gameplay dantan
 
-Pour vous en faire une meilleure idée, n'hésitez pas à consulter mes VOD sur Train Valley 2 avec la vidéo en introduction, ou de me rejoindre sur ma chaîne Twitch pour en parler et découvrir d'autres perles sur Steam.
+pour vous en faire une meilleure idée nhésitez pas à consulter mes vod sur train valley 2 avec la vidéo en introduction ou de me rejoindre sur ma chaîne twitch pour en parler et découvrir dautres perles sur steam
 
-www.twitch.tv/JolanLive
+wwwtwitchtvjolanlive
 
-Merci de m'avoir lu et amusez-vous bien. :)
-
-#####
-
-C'est ludique, sympathique, peut-être un peu enfantin, mais c'est aussi ce qui fait le charme de ce jeu.
-Facile à prendre en main, le challenge est pourtant là. On peut choisir d'y répondre ou passer au-dessus, ce qui ne gêne pas la progression et ça, c'est très bien.
+merci de mavoir lu et amusezvous bien 
 
 #####
 
-Puzzle et logique. C'est un jeu pour les perfectionnistes stratégiques. J'ai passé trop d'heure sur ce jeux qui est ma découverte 2020.
+cest ludique sympathique peutêtre un peu enfantin mais cest aussi ce qui fait le charme de ce jeu
+facile à prendre en main le challenge est pourtant là on peut choisir dy répondre ou passer audessus ce qui ne gêne pas la progression et ça cest très bien
 
 #####
 
-Très sympa et bien fait : des petits trains encore des petits trains 2.
-Vraiment une belle amélioration avec des objectifs plus intéressants : il s'agit de convoyer des marchandises ou des hommes.
-Une grande rejouabilité grâce aux contenus de la communauté ... tant qu'on ne se lasse pas !
-On aimerait p'être des niveaux cachés sur mars !
-Simple et addictif !
-J'adore
-
+puzzle et logique cest un jeu pour les perfectionnistes stratégiques jai passé trop dheure sur ce jeux qui est ma découverte 2020
 
 #####
 
-Petit jeu sans grande prétention, à réserver à ceux qui aiment jouer au chef circulation :)
-
-#####
-
-Super jeu, Je n'ai jamais été un "train addict" mais là je m'amuse comme un gamin. Pour ceux qui trouve les jeux de gestion trop chronophages et trop "prise de tête" et/ou ceux qui aime les casses-têtes (relax), ce jeu est fait pour vous.
-
-#####
-
-The UI needs an update : All the buttons in-game absolutely need a "hover" visual and sound feedback. This is especially important to figure out if you're clicking on a train or on the tracks crossing points, or even clicking on anything.
-The later levels (35 and onwards) can get really nerve racking if you're trying to get at least 3 stars.
+très sympa et bien fait  des petits trains encore des petits trains 2
+vraiment une belle amélioration avec des objectifs plus intéressants  il sagit de convoyer des marchandises ou des hommes
+une grande rejouabilité grâce aux contenus de la communauté  tant quon ne se lasse pas 
+on aimerait pêtre des niveaux cachés sur mars 
+simple et addictif 
+jadore
 
 
 #####
 
-Tres marrant a jouer et addictif  .j'avais dèja beaucoup aimé le premier,mais le 2 est encore mieux , belle progression dans le gameplay ,la difficulté , bref jeux de gestion tres reussis de mon point de vue
+petit jeu sans grande prétention à réserver à ceux qui aiment jouer au chef circulation 
 
 #####
 
-Un grand nombre de circuits et de missions variés.
+super jeu je nai jamais été un train addict mais là je mamuse comme un gamin pour ceux qui trouve les jeux de gestion trop chronophages et trop prise de tête etou ceux qui aime les cassestêtes relax ce jeu est fait pour vous
 
 #####
 
-C'est le premier jeu où je débloque tous les succès...
-J'ai vraiment adoré. Le concept est simple et à vrai dire ça en est même détendant. Parfait pour se poser après une journée de travail: le jeu n'est pas prise de tête.
+the ui needs an update  all the buttons ingame absolutely need a hover visual and sound feedback this is especially important to figure out if youre clicking on a train or on the tracks crossing points or even clicking on anything
+the later levels 35 and onwards can get really nerve racking if youre trying to get at least 3 stars
+
+
+#####
+
+tres marrant a jouer et addictif  javais dèja beaucoup aimé le premiermais le 2 est encore mieux  belle progression dans le gameplay la difficulté  bref jeux de gestion tres reussis de mon point de vue
+
+#####
+
+un grand nombre de circuits et de missions variés
+
+#####
+
+cest le premier jeu où je débloque tous les succès
+jai vraiment adoré le concept est simple et à vrai dire ça en est même détendant parfait pour se poser après une journée de travail le jeu nest pas prise de tête
 
 #####
 
@@ -440,43 +440,43 @@ super cools
 
 #####
 
-Cool mais souvent ragent pour moi
+cool mais souvent ragent pour moi
 
 #####
 
-Sympa. Gameplay différent du premier qui est aussi a essayer.
+sympa gameplay différent du premier qui est aussi a essayer
 
 #####
 
-Carrément ! J'adore les trains.
+carrément  jadore les trains
 
 #####
 
-Excellent jeu de gestion qui nécessite anticipation et concentration. Vraiment très beau, fluide, et offrant un vrai challenge dès lors que l'on souhaite obtenir tout les succès. Le premier volet est très bon aussi et n'est pas devenu obsolète car celui ci apporte simplement une nouvelle dimension au jeu avec l'ajout des ressources à gérer. Bref j'ai vraiment passé du bon temps avec ce jeu et ce n'est pas fini car il comporte à présent 50 niveaux  de plus en plus difficiles
+excellent jeu de gestion qui nécessite anticipation et concentration vraiment très beau fluide et offrant un vrai challenge dès lors que lon souhaite obtenir tout les succès le premier volet est très bon aussi et nest pas devenu obsolète car celui ci apporte simplement une nouvelle dimension au jeu avec lajout des ressources à gérer bref jai vraiment passé du bon temps avec ce jeu et ce nest pas fini car il comporte à présent 50 niveaux  de plus en plus difficiles
 
 #####
 
-Bon jeu, des tas de nouveautés vis à vis de la version 1. Je recommande.
+bon jeu des tas de nouveautés vis à vis de la version 1 je recommande
 
 #####
 
-Très bon jeu, bien équilibré et prenant
+très bon jeu bien équilibré et prenant
 
 #####
 
-Un grand nombre de niveaux, une grande variabilité et de bonnes heures de réflexion
+un grand nombre de niveaux une grande variabilité et de bonnes heures de réflexion
 
 #####
 
-Jeu très prenant est sympa avec plus de challenge que le premier.
+jeu très prenant est sympa avec plus de challenge que le premier
 
 #####
 
-jouer le chronos, vive la détente
+jouer le chronos vive la détente
 
 #####
 
-Un jeu de train dans la digne lignée de son prédécesseur, ultra-simple d'accès, et se complexifiant sur 50 niveaux, jusqu'à devenir un joli casse-tête. Bande-son travaillée et agréable. Et de petits handicaps de niveau en niveau, qui ajoutent du piment ! J'adore.
+un jeu de train dans la digne lignée de son prédécesseur ultrasimple daccès et se complexifiant sur 50 niveaux jusquà devenir un joli cassetête bandeson travaillée et agréable et de petits handicaps de niveau en niveau qui ajoutent du piment  jadore
 
 #####
 
@@ -484,125 +484,125 @@ prenant
 
 #####
 
-Trés bon jeu
+trés bon jeu
 
 #####
 
-+: Gestion de plusieurs ressources en parallèle, graphisme sympa
--: Pas vraiment de gros changement entre les niveaux, pas compris à quoi servait de débloquer des locos...
-Proposition: Replay sur les accidents, on comprend pas toujours...
+ gestion de plusieurs ressources en parallèle graphisme sympa
+ pas vraiment de gros changement entre les niveaux pas compris à quoi servait de débloquer des locos
+proposition replay sur les accidents on comprend pas toujours
 
 #####
 
-Jeu de puzzle super sympa, 
-Finir les niveaux est assez simple mais avec les 5 étoiles c'est une autre histoire.
-Les mécaniques fonctionnent bien, le ratio prix / "plaisir - temps de jeu" est très bon.
-Typiquement un jeu que j'ai envie de platiner.
+jeu de puzzle super sympa 
+finir les niveaux est assez simple mais avec les 5 étoiles cest une autre histoire
+les mécaniques fonctionnent bien le ratio prix  plaisir  temps de jeu est très bon
+typiquement un jeu que jai envie de platiner
 
 
 
 #####
 
-Très bon jeu plus profond dans son gameplay et complexe que le premier ou les objectifs sont différent du premier mais très intéressant
+très bon jeu plus profond dans son gameplay et complexe que le premier ou les objectifs sont différent du premier mais très intéressant
 
 #####
 
-Excellent jeu de gestion, nettement plus axé puzzle game que le 1er car certains niveaux sont un sacré casse tête !!
-Je recommande et après presque 20h je n'ai fait que 30 niveaux sur 50 !!
+excellent jeu de gestion nettement plus axé puzzle game que le 1er car certains niveaux sont un sacré casse tête 
+je recommande et après presque 20h je nai fait que 30 niveaux sur 50 
 
 #####
 
-Petit jeu sympa et addictif. Assez facile si vous contenter de passer les niveaux, beaucoup plus tactique et complexe si vous vous échiner  à remplir les objectifs.
+petit jeu sympa et addictif assez facile si vous contenter de passer les niveaux beaucoup plus tactique et complexe si vous vous échiner  à remplir les objectifs
 
 #####
 
-Train Valley 2 est très différent du premier Train Valley, mais c'est un bon jeu de réflexion que j'apprécie beaucoup a jouer occasionnellement autant que le premier. Difficulté qui augmente avec les niveaux pour la plupart.
+train valley 2 est très différent du premier train valley mais cest un bon jeu de réflexion que japprécie beaucoup a jouer occasionnellement autant que le premier difficulté qui augmente avec les niveaux pour la plupart
 
-MAJ: Le DLC ''Passenger Flow'' nous permet de revenir aux bases du Train Valley 1 qui étaient très appréciés, mais avec comme ajout les principes de TV2.
-
-#####
-
-De bonnes améliorations par rapport au 1er Train Valley, beaucoup de contenu avec 50 levels et beaucoup de contenu en workshop, le jeu est dans un style graphique très réussi et les missions restent bien stratégiques et plutôt corsées pour remplir tous les objectifs même si l'ambiance reste très zen...
+maj le dlc passenger flow nous permet de revenir aux bases du train valley 1 qui étaient très appréciés mais avec comme ajout les principes de tv2
 
 #####
 
-Bon jeu de détente pour faire de courtes parties 10 à 30 minutes selon les niveaux.
-Sans doute plus amusant pour ceux qui ont aimé "jouer au train".
+de bonnes améliorations par rapport au 1er train valley beaucoup de contenu avec 50 levels et beaucoup de contenu en workshop le jeu est dans un style graphique très réussi et les missions restent bien stratégiques et plutôt corsées pour remplir tous les objectifs même si lambiance reste très zen
 
 #####
 
-[h1]Tchou-tchou ![/h1]
-[b]Un grand oui ![/b]
-
-J'avais vraiment accroché sur le premier opus, ce second est encore meilleur.
-Le principe de base est simple et accrocheur, mais la multiplicité des objectifs amènent une vrai difficulté qui rend accro !
-
-- Mécanique de jeu plus aboutie que le premier opus:
-Fini les couleurs et les trains apparaissant n'importe où. Ici on gère nous même qui va où avec un principe de ressources à livrer/faire fabriquer, permettant de mieux anticiper sa stratégie.
-La pause active est bien évidemment toujours de la partie (heureusement ! ^^ )
-
-- Chaque niveau permet également une gestion simpliste de sa flotte : Amélioration des locomotives et achat de locomotives supplémentaires.
-
-- 5 objectifs à accomplir par niveau pour obtenir 5 étoiles. Ils sont néanmoins facultatifs : on peut terminer le niveau sans les accomplir pour passer au suivant.
-Il y a 3 objectifs de timing + 2 qui diffèrent selon la carte (interdiction de construire un pont, pas de train dans une mauvaise gare, pas d'accident, etc...)
-Ces étoiles accumulées permettent de débloquer un nouveau skin pour les locomotives.
-
-- Durée de vie tout à fait respectable :
-Il y a actuellement un peu plus de 40 niveaux. A l'heure où j'écris ces lignes j'en suis au 15eme avec une dizaine d'heures de jeu. sachant que la difficulté augmente progressivement.
-Les 10 premiers j'ai pu faire les 5 étoiles sans problème, les suivants c'est moins le cas... :p
-
-- Difficulté croissante, la courbe d'évolution est bien, foutue.
-
-- Graphismes low poly tout mignon.
-
-- Nombreux succès à accomplir.
-
-- Editeur de niveau et Steam Workshop bien fourni.
-
-- Jeu stable et fluide sans problème.
-
-[b]Si vous avez aimé le premier, si vous aimez les jeu de gestion, si vous aimez les petits trains, foncez sur celui-ci sans réfléchir.[/b]
+bon jeu de détente pour faire de courtes parties 10 à 30 minutes selon les niveaux
+sans doute plus amusant pour ceux qui ont aimé jouer au train
 
 #####
 
-Il est de mon entrain d'apprécier ce jeu pour ce qu'il offre de stratégies, de plaisir à voyager dans la sphère ludique du moment où les trains tentent d'être à l'heure des succès et des stars. JACK
+h1tchoutchou h1
+bun grand oui b
+
+javais vraiment accroché sur le premier opus ce second est encore meilleur
+le principe de base est simple et accrocheur mais la multiplicité des objectifs amènent une vrai difficulté qui rend accro 
+
+ mécanique de jeu plus aboutie que le premier opus
+fini les couleurs et les trains apparaissant nimporte où ici on gère nous même qui va où avec un principe de ressources à livrerfaire fabriquer permettant de mieux anticiper sa stratégie
+la pause active est bien évidemment toujours de la partie heureusement   
+
+ chaque niveau permet également une gestion simpliste de sa flotte  amélioration des locomotives et achat de locomotives supplémentaires
+
+ 5 objectifs à accomplir par niveau pour obtenir 5 étoiles ils sont néanmoins facultatifs  on peut terminer le niveau sans les accomplir pour passer au suivant
+il y a 3 objectifs de timing  2 qui diffèrent selon la carte interdiction de construire un pont pas de train dans une mauvaise gare pas daccident etc
+ces étoiles accumulées permettent de débloquer un nouveau skin pour les locomotives
+
+ durée de vie tout à fait respectable 
+il y a actuellement un peu plus de 40 niveaux a lheure où jécris ces lignes jen suis au 15eme avec une dizaine dheures de jeu sachant que la difficulté augmente progressivement
+les 10 premiers jai pu faire les 5 étoiles sans problème les suivants cest moins le cas p
+
+ difficulté croissante la courbe dévolution est bien foutue
+
+ graphismes low poly tout mignon
+
+ nombreux succès à accomplir
+
+ editeur de niveau et steam workshop bien fourni
+
+ jeu stable et fluide sans problème
+
+bsi vous avez aimé le premier si vous aimez les jeu de gestion si vous aimez les petits trains foncez sur celuici sans réfléchirb
 
 #####
 
-Juste génial, j'adore l'ajout des  matériaux à transporter  d'une gare à un lieu de production, c'est une avancée parfaite depuis le premier opus. Pour le moment il n'y a que 20 niveaux mais le workshop auquel on accède directement depuis le jeu propose assez de maps pour patienter en attendant la suite. Je recommande vivement !
+il est de mon entrain dapprécier ce jeu pour ce quil offre de stratégies de plaisir à voyager dans la sphère ludique du moment où les trains tentent dêtre à lheure des succès et des stars jack
 
 #####
 
-trés trés bien mais vraiment trop court !!! autant la durée des niveaux indépendemment que le nombre de niveaux. Heureusement que la communauté est là pour proposer des niveaux.
+juste génial jadore lajout des  matériaux à transporter  dune gare à un lieu de production cest une avancée parfaite depuis le premier opus pour le moment il ny a que 20 niveaux mais le workshop auquel on accède directement depuis le jeu propose assez de maps pour patienter en attendant la suite je recommande vivement 
 
 #####
 
-Gameplay très sympathique mais un tout petit peu court à mon goût .
+trés trés bien mais vraiment trop court  autant la durée des niveaux indépendemment que le nombre de niveaux heureusement que la communauté est là pour proposer des niveaux
 
 #####
 
-Mieux que le 1. J'aime beaucoup la direction artistique. C'est vraiment le genre de jeu de gestion de train que je cherchais quand j'ai pris le 1, donc pour moi le 2 prend une très bonne direction. Pour le moment, sur macOS pas de bug particulier. Le jeu de lag pas vraiment.
+gameplay très sympathique mais un tout petit peu court à mon goût 
 
 #####
 
-Très bon jeu. Il demande plus de réfléxion que le premier où on nous disait quel train amener où. Là c'est à vous de faire vos strats pour emmener vos employés et les ressources aux bon endroits. Si vous êtes compétiteur, à la fin on vous dit où vous vous trouvez dans le classement par rapport aux autres joueurs ;)
-Pour un accès anticipé, je n'ai pour l'instant pas trouvé de bug.
+mieux que le 1 jaime beaucoup la direction artistique cest vraiment le genre de jeu de gestion de train que je cherchais quand jai pris le 1 donc pour moi le 2 prend une très bonne direction pour le moment sur macos pas de bug particulier le jeu de lag pas vraiment
 
 #####
 
-Mieux que le premier, semble un peu court
+très bon jeu il demande plus de réfléxion que le premier où on nous disait quel train amener où là cest à vous de faire vos strats pour emmener vos employés et les ressources aux bon endroits si vous êtes compétiteur à la fin on vous dit où vous vous trouvez dans le classement par rapport aux autres joueurs 
+pour un accès anticipé je nai pour linstant pas trouvé de bug
 
 #####
 
-Différent du 1 et intéressant.
+mieux que le premier semble un peu court
 
 #####
 
-Excellent jeu de gestion où l'on s'amuse à optimiser la production industrielle en composant avec les aléas du terrain. Si vous avez aimé le premier, celui ci ne peut que vous plaire, vu le prix, pas d'hésitations à avoir.
+différent du 1 et intéressant
 
 #####
 
-Suite avec de nouveaux objectifs plutot sympa
+excellent jeu de gestion où lon samuse à optimiser la production industrielle en composant avec les aléas du terrain si vous avez aimé le premier celui ci ne peut que vous plaire vu le prix pas dhésitations à avoir
+
+#####
+
+suite avec de nouveaux objectifs plutot sympa
 
 
 #####
