@@ -1,0 +1,2768 @@
+arf
+
+#####
+
+le jeu tourne pas mal en 1440p et pourtant jai poussé les curseurs à fond rtx 2070 super i7 9700k 16go de ram je mattendais à pire cest parfois joli reflets pièces de fusée textures des planètes et parfois très moche surface de kerbin arbres textures qui bavent pas mal de bugs par ci par là en létat le contenu est maigre mais jétais prévenu alpha roadmap etc lavenir me dira si je me suis fait avoir car il reste tellement de choses à ajouter pour tenir les promesses qui ont été faites par contre le prix pique un peu pour une alpha pigeon ou pas on verra
+
+#####
+
+je suis triste vraiment
+
+version courte  ne pas prendre maintenant attendez 1 ou 2 ans
+
+version longue 
+je suis vétéran de ksp 1 jy ai passé des heures au début il était pourri faut lavouer 
+ce qui rend mon désespoir moins grand quant à celuilà
+
+lets go
+oh putain cest beau si on le compare au 1 
+
+et là au fond de la salle vous lentendez aussi 
+cé nul ksp1 avek dé mods il é  bo
+
+ok billy as tu joué à ksp 1 quand il a commencé learly access  vraiment  on en reparle dans 3 ans 
+clairement cest magnifique
+
+il y a beaucoup de fonctionnalités qui nétaient pas là au début de ksp1 cest cool que presque tout soit là dès le départ les pièces les eva les patinsroues etc 
+il en manque certaines  pas de vue cockpit un peu dommage pas de mode carrière je comprends que ça soit pas là au start pas encore de système de science présent dans la roadmap du studio
+mais franchement cest très complet je trouve
+
+la meilleure amélioration le meilleur point que je trouve vraiment mais vraiment sympa  la musique
+il y a moult musiques variant selon lendroit où vous êtes
+
+bon déjà ya la musique de décollage  ok cest cool cest un peu épique etc 
+mais le mieux cest que quand vous entrez dans la sphère de hill dun autre corps la musique change
+alors je nai entendu que celui de la lune vous verrez pourquoi après  et cest excellent  tambours isolés musique très pesante qui change selon votre altitude
+pareil quand vous approchez un noeud de manoeuvre une musique de tension arrive doucement cest génial
+
+mais comme dirait humblebundledore  cepeeeennndaaannnnnt
+
+oh mon dieu les bugs 
+il y en a tellement  mais cest catastrophique 
+
+ca commence dans le vab
+cest très simple  à part le rpp tous les calculs de lui sont faux
+le deltav part en sucette dès que vous touchez à la fusée des fois il reste à zéro pour aucune raison des fois il exagère tres largement
+genre un étage de mise en orbite que le jeu maffiche à 3800 ms et il ne compte pas les moteurs du dessus attention je les ai désactivé pour le test je le calcule à la main  2400
+ca fait une treeeees legere différence quand votre fusée stoppe au milieu de son gravity turn 
+
+je fait un lem pour mun le jeu me dit 2400 non mais mdddr à quel moment un lem avec un pauvre réacteur deux futs de fuel un port de dockage et le explorer fait 2400 je le recalcule à la mano  1400 moué ca parait plus cohérent
+
+bref faut pas se fier du tout à lui qui ne fait que bullshiter en kriss quand vous êtes en vol cest la même vous avez un décompte du deltav restant à lécran ce qui est une idée sympa mais cette cille dui ne tombe presque jamais juste
+en fait les seules fois où lui a raison cest quand utilisez une fusée extrêmement simple
+
+ensuite 
+voici une petite histoire lhistoire de jamy qui tente de faire son délire  une mission style apollo11
+je fais mon petit lem ma petite fusée tout ça tout ça  je lance ma fusée jarrive en orbite de la mun 
+tout va bien je mamuse  quand soudain
+
+le jeu part en vrille jai pas dautre mot jai eu tellement de bug sur cette mission que je pourrais pas tous les noter mais tentons une liste et croyez moi cest pas des oublis ou des malfaçons 
+
+la sortie eva qui fait tourner ma fusée à 150 trmin présent dans ksp1 mais pas aussi grave
+le undockage qui laisse le dock du lem attaché au module orbital très cocasse parce que le lem est bien détaché
+le noeud de manoeuvre qui mindique que je nai pas assez de deltav alors que lui en bas mindique un montant supérieur au montant nécessaire en gros ne vous fiez pas aux noeuds
+le panneau solaire qui capte pendant une eclipse de kerbin après très pratique
+la charge électrique qui ne descend jamais quand on range les panneaux peutêtre pas un bug une feature manquant à mon avis ça le fait sur toutes mes fusées
+impossible de visualiser proprement ma trajectoire lors de mes planifications de burns les périgées actuelles et futures sont de la même couleurs  bien ouej les gars
+
+et là on entre dans ceux qui mont fait arrêter le jeu 
+
+après le undockage foireux je recharge la partie  oooh no quest que jai pas fais 
+après recharge mon orbite na plus rien à voir avec celle que javais 10 secondes plus tôt mon réacteur est en plein burn il fait sa vie quoi après tout on est qui pour lui donner des ordres hein  à 90 de mon orbite
+
+je recharge en soufflant du nez
+
+cette fois ma fusée est en plein essorage 10 000 trmin au bas mot
+
+je recharge en insultant le jeu
+
+cette fois cest ok mais un détail me chiffonne je ne vois plus mon orbite sur la map  super
+je prend sur moi je fais avec lindication ap pe de lui pas de soucis allez on va y arriver
+
+je fais ma descente tout va bien jalunis je fais mumuse je plante mon drapeau je remonte
+et là le ponpon
+
+quand je finis mon burn de réorbitation ma périgée descend genre comme ça au calme jai pas de réacteur en route pas de rcs sur mon lem mais le jeu dit nik mon orbite ne se fixe que quand jaccélère le temps sinon elle descend toute seule
+comme si la lune avait une atmosphère génial tout va bien le jeu est parfait
+un autre bug me disje candide que je suis
+
+je recharge
+
+la même avec la visualisation de mon orbite qui a de nouveau disparue pratique pour faire des rdv 
+
+je recharge
+
+mon lem explose 
+
+je recharge
+
+même problème dorbite au xanax qui seffondre de fatigue donc ben je triche en utilisant laccélération temporelle pour que newton ne se fasse pas trop enfiler sèchement et après moult godrioles je réussi mon rdv
+je me dock au module orbital erreur fatale tel endurance dans interstellar le machin explose et part en lessivage complet
+
+je hurle et je recharge
+
+cette fois pas de dockage jai pigé donc je fait une eva pour rentrer dans le module 
+ah là là mais quelle erreur mon cher thierry 
+
+cette fois cest le lem qui part dans le tesseract dinterstellar à approximativement 25 000 trmin à tel point que la pauvre valentina kerman se prend un bon 46 g dans sa face voilà ça lui apprendra à vouloir aller dans lespace et une crêpe spatiale une 
+visuellement cest très intéressant après les pièces qui constituent le lem séloignent les unes des autres mais lensemble reste attaché pas dexplosion ni rien parfait après cest peutêtre les aliens de 2001 qui ont pris possession du lem ceci dit 
+
+breeeeeeef pas de retour sur terre mais désinstallation du jeu garantie et au vu de ce qui mest arrivé sur mun autant dire que jai pas vraiment envie dessayer le reste du système solaire 
+on reviendra dans 1 an hein 
+allez on dit quon fais comme ça 
+
+edit 7 mois plus tard
+
+allez je suis revenu une demiannée après la sortie 
+alors le jeu comment ça va  ta réglé ces bugs super chiant là 
+
+ben la question elle est vite répondue  non
+
+rendezvous compte  en 7 mois le deuxième bug le plus remonté par les joueurs nest pas réglé 
+un bug concernant  les orbites dans un jeu qui consiste notamment à se mettre en  orbite 
+
+les patchs sont assez hilarant et sont fait à 90 de correctifs de bugs mineurs le dernier est encore mieux car il contient une info sur le bug qui empêche juste de jouer à leur jeu  improved
+voilà on a pas réglé le bug on la légèrement réduit quoi
+
+bon ben allons voir in game alors
+je reprends ma sauvegarde avec mon lem posé sur la lune et je tente lorbite
+a la fin de mon burn je perds facile 5 km par seconde sur mon apogée  en fait cest pire quavant
+
+je revois mon éval à la baisse on se revoit dans 2 ans
+
+
+#####
+
+httpsyoutuberbqp2bqqrnw
+je suis malheureusement daccord avec cet homme 
+
+alors sil vous plait private division faites nous changer davis rapidement sinon jaurai vraiment limpression davoir été volé et trahi cette version early access devrait être une démo gratuite et pas en vente à 50 balles vous jouez clairement avec la hype débile que vous avez mis en place vous même et qui vous pousse à devoir sortir un truc mal opti avec très peu de contenu et où les bons points en plus vis à vis du premier opus sont malheureusement vite compensés par des points en moins dans lautre sens on sent que vous êtes à la bourre sur vos promesses et que vous nous donnez un os à mâcher parce que vous vous en sentez obligés personnellement jaurai préféré attendre un an de plus que de jouer à ce truc et avoir peur pour la suite du projet
+
+je me souviens de mes premier pas sur ksp 0182 cétait moche mal opti et pas bcp de contenu non plus mais jétais heureux parce que cétait ma première expérience cest normal dêtre déçu comme je le suis avec le 2 quand on me fait tant de promesses de meilleur et dinnovation pour finalement me donner limpression que je reviens 10 ans en arrière et que je vais devoir attendre à nouveau 3 ans pour méclater alors que jai déjà claqué 2 fois ce que je mets habituellement dans un jeux
+jai voulu le relancer pour un deuxième essai le lendemain de sa sortie pour lui donner une autre chance à tête refroidie putain jai même pas trouvé de quoi me lancer dans un projet qui me donne envie dy passer plus de deux heures genre une petite station à assembler en orbite parce que ça manque horriblement de contenu
+ 
+ des pièces basiques qui étaient présentes dans le premier et quil suffisait juste de convertir pourtant et on sait tous que vous avez récupéré pas mal de monde du dev du premier pour bosser sur ce deuxième des entres deux aussi ya soit du très trop gros soit du trop petit je trouve pas ce que jaimerai pour mes idées et je suis déçu parce que cétait des éléments qui étaient dans le jeu de base entendez là sans mods dans ksp premier du nom on a pas non plus la possibilité de tweeker les pièces pour les redimensionner comme on le voudrait ou de changer le type de carburant quun réservoir contient
+ les nœuds de manœuvres sont décevants aussi car moins bien foutus que dans le premier je cherchais comment programmer une manœuvre plusieurs orbites à lavance et jai pas trouvé quand il était temps de la paramétrer aux petits oignons jen chiais sévèrement parce que lire laltitude de périgée proche de ma destination était un vrai parcours du combattant tellement tout se chevauchait dans tous les sens et était devenu illisible alors que cétait tellement simple et facile dans le 1 
+ parlons aussi de la vue intérieur chose présente depuis des versions très anciennes sur le premier et là rien ouais cest bien beau de voir les kerbals à travers les hublots mais je préférerai pouvoir me faire des lancements en immersion ou avoir des fps sans devoir mettre 4k euros dans une machine de guerre que seul votre jeu exige aujourdhui dans les specs mini
+ tiens bah parlons de la fluidité aussi même si tout le monde est daccord quon a rétrogradé la dessus aussi 25 fps avec ma config qui fait tourner hogwarts legacy en high à 70 fps pour un simple craft de 55 pièces really en orbite je nose même pas regarder kerbin tellement je divise mes fps par deux si je le fais donc expliquez moi lintérêt dune amélio graphique si cest pour préférer regarder une texture figée qui représente le ciel profond plutôt que la planète qui est de lautre coté de ma caméra et qui elle est bien vivante franchement vous cherchez aussi jose même pas imaginer si javais eu la possibilité de me lancer dans un assemblage de station cest peut être pour ça que vous ne nous avez pas donné toutes les pièces encore insérer rire nerveux
+
+ça me fend littéralement le cœur de rédiger cet avis vraiment
+je suis un amoureux de ksp jy ai passé des milliers dheures jai construit presque tout ce que mon cerveau pouvait imaginer jai perdu des moments précieux de ma vie parce que je préférais rêver sur ce jeu plutôt que de faire ce que je devais faire jai admiré les crafts et screens des autres joueurs jai échangé avec des personnes merveilleuses rencontrées sur le forum officiel sur des commentaires de vidéos yt sur des pages reddit etc jai convertis des amis à ce jeu et jai commencé à comprendre de mieux en mieux la mécanique orbitale avec jai continué de rêver quand jai entendu les promesses pour le deux
+et aujourdhui je me sens trahi comme un électeur de macron pensant avoir accordé sa confiance à quelquun qui au final a eu les yeux plus gros que le code qui ma embrouillé avec des promesses intenables ou qui était trop ambitieux ou naïf pour réaliser que ça serait difficile à tenir dans les délais annoncés on me sort un truc pareil pour un prix exorbitant et jai mal à mon petit cœur damoureux de ksp
+
+sil vous plait private changez vite mon avis et montrez moi que vous êtes mieux quune ex qui promet que ça sera différent la prochaine fois alors quon sait tous comment ça finit
+je mets ce pouce en bas pour la première fois sur steam et ça me fend le cœur
+bon courage aux devs je suis avec vous
+
+
+#####
+
+avant la 02 que des bugs aucune optimisation aucun but  challenge car seulement le mode bac à sable bref le jeu était vide et sans intérêt
+aprés la 02 une nette amélioration sur tous les points qui redonne du baume au coeur beaucoup moins de bug juste 1 et encore je crois que cest moi qui ai fait une fausse manip lors de la récupération de mon vaisseau loptimisation est là jai pu passer en graphisme moyens avec ma 1650 et ça reste fluide et jouable et beau enfin des objectifs avec le mode science  exploration 
+donc ça yest je vais enfin pouvoir jouer à ce jeu acheté en février
+merci aux devs merci à léquipe pour votre travail monstrueux pour corriger tous les problèmes des premières versions
+
+#####
+
+bon soyons clair une early access dans cet état à 50 euros cest du take 2 interactive tout craché faites vous votre propre avis si vous le voulez mais des charlatans resterons des charlatans
+
+squad tu me manques 
+
+#####
+
+ma première review sur steam après plus de 15 ans dutilisation cest dire si private division a eu raison de moi avec ksp2 
+
+ avant tout je précise que je suis un très gros joueurs du 1 avec environ 650700h de jeu hors steam avec et sans mods 
+
+comment definir ksp2  cest probablement le game of the years de la déception le jeux est vide et ne contiens pas 10 des features du 1 les trailers et divers communication des développeur sont mensonger au possible il ne font que rajouté des choses a la roadmap sans sortir le moindre contenue lié a celleci les trailers sont des montages grossier de features qui nexiste pas plus de 6 mois après une release deja décaler de 2 ans aucune maj de contenue en jeu a lhorizon le jeu nécessite au moins encore 5 ans de dev au vu de legacy bug et du manque grossier doptimisation du jeu 
+
+je souhaite donc un bon chômage et un bon enterrement du studio private division des développeur indépendant sont capable de produire des jeux de bien meilleur qualité en 6x moins de temps pour la moitié du prix car on peux en parlé du prix 50 euros pour une alpha  même star citizen a plus de contenue que ksp2 
+
+sérieusement passé votre chemin revenez dans 5 ans quand les promesses seront tenue ou que le studio aura fait faillite mettez des mods dupgrade de graphisme  dispo gratuitement sur ksp1 et vous vivrez de bien plus belle expérience quici 
+
+en conclusion je nest quun mot pour définir ksp2  honteux 
+
+edit du 22122023  après 10 long et terrible mois dattente la carrière scientifique est enfin la des objectifs très sympa un vrai but a atteindre et tout cela avec son lot doptimisation 
+
+enfin  un vrai soulagement de voir le jeu repartir sur de bon rail espérons simplement que le reste des features promises ne soit pas déployé tous les 10 mois sinon on ne jouera pas avant 2027 avec ses potes 
+
+du mieux vraiment félicitations les dev parce que cétait pas gagné je suis très heureux davoir tord mais je reste encore prudent quand au délai pour le reste
+
+#####
+
+bonjour ou bonsoir à tous  à toutes
+
+h1horodatage de cette reviewh1
+20 juin 2023
+
+h1notation h1
+1520
+
+h1prix légitime h1
+4999   pardon mon reuf x   
+
+h1heures de jeux h1
+ià lheure ou jécris cette évaluationi b environ 2 heures en tout b
+
+h1les plus h1
+b visuellement jolib
+
+h1les moins h1
+b hud à chier b
+b uniquement du sandbox b
+b optimisation fait a base de boue  de diarhée b
+
+h1mon avis personnel sur le jeux  h1
+ibkerbal space program 2b  pardon mais vous vous foutez de là gueule de qui là  
+
+avant de commencer là review ont va juste faire un tour sur le texte de lacces anticipé 
+ile prix de ksp 2 devrait augmenter dici la sortie en version 10 une fois toutes les fonctionnalités prévues ajoutéesi
+pardon je viens déjà de payer 50 pour un truc vide sans carrière sans science et sans trop de module  private division vous compter gratté combien là sans parlez des future dlc
+
+bon ksp2 hype train  bah je suis tomber du train en marche par ce que pondre un truc pareil sachant le pognon que vous avez si je vous avait en face de moi je croit que je vous aurait foutu un version physique dans le cul si elle existait 
+
+intercept games nous a sortie un jeu  vide mais je rigole zero en faite tu va dans le menu ta carriere ah bas non cest du full sandbox avec pratiquement aucun équipement cest vide tu lance ta fusée ta limpression de jouer en 30 fps sur console  
+
+non je le recommande pas dans létat actuel temp que lon as pas une vrai carriere donc dans 3 ou 4 ans vue que pour linstant il ajoute des pièce une fois toute les 2 semaines je vais retournez sur le ksp premier du nom car là cest juste prendre les gens pour des con pourtant je suis clément avec les early acces en général mais là cest un réel troll de leur par je voie rien dautre
+
+bmerci à ceux qui sexprime dans les commentaires afin de partager leur avis positif ou négatif envers cette évaluationb
+
+cordialement absolum
+
+#####
+
+pour celles et ceux qui ne sont pas au courant je vous fait un ptit topo de pourquoi cette alpha  et encore lol est sortie dans cet état frôlant lescroquerie ayant suivi le développement de ce jeu depuis le début voici les choses à savoir 
+le studio qui a fait ksp 1 sest fait racheté et fermé en plein développement de ksp2 le développement du jeu passe alors au studio qui sen occupe ajd sauf que   le jeu est en développement depuis de nombreuses années et la bande annonce est juste magnifique 1er degré tout le pourquoi du comment nous avons ajd ce flop réside dans le fait que léditeur du jeu à poussé les dev à sortir ksp2 dans cet état en les menaçant de couper le financement doù le prix exorbitant de 50 balles pour une alpha les devs qui nous font un bouquin sur comment coder un jeu sur les nuls chaque semaine pour essayer de maintenir la commu en vie et honnêtement je nai jamais vu un jeu sortir en early accès dans cet état et faire une materclasse en 10  
+
+bref ce jeu cest comme la crypto la bourse ou encore un pari  à vos risques et périls et à lheure quil est nous navons aucune garantie que ce jeu sortira un jour de learly accès et si cest le cas peut être dans 5 ans
+
+#####
+
+en tant que grand fan de ksp 1 je ne peux tout simplement pas recommander ksp 2 dans son état actuel cest une énorme alpha qui nest même pas un minimum fonctionnelle même pour une early access il est sortis beaucoup trop tôt visiblement
+
+passez votre chemin tournez vous plutôt vers ksp 1 et attendez 1 ou 2 ans avant de reconsidérer lachat de ksp 2
+
+#####
+
+malheureusement rien ne vas tout dabord parlons du contenu 
+cest enfantin et vide de sens 
+on dirait une version lite de ksp designé pour les enfants
+dans ksp1 on gérait un centre spatial ici non et les devs ont bien précisé quil ny aurait ni argent ni gestion du centre ni gestion des kerbal pas dxp ni de spécialisation
+dans ksp1 on prennait des mesures on devait faire attention à ne pas perdre nos experiences et parfois envoyer un scientifique pour réinitialiser certains appareils de recherche ici rien de tout ça on a un bouton bleu sur lequel on clique pour collecter des points ni plus ni moins les appareils scientifique sont ridicules deux appareils danalyse atmosphérique et un appareil de science disponible dans plusieurs tailles ces experiences ne donnent aucune information sur lenvironnement bref on a la quune feature de surface totalement inutile et aucune mise a jour prévu de ce coté la pour voir à quel point cest inutile imaginez les appareils de science portant pour nom bitcoin rig et remplacez le mot science par bitcoin voilà vous constatez que ces appareils ne sont là que pour donner des points vide de sens niveau exploration cest pas mieux explorer de nouveaux biomes ne rapporte rien et oui fini de scanner différents biomes avec nos appareils scientifiques ici une sonde par planète suffit à collecter lentièreté de la science quil est possible de collecter mais alors si la science cest nul quel est le but du jeu  puisque nous navons pas de fonds pas de barrières quest ce quon a  personne ne lavait demandé ksp2 la fait  une histoire linéaire qui parle essentiellement daddiction au café qui vous guide à travers larbre technologique et oui linéaire 0 choix 0 rejoibilité chaque gameplay est rigoureusement identique au précédent
+je pense que les devs ne sont simplement pas capable de produire un ksp2 alors ils ont fait un copié collé des bases du premier construire une fusée et voler mis le budget dans les visuels et le sounddesign cest beau mais si ça pouvait tourner à plus de 20fps ça serait bien aussi surtout du budget dans la com et les bandes annonces et font le strict minimum pour attirer de nouveaux joueurs y a qua regarder le player count pour comprendre qua part les youtubers payés pour personne ne reste même les gens qui aiment le jeu arrivent au bout de lhistoire et se cassent enfin bref aucun intêret
+
+ajoutez à tout ça que les bugs sont omniprésents habituez vous a sauvegarder à chaque manoeuvre et à recharger cette sauvegarde des dizaines de fois sans exagérer certains joueurs se plaignent même que le jeu ne démarre pas ou carrément ne peuvent pas sortir du menu principal et quon vienne pas me dire que cest une early access des bugs pareils après 5 ans de developpement et 10 mois dearly access cest simplement intolérable surtout venant dune boite comme take2 et coutant 50 sans compter que les bug reports sont totalement ignorés depuis la mise a jour for science on cherche les devs si vous les trouvez faites moi signe
+
+et si le coeur vous en dit je vous conseille de vous renseigner sur le studio intercept games qui nont pas bossé le moins du monde sur ksp1 comme il le prétendent et qui a un passé très lourd dans le jeu vidéo
+
+en définitive mise a jour ou pas pour moi cest 0 et vu la manière dont les devs bossent implémentent les promesses ou plutot font semblant de les implémenter je doute que le jeu naille où que ce soit dans le future si ce nest un jeu de plus sur la grande pile des jeux abandonnées en cours de route et retiré du store que le studio collectionne 
+
+bref jespère vous revoir sur ksp1 celui là il mérite votre temps
+
+#####
+
+ attention cest un avis à chaud à la sortie du jeu
+je pense que les devs ont promis beaucoup trop de chose et on essayer de faire le maximum pour la sortie le problème cest quils ont se retrouve avec un un jeu qui pour linstant me donne juste envie de jouer au premier
+je vous conseille quand même de le prendre malgré le prix parce que je pense que si on donne la chance à ce jeu de se développer et à la communauté de le modder alors on pourra avoir un jeu qui vaut le coup
+sinon à part loptimisation le jeu est quand même jouable
+bonne chance aux devs pour la suite
+
+#####
+
+grand fan de ksp 1 je suis hyper déçu blablabla cest un early access pas de soucis je lai bien compris mais le problème outre les 50 balles qui au final ne me dérange pas plus que ça cest que le jeu est injouable et totalement overhyped rien absolument rien ne fonctionne on se retrouve à un ksp 1 avant learly access oubliez completement le multi player les bases les voyage interstellaires oubliez même de construire une station en orbite elle va chuter par je ne sais quel magie oh et oubliez également toutes les pièces que vous avez dans ksp 1 ya plus dans ksp 2 ah oui ya les ailes procédurales mais que les ailes hein surtout pas les conteneurs de fuel oubliez les grandes constructions elles sont en caoutchouc toute wobbly comme ksp 1 en pre alpha et avec votre geforce 3090 ti sur un skylake 42ghz et 32 go de ram à 3600mhz vous aurez le droit à un graphique tout dégueu et un framerate de 15 au niveau de ksc oui peutêtre et je lespère fortement que le jeu va saméliorer maintenant quils ont cash grab quelques millions mais honnetement les bases sont encore plus pourries que ce que ksp 001 était et ça fait très peur avoir une belle carroseries sur un essieu pourri ça sert à rien et finira toujours par péter
+
+#####
+
+je suis très très satisfait du rajout de la science  les perfs sont bien meilleurs  continuer comme ça 
+hate de voir les prochaines nouveautés 
+
+#####
+
+la vache je mattendais à une prérelease mais là comment dire rien ne semble fonctionner en fait
+cest assez impressionnant à voir même des fonctionnalités qui paraissent de base sont buguées
+je suis une très grand fan de ksp et ça me fait de la peine décrire ces lignes
+je sentais bien les gars de private division pas à laise dans les interview je comprends pourquoi maintenant ils doivent être morts de honte davoir dû sortir ça dans cet état
+les icônes le ui en général est à vomir
+jy retournerai aux prochaines updates en létat on ne peut rien faire ou presque
+
+edit du 202401
+lupdate for science change la donne 
+ya encore beaucoup de corrections à apporter mais on prend du plaisir
+
+#####
+
+edit le jeu contient toujours pas mal de bug mais forcé de constater que la mise à jour science apporte beaucoup cest simple jai doublé mon nombre dheure sans voir le temps passer et le tout en prenant du plaisir la première fois depuis ce ksp2
+
+que le jeu ne soit pas complet à la sortie ok que le jeu ne soit pas complètement débugué à la sortie  ok sauf que là ça fait  de 6 mois et le jeu est injouable en létat
+
+#####
+
+grand adepte du premier opus je suis plutôt satisfait par la stabilité et les graphismes de ksp 2 qui sont bien au dessus du premier
+le jeu est fluide kerbin semble plus vivante mais je nai pas encore exploré la planète ni les autres dailleurs et le ciel est parsemé de nuages volumétrique qui rendent vraiment bien et qui manquait cruellement dans le premier jeu on a vraiment la sensation que la planète possède une atmosphère des arbres sont présent un peu partout autour du ksc en tout cas et jai remarqué quil y avait au moins 3 plateforme de lancement autour du ksc ce qui veut probablement dire quil y en a dautre sur la planète
+
+les commandes du vab sont beaucoup plus ergonomique et linterface est bien plus claire que dans ksp 1
+il y a désormais un planificateur de trajet directement dans le vab afin de déterminer combien de deltav sont nécessaires pour atteindre sa destination ce qui nétait possible quavec des mods dans le premier opus construire s fusée ou autre type de véhicule na jamais semblé aussi facile dans ksp
+
+ma première mise en orbite sest déroulée sans accro en seulement quelques minutes de jeu alors certes jai de lexpérience dans ksp et je sais ce que je fais mais cela montre à quel point lergonomie et laccessibilité du jeu a été grandement améliorée
+
+il y a également quelques ajouts bienvenus pour les débutant comme paige votre guide dans cette nouvelle aventure et le centre dentrainement que je nai pas du tout essayé mais qui pourra sans doute permettre à ceux qui débutent de mieux appréhender le jeu et de comprendre les bases du vol spatial sans devoir regarder un tuto sur youtube
+
+cependant early oblige le jeu nest sorti quaujourdhui il y a encore beaucoup de choses qui manquent
+dont une en particulier qui va mempêcher de profiter du jeu lors des premières semainesmois
+il ny a pour le moment que le mode bac à sable et aucune expérience scientifique nest disponible évidemment tout ceci figure sur la roadmap et bien plus encore mais je pense quun mode carrière avec quelques enjeux aurait du figurer dès le lancement de learly ayant torché ksp 1 de long en large le mode bac à sable sans expériences scientifiques ni enjeux ne me suffit vraiment pas disons que aller sur mun juste pour aller sur mun ne fait pas partie de mes attentes sur ce nouveau ksp
+
+bref je vais prendre mon mal en patience et attendre les prochaines versions
+malgré ça je reste très emballé et je me permet malgré tout de recommander le jeu car malgré les choses qui sont encore manquantes je sais déjà quil surclassera de loin le premier opus qui lui même était déjà une perle je viendrai compléter cet avis dans quelques semainesmois quand la roadmap aura un peu avancé
+
+pour résumer si vous êtes fan dastronomie despace et que vous aimez rêver nhésitez pas et foncez
+
+#####
+
+le roadmap est ambitieux et alléchant beaucoup de travail pour les dev
+a ce jour beaucoup de corrections de bug et doptimisation le jeu est agréable a jouer et la partie science viens dêtre implanter jouer avec des objectifs est nettement plus agréable jattends avec impatience la suite du roadmap
+
+je voudrais souligner leffort qui a été fait pour les traductions et le fait davoir un tutoriel potablele tout sur une petite note dhumour apprenez les bases de la répartition des masses de laérodynamique de lorbite et du voyage spatialconstruisez vos fusées vos avions et vos modules dexplorationessayez ajustez et recommencez si vous vous êtes planter pour atteindre vos objectifs  cest passionnant et nous passons vite quelques heures a se perdre la tète dans les étoiles
+
+#####
+
+ne lachetez pas je me suis volé 50 euros ce sont dignobles voleurs et une bande descroc cest tout le jeu est sorti depuis plus de 6 mois et il ny a absolument aucun changement je lai depuis day one je sais ce que je dit grand fan de ksp 1 je nai pas demander de remboursement car jétais confiant en lavenir du jeu que nenni  la boite qui dev sont une bande de voleur juste à voir leurs antécédents ont comprends vite quils ne finissent jamais leurs jeu donc ils mont vendus 50 euros un jeux qui dois en valoir 15 car il ny a absolument rien à faire et le peu a faire est remplie de bug vos avions et vos fusée partirons en vrille à la moindre occasion parce que la physique est à chier et aucun changement depuis 6 mois je le redit
+
+trop tard pour me faire rembourser donc ils mont bien encu cest mission réussi pour la team intercept vol  
+si vous lacheter vous perdrez juste des sous dire quils nous avaient vendus du rêvesvoyage interstellaire et vasy que je te pisse dessus
+
+6 mois et pas la moindre fck amélioration  
+et ils se moquent de nous en nous coloriant de beau dessin quils nous présentent ensuite entre deux retardement de maj péter comme celle qui devaient arriver le 22 et qui est décaler à quelques jours du déploiement alors quelle ne modifie que 4 petits effets 
+
+il faut faire savoir que cette boîte est spécialiser dans la vende de jeu nonfini à prix fort cest leurs pratique commercial
+
+bande de sale voleur
+
+#####
+
+pour le moment pas a la hauteur du premier lajout de la science est un premier pas mais on est loin de lexpérience du précédent même si les gfx sont un peu meilleurs les tonnes de bugs tuent lexperience de jeu
+
+a réviser au fur et a mesure des patchs mais pour le moment a 50 balles cest clairement surévalué
+
+#####
+
+mise à jour après le patch science
+
+je jeu tourne bien mieux les bugs majeurs qui rendait lexpérience injouable ne sont plus là la campagne donne une ligne directrice sur les choses à faire
+
+au final ksp2 est sorti 10 mois trop tôt là il est dans un état acceptable pour une early access
+
+#####
+
+bon demande de remboursement faites 
+pas de grand changements hormis quelques améliorations graphiques et peutêtre un peu mieux niveau moteur de calculs mais cela ne vaut clairement pas 50 pour le moment
+
+#####
+
+full bogué très limitée jouez au ksp1 vraiment et de loin meilleur que le 2 pourquoi refaire un jeu identique au premier mais avec seulement 10 de fonctionnalité du premier et plein de bug
+
+#####
+
+je mets un pouce rouge parce que parce que
+
+en introduction je tiens à dire que je viens de ksp sur lequel jai des centaines dheures de jeu ne vous fiez pas à ce qui pourrait être indiqué sur mon profil steam je faisais toujours une copie sur laquelle jinstallais mes mods et oui je jouais sur un ksp bien modé et cétait vraiment un plaisir donc 
+
+premièrement le jeu est vide il ny a quun mode bac à sable et quelques missions pas de mode scientifique pas de carrière exit certains partenariats comme avec lesa  sortir le jeu sans au moins un contenu égal ou légèrement inférieur à celui de ksp 1 ce nest pas correct ni même acceptable imaginez un age of empire avec deux nations un flight simulator avec trois avions etc ce nest pas possible honnêtement ce jeu est sorti trop tôt car il fallait le sortir mais cest tout avec le contenu labsence de mods on aura très vite fait le tour trop vite même 
+
+deuxièmement parce que le jeu nest objectivement pas beau enfin si mais pas forcément mieux quun ksp 1 avec quelques mods graphiques oui je parle de mods donc ce point nest pas forcément objectif et neutre mais le modding était et est le coeur de ksp améliorer les effets des flammes  moddable les textures des planètes   moddable les textures  moddable etc je ne vais même pas parler des textures qui ne sont pas si belles ni même agréables un manque doptimisation etc cest un échec graphiquement bien sûr je ne mattendais pas à un résultat similaire au trailer mais quand même 
+
+troisièmement enfin je naime pas cette politique la politique à la starcitizen consistant à vendre un projet non abouti et promettre beaucoup de choses avec un développement se comptant en années jai peur que le jeu suive cette voie et cest vraiment ce qui minquiète développer cest bien mais dans des délais raisonnables quand même
+
+je suis déçu de cette sortie le jeux en létat actuel nest pas bon et incomplet je le déconseille aux joueurs vétéran de ksp sils ne lont pas acheté le premier restera encore amusant pour quelque temps 
+mais je reste optimiste le jeu a un gros potentiel cest indéniable tant par les annonces faites que par laccessibilité bien meilleure je tiens dailleurs à souligner ce point le jeu est vraiment plus compréhensible et accessible et les novices ne seront plus perdus ou désemparés les tutoriels sont aussi plus sympathiques 
+
+bref je ne recommande pas lachat pour le moment surtout au prix affiché qui est prohibitif à mes yeux vous risqueriez dêtre déçus et de lâcher le jeu pour de bon a part si vous souhaitez soutenir le développement je vous conseille de suivre le développement et soit de rester sur le ksp originel pour le moment soit de patienter tout simplement
+
+#####
+
+early access  a oui carément  
+49 pour ca  je me suis laissé emporté par la hype 
+vivement les mise a jour car pour le moment  aucun interet dy jouer
+
+
+#####
+
+après plusieurs mois dearly  une multitude de bugs lors des dockings sauvegardes  vols etc car la liste est longue optimisation déplorable car si vous voulez faire une base avec plusieurs modules ou une station digne de ce nom  cest mort et encore plus si vous mettez des lumières le pc est en pls  i7 9700k boosté à 48 gz rtx3070 32 g en ram  bon il y a eu du mieux quand même mais cest largement insuffisant pour jouer correctement autre chose des parts  il faut combien dannées pour au moins nous donner quelques piéces de temps en temps  et le mode sciences  multi  au pire embauchez les joueurs qui ont fait déjà le taf sur ksp1  vraiment cette société a un sérieux problème de direction au niveau du développement cest dramatique je suis positif et espère malgré tout pouvoir profiter de ce jeu si cher payé pour le peu de bouleu fait en 7 mois déjà il me semble si je ne me trompe pas ils ont de lor dans les mains et en font de la merde
+
+#####
+
+performances passable en faible 
+environ 30 fps au lancement  60 fps en dehors de latmosphère
+pc portable rtx 2070 i9 16gb ram 
+
+sinon bon jeu dans lensemble
+
+#####
+
+cidessous tout en bas mon impression à la sortie de ksp2 au début de laccès anticipé
+jétais optimiste
+
+mais en létat le jeu avait pas mal de bugs et navait pas grand intérêt
+je ny ai pas touché pendant des mois et lajout de la science ma donné envie dy retourner
+
+je viens de repasser quelques heures dessus et ça confirme ma première impression
+lajout de la science des challenges et missions qui vont avec transforme le jeu en jeu jouable
+dun coup cette usine à gaz prometteuse nous propose des défis et devient ludique
+
+je maintiens mon pouce bleu qui pour le coup brille de plus en plus  
+cependant le jeu est loin dêtre terminé
+
+côté défauts et manques
+
+pour linstant on a quelques bugs et optimisations non encore résolus je nen ai pas vraiment rencontré mais jai regardé les autres commentaires larborescence de la science reste bien réduite et le modèle économique est inexistant 
+
+les kerbonautes nont pour linstant aucune caractéristiques
+les jolis bâtiments de notre base sont loin dêtre tous opérationnels
+bref beaucoup de secteurs nont tout simplement pas encore été implémentés
+
+etant donnés les objectifs que se sont donnés les devs au départ on attend une arborescence beaucoup plus grande un univers beaucoup plus étendu et interconnecté avec éventuellement des échanges matières premières matos technologies ou autre avec dautres galaxies dautres bases peut être dautres civilisations voire éventuellement dautres joueurs il y a un potentiel phénoménal et on en est encore quà linstallation du cadre de jeu
+
+je sais que cest un détail assez insignifiant mais je trouve dommage davoir ajouté la pause à la gestion du défilement du temps peutêtre nestce que pour la version anticipée disons que cest aspect temps réel impossible à arrêter sauf à sortir du jeu qui mavait rebuté à la découverte du premier opus avait fini par me séduire finalement le jeu était parfaitement jouable et les défis nen prenaient que plus de saveur le retour de la touche pause affadit un peu le challenge et limmersion dans lunivers des kerbonautes
+
+bref en termes de jouabilité et de complétude du jeu on est encore loin du premier opus
+
+
+les points positifs
+
+cest splendide franchement on a fait un grand pas en avant 
+les devs travaillent activement et franchement le jeu prend forme en prenant son temps il faut bien le reconnaître mais je ne peux pas imaginer quavec un tel potentiel on nait pas dans les 23 ans à venir un des plus beaux ovnis vidéoludiques de sa génération
+cest ma conviction
+le moteur de jeu est en place et franchement la stabilité sest grandement améliorée depuis le lancement de laccès anticipé les implémentations à venir vont de soit ce nest quune histoire de temps et de cahier des charges je nai pas beaucoup de doute sur lavenir de ksp2 il promet dêtre énorme
+
+bref mon conseil au 24122023  si vous avez aimé ksp1 et que vous hésitez à acheter ksp2 à cause de toutes les déceptions quil a suscitées à sa sortie vous pouvez être sûr quà terme ce sera une tuerie aujourdhui il est magnifique mais encore très incomplet ceci dit parfaitement jouable 
+alors si vous voulez un jeu fini attendez sa sortie et vous aurez un petit bijou si vous navez rien contre laccès anticipé il est parfaitement jouable en létat pour en faire la découverte en soldes ça vaut le coup sans problème 
+
+
+
+je nai découvert ksp que lannée dernière et ça a été une révélation moi qui achète généralement les jeux en soldes javais décidé dacheter ksp 2 dès sa sortie ce que jai fait
+je suis très étonné par les évaluations que jai pu lire il y en a beaucoup de négatives  certainement lattente aura été si longue et les espérances si grandes que la déception de ne pas avoir le jeu abouti a été immense pour certains fans du premier opus jai même lu que les graphismes du premier étaient meilleurs cest absurde ksp 2 est bien plus beau vraiment
+personnellement après avoir passé un paquet dheures sur le premier javais décidé dattendre  que celuici sorte pour me replonger dans cet univers et très honnêtement je ne suis pas du tout déçu 
+le tutoriel est bien plus abouti que dans le premier opus
+les graphismes sont très propres
+les développeurs se sont inspiré des moddeurs du premier pour ajouter quelques fonctionnalités bien pratiques dans le jeu de base bref à sa sortie ksp2 ressemble à une version améliorée de ksp où on naurait accès quà la partie bac à sable sans campagne et où seuls 2 ou 3 bâtiments de la base le centre dassemblage la station de contrôle et les aires de lancement  le centre dentraînement alias le tutoriel sont opérationnels 
+le reste nest pas encore débloqué
+niveau contenu étant donné quon est dentrée en mode bac à sable on a tout le contenu à disposition et on peut demblée tester le jeu pour se faire une ballade sur la mune où ailleurs lunivers nous est ouvert du moins en grande partie parce que le voyage interstellaire nous est promis pour la suite  pour linstant seul le système kerbolien semble accessible je nai pas fait linventaire mais il me semble quon a déjà pratiquement tout ou une très grande partie du moins le matériel du jeu de base pour faire ses assemblages et donc quon est proche de pouvoir reproduire les exploits du premier opus avec celuici dès à présent 
+
+bref la base semble plus complète quand on regarde le nombre de bâtiments non encore accessibles
+comme les devs lnt précisé le jeu nen est quau tout début de sa version alpha et est déjà quasi aussi complet dans ses possibilités que le premier opus la marge de progression est énorme 
+un mode carrière aboutit va évidemment voir le jour les autres bâtiments seront alors débloqués et permettront lapparition de missions de gestion de progression scientifique pour donner au jeu plus de saveur 
+lunivers va sétendre et manifestement tout un système de développement de bases et de voyages interstellaires est prévu à terme donc le contenu va grandement souvrir
+je précise quen létat le jeu est déjà parfaitement jouable 
+50 par rapport à ce que promet cette petite merveille ce nest pas si cher payé evidemment en létat si le jeu nétait pas amené à progresser on pourrait y trouver à redire mais je suis convaincu que cest un très bon investissement à terme
+si vous voulez le tester allezy et si vous avez de grosses attentes attendez encore un peu  
+
+#####
+
+jai attendu kerbal space program 2 pour découvrir la licence et je ne suis pas déçu le tutoriel est excellent lambiance est top et le mode bac à sable le seul disponible en ce début dearly access me permet de mentraîner et de tester mes fusées dans le système kerbin le temps darriver à me poser sur chaque astre avec des fusées différentes je précise aussi que je nai aucun problème doptimisation de mon côté je comprends cependant les frustrations de ceux qui jouaient à ksp1 car ils devront attendre que le développement du jeu se poursuive afin que ce 2e opus devienne plus intéressant que son prédécesseur en tous cas ce jeu part sur de bonnes bases  vivement la suite
+
+#####
+
+le jeu est beau uniquement en pause  sinon cest un bestt of de bug rien en marche
+ les orbite change toute seule
+les sauvegardes sont ultra buggées
+ les vaisseau en orbite explose sans raison
+jai fait un appel à témoins pour mes fps disparu 5 fps au décollage avec une bonne config
+lantialiasing fait saigner du nez tellement cest moche
+des séquences de lancement se rajoute toute seule
+à chaque accéleration du temps je perds 2 ou 3 pièces par vaisseau
+aucune nouvelle fonctionalité  early access sans multi voyage interstellaire colonie gestion de ressources
+pas de science pour le moment et pas de mode carrière prévu  
+
+injouable full buggé le moteur unity montre vite ses limites et ksp en demande trop pour lui
+
+un echec
+après 1500h sur ksp1 jy suis retourné très vite
+
+au vu du nombre démesuré de bug présent le jeu ne sera jamais agrèable
+
+
+
+#####
+
+ô rage  ô désespoir quelle tragédie en bon fidèle jai payé la dîme à la sainte église de ksp mais on nous a dupé aujourdhui je nai plus que mes yeux pour pleurer 
+
+#####
+
+nous arrivons bientôt à 8 mois depuis la sortie de cette ea qui au départ ne devait pas en être une après 3 ans de retards
+si jai pu faire une évaluation plutôt encourageante au début force est de constater que léditeur léquipe de dev etc est très très loin du compte
+alors on peut taper sur les dev etc ce ne serait pas productif si le jeu nest pas prêt cest à mon sens avant tout pour des raisons budgétaires
+si le jeu est sorti en ea au prix dun aaa presque fini ce nest pas la faute des dev
+
+pointons un peu les problèmes dune manière plus générale
+le jeu est sorti mais sans arbre de compétence  ce que nous autres ksp gamer appelons la science 
+du coup aucun challenge puisque nous avons accès à toutes les techno disponibles et quo est vraiment sans objectif autre que daller le plus loin possible
+le jeu est buggé as fuck beaucoup de mécaniques inhérentes à ce type de simulation ne fonctionnent pas ou ont été désactivées par  simplicité le temps de débugger
+la roadmap ne comporte aucune date aucune échéance donc  
+les patch de maj sur les nouveautés ig ont été suspendues le temps de debugger le jeu  depuis la dernière maj davril on est que sur du bug fix avec ça et là un deux petit trucs
+le debbuging parlons en dans les fix on a des nouveautés comme de jolies fleurs ou textures propre à kerbin sauf que perso je ne voyage pas en fusée de kerbin à kerbin hein  donc du temps perdu sur des trus ininterresants
+on a des maj qui sont annoncées puis retrogradées le temsp de les debbuger
+
+bref vous laurez compris à fuir à ce prix là
+a fuir jusquà ce que les choses soient annoncées de manière carrée
+a fuir jusquà ce que les plannings soient respectés
+
+et apr pittiés si les dev lisent ceci arrêtez de nos saouler avec vos grands projets et vos super trucs à part parler rien de concret sur ce que la communauté attend de ce jeu
+
+
+
+#####
+
+en létat le jeu nest simplement pas jouable bugs majeurs qui empêchent littéralement de sortir aisément de lorbite de kerbin
+ bugs ui à gogo boutons et raccourcis clavier qui ne fonctionnent pas actions qui ne se déclenchent pas paramètres qui ne senregistrent pas
+ bugs du vab sur les fonctions de suppression de pièce de sélection de mode de construction des coiffes plus un bug que je nai pas encore réussi à cerner qui empêche de lancer certaines fusées
+ perfos tellement affreuses quil est difficile de manier les fusées au décollage dans latmosphère de kerbin là où le jeu rame le plus
+ impossible de renommer les vaisseaux enfin si on peut mais ce nest pas sauvegardé impossible de faire un programme spatial où tous les satellites et sondes sappellent default name
+ impossible de supprimer les débris cf bugs ui
+ fusées qui explosent sans prévenir le kraken est vraiment vraiment vener
+ orbites non enregistrées lorsquune sauvegarde est rechargée  votre vaisseau en orbite circulaire autour de la mune sécrasera de façon certaine et inéluctable si vous ne faites pas tout dans la même session de jeu
+
+et je nai vu tout ça quen essayant de poser un vaisseau sur la mune 
+
+malgré tout je ne regrette pas mon achat jattends ce jeu depuis 3 ans et sil atteint ses promesses dici quelques années il sera absolument formidable mais il naurait jamais du sortir en létat même pour une early access dommage car sur certains points le travail est vraiment bon voire excellent ergonomie graphismes bande son tutos traduction française petits détails sympas comme le compte à rebours ou les magboots
+
+je réviserai ma note quand on pourra tout simplement jouer
+
+#####
+
+too soon way too soon everything is laggy and ugly af i am sorry huge disapointment
+
+#####
+
+bh1edit 02 maj science  h1
+je recommande le jeu si vous avez de la thune à claquer en cette période de noël il y a du mieux et ça vaudra peut être bientôt son pesant en cacahuètes car le nombre de bugs exceptionnels a bien été réduit les vaisseaux sont stables le jeu est stable sur une 3080 je décolle avec des monstruositées à 60fps constant 
+mais je ne recommande toujours pas le jeu est mieux il tourne mieux il bug vachement moins mais il y a toujours des tout petits bugs qui frustrent énormément 
+les lignes orbitales bugguées censées être corrigé depuis quelques maj sont toujours bugguées au choix notre vaisseau reste bloqué en état landed à corriger en editant sa sauvegarde ou bien elle disparaissent complètement et empêche tout simplement de jouer facilement obligeant à redémarrer le jeu
+il y a aussi des pièces disparaissent encore des vaisseaux sans raison mais ça a la limite cest pas trop grave
+b
+
+h3edit  h3la maj du 22 a cassé le jeu totalement injouable même pas le temps de build une fusée bidon fuyez avant une vraie update valable sur ksp1 
+h3edit  h3la maj du 30 narrange quasi rien
+h3edit  h3désinstallé au 30723
+
+
+strike jhésite entre oui ou non pour le moment pour une early access cest beaucoup beaucoup beaucoup trop instable sur une 3080 graphiquement ça roule quelques drops frame quand on part farci de booster depuis kerbin le jeu est beau les modèles aussi la refonte du hud pour le pilotage avec ou sans map est nickel le tuto avec le bout de lore pour les novices cest top aussi mais  
+ les sauvegardes font exploser les vaisseaux aléatoirement quand on les recharge ou bien explosent ou font traverser les planètes aux stations orbitales déjà en place
+ on ne peut toujours pas renommer ce qui est déjà dans lespace quand on dock quelque chose ça devient combinedchiffre random 
+ parfois la ksp se retrouve dans le vide collée à tout les vaisseaux existant du coup si on sen approche la hitbox est existante et endommage le vaisseau
+ laffichage des orbites qui disparaît soudainement et parfois avec le periapsis dun vaisseau qui part à linfini dans le négatif
+ le timewrap qui ne se stop pas parfois sur les manœuvres du coup on peut rapidement se retrouver en x 10 000 et venir à limpact dune planète ou alors carrément passer à travers pour en ressortir de lautre côté
+ le carburant qui lors dun transfert dun réservoir à un autre se retrouve être parfois illimité permettant de recharger son vaisseau comme bon nous semble 
+ la suppression des pièces qui ne marche tout simplement pas après une recharge de modèle il faut en sélectionner une autre pour ensuite supprimer
+
+tout ces bugs et jen passe rendent lexpérience pénible mais bizarrement je nai eu pour le moment aucun plantage aucun crash du jeu alors quune alpha ça plante ça a des problèmes de stabilité ou ça bouffe des ressources pour rien mais la cest tout le reste et globalement le gameplay qui est totalement pété 
+
+donc pour une earlyaccess je ne trouve pas ça recevable de payer à ce prix la un jeu qui ne pourrait même pas être présenter comme une démo au grand public à voir dici le 16 mars si les premières mises à jour corrigent le tir
+strike
+
+#####
+
+cest une honte de sortir  même une alpha  dans cet état
+
+#####
+
+certains découvrent le principe des jeux en accès anticipé
+
+a acheter seulement si vous voulez soutenir les développeurs et le développement du jeu si vous êtes là pour acheter un jeu fini passez votre chemin vous navez rien compris
+
+le jeu est jouable la base est bonne il manque de loptimisation et du contenu qui arriveront au fur et à mesure de laccès anticipé
+
+#####
+
+je ne recommande pas le jeu en létat il faut attendre plusieurs mois voire années des ajouts de contenu
+
+#####
+
+depuis la maj de science et les progrès en terme de performance on peux maintenant dire que ce deuxième opus est très bien les dev ont montrés de quoi ils sont capables la suites des améliorations promises dans la time line sera du lourd  merci 3
+
+#####
+
+autant jai envie de pouvoir le recommander autant il nest pas recommandable pour le moment surtout au prix demandé
+cependant en oubliant le prix le jeu reste sympathique et donne étonnamment envie de revenir malgré les bugs bien que je nai pas eu trop de soucis de ce coté jai surement cette nostalgie du 1er a ses débuts 20fps et devoir relancer les missions pour des attaques de kraken au final tous ce que jespère cest que learly access ce finisse au plus vite et quon ai accès a tout le contenu promis car cette promesse est simplement incroyable 
+
+#####
+
+nouveau joueur   je ne recommande pas encore ce jeu car il manque encore énormément comparé a ksp1 qui est bien plus développé pour un prix bien plus abordable astéroidsdrillscomsnetstabilitémods et jen passe
+
+lajout de for science est un grand pas dans la bonne direction surtout sur les performances qui sont grandement améliorés par contre coté bugs il yen a toujours une plâtrédockingengine qui ce désaligne du vaisseaukrakenmauvais calculs de dv etc etc mais il faut souligné que maintenant on a des missions et un objectif rendant le jeu bien plus intéressant et on commence petit a petit a voir que ksp2 pourrai un jours être meilleur que ksp1 mais dans combien de temps  rappelons quil aura fallu environ 11 mois pour voir ce patch arrivé qui aurai du a mon sens être présent a la release de learly access 
+
+si vous pensez que ksp2 peut être meilleur que ksp1 dici quelques années et que vous souhaitez soutenir le projet et les devs qui à mon sens le méritent alors je vous recommande le jeu
+
+si vous êtes un nouveau joueur essayez dabord ksp1 qui est bien plus stable 
+
+#####
+
+trop de bugs pas assez de contenu pas assez de gameplay ce sera peut être meilleur plus tard mais pour le moment mieux vaut éviter sauf si on souhaite faire partie de léquipe de débogage
+le jeu à du potentiel quelques idées intéressante le sound design est splendide il est agréable de voir enfin des nuages et un terrain plus détaillés comparer a ksp1 il est possible davoir un peu de fun mais il faut se limiter a kerbin quelques avions ou lorbite basse avec nimporte quelle mission complexe vous ferez connaissance avec le kraken bugs jai essayer davoir du fun mais la jabandonne
+
+#####
+
+pleins de bug et peu dimages secondes à certains moments mais mon dieu quel plaisir mon premier rendez vous réussi amarrage et réunion des deux équipages demain un retour sur kerbin et décollage pour une troisième pièce à ma station spatial
+
+#####
+
+cest juste une honte  et du vol à 4999 
+
+#####
+
+je sais que ce nest pas de la faute de léquipe de développement mais des éditeurs comme souvent mais mettre une mauvaise note est la seule façon de faire évoluer les choses le jeu rame énormément loptimisation est très insuffisante malgré de nombreux patchs et le jeu est encore loins derrière le premier en terme de complexité
+je vois néanmoins une évolution positive et des efforts des devs qui mettent en place des patchs réguliers
+jéspère vraiment que ce jeu pourra en valoir la peine un jour ou lautre
+
+#####
+
+pure arnaque
+
+aucunes des fonctionnalités de base ne sont présentes avec ce nouvel opus cest un bon de 10 ans en arrière alors que ce qui avait été promis devait faire passer le jeu dans une toute autre dimension
+pourquoi développer un nouveau jeu de 0  pourquoi nontils pas continuer les dlc de ksp1 en y ajoutant progressivement les nouveaux systèmes et features promises dans le 2 
+
+le jeu dans son état actuel est injouable mais il est beau palmares 
+peutêtre que dans 5ans le jeu sera jouable et au niveau dun jeu en alpha en attendant ne lachetez surtout pas 
+
+#####
+
+it is buggy  yes
+it is lack of content  yes
+it is good  of course
+
+#####
+
+awesome sound design
+
+#####
+
+par ou commencer
+
+premier point ne lachetez pas
+
+50euro pour un jeu aussi buggé cest de larnaque
+
+et il faut arrêter avec  cest un early access  un jeu doit être un minimum jouable et la ce nest pas 
+le cas
+
+je ne parle pas de la config pour le faire tourner mais de tous les problèmes en cours de jeu
+
+pertes des commandes
+dislocation du vaisseau
+trajectoire aléatoire
+plus de com
+le vaisseau qui tourne comme une toupie
+etc
+
+la liste est encore longue
+
+je nai jamais vu un jeu aussi buggé et il a fallut 4 ans pour ça
+
+et il y en a qui dissent encore le jeu est prometteur  et bien il ne manquerai plus quil ne le soit pas comme tous les jeux dailleurs
+
+coté optimisation cest pas mieux je tourne avec une rtx 1080 ti physx 32go de ram et ça lague au décollage  10fps  avec une fusée d une trentaine de pièces
+
+ils ont mis le jeu en vente juste pour se faire du fric cest a croire
+
+mon plus mauvais achat depuis 20 ans
+
+#####
+
+ce jeu cest bugland rien ne vas corrigez votre jeu et je corrigerais ma note pour le prix cest du scam pur 
+
+edit apres lajout du mode science et pas mal de bug corrigé je peux enfin recommander ce jeu aux passionné de spatial et comme promis je modifie ma note
+
+#####
+
+h1je suis pas du genre à tirer sur lambulance maish1
+
+bil est difficile de le recommander en létatb le contenu est mince imais je nai aucun doute sur le fait quil va sétofferi le nouveau système de tuto est pas foufou iil a le mérite dêtre là et de permettre de se lancer sans trop de douleur mais ne fait pas mieux quune vidéo yt ou que les missions dispo sur ksp premier du nomi il y a encore beaucoup de bugs iencore une fois aucun doute que ce sera corrigéi et uloptimisation est binexistantebu
+
+1440p  1080p  low  high les différences de rendus sont là mais jai limpression que ulimpact sur les fps est quasi nulu les premiers lancements se déroulent sans encombre le jeu est plutôt beau icest variable mais dans lensemble on voit une nette amélioration par rapport au premieri et fluide mais passé les premières fusées dès quon commence à construire un truc un peu plus chiadé cest la bcatastropheb
+
+il existe déjà un mod qui simplifie tous les rendus  textures diminue la fréquence de mise à jour de la physique du jeu supprime leau iet sa physiquei mais de laveux même de son créateur le gain est minime au prix dun lourd downgrade visuel  urlhttpsspacedockinfomod3256lagremoverurl
+
+ok la config recommandée est davoir une rtx 3080 mais même les gens avec des séries 4000 ont du mal à le faire tourner  urlhttpswwwyoutubecomwatchv5x2xafzd7guurl
+
+uconfig minimaleu  nvidia rtx 2060 w 6gb vram nvidia gtx 1070 ti w8gb vram
+uma configu  cpu  i710700k  gpu  rtx 3070  ram  16 go
+
+le jeu est sorti beaucoup trop tôt même pour une ea certainement sous la pression de léditeur mais il nécessitait encore au moins une année de travail
+
+je peux pardonner beaucoup à un jeu en early access mais à ce prix cest difficilement défendable
+
+alors oui le fun est toujours là et cest un plaisir dessayer de strikeconquérirstrike dexplorer le système mais si vous ne connaissez pas encore lunivers de kerbal jetez plutôt votre dévolu sur ksp1 au même prix ihors promoi mais avec beaucoup beaucoup plus de contenu et bien mieux optimisé
+
+httpsstoresteampoweredcomapp220200kerbal_space_program
+
+#####
+
+rtx 3070 i7 10700k injouable
+
+#####
+
+le jeu est en accès anticipé depuis 6 mois depuis tout ce temps la plupart des bugs majeurs sont toujours présents a lheure actuelle ce jeu est tout simplement injouable passez votre chemin et allez plutôt voir du coté de ksp 1
+
+#####
+
+i will leave my old reviews of the game at the bottomhrhrcurrent evaluation written at patch 0110hrhrtldr patch makes it go from scam to expensive but acceptable early accesshrhrok after a rough launch and game breaking bugs we see a lot of improvement devs seem to have caught up their bug backlog i remain convinced that most of them were known before ea release and that the fault lies with the publisherhrhrcurrently id say the game is playable i have met no game breaking bugs one time i couldnt place nodes but it got fixed with a good old f5f9 some qol got added to properly preview trajectorieshrhrreentry heat still missing can trick new players into a false sense of security and they will get a rough wake up call when it is implementedhrhrcurrently it feels like less optimized old versions of the vanilla game minus reentry heat i think it is much closer to an acceptable state for an early access at the very least you wont do anything truly new and thrilling if youre a ksp1 veteran but you might capture a few gorgeous shots personally i dearly miss mods like kerbal engineer redux detailed precise info on your stages and precise maneuver because i hate the whole eyeball the node placement and pull the levers to adjust maneuver philosophy because it is both unrealistic and impractical but thats something the og game had so its more ranting than an actual criticism of the game at this point phrhrstill before many of the planned new features old games mods these i mentioned or at least minimal mod support enabling modders to do these would be super cool but thats my opinionhrhrnew players you can take it if your budget and your pc can handle it get the basics but keep in mind that friction heat will be a thing p ksp veterans take it if you want nice screenshot and love vanilla playstyle or if you want to get it while it is cheaphrhr early access day 1 opinion i expected bare bones i had buggy bare bones ill update this at some point but seriously wait a few patches
+
+#####
+
+absolument pas optimise
+
+mettons les choses au clair  jai un pc avec un processeur 8coeurs à 38ghz une rtx 3060ti 32gb de ram
+le jeu utilise même pas 25 des capacités de mon ordi et il rame  il rame sur une config a 2000balles 
+
+non je suis désolée autant jadorais le premier kerbal autant celuici juste non  
+alors vous allez me dire non mais ça va cest un jeu en accès anticipé calmos non  un jeu pareil tu le fous pas en accès anticipé tu fais au moins deux trois bugfixes avant de le rendre public 
+
+#####
+
+manque de nombreuses fonctionnalités
+jai pris pour soutenir le développement et suivre les mises à jour autant dire quen 3 mois il ny a eu aucun ajout transcendant a ce rythme le jeu sera complet dans 15 ans
+
+sans parler de loptimisation quand même très moyenne 
+
+#####
+
+early access à 50 balles aucune miseàjour notable en six mois
+
+#####
+
+une torture 
+pour le moment aussi agréable quun toucher rectal  bon si cest pas votre truc hein 
+laissez mijoté quelque mois voir années pour avoir le jeu promis
+
+maj science  il ya du mieux même beaucoup mieux le jeu est jouable et même presque agréable quand on oubli les habitude prise sur ksp1 toutes les promesses ne sont pas encore tenu certes mais les devs ont lair sur le coup
+
+cependaaaaant  
+
+ca vaut clairement pas 50 
+
+#####
+
+pour linstant je ne vois aucun intérêt à jouer à ksp2 il ne propose rien que ne ferait le 1 tout en ayant 20 à peine de ses fonctionnalités
+
+je trouve ça vraiment étrange de proposer learly acces dune suite qui ne propose même pas les fonctionnalités du premier jeu
+
+cependant jy jouerais certainement avec plaisir dans 1 ou 2 ans à la fin de cette early acces qui est vraiment plus un moyen pour léditeur de gratter du budget pour le développement quautre chose
+
+#####
+
+un accès anticipé au prix fort pour un contenu vide mise sur orbite trop facile et moins de complexité voir plus arcade a voir dans le futur pigeon ou pas
+ps je reste sur le 1 en espérant que mon argent vous soit utile
+
+#####
+
+etant fan de ksp 1 de la première heure  de 500h à mon actif jose dire que je suis relativement déçu de ce que nous propose ksp 2
+positif  linterface utilisateur revisité laccesibilité pour les nouveaux joueurs les tutoriels bien expliqué la touche dhumour toujours présente la refonte graphique
+négatif pardon les dèvs  le prix 50 pour ce genre dearly acces incomplète manque cruellement de contenue  sciences missions qui seront rajouter dans de futur mise à jour indiqué dans une roadmap non daté loptimisation graphique chute de fps en regardant kerbal au lancement de la fusée  avec une vue parfaite du dessous de map jai une 1070 je fait tourner hogwarts legacy en ultra des bug peuvent arrivés cest normal cest une early
+
+pour résumer je suis plutôt très déçu je ne mattendais à une early acces vide pour vous dire en 1h30 de jeu je me suis ennuyé en ne sachant plus quoi faire ensuite 
+
+je vous conseil relativement les joueurs si vous voulez jouer et faire des fusée de vous concentré sur ksp 1 avec une panoplie de mod pour ma part je fait un remboursement steam et je vais attendre dici quelques semainesmois afin de reprendre le jeu avec plus de contenues
+
+#####
+
+mème si le lancement a était désastreux forcé de constaté quune no mans sky est en chemin
+
+#####
+
+refund requested  50 for something worst than ksp 1 that was cheaper  huge disapointment 
+
+no real problem of optimisation encountered during 30mn of gameplay  
+but during a simple orbital flight i saw too much things innacceptable for a wanna be successor of ksp  
+in the vab it is not possible to select 2 out of 8 decoupler  thus the optimization of radial stage is not possible  this was a key feature of early ksp 
+
+in flight the fuel line does not transfer fuel  this was also an early feature of ksp 
+when returning on kerbin the buyoancy of the modules is bugged prevening our kerbal to exit the ship
+
+trying to plan a manoeuver is a pain the a we are no longer able to see the periasis of our trajectory while setting the delta v
+
+we need to quit the delta v management click on the small icon of periasis and then get our value go back to delta v try another value quit back the delta v management  took me 3 mn to get a simple orbit planned  
+
+the the hud kick in  in never saw such a clancky hud the attitude indicator took all the informations of the various former indicators altitude atmosphere density  this is a huge mess  moreover the attitude indicator is no longer in the center of the screen but in a corner at the bottom center we now have the time management  
+
+the ksp hud had been streamlined during ten years  all went to garbage  if the  devs had only play tested their game once they would had noticed that this hud is far worse than the legacy one  
+
+then come the staging  it just do not work   you want to activate your parachute during reentry  first you wont have any safety indication clearly visible you will need to go to the sub menu listing the parts to get the parachute statistics  
+then if you want to activate the stage hosting the parachute you would have just pressed space  here it didnt work you had to click on the big green button  
+
+there is a discrepency between the price tag the quality and the time took to develop this  
+
+also a youtuber rightfully mentionned the absence of pov inside the cockpit
+i would echo his concerns  if it took 4 years to commit this downgrade of a ten year old game  how long before getting  
+basic ksp 1 functionnalities 
+interstellar travel 
+multiplayer  
+
+
+their is no hatred there  but a huge disapointment and somewhat a confirmation that the original game dev behind ksp was not replaced neither by squad neither by private division  
+
+
+
+#####
+
+buy kbs 1  the 2 is worst than the first
+
+#####
+
+on peut senvoyer en lair cest cool
+
+#####
+
+vendre une early access à 50 cest juste une blague
+alors que derrière il y a taketwo comme maison mère qui sont pas les plus pauvres loin de là
+car là actuellement ksp 2 a autant de fonctionnalités que quand ksp 1 était en early access sauf que le 1 était vendu une trentaine deuros si ma mémoire est bonne sachant qu à lépoque cétait réellement un studio indé squad qui développait le jeu ils navaient pas une boîte qui brasse des milliards derrière eux
+20 cest le prix max pour learly access de ksp2 à sa sortie
+je ne parle même pas des bugs à foison kraken etc
+loptimisation qui est déplorable une 3080 en recommandée sérieusement
+
+#####
+
+jy joue car je suis indulgent mais en létat estimes que le jeu manque encore trop de contenus pour valoir cette somme et être réellement fun à jouer pour une personne qui ne connaîtrais pas la licence  même si graphiquement et au niveau performance de chargement cet opus surpasse le premiers le coeur du gameplay est encore loin de faire le poids de ksp1 rien que pour son mode carrière plus aboutit mais aussi et surtout la tonne de mods disponible
+
+
+#####
+
+jai plus de 500 heures sur le 1 le 2 a tout le potentiel pour être audessus javais attendu le mode science et un gros correctif doptimisation pour le tester apres 5 heures de jeu sur celuici je pense que je lai acheté encore un peu trop tôt en effet visuellement cest beau très stable ça tournée très bien mais malgré des efforts  notables sur les nœuds de manœuvres je trouve que lensemble manque de clarté ces couleurs grisesbleues prêtent à confusion  ok ca fait plus moderne mais les opérations de rendez vous manquent de visibilité on a du mal à visualiser les points de rencontre par exemple certaines flying box sont persistantesgênantes et empêchent de distinguer les infos de navigations sur la map enfin le maniement de la camera en mode vol est frustrant on ne peut pas pivoter autour du vaisseau  de la cible à 360 degrés ce qui gêne la aussi certaines manœuvres jai stoppé après une tentative de rendez vous autour de mun pour sauver un kerbonaute dont la mission a disons mal tourné sans succès trop confus comparé à la simplicité de lecture des infos du 1 du coup jai 2 kerbonautes à sauver maintenant  encore un petit effort et ça sera bon je testerai à nouveau au prochain patch jespère que mes héros ont encore qq chips en stock pour patienter quelques mois avant la 2ème mission de sauvetage 
+edit nouveau bug trouvé le 240324  
+lors dun rdv impossible de switcher vers le 2eme vaisseau
+globalement il y a des soucis avec les raccourcis
+lorsque japproche à 1200 m du vaisseau le vaisseau ciblé active ses moteurs tout seul et part vivre sa propre vie 
+lors du lancement du vaisseau à chaque fois le vaisseau tremble et explose au décollage il faut relancer le lancement
+
+accès anticipé donc bon courage léquipe 
+
+#####
+
+jai planté mon drapeau un petit pas pour jebediah un grand pas pour la kerbalité sur la mun atterissage sur minmus check 
+maintenant un duna et ça repart jai aussi 3 kerbals bill bob et kendan qui gravite autour de ike sans plus une seul goutte de carburant ni communication arf va falloir faire une mission de sauvetage comme dhab 
+
+énorme potentiel je conseil dinvestir malgré quil y est quelque bricole par ci par là fermeture soudaine un peu doptimisation à arranger en même temps cest toujours de laccès anticiper 
+beaucoup de bon côté revu par rapport à ksp1 et je pense quil va largement dépasser le premier du nom avec probablement beaucoup de patience mais de toute façon comme on y reviens souvent et voir lévolution
+je conseil dinvestir et daider soutenir les développeurs plutôt que bouder le projet
+
+en tout cas je méclate bien la mise à jour for the science est top allé de plus en plus loin pour débloquer les pièces et il y en a beaucoup
+
+a plus sur minmus
+la biz  
+
+
+#####
+
+not entirely playable yet but its still fun
+
+#####
+
+je nai pas voulu évaluer de suite en espérant des hotfix le studio nous fait payer le prix dun jeu complet pour un truc un peu plus beau que le ksp dorigine mais avec 0005  du gameplay bref passez votre chemin ce jeu est un scam au vu des update il sera surement jouable vers 2030
+
+#####
+
+un jeu en accès anticipé quoi des bugs manque dopti mais a un très bon potentiel je ne recommande pas de lacheter pour le moment mais dans le futur oui 
+
+#####
+
+kerbal space program est pour moi une légende du jeu vidéo je ne regrette pas mon achat mais je suis obligé de mettre une note négative
+
+ksp 2 pour linstant ne rajoute rien à ksp 1 qui est sorti 12 ans avant  le même centre spatial avec les mêmes bâtiments les mêmes pièces les mêmes mécaniques etc le seul véritable ajout est la voix qui lit les textes du tutoriel entrecoupé de petites vidéos
+
+linterface a été retouchée mais pour moi elle a perdu en qualité  texte moins lisible surtout les lettres formées de points blancs couleurs peu convaincantes pareil pour la nouvelle navball
+
+les graphismes et le moteur sont mieux mais aussi plus gourmands  la simulation de vol tombe à 15 fps sur mon setup avec rtx 3060 et 16gb de ram eviter de zoomer sur les planètes dans la station de contrôle ça pixellise à mort
+
+en plus ksp 2 ne contient pour linstant pas de mode carrière et même pas de science alors je sais quil y a une feuille de route ambitieuse pour ksp 2 et je souhaite sincèrement quils parviennent à la remplir mais sortir un early access à prix fort qui ne rajoute rien ce nétait pas une bonne idée
+
+#####
+
+il y a beaucoup trop de bug et le contenu est vide  il manque beaucoup de chose de base présent dans ksp 1 de plus 50 pour un jeu en accès anticipé faut pas déconner
+
+#####
+
+actuellement injouable tant les bugs sont nombreux et les problèmes de performance omniprésent même avec une config décente pour linstant un conseil restez sur ksp1 qui possède 10 fois plus de contenus et aucun bug en comparaison le jeu naurait clairement pas du sortir tout de suite oui cest une alpha mais jai lhabitude de jouer à des alphas et les bugs de ksp2 empêche actuellement de faire quoi que ce soit 50 euros cest beaucoup trop
+
+cependant jai de bons espoirs pour le futur de ce jeu mais acheter ksp2 maintenant cest être déçu je conseil dattendre encore et voir lévolution les rumeurs indiqueraient que de nombreuse fonctionnalités futur sont déjà présent dans le code ce qui explique peut être les bug certaines fonctionnalités pourrait donc débarquer assez rapidement et sils résolvent les bugs alors cela deviendra vraiment intéressant
+
+en bonus une liste non exhaustive de bugs rencontré en une dizaine dheure de jeu
+impossible de faire des nodes de manoeuvres ça mest arrivé plein de fois et oblige souvent à abandonner la mission
+le temps se bloque en vitesse accéléré même dans le vab même après plusieurs redémarrage obligé de démarrer une nouvelle campagne
+sonde qui perd la communication même avec de grosse antennes juste a coté de kerbin obligé dabandonner la mission ça mest arrivé 34 fois
+manoeuvre effectué à la perfection en suivant en sas le point de manoeuvre et quand je regarde la map après je ne suis pas du tout sur lorbite prévu jai même reregardé le tuto pour être sur que je ne faisait pas nimporte quoi
+trajectoire balistique qui napparait pas sur la map impossible de faire des nodes du coup quel galère pour faire un rdv orbital à laveugle du coup
+les delta v des différents étages raconte nimporte quoi parfois nespérez pas pouvoir tout calculer a lavance en faisant votre fusée et en planifiant un voyage
+5 fps a chaque lancement  jai quune rtx2060 mais je joue en minimum et même avec de petite fusée prévoyez longtemps avant datteindre lorbite a 5 ou 10 fps
+impossible de lancer la fusée le bouton lancement dans le vab plante parfois même avec plusieurs redémarrage jai du recommencer une nouvelle fusée a zero
+les coiffe aérodynamic pour proteger le payload ne marche jamais je passe 20 min a chaque fois pour faire la coiffe dans le vab car il détecte des collisions même quand il y a parfois 2m de large de partout
+parfois la symetrie radial plante dans le vab et ne marche pas
+dans le vab quand on clique sur une pièce jai parfois 1 min de plantage même avec des fusée de 30 ou 40 pièces
+ jai rencontré tout un tas de bug aussi grave jai malgré tout réussi a faire un trip complet aller retour mun
+
+#####
+
+trop cher et pas assez optimisé
+
+des mises à jours tardives  pour le moment attendez encore ksp1 avec des mods reste un bien meilleur choix actuellement
+
+#####
+
+injouable avec un pc normal
+jy retournerais dans 1 an pour voir si ça va mieux 
+pour le moment nachetez pas le jeu si vous avez pas un pc a 8k boules
+
+#####
+
+gros fan du premier plus de 3700 heures de jeu la plupart hors steam javais installé linux pour y jouer en x64 avant que ça soit supporté sous windows autant dire un fan je me suis rué dessus dès que je lai vu dispo après lavoir attendu dans ma liste de souhaits je me doutais que ça nallait pas être terminé
+
+je ne me suis pas trompé  le jeu est loin dêtre optimisé en terme de performances mais ce nest pas comme si les devs navaient pas prévenu avant sa sortie que ça serait le cas quand on voit ce qui a déjà été ajouté et le roadmap autant dire que ça promets le jeu est très beau on sent bien lamélioration par rapport au 1 et on voit aussi la place faite pour les futurs ajouts un peu frustrant mais ce sont les joies de learly access d
+
+en plus de ça on sétait habitués à faire une installation aux petits oignons avec la tonne de mods disponibles pour le premier opus ce qui nest pas encore possible avec le second 
+
+je vais leur accorder le bénéfice du doute désinstaller mais leur laisser mes 4999 car jaimerais voir le développement de ce jeu avancer
+
+itlpl trop long pas lu  ceux qui veulent soutenir le dev achetez le les autres prenez votre mal en patience ou trouvez le ailleurs i
+
+#####
+
+le 2 est plus beau mais je préfère jouer au 1 car il y a plus de contenue quand le 2 aura rattrapé le 1 je changerais mon avis
+
+#####
+
+update fevrier 2024 
+
+je passe mon avis sur positif pour soutenir le travail fait par les dev sur lannée 2023
+même si concrètement aujourdhui encore rien ne justifie de préférer ksp2 à ksp1
+ksp1 propose tjrs plus et le fait bien mieux que ksp2 surtout si on prend en compte la partie modding
+
+malgré tout il faut reconnaître que ksp2 avance bien et dans le bon sens ce qui nétait pourtant vraiment pas gagné attention jai tjrs des doutes sur la finalité du projet
+
+la grosse mise à jour for science  a apportée un véritable intérêt au jeu 
+le système de missions bien quincomplet et nécessitant un équilibrage donne un bon fil conducteur pour le joueur  
+la majorité des bugs ont été corrigés mêmes sil en existe encore beaucoup le jeu est devenu tout à fait jouable
+loptimisation a aussi été grandement améliorée je jeu tourne plutôt bien même sur des config un peu datées toutes fois les performances sécroulent littéralement dès quon dépasse une certaine taillecomplexité au niveau des construction et ce cap à lair identique aussi bien sur une 1080ti quavec une 4080 super
+ 
+le jeu est aujourdhui dans létat dans lequel on aurait été en mesure de lattendre lors de sa sortie
+le projet revient du fond des abysses pour enfin nous proposer quelque chose de jouable et agréable
+ça redonne de lespoir pour le futur mais rien nest gagné dautant plus que la communauté semble loin dêtre prête à leur pardonner létat du jeu lors de sa sortie compréhensif
+
+
+avis fevrier 2023
+
+bon on ne va pas se mentir même pour une early access cest assez catastrophique
+jai beaucoup de mal à trouver où sont passées les années de développement vu létat actuel des choses
+en plus ce nest pas comme si ils partaient de rien là on dirait quil y a tout juste un ans de boulot et jsuis gentil
+
+niveau performance forcément cest pas fou a moins davoir un très gros gpu et encore cest compliqué
+maintenant on sait que loptimisation cest lune des dernières étapes avant la sortie dun jeu donc difficile de les attaquer sur ce point
+ca reste jouable
+
+le plus gros soucis cest que bah cest juste injouable tellement cest bourré de bug
+la camera qui perd le focus du vaisseau pour sen éloigné de plus en plus a chaque time wrap ou switch avec la map orbitale
+les rentrées atmosphériques complètement buggé qui font que ton vaisseau est soudainement détruit sans raisons
+les commandes de contrôle automatique pour les repères de la navball qui génèrent pleins de bugs de contrôle qui fait quil vaut mieux ne surtout pas y toucher
+pareil pour les contrôlent automatiques avec les noeuds de manoeuvres qui partent complètement en sucette dès quon dépasse le noeud
+
+bref ma première partie jai voulu aller sur la mun jai donc dabord placé ma fusée en orbite mais à partir de là je nai rien pu faire de plus ni même revenir tellement tout était buggé cam qui foutait le camp vaisseau qui ne répondaient plus a aucun contrôle sans raisons dès que je jouais un peu trop avec les commande de navigation même en voulant recommencer un nouveau lancement il ny avait rien a faire le jeu était pourri de bug et inutilisable
+il a fallu que je supprime le profil de la partie et que jen recréer une nouvelle pour pouvoir enfin jouer un peu sans être coincé par les bugs
+jai pu atterrir sur la mun mais impossible de sortir de la capsule porte soit disant obstruée alors que javais justement bien fait attention à ça en assemblant ma fusée on sest tous fait avoir avec ça au moins une fois sur ksp1 jamais tu fais deux fois cette erreur
+
+maintenant parlons de linterface
+honnêtement je comprends pas ce quils ont voulu faire ok pour un refresh de linterface mais là cest nimporte quoi
+ énormément de choses sont bien moins lisibles quavant comme par exemple cette fenêtre associée aux noeuds de manoeuvres qui nest même pas foutu de nous donner clairement le temps de poussée quil faudra appliquer
+ou encore le fait de foutre la navball à gauche plutôt que de la centrer comme avant cest dun chiant tout particulièrement quand tu joues en ultrawide
+ des ajouts qui napportent rien a part surcharger inutilement linterface  typiquement les espèces de cercles concentriques qui indique ou ton vaisseau va entrer et sortir de la zone gravitationnelle dun astre
+ lergonomie complètement wtf à se demander si ils ont essayé leur jeu truc tout bête par exemple  ce foutu clique droit dont tu as besoin pour orienter ta camera sur la map orbitale mais qui sert aussi à tout le reste ce qui fait que dès que tu est près dun astre et que tu veux bouger ta cam tu passes ton temps a ouvrir la fenêtre de focus sur lastre
+ et globalement laspect ce choix de texture de hud toutes piquées cest curieux enfin question de goûts on va dire
+ah oui et les sons lié à la navigation dans linerface tous ces petits bip blup gloup chaque fois que tu passes au dessus dun bouton ou que tu clique qqchose mais juste  pourquoi 
+
+graphiquement il y a de gros soucis si certaines choses sont très jolies fusée certains environnements le reste est franchement immonde
+
+ajoutons à ça les 50 pour une early access quand je pense que lea de ksp à lépoque était a 17 si je me souviens bien surtout quelle risque dêtre totalement injouable pour pas mal de gens tellement ça peut être buggé par moment
+
+bref il va y avoir enormement de travail et ça va donc demander beaucoup de temps avant davoir quelque chose de juste potable alors pour une release finale à mon avis faut rien espérer avant minimum 2 ans
+
+jen ai vu des early access pourrie mais faut avouer que celle là elle entre directement dans mon top
+pourtant dieu sait que jaime cette licence et que jai passer beaucoup de temps sur le premier opus
+
+bref pour le moment gardez vos 50
+le jeu nest pas en état même pour une early access cest même suffisament inquiètant pour que je minterroge sérieusement sur la pérénité du projet même à long terme
+
+#####
+
+le jeu le plus catastrophique que jai vu des problèmes dans tous les sens un coup cest le jeux qui crash obliger de redémarer le pc un coup cest les menu qui bug un coup cest le bav après cest la physique honnetement je regrette mon achat quand on publie un jeu cest pour quil soit un minimum jouable meme en beta et que lon mette pas 8h a juste faire un voyage kerbin minmus dailleurs meme pas reussi a cause de tous caje suis dégouté de ce jeu tant de temps de dev pour une merde pareil remetter vous en question un peu cest honteux de faire ca surtout quand on a une communauté basé quasi que de fan de la license sachant que cest un jeu qui demande du temps pour faire un seul voyage jai passer plus de temps a etre bugger qua réellement mamuser je suis decu jaurais préfèrer attendre la sortie plus longtemps que avoir cette affront a la license je ne risque pas dy jouer avant au moins 6 mois voir 1an
+
+#####
+
+bon bah je ne peux pas me faire rembourser le jeu car jy ai cru et que je lai pris a 36 euros sur un site de clé 
+jespère qua lavenir je modifierai cette évaluation mais pour linstant même si cest une ea cest vraiment très médiocre 
+ il y a peu de contenu et de chose à faire
+ pas mal de bug
+ en terme de simulation spatiale cest moins complet et immersif que le premier
+ loptimisation est affreuse jai un i5 10400f  16gb de ram et une rtx 2060 6gb jai tout les paramètres en très bas et je suis en 1080p bah je tourne en dessous de 20fps alors que je fais tourner des jeux beaucoup plus beau en ultra a plus de 60 fps
+bref jespère que les patch sauveront ce naufrage car pour linstant cest vraiment pas un bon jeu si vous avez une config très solide vous pouvez essayer de le prendre sur steam comme ça vous pouvez vous faire rembourser
+
+#####
+
+fan de ksp1 ksp 2 nest a lheure actuelle pas dutout à la hauteur depuis sa sortie il a gagné en stabilité et en optimisation jai un pc gamer normal et tout a fond aucun lag contrairement a certains 
+larrivé de la campagne ajoute un petit plus un intérêt pour le joueur non fan harcore de lespace il y a des mission du chalenge cest agréable mais encore trop de petit bug qui gache fortement le gameplay basique touche de direction qui ne fonctione plus touche espaceséparation qui ne fonctione plus kerbal bloqué en aev jetback qui ne fonctione pas et a chaque fois obligé de redémaré le jeux pour récupéré les touche  cest dommage  edit injouable ne passe plus lécran de chargement 
+
+#####
+
+pour le moment je ne le recommande pas en tout cas pas pour 50 jai été très très déçus je mattendais à un jeu non fini mais pas à des graphismes en dessous du premier avec tous les paramètres à fond
+je pense quil y a encore du travail à faire pour les dévs jattends avec impatiences le jeu terminé mais pour le moment je ne vois aucune différence avec le premier
+les tutoriels sont très bien fait 
+
+#####
+
+i have 800 hours of play on ksp 1 and really this is a disapointment 
+nothing to say this game is rigged dont buy it
+
+#####
+
+le jeu est clairement pas fini
+
+beaucoup de bugs rendent la partie marrante quand on voit sa fusée partir dans tous les sens cest limite le but du jeu en fait mais quand les bugs font quon ne peut pas sauvegarder quon ne peut pas diriger sa fusée que la caméra part en vrille et que les bugs de collisions détruisent des heures de réflexion et de bidouille on nen rit plus
+
+un early access ne propose quune petite partie du jeu et cest bien le cas ici presque aucun contenu supplémentaire par rapport à ksp1 et beaucoup de choses sont absentes pour le moment des graphismes sympas des ambiances travaillées mais encore fautil atteindre la mune pour les voir  les entendre aucune mission ou objectif ksp2 se contente pour le moment de nous laisser faire décoller et surtout crasher nos erreurs dingénierie quand les bugs omniprésents ne font pas tout capoter
+
+mon pc est plutôt puissant avec une rtx2060 et 16gb de ram un ryzen 5 3600 jarrive à avoir assez de fps constantes pour jouer sans migraine
+
+vendu 50 leu jeu a ce stade est une arnaque un ksp1 auquel on aurait retiré 50 du contenu pour améliorer un peu les graphismes va falloir attendre un moment avant de peutêtre retrouver leffet de ksp à son époque
+
+#####
+
+digne successeur de ksp 1 jentend déjà la critique dire que ksp 1 avec mod cest mieux machin
+
+souvenez vous des débuts de ksp 1 on avait encore moins de chose quaujourdhui laissez lui le temps de mûrir mais il sera sans nul doute prendre sa place qui est la sienne devant ksp 1
+
+donc pour moi il sagit dun oui 
+
+#####
+
+jai fait une demande de remboursement car très déçu 50  pour une ea vide je ne doute pas que dans lavenir les mises à jour vont arriver avec les promesses des développeurs à surveiller voir comment les choses évoluent 
+je conseillerais plutôt aux nouveau joueurs de prendre quà ksp1 en attendant que ksp2 soit optimisé et quil est enfin le contenu promis par les développeurs
+
+#####
+
+il y a tellement de bugs débile cen devient pénible
+entre les lags en jeu celui causé par le gestionnaire des pièces qui pop de manière aléatoire les vérins qui disparaissent ou qui restent alors quon veut les supprimer les tubes qui ne marchent pas les surfaces de montage qui font complètement bugé le découplage cest même pas un early access cest une alpha 000002
+
+et puis bon un early access pour un 2 svp quoi foutage de gueule puissance 200000
+
+#####
+
+encore du boulot pour les bugs et le contenu mais cette version pour la science est enfin le véritable early access qui commence 
+
+#####
+
+léger défaut du jeu  il crash quand on le lance sinon cest de la frappe
+
+#####
+
+patience  patience  patience 
+
+le jeu est très beau mais manque cruellement de contenu  doptimisation cest normal le jeu est en early acces
+si vous êtes un fan de ksp 1 allez y les yeux fermés bien que lamusement ne sera certes pas maximal 
+cependant vous pourrez au moins profiter des vues magnifiques des ajouts audio compte à rebours acclamation dans la salle de contrôle sons de moteur réaliste etc et des nouvelles mécaniques de jeu apporté par cette opus
+
+si vous comptez vous lancer dans ksp pour la première fois je ne conseille pas le jeu nest pas dans létat fais pour les débutants mais il le sera pas dinquiétude encore une fois patience il sagit dune early access  et certains semblent loublier
+
+#####
+
+not playable
+
+#####
+
+ksp 1 est  mieux que le 2 cest incroyable 
+
+#####
+
+jeu sortis un an trop tôt
+
+#####
+
+le jeu est vraiment injouablesi à la rigueur il avait été vendu 19 pour soutenir son développement mais là 50 
+
+si on enlève le temps des vidéos et chargement jai à peine 5 minutes de  diapositives 
+
+retour à ksp 1
+
+
+#####
+
+honnêtement après avoir passé un nombre incalculable dheures sur ksp 1 je mattendais à tellement mieux  mais je vais tenter une review honnête 
+
+positif  
+ les graphismes  les modèles des pièces sont largement mieux fait et donnent un aspect très réaliste tout en gardant une touche ksp dont ont aurait pas pu se passer dans ce super jeu  
+ rework des interfaces sympa et le ksc qui se veut plus réaliste lui aussi
+ le mode fusion des plans un peu chaotique à prendre en main il permet de mixer un avion déjà créé avec une fusée en quelques clics 
+
+négatif  
+ les graphismes  alors là vous allez dire que le mec est fou mais non pour jouer en 2k avec du très bon matos je me retrouve à voir des arbres dégueulasses des visuels ignobles en entrant dans les couches nuageuses  bref visuellement ya encore énormément à faire 
+ rework des interfaces beaucoup trop lourds pour la partie etages il est pas aussi simple quavant de faire un glisser déposé dun étage plus bas ca manque de maturité
+ le modèle de vol est catastrophique imaginez vous être à 250ms  900kmh  en atmosphère sur kerbin et pouvoir sortir vos panneaux solaires tranquillement  de les voir tourner tout aussi tranquillement pour aller chercher le soleil  la gestion de leau est ignoble vous avez des vagues qui font du  3m et votre capsule de sauvetage elle est fixe 
+ un manque monstrueux de contenu les pièces sont loin dêtre aussi nombreuses que sous ksp1  sans mods  le manque de la partie campagne  science au lancement est pour moi un énorme wtf  que le multi ne soit pas dispo ok que la colonisation ne soit pas dispo ok que le voyage intersidéral ne soit pas dispo ok mais  la science 
+
+point hyper negatif  le prix  de mémoire javais du payé ksp1 pendant son développement à 28 pour un jeu qui était à lépoque sans science et avec un modèle de vol bof bof donc un sandbox de mise en ligne de booster et de booms là pour un jeu qui est dans le même état il est à 55  cest vraiment beaucoup trop je veux bien que learly accès aide à ramené un peu dargent mais il faut faire un effort et que ça soit gagnant gagnant 
+
+au final le jeu est prometteur mais dans létat actuel vous aurez infiniment plus de plaisir sur ksp1 avec deux trois mods que sur ksp2  pour un prix lui aussi bien plus attractif
+
+#####
+
+dici 1 ans ou 2  le jeux serais peut être a la hauteur de ksp 10   je vous recommande ksp premier du nom qui est 
+ moins chère 
+meilleur qualité
+10x plus de pièce 
+les mods 
+une interface simple 
+
+je suis déçu jai attendu plus de 4 ans pour un jeux qui n a même pas finis sont alpha
+
+#####
+
+attendez 2024
+
+cette early access noffre aucun intérêt par rapport au premier jeu vous paierez 10 plus cher pour une interface plus jolie mais tout aussi peu maniable et un joli coup de peinture graphique facilement atteignable avec des mods
+
+#####
+
+fan du premier opus je ne conseille vraiment pas de le prendre dans létat actuel du jeu pas optimisé moins beau que ksp1 et il manque beaucoup de features que nous avions dans le 1 la carte nest pas ergonomique nous navons plus les liens de communication entre les satellites enfin bref très déçu pour linstant
+
+#####
+
+pour un accès anticipé je mattendais tout de même à plus pour 50 mais jai tout de même réussi à faire différentes fusée à atteindre et à amunir sur minmus avec le peu de fps que javais 5 en partant de kerbal puis 4050 en orbite 
+jai quune seule hâte est que les devs sortent dans moins de 6 mois tous ce qui a été promis dans les trailers avec une meilleure optimisation parce que ça ne dérange pas pour quelques lancés mais pas pour faire une campagne complète si un jour il y en a une
+config amd 7 3700x 8core  64 go de ram  ssd 2to nvme  rtx 3060 ti
+
+
+#####
+
+après un premier lancement avec de nombreux bugs le premier patch a réglé de nombreux soucis et le jeu est jouable il manque pour le moment de contenu et donc de but car le mode carrière et la science ne sont pas encore présents le jeu est joli et les musiques très sympas  on attend les prochains patchs pour que le contenu soit plus intéressant 
+
+#####
+
+grosse mais grosse déception
+
+en clair  jeu très attendu et longtemps attendu en earlyaccess buggué cher sans la plupart des features qui justifient le passage du i au ii sans un calendrier de sortie de ces features et avec des licenciements à la clef httpswwwgenerationntcomactualitestaketwomauvaisenouvelle2034280 ce qui naugure rien de bon pour le développement du jeu  nachetez pas ce jeu 
+
+pour étayer mes propos 
+je suis un fan de ksp jai passé un temps considérable à méclater sur le i
+
+ici on a un jeu qui a été très très survendu je mattendais à un produit au moins suffisamment fini sauf que non
+après trois ans dattente quand ils ont dit earlyaccess ça sentait les problèmes de développement ou financier ou les deux et 50 cest cher surtout pour de learlyaccess 
+
+il est beau ok
+mais il bug et pas quun peu
+mais il y a peu de pièces  quelques nouvelles rares mais aucune charge utile puisque la science la recherche cest pour plus tard aucun des nouveaux moteurs montré car le voyage interplanétaire cest pour plus tard aucune base car les bases orbitales ou ailleurs cest pour plus tard et pas le mp car ben cest pour plus tard donc pour tout de suite cest les pièces de base mais moins que le ksp i final
+mais lergonomie est mauvaise que ce soit dans le vab ou en vol  dans le vab on peine à trouver les informations nécessaire à la conception du vaisseau  pas de jauge totalisant les carburant et lénergie électrique embarqué le deltav est calculé sur la base de la gravité de kerbin mais on nous donne les masses à sec et au décollage  genre calculez vousmême le delta v si vous voulez des menus qui prennent trop de place à lécran et la possibilité de sortir un item de la symétrie qui est passé à la trappe le i sans mod faisait bien mieux le pire est le gestionnaire des pièces  dans le i un menu contextuel sur les pièces vous renseignait sur elle et vous proposait les options ici toutes le pièces sont regroupées dans une longue liste avec moins de possibilité et plus de chiantitude
+donc en vol si vous ne voulez pas que votre module de service partage son carburant avec le module datterrissage via le nœud damarrage  dans le i clique droit sur la pièce et on met non à la propriété dans le ii clique droit sur la pièce freeze du jeu qui va chercher toutes les propriétés accessibles de toutes les pièces du vaisseau retour au jeu on passe en revue toutes les pièces pour trouver la bonne et modifier la propriété en question un vrai progrès comment ça se passe avec un vaisseau de mille pièces 
+mais il ne travaille pas avec sa communauté de moddeurs pourtant conséquente et volontaire  httpsforumkerbalspaceprogramcomindexphptopic214100anopenletterfromtheksp1moddevelopercommunitytotheksp2playerbaseanddevelopmentteam
+
+je réviserai peutêtre mon jugement plus tard mais je ne suis pas optimiste vu la direction prise par léditeur
+
+#####
+
+science mode is good
+
+#####
+
+avec larrivée du système de science le jeu devient enfin intéressant de plus il est beaucoup plus stable actuellement quel dommage quil ne soit pas sorti en létat day one donc nhésitez plus à revenir ou à découvrir sur la licence ksp
+
+#####
+
+pour linstant vide a voir dans le futur
+
+#####
+
+le jeu est prometteur mais pas fini  cest un vrai accès anticipé attendez quelques mises jours avant dacheter
+
+et si vous achetez attendez aussi pour mettre un commentaire négatif
+
+#####
+
+best game ive ever played even if its a little buggy its still perfect and we cannot forget that its only an early access 
+
+best game to play good job private division
+
+#####
+
+oui car un jour il depassera ksp 1er du nom en stabilité et fonctionnalités  pour linstant cest quasi injouabletrop gourmand en ressources des bugs a la pelle et uniquement en mode sandboxthe kraken is still alive 
+
+#####
+
+edit  je modifie mon évaluation précédente avec le mode science le jeu cest bien amélioré et deviens bien plus intéressant à jouer désormais
+on se rapproche du premier et cest tant mieux
+je recommande 
+
+#####
+
+je suis vraiment impressionné 
+mais pas dans le bon sens
+
+#####
+
+attendez avant dachetez ksp2le jeu nest pas optimisé et necessite une config de barjot avec ma 2060 je tiens pas le jeu en faible a plus de 10fps quand je suis sur kerbin cependant jai pas testé sur dautres planete il ny aucune nouveauté par rapport à ksp 1 alors certes le jeu est plus beau graphiquement mais franchement sa ne vaut pas 50 de plus ksp1 pouvait obtenir le même niveau de graphisme grâce à quelque modsfranchement si je navais pas passez 3h à tenter de faire fonctionner le jeu jaurais demandé le remboursement
+
+edit 110  je ne recommande toujours pas le jeu mais je dois reconnaitre que les devs ont bien bossé sur loptimisation du jeu car celuici est devenu jouableen effet sur la 10 je tournais le jeu en faible et en fhd entre 425 fps tandis que maintenant le jeu tourne entre 1875fps en moyen et en qhd donc excellent progrès en termes doptimisation mais alors pourquoi je ne recommande pas ce jeu malgré quil soit jouable et bien tous simplement car il nas aucun intérêt réel par rapport à ksp1 car il ny as pas de nouveauté réel donc attendez les mises à jours importantes avant de dépenser 50
+
+edit 120  encore de loptimisation désormais finis les freeze au moment de lallumage de mes moteurs sur le pas de tirs le nombre de fps moyen est en légère augmentation 1015 cependant toujours quelque problème à signaler par exemple lorsque lon regarde le ksc depuis une altitude de quelque kilomètre les fps chutent gravement passant de 40 à 16fps malgré une mise a jour de quasi 1 go pas de nouveaux contenu ainsi je ne changerais pas mon évaluation mais je reconnait que les développeurs bossent bien sur loptimisation du jeu jai hâte quil rajoute enfin du contenu supplémentaire par rapport à ksp1
+
+edit 20 je ne modifie toujours pas mon évaluation je ne recommande toujours pas ce jeu au prix actuel toujours rien de nouveau comparé à ksp1 meme si le mode science apporte un réel interet a jouer aux jeu comparé au mode sandbox qui est sans grand interet vivement la 30 avec les colonies pour avoir enfin du nouveau par rapport a ksp1 stock
+
+#####
+
+un scam à 50
+
+le jeux devrais etre interdis à la vente 
+
+#####
+
+httpsyoutubem61phucrgzq
+
+il a beau avoir pris du grade en esthétique et avoir grandement amélioré son interface le rendant plus accessible  ça nen reste pas moins un jeu loin et même très loin dêtre abouti malgré le temps déjà consacré pour son développement 
+fps faible malgré une config plus que recommandé  pas de mode carrière  science et recherche absente  les sauvegardes sont corrompues et on a souvent a faire face au kraken  breff  patientez si vous le pouvez 
+
+ah et joubliais un point important  son tarif qui frise le ridicule 
+
+#####
+
+le jeu est mis à jour régulièrement et va petit à petit devenir le ksp 2 dont nous rêvons tous pour linstant le jeu inclut assez de fonctionnalités pour samuser au même titre que sur ksp 1 grâce au nouveau mode exploration cependant le jeu contient encore de nombreux bugs qui gênent parfois lexpérience de lutilisateur mais sont corrigeables en chargeant une partie f5f9
+
+#####
+
+nayant jamais jouer a ksp premier du nom je nai jamais osé ca semblait compliqué je me suis dit que larrivé du 2 serait un bon moment pour moi pour me lancer 
+
+jai un peu douté au depart a cause du prix et des retours negatifs que lon voit un peu partout 
+
+disons le tout de suite  je trouve effectivement que le prix est un peu elevé pour ce genre de jeu qui plus est en early access
+
+mais jai passé le cap quand meme et tenté ma chance finalement je ne regrette pas je mamuse bien et jai appris beaucoup de chose sur lespace 
+
+pour resumer  si vous etes dans mon cas un bon pc pas de soucis a payer 60 cad pour un early access et que vous navez pas joué a ksp 1 allez y cest fun 
+
+
+#####
+
+un peu beaucoup déçu par learly access ça fait au moins 2 ans que le jeu aurait dû être sorti par léditeur originel et malgré le changement déditeur et des promesses commerciales le contenu attendu nest pas présent avec le temps de développement depuis lannonce initiale je mattendais à plus de nouveau contenu
+le jeu galère un peu pour une petite fusée qui permet daller sur la mun et tourne à moins de 60fps 20fps lors du lancement
+il ny a pas non plus la vue intérieure comme il y avait sur ksp1 ni la science il ny a que le mode sandbox actuellement
+
+ce qui me manque aussi cest de pouvoir choisir le drapeau de la nasa ou de lesa qui ne sont pas présent
+
+malgré ces points négatifs il y a quand même du positif 
+ dans le vab on peut voir directement le dv nécessaire pour un vol seul bémol là dessus  on ne peut pas demander uniquement lorbite de kerbin ou lorbite geostationnaire de kerbin ou des autres planètes  astres
+ un accès directement depuis la vue vaisseau à laltitude de ap et pe avec le temps nécessaire pour y arriver
+ loutil de planification de manoeuvre est bien fait avec un visuel de la trajectoire réelle du vaisseau  point négatif  lors du début de la manoeuvre le point de manoeuvre sactualise avec la trajectoire je pense quil devrait rester à son point initial pour garder laperçu de la trajectoire
+ le jeu est graphiquement beau les différents astres également
+
+#####
+
+dans létat actuelle le jeux est limite injouable
+énormément de bug
+aucune optimisation le jeux lag énormément
+contenu très limité voir inexistant 
+beaucoup trop cher 50 pour un jeux dans cette état cest inamissible
+un conseil attendez encore 6 mois minimum pour voir ou en est le jeux avant de lacheté
+
+#####
+
+it is early acess why are people not recommencding the game because theres not all the features and a lot of bugs 
+its litteraly the day of the release of early access there is going to be bugs and missing featues  even the devs told us their slow approach at adding stuff onto the game as time goes on 
+this game deserves more love be patient 
+
+#####
+
+20 trop cher mais sinon tout le reste est cohérent avec une early access
+attention ne pas trop compter sur les sauvegardes cest très buggé
+a voir dici 2 ans
+
+#####
+
+cet accès anticipé nest pas à la hauteur du ksp 2 tant attendu mais en létat le jeu laisse entrevoir de belles possibilités
+jespère juste que les maj vont suivre et permettront de rendre le jeu aussi voire  fun que le 1
+allez un bonne optimisation des améliorations de graphismes le mode science et ce sera déjà pas mal pour une alpha à ce tarif 
+
+#####
+
+mieux que le 1 les sons des moteur hummm
+
+#####
+
+cest bien la première fois que je prends le temps de rédiger une évaluation négative sur un jeu et la toute première fois aussi que jai demandé un remboursement
+
+clairement cette early access aurait été vendue pour 1520 je naurais pas râlé mais là je me sens obligé de pousser un coup de gueule contre ce jeu pourtant héritier dun ksp1 que jai adoré et arpenté pendant des centaines dheures
+
+voici une liste non exhaustive des raisons pour lesquelles il ne faut pas acheter ksp2 dans son état actuel et à ce prix 
+ la refonte graphique promise est loin dêtre aussi impressionnante que prévue jai pu jouer avec tous les paramètres au maximum sans trop de problèmes de fps et je nai pas trouvé les textures extraordinaires à peine mieux que ksp1
+ la refonte de linterface est assez catastrophique en létat outre la navball sur la gauche détail facile à régler le design pixelisé choisi est une horreur certains textes en sont à peinte lisibles et lensemble manque grandement de clarté
+ la map qui était un outil de gestion indispensable sur ksp1 est vraiment mal fichue sur cet opus la navigation y est laborieuse avec un clic droit servant à guider la caméra et ouvrir un menu contextuel en même temps les données orbitales sont moins lisibles que sur ksp1 et la planification de manœuvres plus grossière
+ la physique du jeu est loin dêtre correcte a lamerrissage votre capsule ira stagner en position verticale 10 mètres sous la surface cest dommage les vagues sont assez joliment faites ceci est assez caractéristique de problèmes de collision des textures quon retrouve dans de nombreuses étapes du jeu je préfère ne pas parler de ma seule tentative de docking et datterrissage sur la mun
+ plusieurs fonctionnalités basiques ne sont pas implémentées comme les effets de la rentrée atmosphérique effets thermiques comme effets graphiques les modes carrière et science et aucune fonctionnalité censée faire la nouveauté de cet opus na encore vu le jour
+
+la litanie sarrête là mais parce que je nai passé quune heure à tester le jeu trop court me diront certains mais largement assez à mes yeux pour savoir que ça méritait de ne pas dépasser les deux heures et demander un remboursement
+
+je suivrai le développement en espérant que le ksp2 qui nous est promis verra le jour et changer cette évaluation pour un pouce bleu mais les signaux ne sont pas bons pour le moment tant le jeu est de piètre qualité pour des années de développement par un studio qui ne manquerait pas de moyens
+
+#####
+
+un jeu très mal développé pas du tout optimisés 
+
+9900k  32gb de ram  3080    4 fps  oui quatre 
+
+
+
+#####
+
+vraiment déçu je sais que cest du early mais la quand même  on est très très loin du 1er opus
+
+#####
+
+strike wait for it to get better right now the first game is way superior its easy to hide lameness behind the early access sticker but even simple features of the first game are lacking or badly modifiedstrike 
+
+the game is now good enough to me to justify buying it there are still some things missing but its at least as enjoyable as kerbal 1 now i recommend it
+
+#####
+
+incomplet en ea mais prometteur ce jeu a un grand avenir devant lui 
+
+#####
+
+alors conseiller ou ne pas conseiller  tel est la kerbalsion
+je vais mettre un oui de principe car je trouve le travail intéressant mais le prix est trop cher cependant je crois au potentiel de la copie et je considère létat early access
+
+ honnêtement actuellement ya une super séance dentrainement pour apprendre les bases de kerbal comme on aurait aimé dans le premier ce qui évite pour le profane pas mal dheure dapprentissage voir de vidéo pas toujours clair pour apprendre les rudiment de la mise en orbite
+
+ je trouve le jeu pas mal visuellement à lexception de ce anti aliasing horrible qui me défonce la rétine à la longue mais je me fait vieux honnêtement
+
+o alors jai probablement de la chance mais jai aucun soucis de stabilité ou de performance pour le moment jai laissé tout au max mais résolution 2k pas plus jai pas mal de ram et une config correct donc ça nest pas nécessairement représentatif
+
+ ya pas mal de simplification et dans la gestion de la fusée perso je trouve linterface très clair mais jai lu que certains sen plaigne alors je dirais que cest une question de goûts et couleurs
+
+ je suis un joueur en mode campagne actuellement ya que du bac à sable cest clairement une bêta fonctionnel mais ou vous navez que le fonctionnement de base du jeu
+
+ pas de contrats pas dobjectifs pas dargent pas dinteractions autre que la simulation de base
+
+ beaucoup de promesses cest une chose inquiétante car même si la base est là le jeu vas souffrir longtemps de sa condition actuel de sortie a surveiller le débit de mise à jour
+
+o jai vraiment hâte de voir ou on vas avec le jeu car jen ai franchement marre du rendu graphique du précédent et quoi quen disent les adeptes on est limité dans lamélioration de celuici même avec toute la bonne volonté et les mods de lunivers
+
+o trop cher pour le rendu actuel jespère quil y aura un geste sur les potentiels addon pour remercier les acheteurs de lea car là on ce demande si on dois pas refund pour reprendre biennnnn plus tard
+
+vous êtes prévenu à ne prendre que pour soutenir ou si vous adorez le bac à sable du premier
+
+#####
+
+impossible de recommander kerbal space program 2 pour linstant le jeu ne contient quun mod sandbox truffé de bugs et a de gros problèmes de performances après tant dannées de développement et à 50 euros difficile davaler cette pilule même pour une early access
+
+#####
+
+très bon jeu  extremement prometteurs 
+
+
+
+#####
+
+ a
+
+#####
+
+comme annoncé cest une early acces donc pas du tout surpris du contenu personnellement je suis hypé par le jeu et hâte de le voir évoluer au fil des mois
+
+je pense que la sortie du jeu vas faire baisser la pression sur les devs learly acces vas permettre daméliorer le jeu avec la commu 
+
+les graphismes sont vraiment ouf par rapport au 1 le jeu est beaucoup plus accessible pour les débutants il est aussi beaucoup plus simple à prendre en main pour linstant on a un ksp 1 remasterisé dans quelques mois on aura ou ksp 2 avec toutes les fonctionnalités quon attend tous 
+
+#####
+
+je modifie mon commentaire enfin le jeu est jouable et cool  il est comme il aurait dû être à sa sortie
+
+#####
+
+basically ksp in sandbox mode needs optimization but runs smoothly on a laptop with rtx2060 8gb ram
+waiting for the career mode to be available to fully enjoy the experience
+
+went to the vab built a rocket set a stable orbit around kerbin so far
+
+#####
+
+config test 
+laptop asus rog g14 
+ryzen9 avc 16 go de ram
+rtx 2070
+
+
+
+cest jouable mais cest clair quil faut bien régler le jeux à la baisse testé en 60hz alors que mon moniteur peut aller jusquà 144hz en 1080p jai pas dépassé les 30 fps sur kerbal
+
+alors premier avis en essayant de rester objectifça va être dur pour un fan de la 1ère heure dorbiter
+
+le jeux est clairement encore à optimiser niveau perf je me rappelle du 1er sur i7 de 2011 avec 16g de ram et une cg nvidia à 2go de ram cetait idem sur la 1ère version bcp de ralentissements qui ont été corrigés pour la pluspart sur la 1ère année
+
+bon le ton de lhumour les ref aux grandes années de la conquète spatiale tout y est pour nous faire revivre des centaines dheures de jeux dans las années qui viennent 
+
+pour le moment seul la compagne est dispo  un mode entrainement pour ceux qui ne maitrisent pas le jeux et encore le mode campagneprogramme spatiale et pour le moment inachevé on a que la techno de base comme dans le tiers 1 de ksp1
+
+ya du taf messieurs les dev  on attends avec impatience les prochains patchs 
+
+jeux acheté dès la sortie pour soutenir le développement la note que je mettrais également gros potentiel en tout cas pour ma part
+
+
+#####
+
+acheter le jeu a ce stade cest acheter la promesse dun bon jeu bfuturb cest payer 50 pour soutenir le développement et non pour avoir un bon jeu baujourdhuib
+
+plantons un peu le décor je suis un énorme fan de ksp 1 jai presque 2500 h dessus et il mamuse encore comme au premier jour jattendais donc ce jeu comme pas permis ayant suivi le discord et toutes les news de ces dernière semaines sur ksp 2  je savais quil risquait de décevoir et malheuresement  cest ce que je craignais apres avoir essayé bon on retourne sur ksp 1 pour linstant le jeu est pas jouable pas au niveau performances ça je mattendais a pire  mais le jeu est vide pas ergonomique et full buggé 
+
+voila mon avis plus détaillé pour le moment
+
+négatif
+le jeu est quasiment vide pas de science moins de pièces que ksp 1 sans ses dlc ce qui fait quon sennuie sévère si on a déjà ksp 1  car il est meilleur en tout point
+les contrôles sont catastrophiques le sas essaye de te tuer en permanence car il surcorrige les corrections de trajectoire ce qui lui fait faire  légèrement a droite stp  tourne a droite  non la cest trop  tourne a gauche stp  tourne a gauche  non trop encore tourne fort a droite  se balance de toutes ses forces a droite  et bam ta fusée se disloque car trop de forces aérodynamiques
+les bugs graphiques sont permanents ça a la rigueur cest pas grave  
+la physique est a la fois très proche de ksp 1 et aussi plus réalistes mais vue que linterface est mal faite tu nas aucun moyen de comprendre ce qui se passe dans le feu de laction
+lui a été modernisée mais elle est devenue trop jolifiée trop voulue être belle au détriment du compréhensible ce qui fait que maintenant tu perds du temps a chercher tes infos sans compter que les fenêtres de caractéristiques qui sont en pop up envahissent ton écran comme minecraft avec lui interface la plus grande possible
+
+positif 
+la physique est excellente quand tu ty habitue
+le son est tellement meilleur
+les rares nouvelles pièces montrent quils ont compris ce que les joueurs aimaient dans le 1
+le jeu est rendu enfin accessible avec les nouveaux tutos
+ils ont déjà identifié certains des problèmes qui rendent le jeu très gourmand et ont proposé des solutions en attendant que ce soit patché pas plusieurs moteurs reliés au même réservoir 
+le moteur graphique a lair de bien marcher   bien que mal optimisé
+
+pour linstant je le recommande pas mais je regrette pas mon achat car je savais que ça allait etre une déception mais cest un des rares jeu a qui je fais confiance pour quil saméliore  jespère pas me tromper
+
+en espérant que cette évaluation devienne très vite obsolète et quon se retrouve encore a passer des milliers dheures à rêver dans lespace car la roadmap nannonce que tu très bon a venir
+
+#####
+
+super jeu dans la lignée du 1
+il manque beaucoup de chose et un peu doptimisation mais cest une base très solide 
+
+#####
+
+fuyez 
+les bug present trahissent dénorme probleme darchitecture et un développement hasardeux 
+
+cest a peine jouable  beaucoup de probleme  beaucoup  visuelement laid  20 fsp en low  un nombre de bug pas possible   il y a pas grand chose a faire pour linstant  linterface utilisateur est aussi intuitive que la jungle la nuit  tres decu pour linstant
+
+#####
+
+beaucoup de critiques négatives alors que le jeu est seulement en early access et quil saméliore beaucoup contrairement à cities skylines 2 qui est même pas en ea
+je recommande car beaucoup daméliorations comparé au premier opus
+
+#####
+
+une vrai déception alors que je lattendais depuis lannonce encore moins de contenu que le 1er une optimisation catastrophique meme avec une 3080 le jeu peine au possible on ce demande ce quont fait les développeur depuis 2019 malgré que ce soit un early acces la il ce fiche clairement des gens car en létat ou il est cest une honte de demander 50 sa sent le jeu avec plein dannonce mais au final on verra meme pas la moitié de ce qui a été annoncé passer votre tour et regarder dans 2 ans
+
+#####
+
+beauuuuuucoup trop cher et franchement injouable car truffé de bugs en tout genre
+
+#####
+
+évaluation qui évoluera avec le temps mais a ce stade je ne conseillerais pas ce jeux du tout  la communication au tour de cette earlyaccess des ces configurations minimal et surtout sont prix sont un crachat au visages  passé votre chemin pour les 23 première année  et joué au premier opus avec des mods graphique pour les néophytes
+
+#####
+
+comme bon nombre de personnes jai été très déçu par ksp 2 alors que le jeu a 4 années de retard et que pour justifier se retard les devs avaient dit quils voulaient nous donner un contenue de grande qualité et que pour cela il leur fallait plus de temps mais quand on vois le résultat je me demande vraiment à quoi on servie ses 4 ans il lag à fond et il manque une quantité colossale de contenue on dirait une démo  donc pour 50 ça fait chère la démo quand même je me suis fait remboursé car pour le moment jai pas vraiment confiance dans les devs je craint que lavenir du jeu soit sombre il ny a même pas toute les fonction de construction quil y avait dans ksp 1 notamment celle de pouvoir ajuster les pièces et il y a beaucoup moins de pièces que dans ksp 1 sans oublier que pour le moment il ny a pas la science non plus ni le voyage interstellaire ni la colonisation ni rien de se qui était annoncé ça viendra plus tard daprès leur feuille de route donc à quoi on servie les 4 ans de retard pour le moment je ne le recommande pas malheureusement il est préférable dattendre quil y est des mise à jour et voir à quel rythme elles sortirons car à mon avis le jeu pourrait éventuellement être bien dici 2 ans minimum
+
+#####
+
+en létat impossible de recommander learly access
+le jeu a quasiment trois ans de retard léditeur take two maisonmère de private division a provoqué la fermeture du studio star theory qui était chargé du développement de ksp2 en débauchant 13 de leur personnel et en leur retirant le projet en plein développement
+
+daprès la presse anglosaxonne léditeur avait annoncé en 2022 que lea contiendrait presque toutes les fonctionnalités du premier opus ce nest pas le cas vous navez accès quau bac à sable la thermodynamique est absente pas de chaleur à gérer lors de la rentrée atmosphérique alors que les boucliers thermiques sont présents impossible de désactiver certains réservoirs manuellement dans le vab pour éviter que votre fusée ne pompe le carburant rcs de votre satellite au lieu de prélever celui de la fusée par exemple etc en létat trois ans de retard pour ça cest très décevant on a limpression que ce retard na pas apporté grand chose que ce soit en terme de contenu ou doptimisation
+
+le jeu est particulièrement mal optimisé avec ma rx 6700xt 32go de ram et mon amd 3600x je plafonne à 1720fps au lancement de la fusée avec les graphismes entre moyen et élevé laniso désactivé et laa à seulement 2x et apparemment je suis chanceux ceux qui nont pas les moyens de débourser 600 pour une cg récente le sont moins et la qualité visuelle du jeu ne justifie pas du tout ces performances cest joli mais pas de quoi exiger une telle config pc laspect années 7080 de lui est originale mais rend très mal au point de rendre difficile à lire certaines informations importantes en vol le jeu encaisse très mal les fusées de plus dune dizaine de pièces même en restant dans le vab au point de freezer plusieurs secondes quand vous sélectionnez une pièce pour la paramétrer
+
+jai envie de dire que take two paie ses choix passés le problème cest de le faire payer aux joueurs 4999 je suis assez conciliant avec les ea en règle générale the forest dayz project zomboid empyrion the long dark rimworld prison architect etc je suis un habitué des ea on va dire  mais là trois ans de retard sabordage du studio originel et 50 plus tard sans nouvelles des devs depuis le 2502 cest difficile à avaler ttprivate division ne peuvent en vouloir quà euxmêmes si les évaluations sont si mauvaises je pense sérieusement à demander un refound si aucune mise à jour ne se profile dici la fin de la semaine au moins sur le volet optimisation en espérant que loptimisation soit la priorité et non lajout de contenus inutiles pour linstant vu la faible jouabilité du jeu actuellement sauf si vous aimez jouer en mode diapo bien sûr ou que vous prévoyez dacheter un pc highend juste pour ça
+
+#####
+
+franchement cest une grosse déception  h1actuellement le jeu est purement injouableh1
+je le reprendrai peut être si lexpérience saméliore dans les mois qui viennent 
+je retourne jouer sur ksp1 du coup 
+a bon entendeur les devs ont rien foutu clairement
+et on dirait même que les patchs 1 et 2 ont été prévus bien a lavance
+va pas falloir me dire que pendant 3 ans ils ont rien foutu mais quil corrigent 600 bug par mois  
+bref une cagnotte pour private division sauf si tout le monde se fait rembourser 
+jai bien prévu mon coup en jouant vite fait du coup
+
+le 23 juin 2023 je reprend le jeu a 20 cest  dire 3990  je vais y jouer 30 minutes max pour voir si le
+patch 3 change quelque chose à cette catastrophe  et me permettre de pouvoir me faire rembourser si besoin 
+a suivre 
+
+#####
+
+tres bon jeux  qui reste prometeure par la suite  car il reste des probléme a régler et des contenu  on passe avec se jeux des trés bonne soirée devant
+
+#####
+
+trop de bug actuellement
+
+#####
+
+8 months and still not a playable game inflation made these 50 hard to digest nowadays 
+
+#####
+
+h1évaluation première h1 
+pour un early ces purement du vole voila ce jeu vaux même pas 10 vue le contenue et les problème que sa occasionne
+
+h1évaluation deuxième h1 
+au bout de 2 mise a jour le jeu semble plus fluide moins bug même si y en a toujours jai enfin pu faire un aller retour kerbin mune en faisant un amunissage
+
+#####
+
+après 3 moistoujours pas de vrai mode campagne et le multijoueur comme annoncer
+
+#####
+
+cest dramatique 
+moteur graphique aux fraises moteur physique aux fraises pire choix du moteur du jeu ever on connaissait les limitations du 1 à cause dunity là cest pareil 10 ans plus tard 
+
+mais questce que les devs ont fait pendant tout ce temps  questce qui a changé par rapport au 1  en mieux je veux dire parce que en pire ya plein de choses par contre 
+
+vraiment une honte quelle déception
+
+edit  10122023  si je pouvais mettre une double mauvaise évaluation je le ferais cest inadmissible une arnaque quelles mauvaises surprises lupdate science va bien pouvoir nous tomber dessus encore  rien ne fonctionne correctement dans ce jeu
+
+#####
+
+le jeu a du potentiel oui les gens il y a des bugs par pour rien quon appelle une alphadonc les fragile rester sur ksp1 le temps que ksp2 évolue comme ça été la cas avec ksp1 en 2011
+
+#####
+
+ test fait lors de la 1er release 
+
+résumé 
+
+si vous navez pas fait le 1er kerbal etou que votre pc nas pas une rtx 3070 ou mieux passer pour linstant votre chemin et aller sur le 1er ksp plus complet moddable et bien  léger
+
+si vous avez un pc de compét et que vous avez adoré le ksp1 je vous recommande le 2e déjà pour soutenir les devs qui ont clairement subi des pressions de léditeur que je vous incite à gronder sur les réseaux pour sortir une ea pas au point une early de early access d
+mais aussi car il y a quelques nouveautés sympa des graphismes vanilla meilleurs une bande son et des animations au poil quand pas à 15fps mdr et perso jaime la nouvelle ui
+
+ mon avis perso
+
+ksp2 et moi ça été lassesseur émotionnel victime dune save qui est parti en freestyle 5fps même avec une fusée des devs puis ensuite impossible de lancer quoi que soit jai décidé de refaire une 2e save pour insister et faire des tests notamment motivé par notre jdg national aka prof henry muller du centre spatial toulouse matabiau
+
+ben jai bien fait car jai eu beaucoup moins de bugs genre vraiment  à par le pb de physique des vaiseaux en terme de joints reporté par beaucoup et le classico 30fps max en rtx 3070 le jeu fonctionne enfin sans bugs 
+
+ce qui mas permis en 1h après cet essai datteindre mun sans tuto prend ça henry muller et avec seulement 2 crash avant réussite bon comme lui suis rester sur place mdr
+
+ensuite jai essayé de faire des avions  et bordel cest moi où le jeu est bien plus plaisant pour les avions maintenant 
+personne en parle mais cest genre 5x plus facile de faire un avion fonctionnel les nouvelles ailes procédurales y sont pour beaucoup permettant davoir une bien meilleur portance a design équivalent que kerbal 1
+
+on peut aussi peindre nos fussées sympa mais pas encore essayé
+
+parlons interface et que dire à par bravo 
+a par le système de manouevre qui parfois bug et en fait quà sa tête il est bien  simple dusage bien que déroutant pour les hardcore du 1er kerbal en tout cas moi et jdg il semblerai aussi ça été clairement  simple
+aussi le timecode pour surveillé le temps avant début de manouevre la fin ainsi que le barre de progression avec les numéros de stage quand on doit changer de stage juste bravo 
+le code couleur dans lediteur la meilleur idée du jeu   fini de fouiller entre toutes les pièces pour trouver les correspondances design en fonction du gabarit de la fusée
+en vol jaurais préférer garder la nav bole au centre mais on sy fait et cest cohérent avec laide aux manouvre
+
+parlons bande son et animations
+alors bande son toujours au poil musique aussi bien que le 1er on retrouve nos grands classiques
+mais lajouts de divers bruitages en autre communications radio augmente limmersion sans oublier aussi le bruit des moteurs améliorer
+en terme danimations entre les fumés sur le pas de tir le kerbal qui réagit aux g et vraiment avec un sens cohérent la trainé aérodynamique la trainée sortie des gaz qui ce dilate avec lattitude comme en vrai et jen passe cest une très belle progression et cest les détails à la con qui rend le jeu  plaisant
+
+graphismes 
+le jeu est clairement plus beau que son prédécesseur de base quand on a une machine adapté rtx3070 même si décevant comparer aux trailer
+
+physique 
+0 différence ou presque comparer à kerbal 1 à mon niveau de joueurs a par celle des avions qui semble bien meilleurs le kraken nas pas été tué et bonjour donc la chute de fps
+
+contenu  
+cest le  décevant cest clairement plus vide que kerbal 1 en vanilla même sans prendre en compte les dlc
+faudra vite des majs sinon on va vite senmerder fermement au centre spatial toulouse matabiau
+
+bugs 
+cest la loterie ma 1er save en a été pourri 
+la 2e il y en reste 23 mais pour linstant ça va 
+
+conclusion 
+ksp2 est larchétype du jeu sorti trop tôt toutes les bases sont là il y a plein de trucs clairement mieux mais sa sortie anticipé provoque une vague de problème qui oculte pourtant les qualités
+les devs semblent clairement à lécoute des retours on peut espérer un scénario à la no mans sky avec une remontada pour tenir le calendrier de fonctionnalités dici là et faire le ksp2 dont on rêve tous bon aller les gars sil manque juste le multi à la fin on passera léponge
+
+si vous avez jamais joué à kerbal etou que votre pc est comme celui du cdi passer votre chemin et aller sur le très qualitatif kerbal 1
+
+si vous faîtes pas confiance aux devs pour améliorer ksp2 rester sur le 1
+
+mais si comme moi vous avez envie dy croire ben rejoigne laventure ksp2 et sa chase aux bugs cest comme pâque sauf que cest toute lannée x
+
+en tout cas après plusieurs doute je rejoins laventure ksp2
+
+et comme on dis à toulouse  on travail à un futur où nos enfants pourront manger des chocolatines sur dautres planètes
+
+#####
+
+50 euros pour avoir un jeu qui a moins de fonctionnalité que le 1er volet faut le faire
+cest buggé dans tous les sens même pas possible de faire un simple aller retour kerbinminmus
+ trop de bug
+ pas de base
+ pas de multi
+ pas de monté de sciencescenario uniquement un mode sandbox
+
+aujourdhui ce jeu ne vaut vraiment pas son prix
+
+#####
+
+6090fps i9 10th 3090ti
+je ne peux pas le recommander a ce prix
+
+#####
+
+c est juste injouable en l état 4 ans de dev pour cette chose la road map sera pas tenue je vous dit d avance vue l état du jeu  il ont juste besoin de remplir les caisses pour repartir sur 3 ans de branlette et c est les modeur qui feront le taf pour pas un rond
+
+#####
+
+franchement le jeu a de très belle nouveauté
+ 
+par contre il y a plusieurs problèmes qui me dérangent les menus lhud et le menu construction il y a beaucoup trop déléments sur lhud qui était mieux adapté sur ksp 1 le menu construction cest quoi cette idée de mettre les icônes des propulseursréservoirsetc en dessin sérieux  on prend beaucoup trop de temps à comprendre ce que lon trouve ainsi que de trouver ce que lon recherche
+
+cest triste de le dire mais jespère quil y aura un mod ou un patch qui corrigera ça car cest vraiment chiant de passer dun jeu à un autre en ayant ça
+
+dans lensemble les graphismes effets sont parfaits sauf le prix
+
+update 
+
+bon après 53h de jeu je vais rectifier certaines choses 
+le hud est gros mais on sy habitue les graphismes sont beaux même sil y a encore certaines choses à améliorer par contre les performances sont un peu horribles
+
+espérons un patch dici quelques jours
+
+#####
+
+injouable meme apres la mise a jours énormément de bug
+
+#####
+
+sérieux 
+ayant acheté le jeu en mars en me disant dans plusieurs mois il sera encore plus chèretrès chère pour le démarrage de ce jeu
+le jeu est quand même beau des nuages de la végétations une bande son juste superbe
+mais  il est juste injouable après 5 mois et des 10ene de mises à jours
+les contrôles camera sont horribles impossible de rester sur un mode de camera car celui ci réinitialise automatiquement au bout de 10 secondes
+les contrôles sont en qwerty et tous ce mélanges quand on met nos propres touches car il y a déjà des touches assignées au jeu de base qui sont impossibles a modifier
+la physique de jeu  je pense que les programmateurs on codés avec les connaissance de leurs stagiaires le kraken apparaît à chaque fuc vols 
+en 30h de jeu jai réussi a mettre un seul satellite en orbite alors que jai 1100 heures de jeu sur le premier volet donc niveau expérience je suis rodé
+le rachat de la licence par take two est la pire erreur rendez ce jeu à nos chères amis mexicains 
+le jeu est sorti deux ou trois ans trop tôt 
+
+#####
+
+ce jeu propose moins que sa grand soeur a sa sortie en accès anticipé alors que squad était une agence publicitaire a la base
+ interface trop lourdes avec trop dinformation superposé alors que celui de ksp1 été parfait et clair
+ manque dinformation sur les pièces quon selectionne cout éléctrique nombre de place 
+ les graphisme et horrible les textures bave avec un allesigne de fou on a limpression dêtre myope pourtant je suis sur un pc avec un rz 9 et une rtx3060
+ le tutorial nes pas prévu pour les clavier azerty même si vous change les touche dans les reglages ce qui vous empêche de passé a létape suivante
+la freecan bug et ne sactive jamais
+
+une autre preuve que ce jeu a été fait sans passion et pour du fric pas de vue pov pourtant accessible des sa sorti sur ksp1 a aucune moment les dev et léquipe cest dit que le joueur aimerais ce mettre a la place dun astronaute pour vivre les décollages une chose que chaque pasionné ou enfant ferais pour révé un peux 
+
+mon conseil prenez le dans des sites autres et attendez que le jeu soit bien plus avance la dedans pour lacheté jai demandé pour ma part un remboursement et je retourne sur ksp1
+
+#####
+
+je lavais mis de côté suite à la déception de son état day1 je lui ai donné une seconde chance à la sortie du mode sciences et je ne regrette absolument pas ca nannonce que de bonnes choses pour la suite lachez rien 
+
+#####
+
+une catastrophe technique un contenu equivalent au 1 en 2013 pour le moment la deception de lannée
+
+#####
+
+je recommande ce jeu
+mais ne vous attendez pas à un jeu complet pour autant il reste trop de contenu à ajouter et de bugs qui vont normalement être patch en décembre 2023 si vous soutenez ce jeu et son développement lacheter à 50  peut être logique mais sinon cest beaucoup trop cher pour un jeu qui possède moins de contenu que le précédent jeu  même en promo cest encore trop cher pour le jeu en létat actuel
+je recommande ce jeu notamment pour leur physique de leurs avions qui rend beaucoup plus agréable et logique le pilotage des avions que dans le premier opus 
+en revanche pour ce qui est des fusées seul le bav et lui est intéressante par rapport au prédécesseur sinon le pilotage et les manœuvres de ces dernières sont terriblement mauvaises les fusées sont pour linstant des knacki volantes en vol les fusées oscillent de gauche à droite tellement que si votre fusée est trop longue elle va commencer à se replier sur elle même   jespère que la team de dev va tenir leur promesse et sortir lupdate for science sans ce problème des wobbly rockets
+
+en bref ce jeu aujourdhui ne peut être bien que pour ceux qui soutiennent le développement et ceux qui veulent une meilleure physique pour les avions
+
+le meilleur jeu restera pour linstant le premier à voir dans un an ce que ce jeu nous offrira 
+
+jespère tout de même que le développement se passera comme un certain no mans sky en espérant que les fonctionnalités seront au rendez vous rapidement  et sans annulation du projet
+
+#####
+
+3h au compteur 
+
+je tourne avec un i7 980x42ghz et une rx480 amd qui tourne à 1250mz effectivement les jours de cette config sont comptés mais ça fait pas trop mal tourner les jeux récent en 1080p encore aujourdhui disons quavec un mix des options graphiques en lowmediumhigh on peut avoir des fps et une expérience visuelle très correcte sur des jeux très récent
+
+alors ce ksp2 nest absolument pas optimisé mais du tout je dirais quon ne peux même pas parler doptimisation optimiser quelque chose cest quand ça marche pas trop mal et quon veut gagner en fps 
+içi il y à une sorte de quelque chose un bug problème de textures ou autre qui fait au niveau des terrains quand la caméra pointe dessus ça tourne vers 15fps parfois moins et plus vous ajoutez de boosters plus le nombre de fps chute 
+
+si jamais vous avez potato pc comme on dit même si ksp1 tourne bien avec ce deuxième opus cest une catastrophe oubliez pour le moment sauf peutêtre pour soutenir les devs ce que je fais on verra si jai eu raison ou pas
+
+je ne comprends pas comment au moins ils naient pas mis à disposition quelque chose de fluide un truc moche ou il manque des pièces et feature très bien cest une ea mais la nous sommes à la limite du jouable pour je rappelle quelque chose de moche 
+
+quon til fait pendant 4 ans  
+
+jai limpression quils ont portés ksp1 sous une nouvelle version dunity car on se retrouve avec les mêmes bugs que le 1 alors que les développement repartaient de from scratch 
+
+oui cest une early access mais se retrouver avec des performances aussi moisies pour rien en plus je crains vraiment pour la suite 
+
+pour linstant cette ea mapporte plus de craintes quautre choses
+
+jéditerai mon commentaire en fonction des maj pour linstant très déçu des perfs qui ne sont absolument pas à la hauteur du rendu 
+
+bref les points positifs de ksp2 pour linstant 
+
+ systèmes dailes dynamique 
+ time warp pendant une accélération 
+ la pause permet enfin deffectuer des actions sur le vaisseau
+
+les point négatifs  
+
+ les parties dans le vab pas très reconnaissables faute à la 2d
+ loptimisation comment on peut sortir une ea qui tourne aussi mal 
+ le part manager super chiant et qui en plus lag on ne sait pas trop quelles pièces on édite 
+ loptimisation
+ le key binding le jeux ne reconnais pas le mapping fr
+ pas de support de manettejoystick
+
+#####
+
+alors déjà voici mes spec rtx4070ti et i713700k
+alors personnellement je suis en full ultra en fullhd et jai aucun problème à par au décollage évidement
+honnêtement oui le jeu est bien plus lourd mais faut pas abusé ça tourne puis surtout que le jeu est encore en accès anticipé
+et on sens fou un peu le nombre de fps au décollage cest pas un jeu ou les fps son extrêmement important
+alors oui faudrai optimisé mais vous pouvez lacheter 
+par contre 4999 c est du grand nimporte quoi acheter sur les site tierces le jeu vaut 30
+
+#####
+
+une trahison
+
+
+cest plus ou moins comme ça que je prends kerbal space program 2 pour le moment je suis extremement déçu de voir un résultat aussi maigre après son annonce en 2019 pour une sortie annoncée en 2020
+
+pas de mode sciences trés peu de rajouts si ce nest graphique ce que des mods de ksp 1 pouvaient faire des lags dés le moment que kerbin entre dans votre champs de vision
+
+passez votre chemin pour le moment le jeu nen vaut réellement pas le coup attendez de voir si le jeu recevra des mises a jours ou si les dévelopeurs décideront de sauter du navire
+
+bref il ne me resque plus que mes yeux pour pleurer une déception attendue depuis 3 ans
+
+#####
+
+pas au niveau de 4 ans de développement  50 pour ça cest une blague  dés que lon commence a vouloir faire des fusées un peu complexe on tombe a 10 fps  la désillusion de lannée 
+
+edit 27122023  les maj laméliore petit à petit il est enfin fluide et intéressant avec larrivé de la science
+
+#####
+
+ksp est jeu majeur pour léducation des personnes a la mécanique orbital ksp 2 lui succède bien quil y ai encore du travail de développement le titre reste prometteur et plus accessible que son grand frère
+cest lun des jeu les plus complexe jamais développé et jencourage tout le monde a le financer et a être patient
+
+#####
+
+très frustrant le jeu est très beau mais a encore beaucoup de bugs 
+en moins de 3h de jeu jen ai eu 5 dont 2 bloquants
+
+un exemple non bloquant 
+
+httpssteamuserimagesaakamaihdnetugc23098486210973105742bdb5da9a7a0deb5d87337c5b41ea12c9cd65615imw5000imh5000imafitimpolicyletterboximcolor23000000letterboxfalse
+
+#####
+
+le jeu est bon mais il y a encore trop de bug le bonheur de passer une heure sur une mission la finir puis passer 30 min sur la suivante et voir que le jeu a fait retour arrière et vous a remis a la mission précédente
+
+#####
+
+the prerelease was a way to have more money  to finish the game 
+ksp2 is a bad copy of the ksp1  ksp1 is very good
+
+
+#####
+
+broken
+
+#####
+
+je suis quand même surpris avec le retour dexpérience que les développeurs ont pu acquérir sur ksp1 ainsi que le budget alloué a certainement plusieurs millions de   
+
+ ce jeu nest pas jouable en létat 
+
+en effet la plus part des dysfonctionnalités inhérentes aux bétas sont au rendez vous mwais en fait rien ne fonctionne 
+cette suite est peut être sortie un peu trop tot
+
+mieux vaut sabstenir pour ceux qui ont un budget serré car pour 50 par clé produit vendue cest carrément  execessif
+
+a voir dans 1 ou 2 ans comme ça évolue 
+
+
+
+#####
+
+impossible to make decent size rocket for now
+
+#####
+
+voilà nous y sommes le jeu est enfin pleinement jouable bon il y aura toujours des bug a corriger mais ça viendra jadore y jouer même si jai grave du mal a dépasser lorbite de la mune
+
+un point que jaurais bien aimer cest pouvoir géré les gaz avec un système de rétro fusée  que lon ne soit pas obliger de faire un demi tour  pour changer la direction de poussée quand ont a un vaisseaux spatial   exemple un bouton 0 pour inverser la pousser et donc un propulseur développer exprès pour ce système il est bien trop complexe de faire ce système de manière artisanal et les modules rcs ne sont pas assez puissant pour cette fonction sinon jespère quun moddeur pourrais le crée
+
+#####
+
+le dernier update for science ma fait acheter le jeu je retrouve mon kerbal space program que jaime mais en plus joli 
+toujours cet interêt pour lupgrade progressif des pièces de fusée qui permet une progression régulière dans le gameplay tout en douceur
+et pour linstant jai une bonne bécanne mais pas une bète de course et je nai pas de problème de ralentissement ou de saccade
+avec une ristourne de 20 ou 30 chez isthereanydeal je ne me suis pas ruiné je crois que je vais passer noël dessus
+
+#####
+
+acheté à sa sortie la première mouture du jeu était vraiment déplaisante
+
+kerbal space program 2 sest à présent embelli par la dernière mise à jour qui apporte le mode exploration
+celuici propose quelques nouveautés principalement  larbre scientifique une dizaine de missions principales et une trentaine de missions secondaires
+
+je pense quil faut encore laisser mûrir le jeu a titre personnel un mode carrière serait aussi apprécié pour plus denjeux et défis
+il reste de nombreux bugs à corriger  certaines pièces ne fonctionnent encore pas bien comme les découpleurs plusieurs fois je me suis retrouvé après plus dune heure de vol avec une pièce dun vaisseau restée accrochée lors de la séparation dun étage
+jadmets ne pas avoir établi de protocole de test et jaurai peutêtre dû vérifier tous mes étages une première fois avant de membarquer pour un voyage interstellaire soit il nempêche que jai eu limpression de revivre certains mauvais moments rencontrés avec son grand frère ksp
+
+par ailleurs je narrive pas à comprendre que la caméra de léditeur de vaisseaux soit toujours aussi difficile à manier les pièces sont régulièrement compliquées à imbriquer le tout torsadé par des menus dinterface sinistrement pixelisés
+il faut oser le dire   ksp 2 linterface en général nest pas très jolie et la réduction de léchelle de linterface napporte aucune amélioration la finesse des réglages des pièces est rendue laborieuse par des menus grossiers  lexercice de construction devient alors encore plus déplaisant après quelques heures de jeu 
+jai toujours cette amère impression de retrouver ce quil y avait de plus agaçant dans ksp premier du nom  des bugs dont il faut se débarrasser par un chargement dune sauvegarde récente une caméra capricieuse et difficile à contrôler un éditeur de construction qui ne respire en rien la modernité
+
+par cet avis et recommandation jencourage les développeurs à persévérer et à livrer leur feuille de route
+la flopée de corrections de bugs est malgré tout au rendezvous et je reconnais que le jeu est nettement plus agréable à pratiquer quen février 2023 
+
+il nempêche que  
+a ceux qui souhaiteraient se lancer dans laventure ksp2 voici mon message  gardez en tête que la réalisation actuelle du jeu permet de samuser pourtant certaines lacunes persistent et cet opus noffre pas toute la dimension de son prédécesseur et cest bien dommage 
+
+#####
+
+4 mois quil est sorti toujours aussi bugger cest tres décevant
+
+#####
+
+le jeu est remplis de bug attendez encore un peux pour lacheter
+
+#####
+
+une triste déception gros joueur du premier opus qui ma fait réver tant de fois
+payer 60 euros pour un jeu ou 90 de ce qui a été annoncé est inexistant pas de vrai maj vraiment déçu
+
+retour sur le 1er pour continuer à profiter dun vrai jeu sans bug
+
+#####
+
+peutêtre un jour
+
+#####
+
+bonjour 
+j ai demandé un remboursement car effectivement pour une early access a 50  le jeux ne prend pas la résolution de mon écran 5120x1440 obligé de le mettre en mode fenêtre  je préfère attendre les prochaines  évolutions pour le prendre plus tard
+
+#####
+
+version très très early acces du jeu attendre de voir ce que les développeur vont sortir pour la suite ma recommandation est attendre de voir si les développeur ferons les efforts pour apporter ce produit à la hauteur des attentes de la communautés
+
+#####
+
+aie aie aie une torture une eva sans casque est limite une délivrance trop de bugs kraken is back pas fluide pour la majorité des configs une ergonomie déroutante en comparaison a ksp 1
+
+mon avis ne vaut pas le prix pour le moment jespère quil sera rapidement optimisé et amélioré avant la sortie définitive
+
+#####
+
+je rédige ma première évaluation avec le coeur brisée 
+
+fan de ksp 1 jattendais le 2 avec impatience 
+quelle déception 
+
+rien ne vas  a croire que en 4 ans de développement leur seul but était de planter la licence
+linterface est a chiez totalement digne dune école primaire ou ksp premier du nom sans sortait bien avec son coter léger
+
+en mode bav construire sa fusée ou autre et une torture  le zoom le scrolling haut bas pour ajuster les pièces est inexistant  on se retrouve avec plein d option mais inutile tellement c est mal fait et on se retrouve frustré 
+
+l interface bouffe la moitié de lécran les index ou tooltips se superpose les uns sur les autres que l on sait plus qui et quoi 
+l interface des pièces est hideuse avec des graphismes de n64vu la config demander on se demande quoi comment pourquoi 
+
+j ai pas encore quitter l orbite de kerbin  mais déjà la c est moche  alors ksp1 était peut être moins beau et encore  mais ça avait plus de charme sans parler de la framerate qui se retrouve a lagonie  avec un vaisseau dune dizaine de pièce jimagine mal le reste
+
+je narrive pas à comprendre comment on ne peut pas se rendre compte en tant que développeur du ridicule du truc
+sortir une suite pire que la préalpha du 1 alors je crois en ce jeux peut être par naîveté  ce qui est sur c est que a 50 balles  early acces ou pas c est même plus du rackette 
+
+ alors amoureux de ksp premier du nom je demanderais pas de remboursement en espérant des jours heureux et le mal est fait dira t on 
+qui vivra verra  
+mais si il encore temps pour vous  passer votre chemin en attendant de jours meilleurs 
+
+
+
+
+
+#####
+
+pour le moment a fuir 50 pour ca cest ce foutre de la gueule des joueurs je viens de demander le remboursement
+
+#####
+
+bon ben déçu y a beaucoup de bug le jeux est en franglais où tu galères toujours autant au niveau de tes paramétrages
+niveau graphismes ça passe mais bon rtx2070 avec 20 fps bof bof
+niveau contenu cest un peu du foutage de gueule rien de neuf rien dinnovant contrairement aux surprises annoncées
+ok le jeu est en early access mais la vraiment 3 ans dattente jattends les maj car la cest vraiment mauvais désolé de le dire
+
+#####
+
+ne vaut pas absolument pas investissement en létat
+performance désastreuse pour un résultat visuel plus que passable
+peu de contenu interface très désagréable voir illisible
+
+1000h sur ksp1 et celui sans sort toujours bien mieux et plus beau quand on ajoute les mods 
+
+bref passez votre chemin pour linstant en espérant que le temps joue en sa faveur
+
+#####
+
+en terme de jeu ksp1 est plus riche plus stable plus ludique mais ksp2 early accès est une occasion de suivre et de soutenir le developement de la majeure mise à jour du jeu qui permettra le voyage interstellaire et de lavoir pour moins cher du moins lespéronsnous
+
+#####
+
+manque encore pas mal de fonctionnalités mais le potentiel est énorme et le jeu à enfin lair dêtre sur de bons rails après une première phase de développement chaotique
+
+#####
+
+je lis beaucoup de colère sur le faible état davancement du jeu son prix exagéré et ses prérequis démesurés je dois admettre ne pas avoir eu à débourser et posséder une machine qui me permet dy jouer décemment peutêtre estce pourquoi je suis moins fâché que les autres
+
+le jeu est un brouillon qui devra être retravaillé mais les fondations sont solides je ne comprends pas pourquoi ça a pris autant de temps pour en arriver à ça mais jaime quand même le résultat
+
+une fois les bugs corrigés et le ux rectifié et avec un peu dindulgence de la communauté on aura un sapré bon jeu
+
+en attendant cest une curiosité mais une curiosité qui en vaut la peine
+
+#####
+
+test réalisé en alpha le 06032023
+
+kerbal 2 possède en létat un problème évident doptimisation  mais qui jen suis sûr sera améliorer par la suite  mais aussi dautres problèmes
+
+lath semble assez fonctionnelle mais possède un problème dergonomie ainsi quune surcharge de lécran
+1 problème dergonomie par exemple durant les manipulations en orbite ksp 1 été plus épuré sur certains raccourcis durant lassemblage dans le vab
+2 une option simple et clair permettant de switcher entre un ath mode lite ou complet serait le bienvenue pour pouvoir profiter de toutes les nouveautés que réserve ksp2
+
+la maniabilité au clavier pourrait y être plus adapté
+
+
+en létat ksp 2 est à considéré comme les premières versions de ksp 1 en beta il y a déjà  presque  toutes les fonctionnalité dun ksp 1 en version finale il y a déjà matière à faire et à en croire la roadmap le futur nous réserve pleins de bonnes choses
+
+la version ultime reste encore ksp 1 full moddé à vos souhaits mais pour encore combien de temps 
+
+#####
+
+ils auraient du attendre avant de le sortir même en early access  surtout à ce prix 
+maintenant quand on regarde la roadmap nous en sommes quau début et les idées et les projets qui vont arriver sont très prometteurs et il sera surement tres intéressant et agreable de suivre lavancé de ce super jeu
+
+#####
+
+grosso modo cest kerbal1 avec un nouveau moteur et une bonne base pour le futur 
+oui il manque de lopti oui il manque les nouveaux trucs mais cest une early
+
+apres update space science 12024 
+
+le jeux est enfin aussi jouable et interessant que le 1  il manque les mods mais il y a de quoi faire
+l opti est bonne du moment qu on a pas un pc qui a 10 ans
+
+#####
+
+parfait 
+
+#####
+
+4 ans de developpement avec le code du 1 sous les yeux et dans le meme moteur de jeu sortie dune early access a 50 euros early access qui ne tourne pas en low sur un pc gamer a 1500euros avec rtx 3060 encore plus vide que le 1 ne lachetez pas en letat attendez quelques mois pour la correction de dizaines de bug qui vous empechent de jouer explosion de la fusée sans raison physique qui fait nimporte quoi mauvais calculs de plusieurs info du jeu lag freeze crash attendez egalement du contenu qui je pense relevera le jeu comme no mans sky la fait en 2018
+
+#####
+
+vivement la suite du développement essayons de motiver les développeur pour la suite 
+
+#####
+
+un jeu ayant beaucoup de potentiel moins de parts et de défis comparé à ksp1 mais qui sait à ce quont pourra faire dans les prochaines années hâte de tester le mode science qui sortira en décembre 
+vivement un jour le multi d
+
+#####
+
+rien à voir avec ksp 1 dont jétais un grand fan beaucoup de grandes promesses mais quand on voit les mises à jour il faudra 20 ans avant que le jeu soit jouable sûrement pas les mêmes dev que pour le 1 cest une honte ou une grosse arnaque
+
+ps comment faiton pour demander un remboursement sur steam jai plus de 100 jeux sur steam dont quelques grosses daubes mais jai jamais été autant déçu 
+
+#####
+
+très déçu en létat actuel du jeu 
+
+les  
+
+ les textures des parts sont belles
+ la physique est bonne comme sur le premier me direz vous
+ quelques nouvelles parts dispo en mode bac a sable
+ possibilité de custom les parts couleurs
+ les flammes des réacteurs sont superbes 
+ le son lors de lallumage et le son en général de la propulsion
+
+les   
+
+ un seul mode dispo a lheure actuelle j1 apres la jour de sortie  le mode bac a sable avec la plupart des parts que lon connaissait
+ graphiquement le jeu galère les nuages sont dégeulasse et on a quune seule envie cest daller dans lespace et dadmirer le reflets du soleil sur la fusée parce que bon ya que ça qui mérite le détour ne parlons pas des textures au sol même minecraft a plus de nuances de pixels dans son état dorigine que ce ksp 2
+ un hud légèrement trop grand et pourtant je suis sur un 32 on aurait apprécié pouvoir changer la taille de celuici
+
+en bref  
+
+il ne vaut pas son prix actuel vu ce que lon a à notre disposition restez sur le 1 pour le moment
+
+#####
+
+la mise à jour science apporte un vent de fraîcheur qui aurait dû être présent dès le début mais bon néanmoins il reste un tas de chose à corriger et qui sont critiques comme par exemple le simple fait que les coiffes bug dans le bav impossible dans construire une correctement 
+
+actuellement je ne recommande toujours pas ce jeu soyez ma foi patient ça en vaudra peutêtre un jour le coup mais là vous aller faire comme moi jouer 8h et vous en lasser et il ne vaut pas son prix 
+
+cest dingue de se dire que jai honnêtement presque moins de bug sur star citizen qui est quand même vendu moins cher que cette pseudo fraude oui je suis énervé énervé parce que ce studio nous prend pour des idiots quils avaient tout pour réussir mais que non ils préfèrent capitaliser comme tous les studios du moment plutôt que de prendre une voie certes pas facile mais largement plus méritante 
+
+ceci dis je salue leurs efforts pour rendre ce prototype jouable mais ce nest pas encore le cas ils auraient pu et dû commencer la ventre en 2024 au plus tôt
+
+#####
+
+linterface est horrible le jeu rame beaucoup
+ne vaut clairement pas 50 et dire quà la sortie le prix va augmenter
+
+#####
+
+franchement jai une très bonne config le jeu est au max niveau settings et il est moche comme un pou autant rester sur ksp1 avec du contenu et de quoi samuser la pour linstant il ny a strictement rien a voir des bonnes idées mais qui aurait pu simplement être un mod sur le premier du nom après autant dattente cest une déception sans commune mesure
+
+sans compter les bugs ou des parts disparaissent entre deux sauvegardes le système de sauvegarde dans le hangar qui na aucun sens la navigation qui disparaît sans raison le carburant qui nest pas le même entre deux saves etc etc
+
+
+wait and see de mon coté ça part sur un refund
+
+#####
+
+après mise a jour cest que du bonheur 
+
+#####
+
+pas mal de travail réalisé depuis le début catastrophique
+avec la maj science le jeux devient tout à fais recommandable
+
+#####
+
+18 septembre 2023 
+
+on continue sur la lancée une mise à jour inutile au vu des problèmes persistants comme le fait dannuler le positionnement ou la sélection dune pièce qui supprime tous les câbles dattache des fusées qui perdent laxe quelles doivent suivre et se mettent à tourner sur ellesmêmes sans raison à noter que depuis sa sortie cinq mises à jour en comptant celleci ont été faites ce qui est peu quand on connaît lentreprise qui possède le jeu take two toujours et incroyablement déçu
+
+11 juillet 2023 
+
+une mise à jour catastrophique de nombreux éléments bugs se détachent avant le décollage lutilisation de linterface graphique se fait hasardeuse lajout de nouvelles pièces est quasiment inexistant en somme on se demande si ça bosse vraiment côté développement et sil y a quelquun qui supervise le projet  attendre une mise à jour pendant 4 mois et voir ce qui a été fait on se demande vraiment à quoi a bien pu servir notre investissement monétaire dans le projet un conseil et toujours le même jouez à ksp 1  au moins ça marche et ça vous coûtera assurément moins cher
+
+17 mai 2023 
+
+toujours pas de mise à jour ça fait long à attendre pour des améliorations qui rendraient le jeu un peu plus jouable quà lheure actuelle dommage
+
+17 mars 2023 
+
+un peu de mieux après cette mise à jour mais toujours beaucoup de problèmes pour la mise en orbite et le fonctionnement de certains moteurs le point le plus intéressant de cette mise à jour est le système de manœuvre qui a été allégé graphiquement ce qui permet une bien meilleure utilisation que par le passé
+
+23 février 2023 
+
+clairement pas au point après 4 ans dattente il semble que léquipe ait manqué sa cible et quil y ait encore un paquet dheures de travail avant que ça soit aussi jouable que ksp 1
+
+
+
+#####
+
+jai aveuglément acheté learly access en me disant que ce ne pouvait être que mieux que le premier opus cest une catastrophe cest tellement mal optimisé et bourré de bug que cen est littéralement injouable désolé je préfère revenir sur ksp 1
+
+#####
+
+jai limpression davoir misé 50 balles au bonneteau
+
+#####
+
+pas encore jouable
+
+#####
+
+cest une honte de faire 4 ans de dev pour produireça  ksp 1 avec des mods est 100 fois mieux que ksp 2
+
+#####
+
+trop chère pour juste un bac à sable sans aucune campagne
+aucune nouveauté jeu moins opti que le précédent avec pourtant le même moteur  mieux vaut attendre de voir si ils sont capable de compléter leur roadmap car au vu de ce qui est fait actuellement cela semble très compliqué à tenir
+demande de remboursement faites
+
+#####
+
+ceux qui attendais les voyages vers dautres étoiles 
+vont avoir le temps de faire des gosses et de les voir grandir 
+
+bientôt 6 mois et toujours pas de fx pour 
+simulée la chaleur de rentré atmo 
+un nombre de pièces extrêmement limitée 
+70 du trailer est mensonger 
+seul les débutant y trouverons un intérêt
+
+bravo pour le braquage intercept game
+
+#####
+
+pour le moment injouable 
+amd amd fx 8350 8coeur 16 go de ram gtx 1660 ti
+
+#####
+
+new eval december 2023
+
+while the game still lacks many many features compared to what was announced the science update improved the game considerably performance improved drastically smooth from launch to orbit rockets do not wobble anymore heating is finally in
+
+the game still shouldnt be released in this state i dont see how you can justify early access for a sequel that has less features and did not fix the major issues from the first game but im happy to see how its improving
+
+
+old review
+
+honestly not acceptable at all 
+
+years of development promising a better foundation to get better performance and optimizations only to release an early access with less features than ksp 1 and for the full price of 50
+
+playing with a ryzen 5950x rtx 3090 32gb of ram im getting around 30 fps when launching with the default rockets nothing fancy even just driving a default rover on the runway im around 30fps
+
+ui is worse big chunky windows taking too much space you cant fine tune your maneuver node with more precision and preview the periapsisapoapsis youll get you can in ksp1 right clicking a part to access its settings gives you all settings for all parts in a separate window too much information displayed
+
+graphics arent great with severe aliasing very low draw distance for terrain details very low resolution clouds when you go at higher altitude
+
+
+i understand what early access is but for a game with a multi billion dollars publisher behind take 2 this is unacceptable for 50 i knew what i was going into given the previous gameplay videos released but i had to see for myself stay away from the game for now or check it out to see for yourself then refund
+
+#####
+
+même après la dernière mise a jours de nombreux bug sont encore présent impossible deffectuer une manœuvre vaisseau qui disparaît ou sécrase sur terre alors quil était sur une orbite stable gouverne davion qui ne répond pas chacun de ses bugs ce résout après un redémarrage du jeux mais cest très frustrant
+
+jadore ksp et jai vraiment essayer dinsister sur le deux mais dans létat actuel même après la mise a jour science cest trop frustrant dy jouer
+
+sil vous plait faite quelque chose pour que le jeux fonctionne correctement avant de rajouter du contenue
+
+#####
+
+020 bring the game to a playable state although there is still some game breaking bugs 
+and still half of the game is missing
+
+#####
+
+passé vôtre chemin et allez acheter ksp 1 cela vous évitera les bug et labsence de contenue cest ksp 1 en moins bien  je me corrige ma critique et toujours valable il y a juste une chose qui a changer cest les bug a présent il se font rare mais en terme de contenu cest toujours le néant et le mode coop on lattend toujours arrivera til un jour 
+
+
+#####
+
+ne pas acheté 
+0 contenu 
+remplis de bug 
+interface et controle infernal
+
+#####
+
+jattendais le jeu depuis très longtemps même si il manque pas mal de fonctionnalités pour linstant je pense que ce jeu a une bonne perspective dévolution
+
+le jeu tourne très bien en 1440p sur ma config 
+ r5 5600
+ rx 6700
+ 16 go de ram
+
+#####
+
+des bugs à tous les étages cest simplement injouable impossible dassembler une fusée sans avoir à relancer le jeu plusieurs fois et les sauvegardes fonctionnent selon leur bon vouloir
+
+#####
+
+je nai pas les mots pour exprimer ma déception si vous aimez ksp reinstallez le 1
+
+#####
+
+okay un jeu en early access nest pas terminé optimisé au poil de derche etc etc
+cependant ça nexcuse pas une régression monstrueuse par rapport à ksp premier du nom tout cela pour de jolis graphismes
+alors je suis peutêtre de mauvaise foi  les interactions physiques ont été revamp les sons les terrains passer dun vaisseau à un autre se fait très rapidement ce qui est particulièrement sympa lorsque lon souhaite créer sa station en orbite etc
+
+on aurait pu croire que partir dun moteur de jeu tout frais permettrait au moins de rendre les performances recevables et le jeu jouable à tout instant moyennant les bugs 
+malheureusement les performances sont abyssales même avec la configuration conseillée
+unity  accuse le coup de trop nombreuses simulations dinteractions physiques et je ne parlerais pas du jeu qui semble vouloir charger tout le monde et sa mère dans la ram ce qui lorsquelle atteint sa limite freeze le jeu pour quelques siècles
+
+je naborderai pas longtemps les bugs qui si game breaking à la sortie ont été rapidement patchés de plus cest ce à quoi je mattend le plus lors dune early access plutôt quà un moteur non maîtrisé ksp 2 à lheure de son 2e patch correctif me semble en bonne voie sur ce point
+
+si le jeu nest pas un désastre comme dautres lentendent je ne conseille néanmoins pas de lacheter pour linstant peut être par la suite lorsque le moteur physique sera bien mieux optimisé et que le jeu cessera denvahir la ram plus vite quune armée de lempire mongol
+
+affaire à suivre
+
+
+#####
+
+ok sest une version anticipé mais la faut pas abusé on na quelle que chose de très similaire au 1 en gros ce quil annonce ça existe déjà via les mod en 3 ans il on fait pire que loriginal bricolé par les joueur menu affreux complètement pixelisé je sais pas si sest voulu mais faut faire quelle que chose ça bug toute les 4 min allant du bouton qui ne marche plus au menu qui disparaisse purement est simplement en 1h jai pas réussi a assembler une fusé de type mune 5 redémarrage du jeux ce qui me prend 1015min sur le 1 est a lheure a actuelle il ni a juste rien sur le jeux on trouve les part basique pas de recherche juste le mod bac a sable
+
+le deuxième point qui minquiète sest que dans cette état il est a 50 il sera a combien à la sortie 708090  va vraiment falloir quil ce réveille sinon ils cours à la catastrophe
+
+#####
+
+nacheter pas ce jeux en létat et à ce prix 
+
+après plusieurs mois quasiment aucun changement dans le jeux que ce soit au niveau des bugs de lopti ou encore des nombreuses promesses non présentes dans le jeux
+
+jai limpression de jouer à ksp1 mais en 100fois moins bien le jeu est à peine plus beau et surtout non seulement il a énormément de fonctionnalités en moins mais surtout il nen a aucunes en plus le jeu est truffé de bugs et crash en permanence bref cest juste injouable
+attendez encore quelques années pour lacheter cest une honte de sortir un jeu dans cette état
+
+#####
+
+pas optimisé tourne a 10 fps
+je ne peux pas profiter du jeu qui à lair bien
+
+#####
+
+très déçus par ksp2 même pour un accès anticipé il aurait du être au moins aussi complet que ksp1  dans sa version final
+linterface est dégueulasse on y comprend rien  et il ny a vraiment aucun contenu dans le jeu
+je vient de jeter 50 
+
+#####
+
+evaluation day one attention  je met une note positive car je suis enthousiaste de voir la suite on y retrouve pour linstant quune petit partie des features du premier il y a clairement un énorme potentiel mais les performances
+
+des chutes en dessous de 4050 fps sur une rtx 3090  ryzen 7 5800x juste non les gars cest pas assez opti pour linstant je recommande donc dattendre un peu avant de lacheter sauf si comme moi vous êtes impatient de le tester il va falloir encore quelques patch avant de pouvoir y jouer de manière agréable
+
+edit novembre 2023 bon jy retourne après plusieurs mois pour faire le point et toujours pas de dégats lors des rentrer atmosphérique cest quand même abusé
+
+pour linstant je dirais que je le déconseille car tjrs aussi incomplet et jai encore rencontré quelques bugs comme labsence de son par exemple obligé de relancer la sauvegarde
+
+ou genre mon vaisseau qui lors dun lancement cest retrouvé indestructible sans pour autant que jai de cheats activés puis une fois relancer cétait réglé mais ça montre que ce jeu à besoin de beaucoup plus de polish que ce que je pensais à la base 
+
+#####
+
+optimize the game
+
+#####
+
+perso pour les fusée simple que je fait il tourne correctement sur i79700k rtx 2070 32go
+pour ceux qui ne connaisse pas ksp go sur ksp1
+pour ceux qui on déjà vu et revu ksp1 ça change donc ok mais le prix est haut
+
+#####
+
+bon ben voilà ksp2 est enfin en early access après avoir poncé ksp1 il me le faut 
+
+cest sûr que pour le moment on reste un peu sur sa fin uniquement le mode bac à sable et cest plein de bugs 
+mais cest tel quannoncé à ce stade de learly avec des bugs en plus p et le tout dans une interface et des graphismes bien améliorés
+jai quand même pris un grand plaisir à redécouvrir les basiques et jai pu faire tranquillement des alunissages et même me poser sur duna 
+
+bon cest sûr que pour le moment prévoyez une quicksave après chaque étape passée sans bugs mais ça se fait 
+jai bon espoir que les dév nous corrigent tout ça et que la roadmap suive son court  je ne manquerai pas de mettre à jour mon évaluation de temps en temps 
+
+#####
+
+la meilleur simulation de program spatial est de retour en early access
+
+si vous acheter cest pour aider au développement du jeux posté des beug et donner votre avis sur les feature etc
+
+et cest tous
+
+en létat ils ont vaincu lun des beug les plus pénible de ksp 1 le glissement permanent de toute objets posé au sol et rien que pour ça merci les dev vous êtes formidable continué comme ça vous allez sublimer ksp
+
+#####
+
+ksp 2 et un super jeux mes il y a des bug très chiant jattend avec impatience les maj sur le jeux
+
+#####
+
+un grand oui pour une ea très prometteuse avec les mêmes début il y a 10 ans du 1er opus et les mêmes commentaires de puceaux boutonneux qui ne sont tjrs pas équipés de neurones pour comprendre la signification early acces quand au com sur le tarot ben aller taffez chez private game ou sortez vos pouces du fn les assistés
+
+191223 cest reparti pour le bal des prépubères pleurnichard les mêmes éjaculateurs précoces qui usaient leurs semences en crachant sur le premier volet et qui ont passé leurs temps a se branler dessus par la suite arrêtez la consanguinité ça commence a ce voir dans les commentaires
+
+#####
+
+kerbal space program 2 a du potentiel surtout en voyant la détermination de léquipe pour améliorer le jeu le premier patch est prometteur courage à léquipe qui doit sans aucun doute énormément travailler pour améliorer le jeu
+jai hâte de voir la suite
+
+#####
+
+v020 ouiiii enfin après presque 1 an le premier patch qui lance vraiment le jeu avec la science et tout un et de changement  avec en plus une net amélioration des fps vivement la suite 
+
+
+avis rapide pour ceux qui on une petite configue et qui hésite 
+
+ma configue prenez peur  i7 6800k geforce 1080 et 16go de ram
+
+bah vous savez quoi ça tourne très bien et en hight juste mis le antialiasing en x4 lors des lancement je tombe a 2530 fps voilà petite fuser de 56 éléments
+
+dans le reste du jeu je tourne a 40 et 80 dans le hangar
+
+je nai jamais joué au 1 donc je ne peux pas comparer
+
+les tutos du jeu sont vraiment excellent
+il ma fallu 2h pour réussir a faire une orbite et a faire revenir mon bill kerman
+jai pas contre eu 23 bugs dont un vraiment chiant qui a fait crash le jeu
+
+#####
+
+tout simplement parfait
+mnt au boulot les devs on compte sur vous 
+
+#####
+
+au lendemain du lancement du jeu le 25022023 le plus gros point noir pour moi cest que le jeu na pas encore de mode carrière ni de collection de science comme dans ksp1 cest du pure rocketry sandbox pour le moment import à savoir avant dacheter
+
+plus globalement et en tant que joueur assez casu de ksp voilà ce que jai remarqué
+
+plein de nouvelles choses 
+ le sound design a vraiment été bossé à fond  le compte à rebours sur le launchpad le bruit de la carcasse du vaisseau sur chaque astre les ambiances musicales propres à chaque astre les bruits de pas sur chaque surface plein de petits détails qui font plaisir mis bout à bout
+ le vab peut servir à faire à la fois des avions et des vaisseaux spatiaux plus de séparation des deux
+ nouveaux graphismes nouveaux modèles de kerbals plus détaillés ils réagissent davantage aux situations dans lesquelles ils sont
+ peindre ses vaisseaux avec de la couleur
+ des easters eggs sont cachés aux confins du système kerbol
+ la plupart des pièces ksp sont présentes avec en plus quelques avantsgoûts de pièces gigantesques qui préfigurent déjà les futurs vaisseaux interstellaires avec de nouveaux moteurs nucléaires à hydrogène entre autres
+ en plus du launchpad et de la piste datterrissage on a maintenant un port pour tester des bateauxvaisseaux aquatiques
+ lambition du projet  la early access roadmap qui va certainement séchelonner sur les années qui viennent est très ambitieuse avec le mode carrière qui sera la première étape de la roadmap donc théoriquement bientôt jespère dans 3 à 6 mois mais aussi ensuite des colonies de gigantesques bases spatiales en orbite et sur la surface des astres des voyages interstellaires au moins 2 nouveaux systèmes stellaire à explorer dont un le système debdeb avec des assets déjà prêts qui restent encore à implémenter dans le jeu de lexploitation de ressources donc jimagine minerais eau fer etc et enfin surtout un mode multijoueur  sachant que ksp1 a mis en gros une dizaine dannée pour arriver à son état final  dlcs ça ne métonnerait pas que la roadmap prenne au moins 3 ans voire plus certainement 5 ans pour être complètement achevée
+
+mais aussi des choses qui manquent dans létat actuel du jeu 
+ pas de mode carrière pas de pièces scientifiques ni dobjectifs scientifiques ni de gestion dargent ou de déblocage progressif des pièces etc tout est accessible tout de suite cest du pur sandbox
+ le système de température des pièces nest pas encore implémenté donc lentrée atmosphérique ou la proximité avec kerbol ne fait pas surchauffer les pièces jespère que ça sera résolu dans les prochaines semaines parce que cest un peu une mécanique de base
+ les vaisseaux sont parfois assez mous et leur structure pas très stables par rapport à ksp1 pour le moment les gros vaisseaux sont plus compliqués à rigidifier que dans ksp1 espérons des mises à jour dans les prochaines semaines pour ça
+ des bugs crashs infinite loading mais bon cest la release de learlyaccess assez prévisible
+ 4 tutoriaux de la conception de vaisseaux jusquà la manœuvre orbitale mais cest tout pas encore de tuto datterrissage de rendezvous orbital de conception davions de bateaux etc
+ les fonctionnalités issus des dlc de ksp1 ne sont pas présents pas de pièces robotisées etc
+
+en gros ksp2 ne démarre pas au stade où ksp1 a fini il repart de zéro et est globalement dans un état similaire où le premier ksp a démarré en 2011 cestàdire en sandbox spatial avec tout le système kerbol à explorer mais cest tout néanmoins sur plein de points cest une belle base de jeu sur laquelle a été prévu dinsérer beaucoup de contenu très sympa mais ce contenu va certainement mettre des années à arriver
+
+si vous jouez uniquement à kerbal pour la progression du mode carrière attendez un peu avant dacheter car on est sûrement plusieurs mois avant limplémentation de ce mode de jeu et vous pourrez peutêtre chopper des promos quand cette mise à jour arrivera mais si vous souhaitez juste envoyer jebediah kerman dans un immense vaisseau multistage pour aller voler dans latmosphère de laythe là maintenant vous pouvez tout à fait le faire dans létat actuel du jeu
+
+#####
+
+je ne ferais pas comme la communauté du pouce rouge  qui si elle avait un peu lu la launch day note  se serait abstenue dacheter le jeu tout de suite et ainsi eviter de rager directement
+bref
+
+jai une machine plus que correcte mais selon ou je me trouve les fps baissent drastiquement
+cest penible mais les fps reviennent quand on passe en mode map  donc le probleme est contournable
+niveau bug vraiment rageant on a parfois  les trajectoire qui disparaissent  le sol de la planete devient traversable  et traversé du coup    
+vaisseau qui disparait aprés reload dune save pendant un vol  obligeant a quitter le jeu et reload 
+il y en a dautre mais en dehors de ces gros points noir a corriger  
+le jeu est magnifique  dans letat cest juste un sandbox  mais le plaisir dy jouer est bien là 
+le vab est bien foutu  ce qui manquait a ksp1 sy trouve
+
+il y a encore beaucoup de travail pour que ca soit parfait  je souhaite bon courage a lequipe qui va suer sang et eau pour corriger le tout
+alors bord daile de merle  aprés moult reports le fameux ksp 2 est enfin là et je verse une larme de joie  
+ 
+plus qua attendre les patchs 
+
+#####
+
+les performances ne sont pas si désastreuses que ce que beaucoup disent le mode sandbox est incroyable et permet de découvrir ksp2 pour les nouveaux venus
+
+#####
+
+alors franchement si vous avez une carte graphique a chier achetez ksp1 avec ses dlcs ou attendez les opti
+
+#####
+
+le jeu est décevant mais cest pas la faute des dev et en sois cest jouable
+
+
+#####
+
+très décevant ou sont les update  6 mois de rien du tout  allez acheter ksp 1 et moddez le
+
+#####
+
+honnêtement je méclate 10 fois plus sur lancien kerbal 1 je ne sait pas si on se dirige vers un escroquerie
+mais faire payer plus de 50 pour un jeu qui en realité est une copie du premier avec 15 fois moins de choses et fonctionalité cest de lescroquerie on dirait un scam comme no mansky ou star citizen nachetez pas et continuez sur kerbal 1 
+
+#####
+
+beaucoup trop de bug et je suis un joueur de star citizen
+34 des lancements sont pourris par des bugs aléatoires terrain qui se charge mal passage a travers des textures fusée qui part en steak si on se met en accéléré alors quen x1 tout va bien etc
+
+hâte de voir la suite mais proposer un jeu en accès anticipé sans pouvoir y jouez mempêche de le noter positivement
+
+#####
+
+le jeu est jolie mais  tourne a 10 fps injouable
+contenu inexistant 
+sa fait un peu peur si le jeu galere alors quil est clairement vide de contenu ques ce que sa va etre quand il vont en rajouter
+a voir plus tard si sa sarrange
+
+#####
+
+4 ans dattente pour ça  le jeu bug les fps sont très bas très peu de pièces pour construire votre fusée pas de cockpit pas de science pas de mode carrière seul le bac à sable existe et suppression des fonctionnalités qui faisaient le succès de ksp1
+
+si je peux donner un conseil cest déviter à ce stade ksp2 car il est très très cher pour ce quil vaut
+
+je me suis fait avoir par lenthousiasme de la sortie ne soyez pas tenté cest une déception sur toute la ligne
+
+#####
+
+je suis très dessus de ksp2  remplis de bugs en tout genres  attendre 4 ans pour sortir une bouse pareil cest pas sérieux  de plus les paramètres recommandé sont abusé le jeux est optimisé et codé avec le cul jespers que les dev vont se sortir les doigts et corriger tout ceci à la prochaine mise à jours   à bon entendeur  
+
+quelques pointe positif quand même le jeux est tres jolis et pas mal de petit détails  lorsque sa fonctionne  qui sont tres sympas donc les gars ne lachez pas vous aurez peutetre un meilleurs avis lorsque tout ces bug qui rendent le jeux injouable seront corrigé
+
+                                                                                                                                                     scott
+
+#####
+
+you ruined it
+
+#####
+
+le jeu est en accès anticipé donc pas très optimisé
+
+il a une belle road map  reste à voir sils vont au bout
+
+je kiff perso 
+
+#####
+
+je suis un joueur et fan de ksp 1 depuis plus de 10 ans malgré cela je suis déçu de labsence doptimisation et de la pauvreté du contenu à la sortie après tout ce temps de développement 
+50 pour un jeu en early access ici cest trop 
+jespère que les développeurs vont se bouger sérieusement pour ajouter le contenu annoncé et surtout optimiser les performances 
+
+#####
+
+3 ans de  de dev minimum
+
+update science  enfin jouable meilleure opti
+
+#####
+
+jadore
+
+#####
+
+ok10
+
+#####
+
+très bon jeu tourne assez bien sur un pc portable avec une carte graphique quadro t2000 i5 10k et 32go de ram 
+baisse de fps au décolage lorsquune fusée comporte beaucoup déléments
+pas de bug majeurs juste quelque bug de texture de lherbe qui était totalement cassé lorsque que je suis retourné sur terre
+système de manœuvre moins bien que le précédent jeu avec le timer de manœuvre qui ne sadapte pas au changement de puissance de gaz donc obligé de se fier via le changement dorbite sur la map
+
+#####
+
+12 ans après le premier
+
+4 ans a lattendre
+
+il est enfin la  hâte de voir lévolution 
+
+je tourne sur 
+
+i7 13700k
+
+3090ti oc
+
+32go ddr5
+
+update 
+
+acutellement après mise à jour  jai 80 fps de moyenne sur les astres et 240  limite de mon écran en oribite 
+
+petit update de mon avis  la première mise à jour est sortie aussi longue que 2 pages  fix optimisations le jeu est maintenant bien plus stable et de nombeurs bugs on été corrigé  ce qui est très prometteur pour la suite les devs le suivent a fond et surtout ils écoutent leur communauté 
+
+le jeu reprends pour linstant tout ce que fait le premier mais seulement en sandbox pour le moment il offre de nouvelle possibilitées de nouvelles pièces et encore plus de design possibles  les temps de chargement sont incroyablement courts bref après preque un mois de sortie je peux vous assurer que sil continue sur sa lancée ce sera un vrai banger 
+
+#####
+
+je recommande pas car toujours vide et plein de bugs 8 mois apres 
+
+#####
+
+ attention evaluation au debut de learly acess 
+
+je mattendais a mieux pour le prix pas de 60fps stable en 4k malgré ma rtx4090 et mon i9 10900kf  visiblement aucun support pour joué a la manette  et un bon nombre de bug rencontré en a peine 1h de jeu trop early acess pour moi surtout a ce prix 
+
+  vraiment dommage javais hâte de découvrir ce jeu javais beaucoup aimé le 1er
+jespère quil va samélioré avec le temps
+
+#####
+
+beaucoup de bugs quasiment aucune fonctionnalité un gameplay très vide
+je sais que cest du early access mais là le jeu est trop buggé attendez les futures mises à jour
+
+#####
+
+will maybe change my review in 23 years
+
+#####
+
+ne fonctionne simplement pas
+
+#####
+
+scandaleux   ksp 1 est de meilleure qualité  ksp 2  est bourré de bugs  les fonctionnalités promises ne sont pas la il va falloir attendre la mise a jour  injouable pour le moment 
+
+#####
+
+pour linstant restez sur le 1
+
+le jeu est bugé très désagréable à la construction  bugs dassemblages des freezes non justifiés quand on pose une pièce en x6 ou lors de la sélection des vérins
+des problèmes de sauvegarde également vous pouvez sauvegarder votre partie et finalement ne pas retrouver votre partie
+des bugs daffichages et dinterfaces
+
+il y a aussi des bugs sur laire de lancement où vous avez un message derreur vaisseau détruit et vous ne pouvez plus rien faire a part retourner à la base dassemblage alors que celuici est intact
+
+je referai un avis quand il y aura des mises à jour pourquoi lavoir sorti maintenant alors quil est trèèèèèès loin dêtre fini
+
+#####
+
+ gros problème doptimisation même pour une early access 
+ beaucoup de bug  pas mal sont bloquant 
+ manque de beaucoup de parts de ksp 1 
+ aucun réelle ajout hormis de plus beau graphisme  et encore pas toujours 
+un base plus grande 
+
+en esperant que les future maj ajoute les contenues du première opus
+ et réglé une partis des bug bloquant 
+
+après cela reste un bon jeux  y a du potentielle pour la suite  
+mais quand même frustré de létat actuelle de early access en comparaison de sont prédécesseur le jeu aurais du au minimum nous donnée la quantité est la qualité a sont prédécesseur se qui nest pas le cas 
+
+en espérant quil nous face pas patienté 3 ans de plus pour avoir un jeu fini ou en un état acceptable
+
+#####
+
+jai des touches du clavier qui sont mappé sur les fonctions du son couper le son la musique etc nul part dans le menus réglages je vois des touches attribuées a son pas de fichier ini de configuration je vois pas ou il est je cherche le dossier ou son sauvegarder les parties  peut être que si trouve un fichier ini va savoir que je puisse enlever ce fou mappage
+
+
+#####
+
+here is my review after 5 hours of gameplay i had a big hope for this game will all the announcement they did it has a lot of potential but they didnt optimise it at all game is laggy and im running it at low fps im under the requirement with r7 2700x rx 5700xt with 32gb of ram and it makes a difference
+
+ksp 1 still a very good game and a much more optimise version and ill still play it until they make uptade of the ksp 2 about optimisation and new tweaks we can do with rockets because we are less flexible than we were with making rockets
+
+#####
+
+jeu pas stable framerate dégueulasse pour des vaisseaux même pas si gros 
+en 6h30 jen suis au 4e crash 
+moins de fonctionnalités moins stable moins opti
+
+je retourne sur le premier en espérant que le jeu saméliorera avec le temps mais clairement a lheure actuelle ne vaut pas son prix
+
+#####
+
+since this is an ea i will change this review if the game is optimized good ui amazing audio but watching a diaporama is unplayable and clearly lacks gameplay compared to ksp 1
+
+#####
+
+edit  première bonne impression cf en dessous mais gros no way car les sauvegardes ne fonctionnent pas  même pour les vaissaux dans ce jeux  first good impresion but its a imposible to not manage save file properly  no way to excuse it you spend several hour to craft your ship the purpose of your game  and it disapear  ok its a pre release but its not fun just fix what game do since ps1 save game 
+
+oldancien avis je ne sais pas ce que raconte tous le monde le jeu fonctionne très bien aucun crash depuis la release aujourdhui donc stable ce qui est rare pour une première release jai encore des crash sur ac valhalla après plusieurs années de sortie les graphismes ne sont pas triple a mais ça na jamais été lobjectif du jeu ça reste jolie et ça va saméliorer tout le monde semble oublier la 1ere version ksp 1
+
+il manque encore des fonctionnalités mais les devs lont dit a mon avis ils lont sortie pour les impatients et autre rageux pour nous faire patienter sans les oublier alors patientons et voyons dans 6 mois cest le principe dune beta
+
+pour linstant absolument pas deçu quelques bug dinterface typiquement voir les ressources par disponible
+
+courage aux dev 
+
+#####
+
+hard early access start
+
+#####
+
+chouette chouette chouette
+
+#####
+
+très bon jeu
+
+#####
+
+honnetement je ne suis pas pour le recommendé mais cest quand meme un bon jeu les graphismes sont incroyablemais le jeu tourne a 20fps sur kerbin
+je trouve aussi que 50 pour une early acces cest trop surtout quils prévoient daugmenter le prix du jeu 
+je lai acheté en prévision de ca et ksp1 est pour linstant mieux tu rajoutes quelques mods et tu as beaucoup plus que ksp2 en moins buggé
+
+pour linstant il ny a pas beaucoup de truc dans le jeu ya pas la science par exemple mais on peut mettre le jeu en pause  mais on peut pas y faire les maneuvres _
+
+bref ksp1 moddé est mieux que ksp2
+mais ksp2deviendra meilleurque ksp1 et optimisé je lespere
+
+#####
+
+acheté day1 il ya a eu une grande amélioration depuis le jeu tourne environ a 90 fps en ultra manque beaucoup de contenu mais cest encourageant
+update
+la maj for science a rendu le jeu vraiment mieux et avec un réel intérêt il tourne encore mieux malgré quelques bugs mais cest encouragent
+
+#####
+
+le jeu est très très beau quelque bugs et des problèmes de performances mais franchement pour une early access cest superbe jai hâte de voir les prochaines mise à jours
+
+#####
+
+le jeu est extraodinaire et montre une énorme avancée graphique et physique par rapport à kerbal space program le jeu manque pour linstant surtour dobjets et est plutôt basique mais cela va saméliorer dans pas longtemps
+
+#####
+
+un peu de patience svp  jai la triste impression que certain veulent tuer le jeu dans loeuf juste parceque leur pc galère a le faire tourné  cest un early access  le jeu nes pas sortie  revenez dans un ans ou deux  plus ça met du temps plus ça sera bien faut arrêter de tout vouloir tout de suite
+
+#####
+
+50 euros pour un accès anticipé peutêtre pourquoi pas
+
+50 euros pour juste un sandbox euh non
+la sensation de développer son propre programme spatial avec des contraintes financières technologiques et de conception a complètement disparue et il y a de fortes chances que cela reste tel quel lorsquon considère que justement private division cherche à faire de ksp2 un jeu beaucoup plus accessible basé sur le mode sandbox ajouter à cela que
+par ailleurs le mode sandbox rend à mon sens complètement inutile une grande partie des pièces
+
+50 euros pour un rendu graphique aussi moche peutêtre mais non
+disons que les graphismes de ksp1 ne me dérangeaient absolument pas mais ksp2 ça pique les yeux
+
+50 euros pour une invitation à créer un compte private division qui sans nul doute sera rendu obligatoire à un moment de son développement sortie du mode multiplayer  clairement non
+
+
+en résumé pour 50 euros mieux vaut passer votre chemin
+pour linstant cest juste une suite qui narrive même pas à la cheville du premier du nom lors de sa sortie 
+je dirais même que tout ce qui faisait lintérêt de ksp1 a pour linstant espérons disparu
+en dautres termes jai le sentiment de payer davantage pour le développement de la plateforme de private division que pour le développement du jeu en luimême
+
+#####
+
+amoureux de ksp depuis lalpha du premier cet accès anticipé du second opus me laisse un goût amer 
+
+aujourdhui je ne recommande pas de prendre le jeu encore moins à ce prix qui on peut le dire est honteux pour ce quon nous propose ca me donne vraiment limpression que cest une sortie anticipée pour reremplir les caisses afin de pouvoir continuer le développement
+
+trop de bugs le jeu nest pas exploitable même pour le peu quil offre aujourdhui bugs ui de la physique de la construction de fusée de sauvegarde rien ne fonctionne comme il faut 
+
+loptimisation est vraiment limite mais ça reste jouable des drops à 10 fps lors des lancements de fusée avec pour config une 3080 ti un i7 11ème génération et 64 gb ram installé sur un ssd m2 
+
+je recommande donc dattendre quelques mois et de nombreuses mise à jour et correctifs avant de vous procurer ce jeu qui sannonce très prometteur mais qui aujoudhui avec ses nombreux bugs et le manque de features basiques le rendent moins intéressant que le premier jeu
+
+#####
+
+this game is horrrble  stuck at the same level 8 mouth of early acces and no more information 
+i advise you to visit their insta account kerbalspacep they make interesting posts like challenges and thats all this game is die
+
+#####
+
+etdrgfhfdhdhfdh
+
+#####
+
+jeux sans trop de beug a la sortie une tres bonne adaptation du premier jeux et surtout une qualite ameliorer le fonctionnement general reste le meme malgres quelque ajout de sertaine partie qui peuvent ce reveler utile a limersionj et saura faire en sorte de rester realiste malgres de petit beug ici et la rien de tres grave et surtout tres amusant si vous ete fans despace ou dendroit a explorer de lingenieusite cera recommander si vous vouler profiter a fond de ce jeux
+
+#####
+
+cest un jeux que jai toujours aimer jai plus de 1500 heurs sur le premier je vous le recommande mais pour linstant dans létat actuelle du jeux aller plutôt acheter le 1 il est moins cher et avec des modes il peux être autant beau et plus optimiser depuis que jai acheter se jeux je crois que jai plus jouer au 1
+
+#####
+
+ksp2 est un pur bonheur dès le premier lancement  
+tout y est plus que dans ksp  plus beau plus clair plus fun 
+les interfaces sont bien plus ergonomiques la voixoff et les musiques donnent un dynamisme à lensemble le mode plan et lindication de la delta v en vanilla donnent un aspect pro à la création de fusée les didacticiels sont très bien conçus et  vulgarisent bien les choses
+jy passerai définitivement bien des heures bien plus que sur le premier opus et je le sais déjà  
+
+to the mun and way beyond 
+
+pour le moment aucun souci technique ni aucun drop de fps par rapport à dautres évaluations
+
+
+
+
+ksp2 is pure happiness from the first launch 
+everything is more than in ksp  more beautiful clearer more fun the interfaces are much more ergonomic the voiceover and music give dynamism to the whole the plan mode and the indication of the delta v in vanilla give a professional aspect to the rocket creation the tutorials are very well designed and popularize things well 
+i will definitely spend many hours there much more than on the first opus and i already know it  
+
+to the mun and way beyond 
+
+for the moment no technical problems nor any drop of fps compared to other evaluations
+
+#####
+
+après plus de 110 h de jeux franchement beaucoup trop de bugs le kraken est toujours présent pour détruire chaque nouvelles parties après plus de 6 mois franchement faut ce réveiller et au moins rendre le jeux jouable malheureusement tout les nouveaux jeux de nos jours sortes comme ça cest triste jespère que le patchs de décembre va résoudre la bugs et la stabilité  malheureusement pour le moment je ne peux pas le recommander
+
+#####
+
+si vous navez jamais touché à kerbal space program mais semblez intéressé par lunivers passez votre chemin achetez le premier opus et profitez dun jeu complet avec de bien meilleurs performances et un support des mods de qualité pour une fraction du prix du 2
+je tiens quand meme à préciser que la dernière mise à jour nous a fait passer le jeu de quasi injouable à jouable doù beaucoup de review positives récentes sur steam mais estce que jouable est vraiment suffisant pour rentabiliser le prix du jeu quand on voit quil manque encore beaucoup de contenu par rapport au premier et à ce que les devs ont promis de rajouter au jeu
+
+#####
+
+its garbageno content ugly  awfull performances bugs and glitches everywhere  some of them that were ksp1 no missionscampaignsscenarios no robotics no autopilot whatsoever only basics parts no scansat no kos no flybywire for atmospheric flight same garbage maneuvre node planner with no fine tuning was in ksp1 no comnet was in ksp1 no reetry heating was in ksp1 repetitive music no fucking joystick support no fps cap in menus confusing save system no decent transfert windows planner no procedural fuel tanks no science no ressourcesbut its early accessyeah after all this time this is the best they came up with this company is not as competent as they think they are and this game seems beyond their abilities this is going to end up like ksp1  a game peppered with tons of frustrating small glitches and bugs and lacking basic functionnalities that will have to be corrected by more competent passionnate modders on their free time50 by the way
+
+#####
+
+trop de bugs interfaces moins bien que ksp
+
+#####
+
+
+
+#####
+
+super
+
+#####
+
+ce ksp2 ne vaut même pas le nom de démo par contre le prix lui il est au niveau du jeu fini quelle blague pour ceux qui hésitent ne faites pas le saut et restez sur ksp1 attendez au minimum 1 an avant de revenir voir les states
+
+#####
+
+i cant play cause i dont have a rtx but its still good
+
+#####
+
+jai beau adorer le jeu jai beau avoir passer plus de 1000 heures sur le premier jai beau avoir attendu des années cet opus jai beau être conciliant et avoir acheté une config dédiée pour le faire tourner et bah malgres cela je ne peux que répondre par la négative à la phrase recommanderiezvous ce jeu à dautres personnes
+
+en tant que joueur passionné il ny a rien de plus frustrant que dattendre un jeu pendant des années pour finalement le voir sortir dans un état buggué et mal optimisé cest exactement ce qui sest produit avec le jeu que jai attendu depuis des années
+
+dès le début jai été déçu de voir que le jeu était plein de bugs et de problèmes de performance
+les graphismes pourtant annoncés comme époustouflants sont clairement mal optimisés et les fps chutent fréquemment rendant le jeu injouable à certains moments les bugs sont également omniprésents 
+
+en fin de compte je me sens trahi en tant que joueur jai attendu ce jeu pendant des années espérant un chefdœuvre qui répondrait à toutes mes attentes mais ce que jai obtenu est un jeu buggué et mal optimisé qui me cause plus de frustration que de plaisir je suis vraiment déçu par cette expérience et jespère que les développeurs prendront note des critiques et feront mieux à lavenir
+
+après autant de temps dattente et le prix déboursé pour lacheter largument de learly acces nest malheureusement pas suffisant je peux accepter un jeu avec des défauts un jeu sans toute les fonctionnalité un jeu même buggué mais pas à ce point je mettrais à jour mon avis si le jeu saméliore dans le temps vu doù il part ça ne va pas être dur de faire mieux 
+
+#####
+
+encore trop de bug notamment lors du chargement dune sauvergarde
+
+#####
+
+étant un joueur team no mods de ksp1 le 2 est pour linstant et je rejoins lavis de nombreux retours que jai pu voir une plutôt jolie mise à niveau du 1 en termes dergonomie dinterface de graphismes et de détails des pièces mais avec très très peu de contenu à jouer je trouve le didacticiel bien foutu pour apprendre les mécaniques de base du jeu cela le rendra effectivement plus accessible et facilitera la prise en main pour les débutants
+lergonomie des interfaces est globalement copié sur le 1 mais plus intuitive par exemple que ce soit en vol ou en construction le principe des groupes dactions est plus simple à appréhender
+mention spéciale à lhabillage sonore cela amplifie limmersion et le réalisme notamment le son des réacteurs au décollage qui est très réaliste mais aussi tous les sons détaillés pour chaque action ou passage de souris sont pertinents et agréables
+le jeu tourne bien sur une config amd epyc 7543p  nvidia rtx a4500  16 gb ram même si il reste encore de nombreux bugs comme le comportement des réservoirs et le calcul du deltav dans le vab qui sont parfois capricieux ou lorsque je suis revenu aux commandes dun de mes atterrisseurs posé sur mun via la station de contrôle celuici a traversé la surface et sest retrouvé à la fois posé et en mouvement irrécupérable
+je nose pas encore me lancer dans de gros projets car avec une station comportant plus de 400 parts le jeu est à genoux et ce nest quune infime liste des bugs remarqués obligé de recréer une nouvelle partie pour reprendre des fps respectables 
+
+malgré ces bugs prévisibles et pas de crash je suis globalement enthousiaste pour la suite la première maj fais du bien  pour loptimisation mais nous restons encore loin dêtre au niveau des promesses annoncées hâte aux prochaines maj
+cest une early acces le jeu ne comportant pas de science et étant sans objectifs pour linstant je déconseil de le prendre de suite pour ceux qui ont découvert le premier du nom il y a peu et qui sattendent à un gameplay complet
+
+pour linstant je déconseil jespère pouvoir un jour changer cet avis et recommander ce jeu frustré mais rêveur naïf 
+
+#####
+
+salut merci pour votre travailles 
+sa promet du lourd cest sur continuer comme ça les dev
+
+#####
+
+cest un early access
+au moment ou jécrit ça il est à la version 01
+ça nest pas lun de ces  ces jeux qui justifient un prix surperieur pour avoir accès quelques jours en avance à un jeu proche de la 10
+
+ne lachetez pas si vous vous attendez à un produit fini
+mais si vous voulez participer à son développement et sont amélioration allezy les yeux fermés comme pour ksp1 avant la 10
+
+pour en revenir au jeux en lui même 
+la nouvelle interface de navigation est bien meilleur mais a besoin de quelques changement
+le son et surtout les musiques ont bien été travaillés et donne une super ambiance au jeu  surtout au moment des atterissages
+ visuellement ça nest pas comparable à ksp 1 car bien meilleur oui en incluant les mods les nuages volumétrique de jool sont incroyable mais ça demande encore de lamélioration
+beaucoup de bug sont à réglés mais le jeux est déjà jouable actuellement
+
+#####
+
+que de bug dans le bav impossible de faire une fusée à son souhait la caméra ne suit pas le vaisseau sur le pas de tir que dire
+
+#####
+
+avec seulement un bac a sable et la science qui arrive le jeux ne vaut clairement pas 77 avec taxe ces un jeux présentement a maximum 20 et un jeux a 50 totalement terminer ces une véritable annarque
+
+#####
+
+les commentaires négatifs semblent oublier ce que signifie early access
+
+le jeu tourne plutôt bien en dehors de la planète 
+quelques bugs qui seront très probablement corrigés rapidement
+
+pas mal de bonnes idées impatient de voir ce que nous réserve ce jeu
+
+#####
+
+très déçu par le gameplay le jeu est exactement la même chose que kerbal 1 avec moins de fonction juste le graphisme un peu amélioré et il est annoncé multijoueur alors que cest pas le cas
+
+#####
+

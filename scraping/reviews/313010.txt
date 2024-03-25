@@ -1,0 +1,1198 @@
+mes conclusions après 1000 heures de jeux et lécriture dun guide général du jeu 
+cxxl est indéniablement un excellent jeu de gestion stratégique tout construire ny est ni la solution ni même le but pour chaque bâtiment pour chaque service pour chaque ressource la question nest pas puisje construire mais doisje construire cest la différence subtile mais essentielle avec le jeu de gestion classique où la gestion consiste à répondre à la question puisje construire concrètement à capitaliser les ressources nécessaires à la construction dun maximum de bâtiments 
+absente de la plupart des jeux de gestion la subtilité de la gestion stratégique échappe à la grande majorité des joueurs cest certainement la première raison qui explique le rejet de ce jeu par la communauté des joueurs lautre raison est paradoxalement la qualité indéniablement supérieure de ses graphiques qui ont poussé des joueurs à croire que le jeu était conçu pour le maquettisme or ce nest pas le cas ce jeu nest pas fait pour le maquettisme 2 misérables empruntes de base pour les bâtiments contre 16 chez son principal concurrent cities skylines absence de tout outil de modding complexité des mods quatre lod contre 2 vue au sol exigeant des textures de très hautes qualités etc
+il nen reste pas moins que pour qui recherche la stratégie ce jeu est une véritable perle 
+on retrouve dans cxxl tout ce qui fait lintérêt dun jeu de gestion stratégique dabord le jeu est difficile et on ne peut quy perdre mais cest ce qui fait le charme de ce type de jeu puisque lenvie de gagner reste intact aussi si lon ny peut que perdre cest toutefois le plus tard possible le plus loin le plus haut et si faire mieux est chaque fois possible cest parce que tout est stratégique les cartes les ressources les services les bâtiments etc tout construire ne mène ni loin ni haut il faut choisir cest le principe de la stratégie un exemple emblématique en sont les services dans un jeu de gestion classique simcity skyline etc la gestion consiste à réunir les conditions pour développer tous les services plus il y aura de services mieux cela sera dans cxxl on ne peut pas développer tous les services question de coûts dentretien question de place il faut donc choisir en fonction de divers critères en équilibre avec ce quon a déjà développé léquilibre cest le fil conducteur on ne capitalise pas dans ce jeu ce sont les flux seuls qui comptent cest pourquoi toute erreur de jugement peut savérer fatale un capital perdu peut être reconstitué pas un flux  
+a côté des stratégies propres aux ressources je vous invite à lire le guide que jai écrit à ce propos les concepteurs ont su créer dans le jeu trois stratégies majeures qui sont autant de défis captivants dabord le déroulement du jeu confronte le joueur à léquilibre productionemploi la productivité amène la question de lépuisement des ressources produire beaucoup cest bien mais au moins dans le jeu cela consomme beaucoup despaces comme une usine nécessite moins de main dœuvre il en faut donc plus donc plus despaces aussi si lon veut garder un taux de chômage acceptable  comme lespace est limité la productivité à tout prix nest pas forcément la solution tiens en voilà une question qui dépasse la sphère du jeu le second défi concerne le décalage entre linfrastructure industrielle et celle sociale le jeu a introduit subtilement un retard entre le développement industriel et celui de logement un peu comme dans la vraie vie où on construit dabord les usines et ensuite seulement les logements et les écoles et comme dans la vraie vie planifier les infrastructures sociales est crucial tout échec se payant socialement reste le dernier défi la recherche comme dans la vraie vie la consommation tout azimut ne pourra être satisfaite quavec la recherche qui démultiplie la production de ressources mais là aussi les domaines de recherches sont limités il faudra choisir avec soin quelles ressources nous entendons développer et second écueil il faudra choisir harmonieusement aussi la recherche devra répondre à un besoin et non pas en créer comme dans la vraie vie 
+comme on le voit le plaisir du joueur peut dépasser largement le seul fait du jeu cest aussi ce qui rend ce jeu excellent captivant 
+et mes premières impressions
+nayant pas xl dans ma boîte du jeu je ne dirai rien sur la plus value de la verion xxl il nen reste pas moins que de mon point de vue cest le jeu que lon critique non pas sa plus value par rapport à son prédecesseur 
+et de ce point de vue là je pense que le jeu vaut son pesant de token 
+je suis un adepte des cities buider la série de caesar des anno des tropicco des simcity le 4 en particulier je ne sais pas encore sil est à la hauteur dun anno 1404 dun casear iii dun simcity 4 ou du bon vieux tropicco originel mais il me donne envie de pousser le jeu quand des simcity 2013 les suites de tropicco me font bailler tant le suspens nest pas au rendezvous ces jeux sont beaux certes mais cest tout leur équilibre est linéaire je construis ça puis ça qui me débloque un batiment et une médaille bâtiment que je construis pour en construire un autre bref à la fin je suis médaillé comme un général devant sa troupe de bâtiments général certes mais pas stratège 
+ce qui me donne envie de poursuivre la découverte de cities xxl cest dabord son système déchange intéressant car tout est ressource évidemment lélectricité les soins mais aussi le travailleur le transport le surplus budgétaire etc cest ce qui permet de donner lâme que lon souhaite à une ville car aucun défaut de ressource ne nous bloquera jamais pour autant évidemment que vous ayez quelque chose à échanger or et toute la finesse du jeu est là toutes les ressources sont interdépendantes et séchangent en terme de flux et non de stock ce nest pas un jeu à laméricaine où pour gagner il suffit de tout construire léquilibre nest pas pyramidale mais en étoile or comme la complexité du jeu va grandissante avec son développement il devient diffile de maintenir létoile stable sans quelle ne penche dun côté ou de lautre 
+par exemple si le premier degré dun bâtiment ne demande quune catégorie de travailleur son évolution associera une catégorie de travailleur en plus et ainsi de suite de même que chaque type de bâtiment nécessite au moins une ressource pour produire sa propre ressource qui à son tour sera utilisée par un autre bâtiment lagriculture par exemple qui ne demande que des travailleurs simples produit de lagroalimentaire nécessaire aux magasins que fréquentent les travailleurs mais elle demande aussi de leau pour produire et leau est extraite au travers de travailleurs qualifiés toutefois leau nest pas obligatoire à puiser elle peut séchanger contre de lagro mais beaucoup dagro et là il faut une autre ressource le transport pour permettre léchange ce qui nécessitera à son tour une autre catégorie de travailleur le manager une ressource que je peux aussi échanger contre mon agro mais il me faudra alors encore plus dagro cest à dire plus de terres donc despaces en auraisje assez je peux évidemment développer mon agriculture pour quelle produise plus en construisant des silos des moulins mais il me faut alors des spécialistes que je peux faire venir contre  plus dagro 
+bref avec ce principe où tout peut sacheter on peut se concentrer sur la gestion pure car lavantage primordiale de xxl contrairement à la série sims est de ne pas avoir à dévopper dautres villes voisines pour faire les échanges bien que lon puisse en développer si lon aime la société omni avec qui on commerce nest jamais en rupture
+
+#####
+
+do not buy  
+1  prenez un simple patch modifiant linterface graphique
+2  ajoutez lui un x
+ et vous avez cities xxl 
+
+ce jeu devrait être remboursé aux détenteur de cities xl  cest une honte 
+
+do not buy
+1  take a simple patch modifying the gui
+2  add him x
+  and you cities xxl
+
+this game should be returned to the holder of cities xl its a shame 
+
+
+#####
+
+êtesvous sérieux ce jeu est exactement le même que xl avec le workshop et des graphisme légèrement amélioré
+
+le pire cest que le jeu est tellement pareil à xl que si vous jouer en mode fenêtre le titre est cities xl
+
+sérieux et je devais débourser 2199 cdn pour ça 5 jdirais pas mais 21l99 wow quel culot
+
+steam devrait offrir un bouton de remboursement pour ce genre de truc
+
+#####
+
+serieusement 
+
+remboursez moi cest une blague exactement le même jeu que cities xl en plus completement buggé 2 fois que je recréé une ville et que quand je la recharge je retourne a 20 000 hab  aucune autre save trouvé
+
+nachetez pas ce jeu  les develloppeurs nont vraiment pas honte une simple dlc a 2 aurait suffit pour le nouveaux contenus 
+
+#####
+
+je joue et aime les city buildrers depuis simcity 4 jai ai essayé un bon paquet cities xl 2011 cities xl 2012 cities xxl simcity 4 simcity societies simcity actuel cities skyline anno 2070 bref  jai donné dinnombrables chances à ce jeu de saméliorer et cest parce que le jeu a une bonne base
+
+les graphiques sont à mon avis pas laids du tout le système de jeu avec les tokens est bien pensé et amène le joueur à construire une multitude de villes qui intéragissent entre elle et avec omnicorp un magnat capitaliste qui achète à bas prix et vend au prix fort le système de plaçage dédifices de routes de zones fonctionne assez bien au départ et on a dans cette version une variété de serivces et de monuments intéressants pour les joueurs plus expérimentés et plus aventureux on peut même construire de grands projets blueprint pour lequel on devra tenter de fournir une quantité faramineuse de certaines ressources pour un plus grand défi bref la base du jeu est excellente et si tout marchait comme attendu je reccommenderais à tous
+
+sauf tout ne fonctionne pas comme attendu les glitchs bugs et problèmes en tout genre font légion par exemple  lorsquon veut faire un pont ou un tonnel certaines cartes ne les acceptent simplement pas sans avertissement et dans les autres le processus supposémment simple est bourré de bugs qui rendent la tache pratiquement impossible loutil de zonage libre vient avec un genre de parc qui entoure les zones qui rend la ville plus attrayante mais ce parc ne se supprime pas automatiquement si on tente de place quelque chose dans un espace vide et si on veut le détruire pendant que le jeu est à pause pas de chance  il faut repartir le temps parce que loutil de suppression individuel est inexplicablement bloqué pendant quelques secondes après louverture du menu et quil ne se débloque pas si le temps du jeu ne passe pas lorsquon pose une ligne de bus ou de métro impossible de la modifier il faudra la détruire et recommencer à zéro si on veux ajouter un arrêt ou en enlever un les intersections ne laissent passer quune voie à la fois imaginez le bordel dans une intersection entre deux routes à 6 voies rendant le traffic infernal sans raison jen aurais pour des heures à nommer chaque petit problème qui rendent ce jeu autrement très intéressant pratiquement injouable
+
+comme jai dit plus haut ce nest pas le premier jeu de la franchise que jai acheté et les problèmes vont de mal en pi je crois bien que ce sera le dernier que jachèterai et je le regrette sincèrement les dévellopeurs ne semblent pas prêts à mettre les efforts nécéssaires pour mettre à jour leur jeu si votre ordinateur est assez puissant essayez cities skyline vous serez mieux servi
+
+#####
+
+bon autant le dire toute de suite cities xxl nest pas un mauvais jeu mais il ne sagit en gros que dun update de cities xl et pas dune réelle nouveauté donc si vous avez cities xl et bien passez votre chemin circulez ya rien à avoir  par contre si vous navez pas encore essayé cette série je vous la recommande en attendant cities in motion  skyline qui devrait lui être supérieur a part la plaisanterie sim city 2013 et tropico 5 il ny a pas grand chose dautre à se mettre sous la dent
+
+         des villes qui ressemblent à des villes
+            la musique sympa
+            de grandes cartes pas plus que cities xl mais beaucoup plus que sc2013
+            se promener dans la ville en 3d
+
+           des villes peu vivantes les bâtiments névoluant que très peu
+             linterface peut être énervante par moments
+             les graphismes un peu vieillots
+
+#####
+
+tabletr
+thh1bfrbh1th
+thh1upremières impressions cest un patch u  h1th
+thv 1 th
+trtable
+plus que tous les autres ce sont les city builder les sim city qui peuvent capitaliser à lextrême lajout de contenu brut plus grand plus riche plus varié cest du pain bénit pour le gameplay sauf que  on na pas du le dire à focus interactive le jeu est aussi très mal positionné sur le store au point de vue du prix
+
+visuellement cest toujours aussi pauvre à ma grande tristesse dailleurs ce que lon nomme le lookn feel le ressenti général quinspire le produit global est nul interface sombre terrain de construction uniforme ergonomie fort moyenne les bâtiments sont définitivement tristes votre ville semble un peu moins vivante quelle ne devraitlêtre 
+visuellement inférieure selon moi à ce que proposait tropico 4 sans parle du 5 donc et donc plus éloigné encore de simcity 2013 le 4 étant encore la référence absolue qui pétrifie et handicape davance tout ceux qui voudraient créer un jeu ville gestion
+
+h1en tant que city builder à part entièreh1buvoir plus bas pour les ajouts ub
+je poursuis la comparaison par rapport à simcity en disant que ce cities xxl est le windows des city builder là où simcity t mac osx comprenne qui pourra 
+le zonage nest pas lessence du jeu même sil est possible les routes peuvent être pseudo courbe une courbe que lon aurait cassée en plusieurs soussegments de droite bien rectilignes loin des ligne pure de sc 2013 
+
+pour ceux qui nont pas touché à xl platinum voici résumé le contenu du point de vue bâtiments zonable comme avant et comme dhabitude en fait  logement industrie commerce pour chacun 3 variations ou plus  industrie qui peutêtre lourdede transformationhightech mais ça continue une fois à lintérieure puisque la densité peutêtre choisie parmi 3 pallier ou plus 
+chacune des possibilités cidessus est posable bâtiment par bâtiment à vous de choisir lapparence du bâtiment ou bien travailler avec loutil de zonage vous définissez un périmètre par les routes qui le compose et le jeu pose les bâtiments le long des routes pour rentabiliser au mieux lespace dans le périmètre
+
+ensuite une foule de bâtiments uniques classiques existent pour gérer lélectricité le transport la sécurité etc on est très très bien servi sur ce plan là sont également présent quelque packs de contenu spécialisé pour la montagne la plage pour le style architectural europééen etc 
+
+h1les nouveautés h1 strikeca arrivestrike euuh ben cest à dire que je cherche mais en attendant passez votre chemin olistsi vous avez un épisode précédent laissez tomber rien de neuf si vous navez pas dépisode précédent attendez quil soit sous les 20 au moinsolist
+tabletrth ththurlhttpsteamcommunitycomidsmithfieldsmithfieldurlththurlhttpsteamcommunitycomdiscussionsforum12617328967244490669h1ajoutezmoi sih1urlththurlhttpsteamcommunitycomdiscussionsforum12617329150699182932h1critiquesles règlesh1urlthtrtable
+
+#####
+
+800h de travail passé à reconstituer la ville de paris à lidentique je vous laisse imaginer tout le travail de cadrillage de la carte le tracage de toutes les routes et de la seine que jai fait à la main cétait une flat map entièrement vierge les verifications sur photoshop en superposant un screen satellite sur le plan de paris tout les bâtiments que jai posés un par un les details sur lesquels jai passé des nuitsbah tout ca je lai fait pour rienjouvre un matin mon jeu il se lance je clique sur jouer dans le menu principal et la surprise dans la liste de mes villes elle nexiste plusjen déduis alors quil y a un problème avec la sauvegarde alors jai cherché dans les fichiers locaux du jeu introuvable je cherche sur le forum pour voir sil y a des solutions mais les solutions ne marchent paset impossible de trouver une sauvegarde de secours ni même une seule sauvegarde même des autres villes tout les fichiers save sont vides et létaient bien avant le bugenfin bref jeu de fdp jai la haine
+
+#####
+
+ je ne conseillerai pas ce jeu même à mon pire ennemi
+ les enfants
+ les fans du genre ou de la franchise 
+ les casual gamers 
+ tout public
+ les hardcore gamers
+ les pgm sudcoréens
+
+ graphismes 
+
+ à vomir par terre
+ très mauvais
+ mauvais
+ corrects
+ bons
+ très bons
+ beaux à en chialer  quand tout est en ultra 
+
+ qualitéprix  
+
+ gratuit
+ il faudrait me payer pour y jouer
+ attendez une promo
+ abordable
+ pas cher 
+ à ce prix là cest cadeau
+
+ configuration pc recommandée 
+
+ lordi de ma grand mère
+ entrée de gamme
+ milieu de gamme 
+ haut de gamme
+ le pc damixem
+
+ la prise en main
+
+ inné
+ nécessite quelques heures
+ difficile
+ nécessite limplantation dun nouveau bras
+
+ durée de vie
+
+ moins longtemps quune mouche
+ breve
+ plusieurs heures
+ plusieurs dizaines dheures
+ plusieurs centaines dheures
+
+ niveau de la traduction
+
+ non traduit
+ traduit par une vache espagnole
+ pas mal derreurs
+ nickel
+ traduit dans toutes les langues
+
+ bug
+
+ le jeu est une sorte de gros bug en phase terminal
+ les bugs gène le gameplay
+ les bugs ne gène pas le gameplay mais sont présent
+ quelques bugs
+ le jeu est codé à la perfection
+
+ optimisation  update
+
+ vraiment mauvaise
+ mauvaise
+ acceptable
+ correct
+ optimus perfectus
+
+ avis général
+
+ ny jouer pas
+ à vos risques et périls
+ à essayer
+ ne perdez pas plus de temps et jouery
+ un must
+
+#####
+
+je commence par dire que je recommande ce jeu oui mais attention si et seulement si vous navez aucun autre cities xl en votre possession auquel cas attendez de lavoir à 5 il vaut pas les 20
+
+car en effet on a ici lupdate finale de la série des cities xl en fait ce quaurait dû être le tout premier cities xl sortie il y a genre 4 ans 
+cest à dire un très bon city builder offrant de très joli graphisme pour il y a 4 ans encore suffisant mais commence à se faire un peu vieux des cartes immenses et un gameplay agréable au niveau de la pose personnalisable à souhait avec la possibilité de le modder il va peut être enfin offrir une alternative à simcity 4 quon attend depuis belle lurette x
+
+bref en conclusion ils ont mit le temps mais ils ont sorti leur jeu fini il va rester qques bug à corriger par ci par là mais il est très correct et plus optimisé que ses ainés qui à lheure actuelle sur le marché des city builder na pas de concurrent à la hauteur ea ayant saccagé la licence simcity je vous recommande donc ce cities xxl qui vous tiendra de nombreuses heures et si vous êtes moddeur il ne tient quà vous den faire le city builder 
+
+#####
+
+avant tout je dois dire que jai joué près dune centaine dheures à cities xl version platinum dès que jai vu que cities xxl allait sortir je me suis réjouit à lidée de rejouer à ce genre de jeux puisque ça fait 20 ans que je pratique le citybuilder jai commencé avec le premier sim city sur atari 520 et comme javais le droit à une réduction de 50 je me suis décidé aujourdhui à lacheter et je lai téléchargé dès sa disponibilité je nai joué que deux heures pour linstant mais voici ce que je peux en dire
+
+positif
+ plus fluide et plus de répondant que son prédécesseur
+ des tableaux récapitulatifs plus clairs et accessibles avec beaucoup moins de clics
+ quelques cartes supplémentaires
+ une planète qui parait plus vaste en terme de nombre de villes
+ peutêtre une maniabilité plus simple
+
+negatif
+ exactement le même gameplay aucun plaisir de découvrir de nouveaux mécanismes de jeu
+ je nai pas encore vu de nouveaux bâtiments je nai pas joué beaucoup donc ça explique beaucoup mais jespère que les spécialisations des industries sont plus poussées
+
+donc pour conclure je vais dire un peu comme tout le monde pour linstant
+ si vous navez pas cities xl platinum vous pouvez y aller cest un très bon jeu et cest pour ça que je le recommande
+ si vous avez cities xl platinum attendez une promo à 80 car à 20 vous allez être fortement déçu
+
+#####
+
+un nouveau cities builder de plus et une nouvelle fois pas à la hauteur
+
+faisons le point comparé à sim city 5 les maps sont gigantesques vraiment vous pourrez faire des villes monstrueuses et tous sa dans un soucis de graphismes détaillés et très propres 
+
+ca cétait le bon point
+
+le game play est limite un peu difficile finalement de faire des villes bien parfaites il manque de batiments et je ne suis pas emballé par la difficulé qui est juste ridiculeusement trop faible
+en effet sans faire grand chose vous aurez de largent a ne plus quoi savoir en faire
+
+les villes manquent de vie on sent bien quil sagit dun jeu vidéo très carré très ordonné bref bien loin des ambiances urbaines
+
+bref je le recommande uniquement pour les amateurs du genre mais les grands fans du genre passés votre chemin ou ressortez sim city 4 
+
+#####
+
+cities xxl est largement moins bien que cities xl nayons pas peur des mots cest une daube
+
+#####
+
+tres bon jeux meme si il y a de la concurrence  contrairement au critique ce jeux possedent tout les critère dun jeux de creationgestion strategiquebien realiser avec cert une difficulté assaisonerce qui fait justement sont charme on a acces a tout sorte de strategie danticipationaction reaction a chaque contruction je recommande pour les fans du genre  
+
+
+#####
+
+ce jeu est bien mais graphiquement il a fait sont temps et maintenant disont le il est moche les voitures cest des cubes de loin les ia sont aussi vivant quon dirait quon leur a transfererer le cerveau dune etoile de mer sans parler des vomissement des terrainforamtion lorsque vous mettez une maison dans une pene cest degueulasse a souhait outre cela bah cest un city building basique qui crash quand je fais des echanges alors que mon pc est une bete et puis acheter cities skilines cest la meme chose en 10000000000000000000000000² mieux
+
+#####
+
+un city builder dont  je ne me lasse pas de rejouer tout est bien étudié dans ce jeu  la prise en main est logique et intuitive linterface est remarquable la durée de vie du jeu nest limitée que par le nombre des cartes de terrain  et même pour celà un dlc cities xxl map editor en anglais existe que je nai pas utilisé car je ne sais pas comment on y accède  les graphismes et dessins sont superbes on peut se promener dans la ville où limmersion est totale il se démarque des autres city builder par le fait quil vaut mieux successivement jouer plusieures villes car le jeu est basé sur les échanges entre villeséchange de tokens sinon sa ville stagne et ne sétend pas et perd de largent pour se développer il faut équilibrer ses ressources avec les autres villes on peut faire des villes immenses comme sur la carte de paris lun des challenges est dobtenir une ville de 10 millions dhabitants je ny suis pas encore parvenu  
+comment pourraiton encore laméliorer  en augmentant le nombre de cartes il ny a pas assez de types de giratoires les autoroutes sont chers à entretenir la circulation est un peu trop vite saturée si on a pas un réseau de transport conséquent bâtisseurs courrez acheter ce jeu vous ne serez pas déçus 
+
+
+#####
+
+jai les nerfs car aprés 156 heures de jeu impossible de connecter les routes sur le bord de la map
+donc mes villes ne sont connectés à rien plus aucun interet à jouer
+jai contacté le support qui apparament sen fou
+je trouve que pour une plateforme de jeu telle que steam je suis trés déçu par leur manque de considération pour leurs clients
+
+#####
+
+vraiement pas à la hauteur de leur prix
+le jeu lag et crash malgré une config puissante qui permet pourtant de faire tourner les dernier jeux en ultra il faut quoi pour y jouer  une machine de la nasa 
+très déçu pourtant fan des city buildersje vais passer chez la concurence 
+dommage ce jeu après quelques amméliorations pourrait devenir une référence 
+
+#####
+
+cities xxl est un très bon jeu de gestion de ville et surtout très complet par la diversité des bâtiments et des terrains disponibles dans ce jeu les graphismes sont sympas et le gameplay très bon de quoi passez de nombreuses heures dessus
+
+#####
+
+rien interessant
+
+ces une copie de cities xl  platinium meme les menu son identique les voiture quand on dezom son couleur maron il ni a vraiment pas beacoups de batiment
+la gestion des company et vraiment mauvaise
+quand vous regarde les sim certain on les pied buger dans le trotoire
+il arrive que le jeux lagg impeux quand vous cree une grande zone residentiel
+le train exsite pas niveaux bateaux je n est encore rien vue 
+les grand building son vraiment identique
+
+je ne recomande pas ce jeux 
+
+
+
+#####
+
+tres mauvaise surprise impossible de mettre le jeu en francais aucune option modification de langue nest proposee je deconseille fortement a moins davoir tres eleve en anglais
+
+
+#####
+
+le jeu est très bien il est très facile cest un plaisir de pouvoir construire des villes aussi grandes
+ce nouvel opus à été optimisé afin davoir un gameplay agréable
+pour ceux qui nont jamais joué à ce jeu vous pouvez lacheter vous ne regretterai pas votre achat
+
+si vous souhaitez avoir plus dinformation sur ce jeu et que vous souhaitez également partager vos créations vous pouvez rejoindre la communauté francophone sur le forum de génération city 
+httpwwwforumgccom
+
+on est impatient de voir vos villes 
+dd
+
+ci après les nouveautées de cette version
+un moteur amélioré
+cities xxl bénéficie dune importante mise à jour du moteur du jeu afin doffrir grâce au support
+directx11 des performances accrues sur vos plus grandes villes
+nouvelle interface et fonctionnalités
+profitez dune nouvelle interface graphique et dune nouvelle fonction de filtrage des bâtiments
+selon leur style architectural type styles époques afin de ne plus avoir besoin de passer au
+crible plus dun millier de bâtiments
+partagez votre contenu avec la communauté
+avec lintégration du steam workshop vous êtes libre de créer et de partager une pléthore de
+contenu pour cities xxl avec une large communauté laissez parler votre créativité et réalisez
+vousmême de nouveaux bâtiments des paysages des routes des décors et bien plus encore 
+loutil dexportation de cities xxl prend désormais en charge le format fbx qui fonctionne avec la
+plupart des logiciels de modélisation 3d y compris les logiciels gratuits les plus populaires
+grâce à ces outils cities xxl vous ouvre les portes dun contenu infini réalisé par dinnombrables
+de passionnés 
+pensez écologique et construisez vert
+de nouvelles options écologiques attirent une toute nouvelle génération de citoyens  avec un
+nouveau système de diffusion par les vents gérez localement la pollution de lair et sonore liée au
+trafic aux bâtiments industriels ou aux autres activités grâce à des nouvelles options dinterface et
+la création de 10 nouveaux bâtiments écologiques 
+location de vélo parcrelais concessionnaire de voitures électriques centre de contrôle
+technique pollution parcs écologique centre de recherche antipollution centre dalerte avec
+capteur ballon améliorant linformation joueur usine de retraitement de déchet vert et dautres
+encore
+modernisez plus de 30 bâtiments évolutifs pour répondre aux normes écologiques modernes
+ces bâtiments reconnaissables dun logo eco seront toujours aussi productifs et rentables mais
+respecteront désormais lenvironnement 
+nouveaux bâtiments de transport et de loisir
+améliorez la satisfaction de vos citadins en construisant dans vos villes de nouveaux bâtiments
+liés aux loisirs tels que des ports de croisière des aérodromes et des marinas
+le réseau dautobus parcrelais aura aussi un impact sur la satisfaction de vos citoyens réduisant
+nettement lempreinte carbone de votre ville tout en fluidifiant le trafic 
+enfin améliorez les échanges commerciaux entre vos villes grâce au nouvel aéroport cargo et au
+port spécialisés dans le fret de marchandises
+
+#####
+
+un city builder complet qui malgré sa complexité vous permet une prise en main crescendo
+cest pas du simcity cest de la simulation a létat brut vous allez rn passer des heures
+
+#####
+
+cest une honte  le jeu est a 99 le meme que cities xl  du vol  nachetez surtout pas ce jeu 
+
+#####
+
+cities xxl  ne fonctionne pas du tous
+
+#####
+
+  javais pas joué à un city builder depuis simcity 2000 sorti en 1995 sur supernintendo et nen possédant pas dans ma bibliothèque steam mon choix se dirigea en toute logique sur city skyline étant le plus recommandé par les utilisateurs mais franchement quand jai vu le coté beaucoup plus réaliste du graphisme des batiments buildings leur variétés et les panoramas ainsi que son prix malgré les critiques négatives jai préfèré choisir city xxl dans lessemble la jouabilité me plait mais je ne peux pas faire de comparaison avec les autres jeux actuels pour ma part je ne suis pas déçu et plus je regarde les captures décrans des autres jeux de ce genre et plus je me rends compte que jai fait le bon choix
+
+#####
+
+le jeu ne redémarre plus on est loin de sim city ou city skyline pas intuitif on ne peut pas gérer les budget
+
+#####
+
+jai acheter le jeu y a quelques jours sur ce site et il ne fonctionne pas du tout sous vista rien que pour ca je ne vous le conseille pas et pourtant cest un bon jeu car jai joué a la version 2009 donc jai voulu prendre la derniere version mais impossible de lancer le jeu jai foutu 15euros a la poubelle merci monte cristo et steam
+
+
+#####
+
+jeu nul difficile à manier illogique je déconseille
+
+#####
+
+se jeux est bien mais répétitif
+
+#####
+
+malheuresement pas au niveau dun cities skyline et dun simcity  plein de petit défaults dommage
+
+#####
+
+super jeux
+
+#####
+
+super
+
+#####
+
+le meilleur opus de la série 
+
+#####
+
+coll
+
+#####
+
+il se lance pas nul
+
+#####
+
+le jeux sur steam ne fonctionne pas il n y a aucune patch qui marche  n acheter pas ce jeux et steam ne me fournie aucune aide 
+je lai acheter avec steam e je les acheter chez best buy et je me retrouve avec le meme probleme ce jeux ne fonctionne pas il y a toujour le meme bog de mods
+
+#####
+
+ton budjet que tu joue negatif pourri comme jeu je prefere de jouer a cities xl 2012  ce jeu est au top la tout les batiments sont bloquer cest vraiment chian et ca fait que ca moi jappuie sur le boutton desinstaller 
+
+
+#####
+
+franchement ce jeu est nul et très ennuyant les graphismes sont moche et linterface horrible ne lacheter pas 
+si vous voulez un vrai jeu de gestion de ville acheter simcity 5 ou cities skyline qui sont 100 fois mieux 
+
+#####
+
+comparé à cities skyline cest vraiment mauvais
+
+#####
+
+i liked this game
+
+#####
+
+adqzdzdqzd
+
+#####
+
+je ne peux plus lancer le jeu erreur 51
+
+#####
+
+le je bug au lencement
+
+#####
+
+ne fonctionne plus depuis la dernier maj 
+ne surtout pas acheter ce jeux
+
+#####
+
+une belle merde il crash au démarrage pendant le jeu tous les cinq minutes crash crash crash crash fermer la boutique les mecs vous ne valez rien en plus de nous refaire le même jeu identique vous nêtes même pas fichu de tester votre jeu à la sortie vous êtes des incapables
+
+#####
+
+if youre like me and have never played any other cities game youll enjoy it if youve played the other games pretty sure most people would tell you not to waste your money on this one
+
+#####
+
+nul
+
+#####
+
+ne fonctionne pas apres installation  remboursement fait
+
+#####
+
+bof je préfére tous de même simcity 
+
+#####
+
+bravo pour le jeu super 
+
+#####
+
+peux pas loader le jeux c est pas fameux tous se déroule bien mais quand je veux joué il dis qu il ne veus pas
+
+
+#####
+
+httpsstoresteampoweredcomapp255710cities_skylines
+
+#####
+
+inutile 
+
+#####
+
+se jeux tellement enmerdent ne vaut pas de la crisse de marde faite attention car ses dla marde d
+
+#####
+
+vraiment ce foutre de la guele du monde j ai acheter le jeu et des le debut ca crash nul nul nulm nul nul nul  
+
+#####
+
+ce  city bulder mérite une meilleur note que ce qui en ait actuellement  pour les personne ne possédant pas cities xl  se jeux est nouveau et ses surtout la quil a déçu les habitués du genre mais si non il se place dirrectement apres sim city 4 delux
+bande son tres bien  grandeur des map bien utulisation des mods bien les deux chose a améliorer sont la création de map
+qui devrait etre ajouter dirrectement au jeux et non passer par le map editor télechargable gratuit sur steam 
+la deuxieme chose a faire est lajout de transport train et garre  a développer 
+note de comparaison pour mes gout bien sur  sim ciy 4 delux 1520 
+                                                                            cities xxl 14 20
+                                                                            cities xl 135  20
+                                                                            cities skayline 1620
+                                                                            sim city2013 45 20
+                                                                            sim city 4 1520
+
+#####
+
+le jeu est nul
+
+#####
+
+je lai acheté et ne peut pas y jouer à chaque fois il me dit quil y a une erreur cest de la m je nachèterai plus rien sur steam
+
+#####
+
+nul
+
+#####
+
+magnifique jeu de gestion et evolution dune villeje recommande ce jeu évolutif ect ect
+note donner a ce jeu 18 sur 20 
+
+#####
+
+le meilleur city builder
+
+#####
+
+en 2023 il ne fonctionne plus désinstallé et réinstalléet rien remboursement
+
+#####
+
+tres bon jeu  helas il plante assez souvent et de plus pratiquement impossible deffacer certaines villes
+
+#####
+
+passionnant
+
+#####
+
+ce jeu est moins réaliste que cities skylines version 1
+
+#####
+
+trés bon jeux
+
+#####
+
+crach souvent
+
+#####
+
+jeu simple mai complexe
+
+
+#####
+
+ça été le meilleur city builder auquel jai joué devant sim city et de loin
+
+#####
+
+some goodies in this game 3
+
+#####
+
+jeu correct dans son ensemble assez simple a prendre en main mais deviens vite plus complique quand il commence à y avoir une population important
+
+il est convenable graphiquement pour un jeu de 2015
+
+après ayant jouer a cities xl platinum je trouve que cette édition à très peut dévolution à par linterface qui est passez noir et une à deux maps en plus
+
+je recommande la jeu à des personne nayant pas cities xl platinum mais si vous lavez cela ne vos pas le coup dinvestir dedans
+
+#####
+
+bonjours jaime bien ce jeu car il a beaucoup doutils pas mal doption et sa ne ait pas très longtemps que jy joue
+
+#####
+
+super
+
+#####
+
+gestion économiques via les tokens bien pensée et très intéressante le système de géstion des complémentarités entre secteurs dactivités  différentes villes est très bon je trouve 
+dur de palier aux problèmes de traffic mais je pense quil doit y avoir moyen de faire quelque chose pas encore regardé de gros tutos avec mods et autres
+niveau graphismes cest ce quon attend dun cb de 20112015 pardon pour linexactitude 
+jeu avec un rapport détentesatisfaction très bon
+
+je recommande
+
+#####
+
+très immersif pour le coté difficile du jeu mais absolument injouable dès que vous souhaiterez utiliser des extensions du workshop
+
+#####
+
+un bon city builder avec une belle communauté
+
+#####
+
+un jeu superbe offrant de nombreuses possibilité
+
+#####
+
+ne fonctionne plus au bout de quelques heures 
+
+#####
+
+bon cest mon pére qui is joue il adore
+
+#####
+
+bon jeux pour la période de sortie
+
+#####
+
+excellent jeu même si il reste incomplet sur certains points notamment sur la diversité des batiments ou de la politique de gestion de la ville
+
+#####
+
+javais pas mal joué à city xl 2011 sans dire que le jeu était extraordinaire je lai trouvé sympathique je mattendais à ce que city xxl soit une version enrichie en stratégie et gestion mais cest une escroquerie après 5h de jeu je ne vois aucune différence à part la musique et quelques autres éléments décoratifs cest dommage la licence avait du potentiel
+
+
+#####
+
+super ce jeu
+
+#####
+
+pour le prix une bonne version actualisée de sim city 2000 pour les amateurs du genre
+
+#####
+
+ok
+
+#####
+
+pas assez complet mais correspond au produit affiché
+
+#####
+
+bonjour simulation très agréable
+jai passé pas mal de temps dessus
+malheureusement après changement dordinateur le jeux ne fonctionne plus correctement
+mon ordinateur redémare continuellement lorsque que je joue du coup impossible de continuer
+mon cpu ne chauffe et jai plus que largement la configuration nécéssaire
+déçu
+
+#####
+
+excellent
+
+#####
+
+je ne suis pas capable dinstaller le jeux il me dit  synchronisation
+
+
+#####
+
+linterface est très laide peu ergonomique et le phases de chargement sont très longue il me semble que les jeux du même genre qui datent de 15 ans font mieux
+
+#####
+
+comment faire pour jouer au jeu car le jeu plante avant lecrant titre
+
+#####
+
+super jeu
+
+#####
+
+super jeu 
+trop bien 
+ce jeu nous apprend la gestion super bien
+
+on peut faire ce qu on veux
+
+#####
+
+en même pas 10 minutes de jeux déjà deux gros crash redémarrage pc  sa donne pas trop envie de continuer déçu
+
+#####
+
+facile
+
+#####
+
+jeu excellent
+
+#####
+
+le jeux est cool 
+
+
+#####
+
+je ne recommande pas se jeuje ne le trouve pas intuitifsa ne se racorde pas automatiquement route et rond point notament une vrai prise de tete
+
+#####
+
+rien à dire  simplement ce jeu nest pas à la hauteur  sort presque en même temps que cities skyline il ny a pas photo si vous voulez acheter un city builder acheter cities skyline et non cities xxl
+
+cities xxl napporte rien de nouveau voila  si vous avez la version xl  et bien cest la même la preuve en mode fenetre le jeu ma affiché cities xl et non xxl
+
+enfin bref non ce jeu ne vaut pas sont prix et même en promos
+
+#####
+
+un jeux qui a du potenciel malgré quelque freeze
+
+#####
+
+triste
+
+#####
+
+je recommande cities xxl pour tous les fans de construction de ville plus maniable graphisme bien fais
+
+#####
+
+jeu de gestion plutôt sympa
+
+#####
+
+bref cest pas top le jeu ne ma pas du tout accroché
+
+#####
+
+je ne peux plus rantrer sur cities xxl
+
+#####
+
+jai débuté avec xl plusieurs centaines dheures pas beaucoup de changements dans xxl mais toujours aussi fun 
+
+#####
+
+je dirais que c est un bon produit pour ceux qui aiment les city builder multijoueur
+
+#####
+
+bon jeux gestion    bien dessiné  avec gforce 
+
+
+
+ il y a un mode triche dans le jeux 
+
+
+bon jeux 
+
+#####
+
+liked it 710
+
+#####
+
+bon jeuintéressant à jouer un vrai défi quand il veut bien démarrer
+
+#####
+
+vous avez cities xl  vous avez se jeu
+
+#####
+
+les commentaires qui disent que ce jeu est nul et quil faut acheter cities skylines ne sont pas des bonnes recommendations 
+jai acheté cities skylines et jai tout de suite été dégouté par la façon de construction des routes il faut passer dès fois plus de dix minutes sur une maleureuse bretelle dautoroute car pour faire les ponts et de beaux virages cest un putain de bordel et niveau contenu cest trop maigre on fini très vite le jeu
+
+je joue à ce type de jeu depuis que jai 4 ans jai commencé avec simcity 2000 puis 3000 4 et le dernier qui est sortie 
+
+jai aussi testé city life qui mavait plutôt décue puis cities xl que javais adoré donc jai décidé de profiter de la promo de la semaine dernière pour me payer cities xxl que jadore la gestion des routes est tellement agréable comparé à cities skylines et le jeu est beaucoup plus complet au niveau contenu linterface est beaucoup plus esthetique que celle de cities skylines et on peut vraiement se promener comme si on était dans la rue et pas une simple vue de bas comme dans simcity et cities skylines
+
+par contre au niveau économique industriel je préfère largement simcity
+
+#####
+
+cest exactement ou a peu près la même chose que xl platinium  ya moin de spéciaux même 
+
+#####
+
+je recommande ce jeu seulement pour les personnes nayant pas cities xl
+
+#####
+
+très déçu du jeu fonctionnement lassant manque doptions et de possibilités et dun mode multijoueur pour les échanges de plus très similaire à cities xl sont prédecesseurs qui lui était bien mais manque damélioration dans celuici
+
+#####
+
+le jeu a du contenu   il y a de très grandes maps il y a beaucoup de bâtiments mais il y a des choses assez complexes comme faire une ligne de métrole graphisme des bâtiments des bus ect sont assez moyensje pense que 40 euros pour ce jeu n en vaut pas la peine je conseille plutôt sim city qui est plus simple plus joli et en plus moins cher
+
+#####
+
+toujours la meme daube
+
+#####
+
+jaime crée bon a part quelle plantage avec workphop
+
+#####
+
+yes i recommand it  yes there are only small improvement yes the multithread issue is still the major issue but the game has more stability it runs a tiny bit smoother than previous versions and the community is really active and nice you ll need some mods to play it like it should be like the mod that delete shadercache a must have but overall that s the best city builder yet  not the best city simulation but the best and the most complete detailed builder 
+
+if you never played a game of this serie  xxl is the one you should get  if you already have a previous version then it will be cheaper to buy  
+
+this game needs many and deep skills you wont master it fast but once you got it  this the most beautifull game of the genre 
+
+#####
+
+un jeu très agréable laspect gestion est fort simple mais on prend beaucoup de plaisir à bâtir sa ville beaucoup de bâtiments de belles cartes
+
+#####
+
+ayez espoir le jeu changera je lespere  nos développeurs francais ont trop comptés sur leur petite communauté pour completer le jeu grace au workshop  ils ont essayés comme cities skylines  ils ont échoué 
+bref ce jeu est bien malgré que cest exactement la meme chose achetez le si vous voulez moins lagger que sur cxl platinium  ils ont fais une grosse maj sur ce jeu pour loptimisationperformance 
+mais cest tout 
+
+oui je recommande ce jeu car cest du made in france et ce jeu est un des plus complet des city builders 
+ps  rien ne concurrencera simcity 4 d
+
+#####
+
+complètement dépassé depuis la sortie récente de cities skylines les fans de city builders peuvent enfin délaisser ce jeu buggé depuis sa sortie en 2011 et patché trois fois à coup de 30 euros la mise à jour bye bye cities xl et bonjour cities skylines 
+
+#####
+
+jeux tres moche
+
+#####
+
+jai pas accroché du tout jaurai du patienter et prendre cities skyline
+
+#####
+
+le jeu est globalement très bon mais il plante tout simplement toutes les 30 minutes sans sauvegarder ce jeu est inutilisable
+
+#####
+
+un patch pour lépisode précédent rien de plus
+
+#####
+
+je tai fait confiance et tu ma trahis jeu
+
+cest un scandale de vendre ca a 50 pour ceux qui ont le precedent  cest juste une mise a jour
+jaimerai que lon me rende mon argent jai bien aimer son predecesseur mai la on vien literalement de me voler 20 euros
+
+#####
+
+sympa
+
+#####
+
+cant play this game error loading mods please check your installation and dependencies for your mods the game will not exit  since the beginning i have problems with this game and its not my computer all other games working fine and cities xl tobut cities xxl is really not ready to play i dont want my money back just keep it to improve the gamei am uninstaling the game and no more purchase from steam or focus for now
+
+#####
+
+focus ne veut que faire de largent en ne proposant aucun développement ni amélioration vraiment désolant 
+
+ pas normal de ne pas pouvoir changer le sens de rotation de la souris après cette inième version
+
+stupide que lorsque la souris passe devant la fenêtre de contrôle des cameras que la souris reste affectée à larrière plan et ne devient donc pas fonctionnelle sur cette dite fenêtre
+
+ça ne vaut pas plus quun gros 10 
+
+
+#####
+
+depuis le second patch du jeu quand je clique sur jouer le jeu crash automatiquement jai déjà essayé de le réinstaller mais sans espoir 40 euros dans le vent les devs sont doués pour ce genre darnaque
+
+#####
+
+le jeu ne veux meme plus se lancerc est quoi le problemesi on prend le temps de l acheter c est pour y jouermais malheureusement c est pas le cas on peux pas jouernul
+
+#####
+
+très bien mais uniquement si vous navez pas cities xl sinon cest quasiment le meme jeu très déçu du peu de changement jespere que la communauté parviendra a ameliorer le jeu
+
+#####
+
+a déconseiller fortement
+
+ne fonctionne pas avec un acer predator g3 605  i7 4790  ssd256  8 go  gtx 760 acheté en janvier et à jour   le patch n a rien modifié
+steam et focus font silence 
+
+par ailleurs le temps de jeu est archi faux car au 1er lancement le 05 février au soir le jeu a fonctionné 12 heure environ puis crash sur crash a chaque essai infructueux le compteur augmente  
+a linstant un nouvel essai sest soldé par un crash citiesxxl_5530103_crash_2015_2_16t19_16_15c0mdmp voir par ailleurs les discussions dans
+
+désespérant et focus ne fait rien 32 euros perdus
+
+#####
+
+une énieme mise a jour et a 40 euros
+
+il y a certe un beau ciel mais le reste commence a faire vraiment viellot  et le fameux multicore il est ou   avec un 4770k oc sur une ville de 200 000 habitants j ai des saccades impressionante qui pour certaines font carrement planter le jeu
+
+un beau pigeonage made in focus
+
+
+
+
+
+
+
+#####
+
+comme cities xl il est à toujours ce problème récurant doptimisation 
+
+#####
+
+seulement si tu est en manque
+
+#####
+
+ne vous attendez pas à avoir un novueau jeu il sagit simplement de cities xl même le titre du jeu dans la barre de taches windows na pas été modifié lorsque lon lance le jeu
+je ne recommande pas aux possésseurs de cities xl les autres attendez plutôt cities skylines
+
+#####
+
+bonjour
+je suis un noob en ce qui concerne la franchise cities xxl je nai connu aucun des jeux précédents alors les comparer mest impossible
+
+jai acheté ce jeu après avoir regardé un ou deux stream puis surtout avoir vérifié que le support multicoeur existe je suis sur un laptop actuellement alors innonder le premier coeur de mon i7 de la série m engendrerait un lag dès le début du jeu
+
+en tant que noob jai pu commencer assez rapidement dans ce jeu ce qui est agréable la courbe dapprentissage est vraiment rapide ce qui correspond à la réputation dun défi assez faible néanmoins cela permet dexplorer un peu les différentes cartes et donc de varier les plaisirs
+
+je nai pas connu de lag mais ma plus grosse ville a juste 55k habitants en tout cas mon processeur tient le coup et jai bel et bien deux coeurs dutilisés au minimum ce qui correspond à mon besoin
+
+le gros problème que jai avec ce jeu cest linterface graphique qui est tout sauf intuitive
+
+trouver le système déchange il faut aller dans le coin en haut au même niveau que la sauvegarde ou quitter le jeu
+pour échanger il faut faire glisser un slider mais rien nindique de quel côté il faut pousser pour importer du quel il faut pousser pour exporter pire quand on est en déficit on ne peut pas importer plus alors que limportation permettrait daugmenter les impôts
+
+même pour sauvegarder cest pas intuitif tu veux écraser une sauvegarde clique sur la disquette pas sur autre chose si tu cliques sur le cadre principal il te fera revenir à la case départ  seul problème la case départ cest la première case elle ressemble fort à notre cité alors notre premier geste cest de cliquer sur ce cadre
+
+côté game play jaime vraiment bien ce jeu je le recommande même si le tarif est assez élevé côté interface cest à perfectionner
+
+#####
+
+un jeu très décevant quasiement aucune nouveautées par rapport à la version precédante que je posédais cities xl 2011 si vous avez deja un cities xl nachetez pas ce jeux
+
+#####
+
+en bref  du foutage de gueule cest un copiercoller des éditions précédentes avec trop peu de nouveautés et surtout aucune nouveauté dans le gameplay linterface est complètement archaïque pire  lergonomie régresse avec cette nouvelle édition et puis cest pas super agréable à jouer les batiments sont statiques et tristes le traffic routier cest ce quon faisait dans les années 2000 on est loin de leffervescence dun simcity 5  en 2015 faire un city builder sans aucune profondeur de jeu quand on a déja sorti 3 ou 4 fois le même soft avant cest juste nimporte quoi très déçu par cette version steam devrait implémenter le bouton rembourser
+
+#####
+
+le jeu présente des nouveaux paramètres intéressant comme le choix des tailles rues lors de constructions de plusieurs bloocs ainsi quune meilleure vue graphique
+dommage que cela nest pas été présent sur les anciens opus qui napportait pas grand chose chaque année
+
+#####
+
+ce jeu noffre rien de plus que cities xl je demande un remboursement sans condition cest une arnaque 
+
+#####
+
+trés bon jeux avec de beau graphisme je le recommande 
+
+#####
+
+pour moi cest cities xl mais avec un x en plus 
+
+#####
+
+real bad
+
+#####
+
+cest le même jeu que cities xl mais la musique est plus belle jécoute de la musique de cities xxl quand je joue cities skylines
+
+#####
+
+il est vrai je nai jamais joué a aucun cities xxl evidemment vu le mauvais bouche à oreille que jai eu pour sim city 4 jai essayé cities xxl et là honnetement jétais ravis mais vraiment ravis il est bien pensé sérieux et il y  a plein de chose à faire le seul bémol que je trouve mais qui nenleve pas le plaisir cest quil manque une touche de fantasy je pense que je vais passer des heures sur ce jeu merci de mavoir
+
+#####
+
+plus fluide que la version 2012 avec lavantage de pouvoir avoir les batiments de toutes les anciennes version je recommande 
+
+#####
+
+décevant  peu de nouveauté des bugs
+
+#####
+
+rajouter un x devant le nom nen fait pas un bon jeux a tous ceux qui ont cities xxl nacheté pas cest le meme 
+on vous montre de nouveaux batiments des voies dincertion dans la video de promo cest faux  
+ya rien quun cities xl la dessous 
+je souhaiterais même etre remboursé tellement ce jeux est une harnaque 
+
+#####
+
+si vous navez jamais joué à la série allezy ça vaut le coût à mon sens
+
+en revanche ce jeu est le meme que le précédent qui était quasiidentique au précédent qui était luimême
+
+bon vous mavez compris ça fait sept ans que cette compagnie sort le même jeu encore et encore et ça fait sept ans que je me fais couillonner je suis un peu lent
+
+cest encore limage de focus qui est dégradéecomment cette société peut accepter déditer une telle arnaque 
+
+#####
+
+jai du vérifier que je nai pas lancer lancien jeu car cest exactement identique
+je ne mattendais pas a un nouveau concept mais cest exatement identique
+
+#####
+
+cest exactement le meme jeux que city xl  aucun changement mis a part linterface 
+ne pas acheter 
+
+#####
+
+je ne suis pas certain que le steam soit un progrès pour ce jeu etre sans cesse obligé de se connecter est un processus lourd  de plus il faut attendre la réalisation de 3 étapes avant dattendre le chargement du jeu
+simcity avait fait la même erreur avec origin  il y a maintenant la possibilité de jouer en local chez ce concurrent de cities xxl 
+linterface steam est assez pénible  on voit bien que le seul but du machin est de faire acheter plus de jeux ou de programmes 
+les explications ne sont pas toujours claires jai mis plusieurs minutes avant de comprendre comment ajouter des mods à mon jeu la notion dabonnement à un contenu ne me paraît pas judicieuse le fait dajouter un élément à sa collection devrait suffire à rendre le contenu utilisable dans le jeu un peu comme dans les sims 4
+je nai pas joué encore très longtemps mais je nai vu comme tout le monde ou presque que peu de chamgements par rapport aux versions précédentes cest à la fois frustrant et décevant
+la publicité vante la nouvelle interface  elle nest pas si nouvelle que ça un peu plus dépouillée que la précédente cest tout 
+jai découvert que lors de la construction des quartiers on peut choisir la taille le type de routes à utiliser
+pas de quoi révolutionner le bazard 
+heureusement que les anciens possesseurs peuvent  bénéficier dune réduction de 50 sur le prix dachat 
+mais même pour arriver à ça cest galère avec le système steam  javais déjà cities xl 2012 dinstallé il a fallu que le truc le réinstalle car il nest pas capable de le retrouver sur mon ordi 
+par contre pour ce qui est de scanner les disques avant denvoyer des infos aux éditeurs ça y va grave  ça récupère tous les logiciels installés  cest pourquoi jai refusé de continuer la procédure dévaluation 
+pour linstant je trouve que ça ne vaut pas mes 20 
+jespère vraiment que lavenir apportera des mises à jour conséquentes et intéressantes 
+
+#####
+
+remboursement
+
+excatement le meme jeux et mal optimise
+
+#####
+
+tres bon jeu complet des batiments une map gigantesque des mods sur le steamwork des heures et des heures de jeu en vue 
+
+#####
+
+très décu ce jeu nest quun énième cities aucune amélioration remarqué dans le jeu je déconseille son achat
+
+#####
+
+exactement parel que cities xl très peu daméliorations mise à pars les musiques et quelques ajouts de batiments
+
+je vais y joué car jadore la série des cities mais cities xxl nest pas un opus cest juste un dlc de cities xl vendue beaucoup trop cher et avec extacement la même optimisation que les précedents opus soit aucune le jeu rame arriver à un certains niveau de population jusqua ce que ça devienne presque injouable
+
+#####
+
+cest exactement le même jeu que cities xl mais avec une interface encore plus dégueulasse
+
+#####
+
+ce que jaurais aimé 
+
+ de nouvelles ressources avec leurs batiments respectifs
+ plus de difficultés à équilibrer le budget 
+ de nouvelles industries divertissement alimentaire services
+ différents type de centrales electriques charbon pétrole nucléaire solaire à gaz pas juste petite moyenne grande centrale
+ de nouveaux styles de zoning 
+ des catastrophes naturelles
+ une interface plus clair mieux rangé
+ plus de vie  manifestation criminalité accidents accroissement de la forêt pollution visible désertion des mauvais quartiers evénements culturels et sportifs
+
+ce que cities xxl apporte par rapport à ses predecesseurs
+
+ nouvelle couleur dinterface
+ textures de batiments
+ tram et metro
+ un peu moins de lag
+
+je mennui déjà
+
+#####
+
+le jeu a du potentiel mais apparement ils savent pas lexploiter dommage de devoir repayer 20 euro pour avoir très peu de nouveautés et un jeu quasiment identique à cities xl platinium
+
+#####
+
+petite déception sur ce cities xxl on a affaire à la version précédente graphiquement en retard interface assez mal pensée et minuscule avec une grande résolution jai juste limpression davoir acheté une mise à jour pour cities xl
+
+si vous navez pas joué à cities xl cest à essayer au moins cette version supporte les processeurs multicoeurs contrairement à son prédécesseur
+
+#####
+
+larnaque de lannée le jeu est le meme que les précédents et les améliorations annoncées sur loptimisation sont inexistantes pire le jeu rame encore plus impossible de construire une route ou une zone sans avoir un lag affligeant parfois 2 fps un jeu à fuir absolument 
+
+il serait bienvenue et juste honnête de proposer un remboursement des préventes tant lexpérience de jeu annoncée est mensongère
+
+#####
+
+if you dont mind get another city xl go ahead
+
+#####
+
+complètement fan de xl 2012 malgré ses problèmes de performance je suis tout à fait heureux de retrouver un nouvel opus qui a pu régler ces problèmes
+
+nattendez pas dajouts majeurs linterface est quasiment la même mais elle me convenait déjà très bien jouer sur des cartes différentes et plus grandes est un gros atout on appréciera aussi lintégration du steam workshop ce qui pourra peutêtre contrebalancer la regrettable absence de trains
+
+#####
+
+pour avoir joué à toutes les versions de cities xl depuis ses débuts cities xxl apporte quelques nouveautés sympathiques comme les pattern ajustable pour les zones résidentiellescommercesindustries une fluidité améliorée pour linstant en tout cas je nai quune petite ville le workshop qui facilitera le travaille de la communauté pour les mod et une nouvelle interface qui donne limpression davoir été un peu baclée
+pour le reste je nai pas encore tout découvert je suppose que ce nest pas une révolution mais une évolution de la précédente version du jeu
+estce que ça mérite vraiment dêtre un nouveau jeu plutôt quun patch pour le jeu précédent  je ne saurai dire leffort de faire une réduction pour les anciens est plutôt une bonne chose aussi pour linstant je ne regrette pas linvestissement
+
+#####
+
+bon jeu
+
+#####
+
+franchement déçue 
+
+mis a par le fait quil soit mieu optimisé que cities xl
+
+je ne vois pas de difference
+
+la copie de cities xl trop peu de nouveauté
+
+pour les joueurs du precedent nacheté pas celui ci
+
+#####
+
+une bouze
+on est en 2015 les mecs ont pris le cities xl ont changé très vite fais linterface et cest tout cest réellement et exactement le meme jeu avec les memes problemes un scandale
+
+#####
+
+bon je confirme jai payé 20 pour un jeu que jai déjà et je parle du xl2012 de base
+le jeu très bon en fin 2011 a pris un coup de vieux donc au bout dune heure de jeu jai fais exit 
+
+et comme dans le premier opus il faut faire attention au moment de sauver jai été un peu distrait et jai fait charger donc perdu 20mn de jeu sur 1h boulet je sais mais quelle idée de merde leurs systèmes de saveload
+
+bref il y a peut être qqes batiments mais rien de sérieux pour dire que cest une version 2 du jeu
+si vous navez pas fait comme moi fuyez sinon si vous êtes comme moi et que vous aimez les city builder ça doit vous rappelez simcity où je me suis fait aussi c 
+
+
+#####
+
+trop de promessejeux qui me decois  par cest graphsime pas amélioré  sont interface qui est pas magnifique nont plus  pas dévolution entre les titrebref je vais me réfugié sur cities skylines ou la jespere que les promesse serons rélaisé  
+
+je suis teriblement déçu de se jeux il sont entrain de foutre en lair toute une license qui avait pourtant du potencielle 
+
+les 
+
+wokrshop 
+les batiment en plus
+
+les 
+
+optimisation 
+graphsime 
+aucune amélioration 
+
+je suis tristesse de voir des jeux sortie a la pisse en 2015  sourtout celui la que jattandais enormement 
+
+prenez en promo pas a 30 
+
+#####
+
+dont buy 
+
+ 100 same game 
+
+#####
+
+je ne vois aucune différence avec cities xl il ny à que linterface et la musique de nouveau  jai un doute pour loptimisation
+
+#####
+
+jeu identique 99 aux précédents les développeurs ont seulement changé le nom de la série pour faire semblant davoir apporté un bon lot de nouveautés je nai jamais rédigé dévaluation steam par le passé mais je me dois davertir la communauté ceci est une arnaque
+
+#####
+
+très décevant
+
+quasiment aucune différence avec les précédents opus de cities xl si ce nest linterface oui elle a bien changée  on passe du bleue au grisnoir sinon la disposition des menus et les icônes sont les mêmes
+
+bref la franchise vieillis très très mal et malgré limmense taille des cartes le titre est nettement inférieur à simcity
+
+vous avez déja un jeux cities xl hé bien ne lachetez pas 
+vous navez jamais eu de cities xl estimez vous heureux et passez votre chemin 
+
+#####
+
+je ne recommande pas ce jeu cest tout simplement le cities xl avec quelques nouveautés gameplay identique avec la même philosophie je regrette mon achat
+
+#####
+
+bon alors le fait que le jeu ne demarer pas été du  aux batiments que j avais dl dans le workshop
+
+
+pour le jeu il n y a aucun changement par rapport au autres volets mais il est quand mêm plus aboutis que sim city 5  on peut y faire de grandes villes  y produire differents consomable et ainsi les revendre  aux autres villes pour acheter en echange ceux que l on ne produit pas 
+
+au final on parle plus dun patch correcti de xl et platinium  plutôt que d un nouveau jeu même siil a fallut réécrire le code du jeu pour pouvoir enfin utiliser les multi coeurs de nos pc moderne tout cela pour vous dire que sont prix est bien sur trop élevé pour ce patch
+
+je lui met quand même un pouce bleu  uniquement pour dire qu il est mieu que sim city 5
+
+#####
+
+première impression  on dirait le même jeu que le précédent opus
+
+mais ce nest pas le plus grave 5 minutes de jeu et déjà un crash 
+
+
+#####
+
+il ne fonctione pas
+
+#####
+
+impossible dy jouer l application est fermer directement sans même quon puisse savoir pourquoi 
+
+6go ram 
+i7 950
+gtx670
+
+#####
+

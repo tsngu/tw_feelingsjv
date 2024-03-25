@@ -1,0 +1,616 @@
+actuellement je suis plutôt mitigé avec tout de même une tendance positive
+on nous livre ici un jeu très original et il est important de le souligner il ne sagit pas dun city builder comme pourrait lêtre un cities skyline mais bien dune gestion de ville principalement axée sur laspect politique que cela demande lidée est excellente et donne envie
+
+premier point interessant le jeu est en français ca peut sembler bête mais cest un point quil faut souligner il y a tout de même beaucoup de lecture à faire pour comprendre les décrets les lois les différents partis politiques les technologies
+traduction très bien réalisée
+
+la partie construction nest pas le point central du jeu mais reste tout de même présente elle est basique et peu de choix possible autre que la construction dun quartier mais cest normal donc ce nest pas un point noir vous dessinez un quartier et vous aurez différentes actions possibles de plus en plus nombreuses au fil du temps sur ce quartier dailleurs au dela dune gestion de ville cest aussi et surtout une gestion de plusieurs quartier qui ensemble forment votre ville
+vous aurez accès à des statistiques précisent et nombreuses pour chaque quartier vous pourrez leur ajouter des bâtiments publics comme un école la police les pompiers vous pourrez aussi leur donner accès à leau aux égouts bref à beaucoup de choses suivant votre avancée technologique
+
+linterface reste propre simple et efficace mais a tout de même quelques soucis comme des textes tronqués car trop long et aucune tooltip nous donnant le mot complet au passage de la souris il y a dailleurs parfois certaines icones dans les bonus quun décret apporte par exemple qui nont pas de tooltip et nous savons donc pas toujours ce que le bonus apporte les bonus dailleurs qui ne sont pas toujours clair dans leur compréhension
+
+jen arrive aux deux points principaux la gestion économique et politique
+la gestion économique consiste tout simplement à avoir suffisement dargent dans les caisses de la ville pour financer de nouveaux projets et idéalement réussir à maintenir votre budget mensuel dans le positif alors y a du très bon et du moins bon mais je vais tout de même mettre mon manque dexpérience sur le jeu en avant pour ce que je considère comme moins bons cest difficile presque ridicule les constructions sont très chères et leur coût dentretien mensuel sont titanesque mais je le redis ce point est à prendre avec des pincettes plus dexpérience sur le jeu rend les chose je pense plus abordable une chose dont je suis casi sur cest quil y a de véritables choix à faire car vous ne pourrez pas mettre une ecole leau le gaz une clinique les yeux fermés vous naurez pas le budget il va falloir y aller doucement en comptant bien chaque centimes qui sort des caisses de la ville et ça cest très agréable 
+
+nous en arrivons à laspect politique du jeu et je suis tout aussi mitigé lidée est excellente plutôt bien réalisé dans son ensemble il faut faire preuve de finesse accumuler du capital politique représenté avec la reconnaissance que vous pourrez parfois dépenser pour demander du soutien à tel ou tel parti il ne va pas falloir tirer trop sur la corde au risque quon finisse par vous rire aux nez et quon ne vous écoute plus bref cest vraiment cool oui cool les premières heures
+on se dit ha ouai cest sympa on apprend a comprendre le système on est pressé de voir arriver une nouvelle décision à prendre faire voter un projet de loi un decret mais après plusieurs heures on se rend compte dune chose cest quen réalité il ny a pas vraiment de choix déjà il ny a casiment jamais aucune raison dêtre contre un projet
+
+ interdiction aux enfants de travailler avant 10 ans  ba oui
+ protection des animaux  ba oui
+ droit pour la femme dêtre propriétaire  ba oui
+
+vous navez même pas besoin de faire pencher la balance de jouer de votre influence les decrets passent naturellement
+quand bien même vous voudriez être contre ces lois vous le pouvez et vous pouvez même arriver en effet à ce que le conseil municipal sy oppose mais il ny a aucun interêt à le faire
+
+en vérité si on regarde dans la réalité pour une question posée il y a toujours des bonnes choses et des mauvaises choses pour les oui et pour les non tu pèses justement les pour et les contres et tu prend une décision mais là si tu fais passer la loi tu as des bonus et si tu ne la fais pas passer bon tas pas les bonus du oui mais tas pas ni malus ni bonus du non donc autant dire oui bref il y a aucune raisons qui te motive à te battre pour le oui ou pour le non
+
+jai une comparaison qui me vient dans des city builders qui ont integrés la politique comme les décrets via un système très basique on coche une case et hop le decret est appliqué dans urban empire cest pareil en réalité juste quau lieu de cocher une case on nous demande si on veut la cocher ou pas on attend une minute que le vote se termine auprès du conseil et voilà tu as ton décret
+
+alors je vais tout de même terminer sur une dernière précision je reste convaincu quau fil des ères que le jeu propose cela se complexifie il y a plus de parti qui se crée il y aura plus de choix et de vrai choix jen suis convaincu je suis aussi convaincu quil y a des modificateurs cachés que nos actions ont un poids auprès des partis sans forcément quon le sache quil faut donc peser le pour ou le contre de temps en temps je suis convaincu quil faut parfois la jouer fine mais si jai raison il est vraiment regrettable que le jeu ne nous fasse pas ressentir ce jeu politique dès le début
+
+ cest pourquoi je le recommande tout de même il reste très original très plaisant les première heures je nai pas encore assuez de recul pour valider définitivement certain de mes points négatifs il y a du challenge cest un bon jeu dans lensemble quand bien même lavenir me donnerait raison concernant ce que je lui reproche maintenant comme toujours cest mon ressenti à voir le votre
+
+si jamais vous avez le replay de la première soirée découverte en stream  
+urlhttpswwwtwitchtvhopurev116073123stream découverte d urban empireurl
+nhésitez pas à passer les premières minutes dintroductionpapotage
+
+#####
+
+httpsyoutubev7lewincqwc
+
+ce jeu mavait semblé intéressant au premier abord il nous proposait de suivre le destin dune dynastie à la tête dune ville de lair industrielle jusquà lair contemporaine en y ajoutant une dose de gestion politique en effet votre personnage est membre dun parti politique qui doit luimême se battre contre dautres partis politiques pour imposer ses idées
+
+dans ce jeu donc les décisions que vous prenez doivent passer par le conseil municipal qui doit décider de vous suivre ou non en fonction de leur inclinaison politique ainsi un parti de gauche sera plus enclin a accepter un vote pour laugmentation des impots quun parti de droite
+
+tout cela se complexifie avec le temps puisque dautres partis émergent en fonction de lavancée des époques
+un arbre technologique est dailleurs disponible et vous permet de découvrir de nouvelles inventions et de nouvelles loisdécrets a mettre en place sic pas mal nestce pas ouais mais en fait non
+
+simuler un système politique est dune incroyable complexité tant la politique est plus une affaire dhommesfemmes avec leurs propres convictionsinteractions quune histoire de blocs homogènes avec des idées bien arrêtées
+mais ici on se retrouve avec un système qui ne fonctionne pas très bien pourquoi
+
+a la politique est linéaire dans ce jeu pour moi questce à dire en réalité il est assez facile de convaincre un parti politique de changer de bord et de suivre argumentation suffit de les pousser un peu et vos réformes passent sans soucis même auprès des partis historiquement opposés au vôtre il ny a pas de motivation complexe ça ce limite à  je suis gauche tu es droite moi pas voter pour toi bisous  pas de personnages qui représenteraient un parti qui auraient chacun leurs motivations et dont on pourraient se jouer non ici les partis sont des blocs sans visages des machines a pensées le système politique théorique à la hobbes ou à la platon un ensemble de variables qui influencent si oui ou non une réforme va passer des variables dont vous ne comprenez pas le sens ou la portée  
+
+b aucun sens je veux augmenter les impôts  je vais voir le parti nationaliste pour quil aille dans mon sens je lui sort parce quil y a des choix de réponses dont je ne suis pas sûr de linfluence sur le résultat final les citoyens veulent cette réforme des impotset ça marche il abonde du coup dans mon sensjétais mort de rire et la suspension dincrédulité a volé en éclat je ne pouvais plus prendre le jeu au sérieux
+
+c trop lent la moindre réforme des quartiers demandent un vote très réaliste en soi mais si je voulais voir la réalité politique jentrerais en politique la lourdeur du système rend le jeu chiant
+
+d aucune concurrence pas de dynastie concurrente sur la carte qui vous mettrait des baton dans les roues vous êtes seuls sur la carte
+
+e une campagne risible une carte des fonds propres une série dobjectif a accomplir sur la carte assez longs et difficiles cest tout cest pas un mode campagne cest un mode libre revoyez vous définitions les mecs les objectifs ne sont même pas contraignants vaque à tes occupations si ça te chante pas de soucis
+
+f 3 scénarios aucun mode de difficulté
+
+g le choix du personnage na quasi aucune influence vous pouvez en tant que membre dune famille conservatrice faire passer des lois progressives tout le monde sen cogne quel interet de choisir alors certes les personnages ont chacun un petit bonus de ci de là qui leur sont propre mais rien de majeur
+
+h cest moche et la musique est une insulte aux oreilles en esperant que le thème change lorsquon change dère technologique sinon il y aurait en tout et pour tout un thème musical pas très long qui plus est
+
+i le jeu nexplique pas ses différentes variables soins éducations sécurité environnement loisirs quelles sont les influences de chacune sur votre quartierville qui sen soucie
+
+ce jeu ne conviendra ni aux gens qui aiment le city bulding car le vote est trop contraignant et le jeu noffre aucune possibilité créative a ce niveau mais il ne conviendra pas non plus aux gens qui aiment mettre en place des stratégies tactiques et complot tant le système politique est nébuleux et au final simpliste pas de concurrence pas de motivation personnelle pas de révolte du citoyen même si on passe les impôts de 10 à 25  dun coup puis ça se prend trop au serieux si au moins le jeu avait pris le parti lol de lhumour jaurais bien plus accepté ses défauts mais non jai juste envie de rejouer à tropico qui même si il a beaucoup de défauts prend le virage de lhumour et ça lui réussi pas mal
+
+le seul avantage que je vois au jeu une bonne entrée pédagogique pour expliquer à des élèves léchiquier politique les différents courants de pensées et la gestion des lois et des décrets une bonne activité dintroduction à un cours dintroduction à la science politique en somme mais a 44  jai mieux fait dacheter des manuels
+
+#####
+
+au premier abord le jeu se présente comme un city builder teinté de politique les quelques lets play vus sur youtube me laissait une bonne impression mais étant donné quils étaient tous sponsorisées jaurais dû voir languille sous la roche en fait ce jeu est une énorme boîte noire qui ne vous explique absolument rien tellement quon ne trouve aucun guide ou documentation sur le web car les joueurs semblent avoir tous du mal à comprendre les mécaniques de ce jeu et moi donc  vous faites des choses proposez des lois améliorez des quartiers sans trop savoir ce que ça représente vraiment à part la symbolique que lon se fait droit de vote des femmes ok mais ça impacte quoi après dans le jeu  contrairement à lécrasante majorité des city builders il ny aucun graphique pour rendre compte de lévolution et comprendre ce quil se passe tout juste il y a quelques chiffres bien obscures qui ne sont quune photographie à linstant t essayez de lire et noter à la main les statistiques chaque mois la montagne du fun tout est obscure dans ce jeu  tantôt vos revenus vacillent dans le rouge sans prévenir sans que rien dautres ne semblent être apparu ce jeu par ailleurs ne pardonne pas la moindre erreur si vous vous retrouvez dans le rouge cest le cercle vicieux vers la banqueroute et la nonréélection de votre candidature il ny a aucun recours et vous ne comprenez pas pourquoi améliorer votre ville rend les choses pires bref cest le premier city builder dieandretry et ça ne vaut certainement pas la quarantaine deuros dépensés
+
+#####
+
+mouais
+
+je mattendais à un jeu de gestion complexe mais pas de cette manière
+
+au niveau de linterface politique cest très simple  si on a le cash nimporte quelle proposition de loidécretmodification de quartier passe sin on na pas le cash ça ne passe pas
+
+linconvénient de ce principe simpliste cest que si ça merde on est coincé car on ne peut rien décider seul donc lorsque la catastrophe arrive cest cuit
+
+et ça arrive on ne sait pas comment  jétais à 50k de recettes par mois et sans rien faire je suis passé à 40k puis 30k etc jusquà 25k et 10 ans sont passés sans pouvoir rien faire la seule chose possible cest daugmenter les impôts mais comme ça fait fuir toute la population et lindustrie ça ne saméliore pas et comme le compte est en négatif pas moyen daméliorer un district pour avoir un meilleur rendement par exemple javais découvert le gaz lélectricité etc mais les coûts dentretien sont tellement cher que cest impossible à installer
+
+il doit y avoir des astuces mais léditeur nexplique pas du tout comment fonctionne son jeu alors tout repose sur une économie tordue et incontrôlable
+
+un petit jeu qui aurait pu être sympa mais qui a été bâclé dommage
+
+#####
+
+je suis mitigé et je vais le recommander non pas pour ce quil est mais ce quil pourra être
+
+le jeu est bon dans ce quil présente à la base et il a de bonnes idées mais après avoir essayé les 4 familles jusquà lère 5 jai remarqué beaucoup de lacunes
+
+1 mauvaise compréhension des répercussions des choix la motiié du temps on a du mal à savoir ce que va faire y ou x chose
+
+2 obligé de jouer une république sociale avec un taux de taxation super elevé je comprends mal lintérêt de léchiquier politique puisque dès lère i et ii on est amené a faire du progressisme et à taxer à tout instant car on tombe dans le rouge pour un oui ou pour un non et on se retrouve à lère v avec une ville qui taxe à 50 pour fonctionner
+
+3 le jeu a une certaine difficulté qui est rebutante au bout de 3 parties on finit par faire les choses dans le même ordre car on maximise nos revenus ce qui casse ceux qui comme moi essaient de jouer un peu rp avec les familles quils prennent chaque famile étant en fait un mode de diffculté
+les premiers augmentant la sécurité et étant fidèle à lempire font que lère i et ii sont assez simple pour ensutie être injouable
+les saint ellas donnent une courbe facile dans le sens ou de lère i à lère iv ils sont facile à jouer
+les irlandais sont très durs à partir de lère iii 
+et les derniers ont une courbe difficile jusquaux ères ivv où le jeu devient soudainement plus facile
+
+4 les objectifs de victoire sont à la limtie de limpossible à part tenir jusquà lère v
+
+5 jeu très lent et très long jaruais apprécié quon puisse décider à quelle ère commencer
+
+6 je veux bien que les services soient payant mais pourquoi nous fontils perdre de largent  les gens ne paient pas leau et lelectricité dune ville  cela est illogique
+
+je souhaite vraiment des ajustements notemment sur la difficulté inspportable de ce jeu quand on arrive à tomber dans le rouge sans raison particulière quand le conseil préfère multiplier les quartiers au lieu daugmenter la densité de ceux existant et aussi le manque de moyen de revenus jaurais aimé faire une société capitaliste où le peuple créé la richesse mais je finis par faire du socialisme voire du communisme sur chaque partie si je désire ne pas avoir de problème financier
+
+#####
+
+jétait très embalé par ce jeux mais je dois reconnaitre que je suis très déçu ce nest pas très réaliste surtout au sujet de certain vote comme par exemple la distribution deau le tous à légout le chemin fer le port les hopitaux tous çà et trop souvent refusé quelle peuple refuserai davoir leau potable le tous à légout ils manque un mode libre les banques car même en augmentent les impots vous resté dans le rouge dommage car pour le prix je mattendais à mieux donc je ne recommanderai pas ce jeu
+
+#####
+
+perso jaime bcp  jeu complet avec pas mal de mechanisme interessant comme la recherche ou la passation de pouvoir entre génération  bcp de nouveauté pour le  genre
+
+donc pour ce qui vont prendre la peine de jouer  dune heure et demi  avant de ragequit  le jeu va voir dévoiler multiple option  choix  etc super intéressantes  celle ci  influencera lavenir de votre ville ainsi que son devellopement 
+
+#####
+
+mitigé sur le jeu intéréssant au premier abord et rapidement on sens comme un vide 
+
+cest bien dommage il semble pourtant intéréssant mais le jeu manque dun petit gros quelque chose pour performer
+
+la sensation de cercle vertueux et de descente au enfer est réel et désagreable
+nombreux aspects du jeu sont flou et innexpliqués on ne comprend pas vraiment les mécaniques qui semble bien cachées et souvent on se dit quil ny en a peut être pas
+
+bref globalement je pense que cest un mauvais investissement
+
+#####
+
+evaluation positive
+
+en préambule est ce que ce jeu est parfait non est ce que des fois on sarrache les cheveux parce quon est bloqué oui
+
+mais il a un vrai potentiel et jusqua présent je le trouve vraiment immersif
+
+je le trouve beaucoup plus réaliste que les city builders traditionnels le maire ne construit pas lui même son réseau deau par exemple jaime la gestion du conseil municipal qui vous mange dans la main quand tout va bien et qui soppose à tout quand çà va mal ca rend le jeu compliqué mais moi jaime bien çà
+il a des mécanismes financiers à prendre à compte comme le fait de laisser un quartier se déveloper avant de rajouter le gaz ou leau sinon le budget en prend un coup
+
+au final cest à mon avis un bon jeu à condition de ne pas y chercher ce quil nest pas ce nest pas un pur city builder
+
+
+#####
+
+prise en mains évolution avec les années et logique de jeu incohérentes et les graphismes totalement dépassés ne vaut absolument pas ce tarifs 
+
+#####
+
+hyper déçue 1 an que je lattendais jeu qui ne vaut pas son prix gameplay directif graphismes vraiment moyens équilibre financier impossible le conseil politique est innovant mais mal utilisé 14h et jen ai marre
+passez votre chemin
+
+#####
+
+jai joué 4 heures  je macharne mais en vain le rytme est lent  les blocages politques pas toujours logique  le gameplay répétitif et lent au final cest un petit jeu qui ne mérite pas son prix de vente demande de rembourrsement direct en espérant quelle sera accepté sinon  ouin 
+
+#####
+
+ce jeu manque de profondeur toutes les idées sont traitées superficiellement une fois trouvé le moyen de garder un budget positif la notion de vote disparait les parties sont tous plus ou moins daccord avec vous
+
+dommage lidée de départ est très bonne mais autant jouer à the guild qui est  beaucoup plus complet
+
+#####
+
+si le concepte de gérer une ville par le biai dun conseil municipale plutot quen tant que dieu omnipotent est intéressant le fait est que le gameplay est incompréhensible  tutoriel vague aucune information ou explication sur les problemes rencontrés et comment les solutionner vous pouvez avoir une ville qui gagne 50k par mois et dun coup tout sécroule et vous perdez 100k par mois sans aucune action sans aucun changement de population ni les habitants ni les entreprises ne vous solicitent pour vous dire ce quils veulent une icone vous dit juste quils sont mécontent  cest à vous de deviner 
+les couts de financements sont exponentiels et le changement dere technologique sur lequel vous navez aucun controle multiplie par 2 ou 3 les besoins des habitants sans que le budget suive  du jour au lendemain on vous demande dinvestir a tour de bras par magie et de restructurer la ville au complet gameplay extrémement mal pensé a croire que les dev nont jamais essayés de faire une partie de leurs propre jeux
+
+#####
+
+si le fun était une échelle allant de 10 à 10 ce jeu serait à 1 il est pas désagréable il est pas mal fait il est pas bugué mais je préfère me relancer dans un documentaire de 30 heures sur lartisanat sibérien en 1880 que refaire une partie et cest pas deux clins doeils à tropico et aux lamas del presidente qui vont sauver ça
+
+le guide pour gagner  
+ faire un quartier
+ attendre davoir des sous avant den faire un autre
+
+jai cliqué sur un batiment résidentiel à un moment lavis politique de ses habitants est résumé comme ceci 
+
+janvier  77 physiocrates protosocialistes  33 libéraux démocrates  0 indépendantistes
+février  77 indépendantistes  33 libéraux démocrates  0 physiocrates
+mars  50 libéraux démocrates  50 physiocrates  0 indépendantistes
+
+pas la moindre logique et de toute manière ça na aucune influence sur le jeu
+
+#####
+
+telement decu du jeu jattendais vraiment quelque chose de mieux mais en 1h de jeu je tourne deja en rond les projet de loi telement facile a faire passer
+
+je recommande pas du tous le jeu
+
+#####
+
+je nai vraiment pas aimé lexpérience offrete par ce jeux le prix est bien trop élevé au vu de la qualité
+
+#####
+
+le plus gros probleme du jeux pour moi cest le manque de choix de la difficulté le jeux nest pas difficile en soit juste incroyablement long tu es obliger dattendre comme un idiot que largent augmente parce que si tu augmente les impôt le bonheur diminue de beaucoup et cest incroyablement difficile daugmenter le bonheur à chaque fois que je passe un cycle tous les stats diminue 
+ce nest pas le pire jeux auquel jai joué mais il nen ai pas loin je lui donne un 110
+
+#####
+
+petit jeu de gestion de ville assez simple et sans trop de prise de tête
+si les évaluations sont plutôt négatives cest surtout dû au fait que certains voyaient en ce jeu une alternative à sim city
+
+hormis ça cest un gouffre à ram en fin de partie 16 go ne sont pas suffisant pour bien gérer le jeu
+
+#####
+
+un jeu complexe mais intéressant souffrant dun manque cruel dexplication et dinfobulle permettant de comprendre
+beaucoup de mécaniques opaques nécessitant lusage daide extérieure
+il forme un tout intéressant qui permet de passer du bon temps une fois les mécaniques comprises
+
+edit les devs nont pas assuré le support de leur jeu
+
+#####
+
+impossible de passer le tutoriel une première dans ma vie de gamer 
+
+#####
+
+jeu interessant au premier regard mais les limites sont très vite atteintes et aucun patch ni rien qui permet de rendre le jeu intéressant orientezvous plutôt vers democracy 3
+
+#####
+
+malheureusement un jeu prometteur mais qui a beaucoup de lacune graphique dans mon cas en tout cas même après avoir diminué la résolution décran pour ce jeu difficulté à former les quartier intermitance de limage et à un certain moment limage reste en version nuit et on ne voit pratiquement rien jai laissé beaucoup de chance à ce jeu avant de faire ce commentaire mais là cest la 1ère fois que je regrette davoir dépenser plus de 30  sur un jeu sur steam
+
+#####
+
+a déconseiller totalement rébarbatif au bout de 34 h de jeu vraiment rien à voir avec un city builder la seule action consiste à faire des propositions au conseil municipal et attendre le vote
+
+vraiment très déçù dommage que je men suis rendu compte au delà de 2 heures de jeu
+
+#####
+
+jeux assez critiqué par sa difficulté
+
+#####
+
+jeu loin de mes attentes
+
+#####
+
+un jeu intéressant qui ajoute un côté politiquegestion assez poussé
+on est pas dans un sim city mais vraiment plus dans un jeu de politique choix de société à long terme
+le fait davoir des journaux avec les événements mondiaux nous permet de réviser quelques dates importantes d
+bref très bon jeu
+
+lets play découverte fr ici  httpswwwyoutubecomwatchvsytqdm6mj4
+
+#####
+
+jaurais aimé adorer ce jeu le concept est intéressant mais pas assez exploité on tombe vite dans la routine une fois les mécaniques du jeu assimilées jespère que les développeurs rajouteront du contenu des events aleatoires dautres intrigues 
+
+il y a encore pas mal de bugs mais ils devraient être bientôt résolus linterface nest pas super ergonomique mais on finit par sy faire
+
+en résumé  vraiment dommage car le jeu était vraiment alléchant sur le papier je vais quand même y jouer pour ce quil apporte de nouveau laspect politique
+
+#####
+
+déçu évolution lente gameplay dépassé et jeu très lassant après 1 heure on a limpression de tourner en boucle malgré le passage à une ère supérieure
+
+#####
+
+trop cher par rapport au contenu
+
+#####
+
+voila 7h sur ce jeu jattendais un grand jeu et bien pas du tout cest un petit jeu avec un gros prix mais si il etais bien a la limite ca irais mais non il est long poussif ennuyeux on y joue presque forcé parce que lon a payé il vas rejoindre ma liste navet je ne le recommande pas evidement
+
+#####
+
+on tourne en rond cest toujours la meme chose et peu dinteret les choix de destabilisations ou demande de lois sont trop faible le jeu perd enormement dinteret à la fin ont coche au hasard les choix que lont souhaites faire tellement que ca na aucun interet 
+
+#####
+
+testé quelques heures ce matin
+je mattendais à beaucoup mieux
+au final le jeux est plutot chiant à jouer chaque construction ou modification dans la ville necessite de faire voter par le conseil le changement ou lajout le conseil vote un peu nimporte comment avec quelques petites possibilités de les influencer mais cela reste trés lourd comme systeme et pas fun du tout
+si vous aimez les vrais citybuilders vous serez je pense décu par ce jeu
+
+
+#####
+
+amateur de city builder je ne pouvais pas passer à côté de urban empire 
+je ne suis pas déçu vous devez gérer une ville quartier par quartier et quand je dis gérer cest passer par le conseil communal pour prendre les décisions 
+
+cest peutêtre là que le jeu est répétif pour chaque décision de construction damélioration il faut passer par le vote des partis du conseil municipal sauf si vous avez assez dargent dans votre compte personnel 
+
+pour ma première partie jai tenu environ 100 ans avant de voir les partis voter contre ma réélection en tant que maire de la ville commencée en 1821 ma partie sest terminée au début de 1939
+
+les points positifs 
+  graphismes agréables 
+  langue française intégrale 
+  les détails du gameplay changent selon les années par exemple pas de voitures en ville avant davoir découvert le moteur
+  le système du jeu politique
+
+les points négatifs
+  actions répétitives
+  comme dans tous les jeux de gestion le manque dargent continuel qui oblige presque à tricher
+  limpossibilité de modifier certaines options de toute la ville dun coup le revêtement des routes le métro les égouts etc il faut le faire quartier par quartier
+
+ce jeu est tout de même addictif on a toujours envie de faire mieux
+
+#####
+
+foutage de 
+
+#####
+
+sympa et evolutif
+
+#####
+
+ difficulté 
+ ma grandmère de 90 ans pourrait y jouer
+ facile
+ normale
+ difficile
+ dark souls
+
+ graphiques 
+
+ ms peinture
+ mauvais
+ meh
+ les graphismes nont pas dimportance dans ce jeu
+ bien
+ magnifique
+ chefdœuvre
+
+ musiquesons 
+
+ mauvais
+ pas spécial
+ bien
+ magnifique
+
+ histoire 
+
+ ce jeu na pas dhistoire
+ comme jouer à temple runners pour lhistoire
+ il est là pour les personnes qui le souhaitent
+ bien écrit
+ histoire épique
+ imaginez kingdom hearts mais sur crack
+
+ prix 
+
+ gratuit
+ soustarif
+ prix parfait
+ pourrait être moins cher
+ hors de prix
+ gaspillage complet dargent
+
+ exigences 
+
+ vous pouvez le faire fonctionner au microondes
+ ordinateur scolaire
+ moyen
+ haut de gamme
+ ordinateur de la nasa
+
+ longueur 
+ extrêmement court 60 minutes ou moins
+ très court 1  3 heures
+ court 3  15 heures
+ moyenne 1550 heures
+ longue 5090 heures
+ extrêmement long 90110 heures
+ pas de fin
+
+ amusant 
+
+ je préfère regarder la peinture sécher
+ difficile à apprécier
+ répétitif
+ en fait assez amusant
+ balade de votre vie
+
+ replayabilite
+
+ ne valait pas la peine dêtre complété
+ cest une expérience unique
+ uniquement pour les réalisations
+ si vous attendez quelques moisannées
+ certainement
+ rejouable à linfini
+
+ vaut la peine dêtre acheté 
+
+ retirez ceci du magasin de valve
+ non
+ attendre la vente
+ oui
+
+merci à nino pour lexemple dévaluation
+
+#####
+
+bon jai forcé pour donner une chance au jeu mais rien à faire même des années après le jeu offre une simulation durbanisme et de politique dans une ville visiblement législativement indépendante mais malgré tout à lintérieur de lempire dautriche et de sa juridiction  ou un truc du genre 
+
+bref niveau city builder cest très vide il suffit de selectionner une zone et le quartier prendra forme dedans de lui même et des fois cpas très logique le résultat on est pas sur city skyline
+ensuite une fois tout les quartiers posés jle fais en début de partie histoire dêtre tranquille il y a uniquement les services à positionner au fur et à mesure de la partie ensuite place à la gestion ce qui devrait être top est enfaîte complétement chaotique les lois le budget les taxe les décrets tout doit être fait via un conseil municipal même si lidée est bonne cest répétitif et loin dêtre dynamique les partis sont très flou sattirer leur sympathie est très aléatoire
+
+le plus grand problème du jeu cest de ne savoir aucune conséquence possible de nos choix on rajoute le gaz dans ce quartier  on va connaître le cout mais pas les bénéfices apportés au quartier pour pouvoir financer votre ville les taxes doivent être en continuelle augmentation du coup mes industries payent 70 de taxe mais tout va bien
+
+bref cest nimporte quoi et on avance au pif total vive la politique les yeux bandés mais là cest un non pour moi
+
+#####
+
+la difficulté est vraiment mal dosé et on ne sais pas quoi faire pour évité de perdre les elections surtout vue que les parties ne se base pas sur le bonheur des citoyens mais sur les relations personnelles avec notre personnages
+
+#####
+
+ce jeu part dune bonne idée mais la gestion financière reste très aléatoire on se retrouve vite en perte sans réellement trop savoir pourquoi
+
+#####
+
+nul graphismes hors dage interface inadapté au bout de 10 minutes on est déja barbé
+
+#####
+
+très bon jeu qui nest pas un simple city builder mais surtout un simulateur politique
+ici contrairement à sim city ou city skyline chaque décision décret construction  doit être avalisé par le conseil municipale où divers sensibilités politiques se cotoient gauche droite communistes extrêmes droite ecologistes chretiensdémocrates 
+
+vous pouvez les supplier exiger menacer ou encore les faire chanter pour faire passer vos votes
+
+le jeu dispose également dun arbre technologique qui débute à la révolution industrielle pour vous emmener jusquau 21e siècle
+
+en terme de réalisation le jeu nest pas un triple a mais un aa
+
+points forts
+ graphiquement joli sans être aussi exceptionnel quun anno 2205
+ aucun bug ni plantage
+ arbre technologique qui sinspire de civilization
+ le concept de simulation politique couplé à un city builder
+ la campagne qui fait office de bac à sable
+ il se passe toujours quelque chose recherche débloquée vote evenement aléatoire
+
+points faibles 
+ peu de différences notables entre les 4 familles  factions à disposition
+ le manque de profondeur en terme de gameplay ce qui nuit à la rajouabilité
+ la difficulté assez elevé peu être également un point fort selon vos goûts
+
+#####
+
+surement très bien mais manque dexplication pour le placement du quartier impossible de valider le cadastre sans savoir pourquoi 
+
+#####
+
+très bon jeux
+
+#####
+
+le jeu crash en boucle
+
+#####
+
+coquille vide
+
+#####
+
+un ensemble plutôt bof malgré un gameplay attypique et nouveau
+
+#####
+
+jamais vu un jeu qui plante autant
+jen suis à minimum 10 en même pas une heure de jeu
+jeu à fuir 
+
+#####
+
+un peu rébarbatif plus politique que construction
+
+#####
+
+il est très mauvais
+
+#####
+
+grosse bouse quest ce jeu tres mal équilibré et qui en plus ne permet pas de sauvegarder quand on le veut
+
+#####
+
+quinze minutes de jeu    bof bof et rebof  je mattendais à beaucoup mieux  le graphisme est basique on ne comprend pas très bien la mécanique du jeu et au final on sennuie très rapidement 
+
+#####
+
+ras
+
+#####
+
+bonjour pour ceux qui se donne la peine dapprofondir ce jeu de simulation stratégie gestion de ville il est très bon inventions décret politique vote construction événements sociaux vous êtes à la tête dune dymnastie de maîre gérer vos villes et citoyens pas convaincu alors suivez moi sur youtube houko38 httpswwwyoutubecomwatchvnbptuevtsb8
+
+#####
+
+jeux sens aucunes logiqze daction vraiment mal fichu
+
+#####
+
+alors je pense que je vais vraiment avoir lair dun gros con mais voilà comme beaucoup dutilisateur avec ce jeu on navait attendu une super experience de city buider classiquepolitique style démocrate 3 que la bande annonce de ce jeu avait annoncer
+
+et depuis lachat de ce jeu je me méfit des jeux fait par de grand éditeur car on parle quand même de kalypso les mecs qui avait remis tropico aux devant de la scène qui dallieurs aux passage le jeu urban empire fait un petit clin doeil sur ce dernier mais non de dieu je me suis fait avoir et cette référence ne pas la sauver du tout
+
+comme beaucoup que jai dis à lavance on sait tout fait avoir par la bande annonce et les images du jeu comme étant révolutionnaire et bordel lennui est au rendezvous le gameplay nest pas si additif que je laurai pensé dun cities skylines et javais plus impression davoir jouer à simcity 2013 car eux aussi ils nous ont refait le coup du jeu révolutionnaire car le coup de la nostagie ma pris une énorme  gueule de bois
+
+malgré quil la voulu parti dans une très bonne attention de mélangé city buider et politique cela reste ma plus grosse aranque après simcity 2013 car cest pas que être déçu mais jappel ça une aranque et le pire cest que je lavais achter davance pour vous direz de la plus grosse connerie que jai fait sur steam car jachter jamais les jeux à lavance en foncent dans le tas 
+
+et cela maura bien appris une bonne chose même si cest bien devant rassure toi que se soit pas de la merde par dernier car cest pas avec de beau graphique en hd que le jeu sera pas super alors attention à vous amateur de jeux de gestion ce jeu est une aranque 
+
+et façon vous aurez bien remarqué avec tout ces commentaires négatives mais quand même cest mieux de prévénir car vos 45  vous les aurais bien profond si vous avez encore le temps de le remboursé et de pas dépassé 1 min de plus car cest que jai voulu remboursé mais jai dépasser les 2h mini  du coup baisé 
+
+enfin bref jespère que vous ce commentaire et ces des autres vous servira et passer une bonne journée ou soirée ou que vous soyez av59
+
+#####
+
+impossible de lancer le jeu sa me renvoi a demarrerle jeu a chaque essai
+
+#####
+
+le jeux beug déja la camera tourne et je peux rien y faire
+
+#####
+
+hey ive been playong the game for a year to b honest there is so many buggs and laggs the game itself is good but the gameplay is not pushed as it best we can easaly get bored im looking for a similar game but with more gamaplay and better option like building a city and doing politics
+
+#####
+
+jeu franchement trop compliquétrop de paramètres peut mettre la partie hs en un fraction de seconde sans de possibilité de redresser la barre
+
+#####
+
+si vous aimé souffrir cest parfait
+lequilibrage financier est impossible a moins de faire son liberal
+
+#####
+
+jai plus envie de recommander ce jeu quautre chose mais je vais commencer par mes reproches 
+
+la stratégie est virtuellement inexistante vous attendez dêtre dans un gros déficit pendant un mois et là vous proposer la plus hausse dimpôt de lhistoire humaine après quoi vous êtes tranquille jusquà la fin du jeu
+pour les cartes nen avoir que 3 est une vraie insulte surtout vu leur taille il est facile de placer tous les quartiers nécessaires dès la première ère sur 5 ères et densuite seulement améliorer les quartiers voire les réaménager pour gérer le ratio résidentielcommercialindustriel
+quatre dynasties cest bien mais comme on finit par faire voter les mêmes lois pour les mêmes raisons ça semble très inutile
+
+sinon cest un citybuilder très orienté gestion financière et cest très sympa mais au bout de 45 parties vous aurez a sensation davoir vraiment fait le tour de la question les conditions de victoire sont les seules véritables difficultés du jeu difficulté parfois issue du fait que le jeu nest pas toujours transparent dans ses mécaniques je ne suis toujours pas sûr de savoir comment faire promouvoir des gens dune classe sociale à une autre par exemple
+
+bref un tropicolike en plus petit et moins délirant sympa mais sans plus
+
+#####
+
+très prenant avec des choix pas évident pour avancer
+tout en évitant la faillite de la ville 
+
+#####
+
+not a good game but nice try
+
+#####
+
+impossible à lancer bug enorme
+
+#####
+
+premièrement jétais très sceptique lors de lachat de ce jeu la promo à 75 de rabais ma finalement convaincu de donner une chance à urban empire malgrès la tonne de commentaire négatif
+
+est ce un jeu parfais  pas du tout sur mon ordi il lagg effroyablement et déplacer la caméra est pénible cest évidemment un problème de performance de mon ordinateur
+
+cependant la complexité de ce jeu les multiples possibilités et variantes en font un jeu passionnant et complexe out le city builder ici on parle de macrogestion dune ville beaucoup plus proche du réalisme que dans un sim city les tactique au conseil de ville lespionnage le jeu dinfluence il faut aimer que ce soit complexe pour bien apprécier il faut aussi accepter perdre lélection avec plusieurs heures de jeu et se faire expulsé de la partie et recommencer
+
+jai étrangement adoré et contrairement à dautres je préfère ue à démocraty qui noffre quun interface inhospitalier contrairement à ue qui nous permet de naviguer dans la ville
+
+bon achat à ce prix 
+
+
+
+#####
+
+une grosse deception sur la decouverte du vraie potentiel du jeu pas a lahauteur de lattente et cependant  a la fois une gestion relativement optimisee  1120
+
+qlq a t il deja  gagne une partie
+
+certains critiquent le manquent de gestion construction ville
+
+le jeu est il en fait un  bac a sable dun futur jeux dans ce cas on comprends mieux le peu de travail effectuede même que le dev de vikings chez kalypso prouve egalement que le studio  a varie ses jeux et font des tests
+
+la venue de modsdlc seraient indispensable
+
+la strategiesimulation des branches de capacites  sont bien conçues un peu a la civilization
+
+la croissanceevolution de la ville se fait trop lentement compare aux ages industriels
+
+au final  une politiqueloisconstructuion ville pas assez aboutit juste de quoi suivre pas assez de possibilités pour rester sur le trône de fer  
+
+#####
+
+ce jeu qui se présentait comme très intéressant ma plutôt deçu  le conseil municipal nest pas très riche en possibilités de négociations ce qui rend le jeu assez lassant au bout de peu dheures de jeu par sa pauvreté et ne donne pas envie de continuer dautant plus que parfois les décisions sont incohérentes mettre le gaz ou lelectricité refusé par le conseil alors que même si on est en des temps reculé ça parait être la base il eu fallu prendre en compte que une ville ou plus généralement un pays va sendetter lourdmeent de toutes les manières or jai limpression que ce nest pas envisagé ici les graphismes sont corrects pour un jeu dont ce nest pas lattente
+
+dommage  cest peutêtre juste le signe que ce type de jeu nest pas vraiment possible à réaliser
+
+#####
+
+un très bon jeux de city builder ou tout se gère par quartier mais là ou certain voie une monotonie quand au réunion du conseil municipale je voie une possibilité dobserver mon affinité avec les différents partie présents qui se modifie se rajoute ou disparaisse au fil des époques
+certes il manques une option pour ce que lon veut mettre en place affecte toute notre ville mais jimagine que la pluspart du temps cela serai refusé par le conseil donc bon
+une jeu que je recommande mais attendais les soldes car le jeu ne vaut pas à lheure actuelle une telle somme 
+
+vivement des mods 
+
+#####
+
