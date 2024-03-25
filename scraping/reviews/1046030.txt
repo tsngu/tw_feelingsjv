@@ -1,0 +1,1805 @@
+développé par grizzlygames un studio de 3 personnes islanders est un jeu de stratégie et de gestion de placement de bâtiments minimaliste le principe est simple on va devoir créer des villes sur des îles et engranger des points nous permettant de passer à une toute nouvelle île générée de façon procédurale pour gagner des points rien de plus simple on débloque des ensembles de bâtiments thématiques comme des habitations des paquets forestiers et bien dautres et on doit les placer à des endroits stratégiques sur la carte certains éléments donnent des points bonus en fonction de la proximité ou non dautres bâtiments on ne pourra pas forcément placer des maisons de druides à côté des centre ville par exemple sous peine davoir un gros malus
+
+le jeu peut ressembler à nimporte quel city builder de prime abord mais cest en jouant quelques secondes que lon comprend vite que la recherche de combos et doptimisation est vitale pour espérer aller loin dans le jeu il ny a pas réellement dhistoire dans islanders on est juste seul face à nousmême et on va essayer daller de découvrir le plus dîles différentes afin daméliorer notre score cest bel et bien un jeu compétitif mais seulement pour le joueur pour les amateurs de scoring sachez toutefois quun leaderboard existe et que aurez ainsi la possibilité datteindre les sommets pour peu que vous compreniez bien les principes du jeu les premières places sont déjà assez complexes à atteindre et il va falloir cravacher pour espérer se faire une place a titre personnel je suis encore assez loin du compte
+
+islanders nest pas un jeu très complexe on peut seulement faire pivoter la carte se déplacer et poser des bâtiments dans des endroits dédiés à cet effet on peut aussi faire pivoter les bâtiments et autres champs afin doptimiser la place et améliorer nos points potentiels en gros on doit simplement analyser la physionomie de lîle et essayer datteindre des paliers de score en essayant de scorer de la façon la plus efficace la partie sachève dès lors que lon na plus de bâtiment à poser et que lon a pas débloquer le palier supérieur il faut également que lon nait pas accès à lîle suivante mais je vais y revenir plus on fait un bon score sur une île et plus sa progression avance dès que lon atteint un certain seuil on peut passer à lîle suivante
+
+minimal valley
+il ne sera pas forcément judicieux de passer directement à lîle suivante car plus on continue sur lîle où lon se trouve et plus on augmente notre score ce qui nous rendra la vie plus facile une fois que lon en aura fait le tour même si on ne dispose plus de bâtiments on pourra toujours aller sur notre prochain challenge et ca apporte mine de rien une bonne dose de stratégie il conviendra de bien réfléchir à quel moment on voudra avancer car il nest pas certain que lîle suivante soit optimale et facile à repeupler fort heureusement on aura accès à des plateformes nous permettant de construire sur leau mais comme rien nest simple il faudra bien choisir son type de plateforme car certaines peuvent recevoir des habitations et dautres des cultures
+
+vous laurez très vite compris islanders est un jeu bien plus complexe quil ny parait sans pour autant devenir trop dur ou trop frustrant on retrouve réellement une ambiance graphique et sonore à la bad north et à la kingdoms and castles deux jeux que je conseille pour les amateurs de stratégie et de city builder on retrouve tout ce qui fait le charme des jeux de plateau où lon doit optimiser sa main et placer ses bâtiments de la meilleure façon pour améliorer sa jauge de combos il nest pas question de sauvegarder sa progression et dy revenir au cas où lon se serait trompé la partie est enregistrée et on peut y revenir quand on le souhaite mais le game over est définitif cela peut frustrer certains surtout quune erreur arrive très vite dans les plus grandes îles recommencer une nouvelle partie peut être assez redondant vu que lon fait peu ou prou toujours la même chose sur les 34 premières îles
+
+autre léger grief me concernant jaurais aimé pouvoir zoomer afin doptimiser encore mieux le placement de certains de mes bâtiments et ainsi glaner de précieux points rien de bien grave surtout que la gestion de placement des bâtiments est excellente et on visualise très bien le nombre de points que lon gagne et que lon perd en fonction de là où lon est susceptible de placer notre habitation par exemple tout est fait pour que lon comprenne vite comment bien jouer et ce sans tutoriel bravo à léquipe de développement on voit bien quils sont passionné et quils ont tenté de renouveler un genre parfois trop complexe inutilement et sans réelle replay value une fois le principe acquis
+
+une île sans battle royale en 2019
+graphiquement islanders est une franche réussite cest beau fluide et super mignon le jeu tourne comme un charme même sur une très petite configuration avec pas mal de paramétrages vidéos et sonores le jeu pèse à peine 40 mo ce qui ne posera pas de problème pour les possesseurs de ssd ou ceux qui nont plus de place sur leur disque dur les musiques sont assez sommaires et sobres mais elles font leur effet les premières heures de jeu elles finiront pourtant par devenir redondante et on les coupera assez vite pour notre propre santé mentale le jeu est intégralement en français ce qui est un gros plus pour les amateurs de la langue de molière et qui aidera les plus jeunes dentre vous à samuser avec le jeu on peut modifier les touches par défaut ce qui est préférable car le jeu ne gère que les claviers qwerty par défaut donc soit on modifie les touches soit on doit basculer notre clavier en en je nai pas eu de gros bugs ou de crash putrides même si labsence de gestion du steam cloud ma obligé à recommencer ma partie sur ma seconde machine
+
+islanders est donc une franche réussite qui parvient à toucher plusieurs types de joueurs et surtout qui arrive à se faire un nom uniquement grâce à son design et à ce quil nous propose de faire nespérez surtout pas gérer des ressources et vous battre contre des dragons et autres loups dans islanders le jeu nest pas conçu dans cette optique pour un prix fort raisonnable moins de 6 à lheure où jécrit ce test on peut espérer y jouer au moins 67 heures afin de découvrir toutes les possibilités offertes par le jeu en matière de bâtiments et en matière de challenge les amateurs de jeux de puzzle de stratégielight ou de kingdomino y trouveront leur compte et pour peu que lon ne se trompe pas sur les intentions réelles du jeu on passera un très agréable moment
+
+cest un jeu avec un fort goût de reviensy et qui ne nécessite pas dy passer 4 heures pour finalement perdre juste parce que lon a oublié de fermer un mur à linstar de lexcellent they are billions on peut y jouer de façon casual juste histoire de faire la plus belle ville ou alors dessayer doptimiser au mieux son environnement afin daller chercher le top 100 je préfère personnellement la première approche mais certains achievements nous force à jouer vite et de façon très efficace il y a en pas mal et ils sont assez simples à débloquer pour la plupart il ny a pas encore de cartes steam pour le moment mais saiton jamais dans un futur proche
+
+vous laurez compris je vous conseille fortement lachat de ce jeu qui me fait passer de très bons moments et qui ne coute pas bien cher comme indiqué plus haut ne vous trompez de jeu et regardez bien les vidéos de gameplay afin de ne pas être déçu vu le potentiel du jeu il est possible quil soit disponible sur mobile ou sur des consoles comme la nintendo switch mais cela nengage que moi
+
+#####
+
+je me suis dit tient je vais essayer ce petit jeu normalement je me contente de découvrir et joublie souvent ce genre de mini jeu par la suite cependant je me suis laissé surprendre dy avoir jouer  de 2h au moment ou jécris et je nai pas terminé sérieusement il ma surpris et il est fort addictif toute en nous relaxant et en faisant travailler un peu nos méninges pour sassurer de pouvoir faire un maximum de points sans gameover quand simcity se transforme en puzzle relaxant d
+
+#####
+
+je joue sur linux version linux  excellente
+
+h1le jeuh1
+
+un jeu de réflexion le but étant de poser des bâtiments afin de construire une ville rapportant le plus de points possibles chaque bâtiment reçoit ou perds plus ou moins de points des autres il faut donc les placer le mieux possible le jeu nous donne le choix entre deux lots de bâtiments à chaque fois quon remplit un objectif de points si lobjectif nest pas atteint lorsquon a plus de bâtiments cest perdu
+
+si cest assez facile au début on reçoit les bâtiments plus complexes plus tard et ça devient un peu plus dur à placer vu la place limitée sur les îles
+
+les graphismes sont mignons et colorés la musique sait se faire oublier le tout est typé relaxant et fonctionne bien
+
+a noter un mode sandbox où il ny a pas de score à obtenir pour construire les villes comme on le souhaite tous les bâtiments étant disponibles tout le temps
+
+h1rejouabilité achievementsh1
+
+les achievements sont assez simples il men manque quelques uns lorsque jécris ces lignes et à part les deux qui nécessitent de se dépêcher un peu au début du jeu le reste est vraiment tranquille à obtenir
+
+la rejouabilité est bien là si tenter daméliorer vos meilleurs scores vous intéresse
+
+h1en brefh1
+
+un petit jeu de réflexion assez sympa pour faire une partie de temps en temps
+
+h1gnulinuxh1
+
+la version linux est excellente je nai rencontré aucun problème
+
+os linux mint 191 x64 mate edition
+hardware  i7 7700k oc5ghz nvidia 1080gtx 32gb ram
+screens  dualscreen 1x 4k  1x 1920x1200 un seul screen x
+
+#####
+
+excellent juste excellent  
+
+ce jeu est plus aboutis que certain jeu block buster
+
+ le jeu est parfaitement traduis en français
+ une partie dure deux heure environs et se base sur un principe de point
+ on arrive sur une ile unique où lon doit développé sa ville chaque batiment apporte des point tout est une question de synergie entre eux
+ plein denvironnement il ne manque que de la neige d 
+ petite équipe de développement qui à lair pas mal motivée
+ a acheter durgence 
+
+#####
+
+je ne suis pas un fan de jeux de gestion  je ne suis pas non plus un très bon gestionnaire 
+mais islanders a su mattirer  ce jeu a rendu la gestion simple fun et addictive 
+ici tout sapprends facilement il faut faire assez de points pour débloquer de nouveaux bâtiments une fois engrangé assez de points on débloque la prochaine île 
+il faut organiser les bâtiments selon leur affinités afin de rentabiliser les points cest simple à comprendre mais compliquer à maîtriser 
+en somme un très bon jeux pour un prix dérisoire 
+
+#####
+
+b 1010 b
+mon avis  
+
+ je ne vous recommande vraiment pas ce jeu 
+ les fans du genre ou de la franchise
+ les casual gamers
+tout public
+ les hardcore gamers
+les progamers
+
+ graphismes 
+
+ qualité iphone 3
+ très mauvais
+ mauvais
+ corrects
+ très bons
+ parfait
+
+ qualitéprix 
+
+ complètement abusif
+ assez cher
+ raisonnable
+ pas très cher
+ bon rapport qualité prix
+
+ configuration pc recommandée 
+
+ entrée de gamme
+ milieu de gamme
+ haut de gamme
+ un pc gamer
+
+ la prise en main 
+
+ nécessite limplantation dun nouveau bras
+ difficile
+ nécessite quelques heures
+ facile
+ rien
+
+ durée de vie 
+
+ court
+ brève
+ plusieurs heures
+ une dizaine dheures
+ plusieurs dizaines dheures
+ une centaine dheures
+ plusieurs centaines dheures
+
+ bugs 
+
+ le jeu est codé avec le cul 
+ les bugs gênent énormément le gameplay
+ les bugs ne gênent pas le gameplay mais sont présents
+ quelques bugs
+ le jeu est codé à la perfection
+
+ avis général 
+ ny jouez surtout pas
+ à vos risques et périls
+ jouezy si vous avez assez dargent
+ ne perdez pas plus de temps et jouezy 
+ une addiction 
+
+
+#####
+
+critique express islanders cest un truc qui vous durera 4 ou 5 heures si vous êtes juste là pour les succès pour le reste cest un minicity builder casual scorebased libre de toute contrainte de rapidité où la partie sarrête quand vous narrivez pas à remplir lobjectif de points permettant dobtenir le pack de structures suivant ou lîle suivante cest fun ça vaut bien ses 5 boules bref cest tout bon malgré de gros très gros soucis de clipping lors du placement des structures
+
+#####
+
+version longue publiée sur dystopeekfr  httpsdystopeekfrjouerislanders
+
+version courte  un citybuilder minimaliste limite casual très simple à comprendre et très agréable à prendre en main il manque un peu de challenge mais il est très reposant avec ses graphismes doux et colorés
+
+ne satisfera pas les hardcore gamers à cause de son manque de profondeur et de son rythme assez lent mais pour qui veut un petit jeu pas cher et bien pensé à déguster par petites sessions islanders est un bon jeu pour lequel jespère voir un jour une suite plus ambitieuse
+
+#####
+
+cest frais coloré les règles sont claires cest pas cher
+ca vous plaira si vous aimez les city builders ou les puzzles ou aucun des deux ou les deux 
+le casu va se détendre et le mordu optimiser à mort 
+
+si ça ne vous plaît pas faut désinstaller steam
+
+#####
+
+edit
+
+très joli jeu agréable graphiquement
+
+je mattendais à quelque chose délaboré comme dautres citybuilders en plus simplifié mais le jeu ne se résume quà de loptimisation de placement de bâtiments pour gagner des points déverrouiller de nouveaux bâtiments et remplir une jauge de points lorsque lon atteint le seuil de points requis on passe au niveau suivant aucune interaction concrète avec le terrain
+
+le jeu relève au final beaucoup plus du cassetête avec du placement de bâtiments que du jeu de construction proprement dit et gestion de villes je ne souhaite pas que mon évaluation soit négative pour les développeurs il serait intéressant davoir des réactions autres que recommande ce jeu ou ne recommande pas ce jeu  doù lédition de mon commentaire mais si je devais conseiller ce jeu ce serait uniquement pour ceux qui aiment les jeux de cassetête pas pour ceux qui cherchent un citybuilder
+
+je nai jamais fait de demande de remboursement en plus de 10 ans mais bon fallait que ça tombe un jour ou lautre
+
+#####
+
+superbe jeu pratique pour passer le temps 
+
+juste attention pour le succès have exactly 100 points after placing a building il sagit en fait de faire tout pile 100 points en début de partie et non de poser un bâtiment à 100 points
+
+#####
+
+après un excellent superflight au concept renversant grizzlygames revient avec un titre plus reposant mais tout autant addictif comme une plaquette de chocolat à la cocaïne qui naurait pas de fin
+
+jécris ces lignes à 4h du mat je suis épuisé mais heureux davoir donné vie à ces mini régimes insulaires capitalistes en prenant soin de bien séparer la bourgeoisie de ce qui les effraie le plus  la vue du prolétaire avec ses basses préoccupations matérielles et ses coutumes outrageantes
+
+amusezvous donc à maximiser les points dans ce puzzle game car non il ne sagit pas dun city builder qui vous laissera même après la plus amère des défaites le sentiment davoir passé un séjour en grèce en tant que divinité du btp à lépoque ou léconomie et bien existait encore 
+
+#####
+
+un petit jeu bien sympathique 
+
+chaque île est différente et semble être générée plus ou moins aléatoirement donc à chaque changement dîle cest le petit suspens va t on avoir une île glacée désertique de plaine de montagne ou bien pluvieuse etc  il faudra alors adapter sa façon de jouer et cest ça qui fait la richesse du jeu  laspect puzzlecasse tête où je place quoi près de quoi est ce que je prend le risque de laisser de la place pour plus tard où est ce que je colle bien tout dès le départ etc parfois il y a un petit côté tetris notamment pour lorganisation de la ville 
+le système de score est bien géré et motive à jouer tout comme les quelques succès à déloquer 
+et puis quand même faut reconnaître que cest drôlement joli 
+pour ce qui est de la durée de vie du jeu eh bien ça va dépendre de vous parce que cest vrai quil y a pas énormément de bâtiments à débloquer et quà la longue il peut sans doute avoir un aspect répétitif je dis sans doute parce que moi je mamuse toujours autant  mais si vous aimez le challenge et que vous vous laissez charmé par le format tout mignon coloré alors ce jeu est fait pour vous surtout quand on voit le rapport qualitéprix 
+bref je vous le recommande 
+
+ps aucun bug détecté jeu léger qui se dl très vite
+
+#####
+
+en fait ce jeu était planqué dans ma bibliothèque depuis un moment et javais ignoré son potentiel 
+
+alors oui il est ultra court il ma fallu 3h30 pour tous les succès et encore jai pas forcé le principe est simple  on a des batiments qui nous sont donnés et on doit les placer pour faire un score ce score nous permet davoir des packs de bâtiments plus importants et daller sur dautres îles
+
+le principe est simple et le jeu se veut être ultra reposant et relaxant il suffit découter la musique et les bruits de nature pour sen rendre compte
+principe simple jeu relax pour moi cest une belle petite expérience que je ne peux que recommander 
+
+#####
+
+amusant petit jeux dans le style de mini métro mais rien à voir sur le fond on fait du tetris avec les bâtiments et on optimise les positions et lordre de placement cest un jeux calme sûrement pas une grosse durée de vie mais pour le prix cest amusant
+
+#####
+
+jeu très chill mais à la fois difficile
+en effet il nest pas rare de passer 5 minutes à placer un bâtiment vers la fin des parties
+il faut réfléchir à ce quil va se passer plustard dans la partie avant de placer même 1 bâtiment
+
+le jeu ne coûte pas cher même horspromotions pour le contenu quil propose
+ce nest pas une campagne qui se termine donc le gameplay peut être presque infini
+le jeu ne se termine pas car chaque partie est différente
+
+2 modes de jeu sont disponibles  la sandbox créatif et le highscore pour essayer daller le plus loin possible dans le jeu
+on peut arrêter une partie pour la reprendre plustard ce qui peut paraître anodin mais cest vraiment important
+
+pas de problème pour les petites configs le jeu ne demande pas beaucoup de ressources pour fonctionner même avec les graphismes au maximum
+
+je recommande 
+
+#####
+
+coloré relaxant fun dépaysant amusant minimaliste un jeu très calme avant daller dormir ou après une session de jeux stressants haha totalement addict dès le début avec des succès plutôt faciles à avoir  bref agréablement surprise jadhère 
+
+#####
+
+simple et addictif détendant et réussi graphiquement une petite perle pour casual ou hcg stressé en quête dun peu de zen
+
+#####
+
+islanders est deux choses à la fois  un puzzle game relaxant aux allures de city builder et un city builder sandbox relax tout dépendra du mode de jeu choisi
+
+commençons par le mode high score qui est donc la partie puzzle game du jeu ici vous ne gérez pas de budget vous navez pas dinfrastructure routière à construire ou quelque option de gestion quon retrouverait dans un simcity le jeu vous propose simplement de construire des villages devenant progressivement de mignonnes petites villes avec un système simple de points qui repose sur le placement de vos constructions
+
+chaque bâtiment possède une sphère dinfluence et sera influencé positivement ou négativement par les éléments qui rentrent dans cette sphère concrètement un bûcheron vous rapportera plus de points sil est placé près darbres mais placer trop de bûcherons trop près les uns des autres vous en fera perdre par contre placez plusieurs bûcherons dans le champ daction dune scierie et cest le jackpot
+
+au bout dun certain nombre de points vous débloquez de nouveaux bâtiments à poser maisons maçons manoirs pêcheurs certains de ces bâtiments sont plus ou moins compatibles et vous demanderont de vous creuser un peu la tête pour les placer de la manière la plus optimale possible si vous souhaitez marquer le plus de points
+
+mais lîle sur laquelle vous commencez est relativement étroite et cest pourquoi après avoir franchi un certain pallier vous en débloquez une plus grande vous pouvez dès lors partir recommencer sur cette nouvelle île en gardant votre score actuel et en le faisant augmenter ou vous pouvez choisir de rester sur votre île pour lembellir au fur et à mesure
+
+plus vous progressez et plus les choses se compliquent  la partie se termine lorsque vous navez plus de bâtiment débloqué à poser votre score est alors envoyé au leaderboard et vous pouvez recommencer une partie
+
+la partie sandbox rajoutée avec une mise à jour mijuin 2019 vous permet quand à elle de placer autant de bâtiments que vous le souhaitez sans la moindre contrainte sur des îles que vous pouvez générer à linfini il ny a donc plus de challenge imposé par le jeu puisque le jeu devient cette foisci un jeu de construction libre plutôt sympathique pour ceux qui apprécient ce genre de jeux le côté cassetête fait même un retour lorsque lon cherche à obtenir un rendu précis en abusant de la liberté de placement des bâtiments de ce mode
+
+un concept simple mais très bien exécuté qui vous permettra aussi bien de jouer quelques parties relaxantes que de vous prendre la tête pour optimiser au mieux le placement de vos structures un jeu très appréciable à jouer et facile daccès que je recommande sans hésitation
+
+#####
+
+exellent petit jeu bon graphisme gameplay sympa et relaxent pour 5 euros sa vaut le coup
+
+#####
+
+jai acheté ce jeu sans avoir de grandes attentes je me baladais sur le store à la recherche de quelque chose de nouveau de frais et je nai pas été déçu 
+
+islanders se montre sous la forme dun citybuilder sans prise de tête pas de ressources ou déconomie à gérer il ne sagit que doptimisation jentends par là que la façon dont vous aller placer vos bâtiments sera très réfléchie dans ce jeu il faut gagner des points pour passer au niveau supérieur chaque niveau vous propose un deck de bâtiments qui vous rapporteront des points si placés de façon optimale par exemple mettre le druide loin de votre centre ville les parcs à côté des manoirs et maisons
+
+au début cest facile oui les premières îles ne présentent pas de difficultés particulières mais jai été surpris lorsque je me suis retrouvé avec une pléthore de petits îlots où on a à peine la place de placer 3 petits bâtiments  il faut faire preuve dingéniosité pour placer des plateformes et agrandir artificiellement votre surface constructible 
+
+graphiquement cest doux chaque île a une ambiance relaxante mais différente  la musique est simple mais en accord avec le jeu
+
+vous ny passerez pas 100h mais pour le prix nhésitez pas cest super 
+
+#####
+
+islanders est un jeu a la fois addictif reposant et intéressant
+addictif car sa simplicité de gameplay fait que enchaîner des parties est très facile permettant de jouer encore et encore
+reposant par ses graphismes très cartoon et son aspect sandbox est en aucun cas frustrant pour le joueur et te permet de jouer sans réfléchir
+et intéressant car le jeu te fais réfléchir a lordre et le placement de tes pièces tel un jeu de gestion
+je conseille vraiment se jeu pour les personnes cherchant de petite expérience même si le jeu deviens très répétitif au fur et a mesure des parties
+
+#####
+
+très bon petit jeu
+
+merci au joueur du grenier de mavoir fait découvrir ce jeu   
+
+#####
+
+2 minutes pour prendre le jeu en main des heures de jeu derrière 
+minimaliste oui  passionnant aussi
+
+#####
+
+sous ses faux airs de city builder islanders est un jeu de puzzle minimaliste où lobjectif est simplement de scorer le maximum de points avant de passer à lîle suivante
+il y a suffisamment de stratégies différentes qui couplées avec la génération procédurale des îles permet de renouveler lexpérience au delà de 2 ou 3 runs
+islanders combien agréablement son côté monomaniaque de loptimisation et son côté zen pépère aidé par une da simple mais efficace et une bande son qui si elle ne marquera personne fait très bien son taf
+
+
+#####
+
+si le chill et lurbanisme avait un enfant il sappellerait islanders
+voilà un jeu de réflexion minimaliste comme tout mais diablement efficace dans son exécution vous posez des bâtiments ils gagnent des points ou en perdent en fonction de ce qui est autour deux et cest tout le but étant de faire le plus grand nombre de points en allant dîle en île ajoutez un soupçon de génération semiprocédurale quelques biomes différents et voilà cest prêt
+
+a noter quelques défauts minimes au menu quand même 
+ la couleur jaune des points gagnés au moment de poser un élément se distingue assez mal dans le biome désertique ce qui nuit à la lisibilité un entourage de la police aurait été bienvenu
+ certains absences dindications comme par exemple combien de points rapporte un immeuble sans rien autour ou combien de points il a en malus de base
+
+mais bon ça reste du chipotage les îles senchaînent et le temps passe sans quon sen rende vraiment compte et tout ça pour un prix très doux
+enfin les succès apportent quelques challenges plutôt intéressants pour les complétistes
+
+#####
+
+parfait jeu de détente qui vous réclamera malgré tout de faire fonctionner un minimum vos méninges pour aller loin mais en douceur    impeccable pour passer le temps se détendre avec sa musique douce et son aspect complétionniste satisfaisant petit jeu qui se mange sans fin
+
+#####
+
+petit jeu de construction de colonies très paisible il ny a pas de concurrence donc pas de stress et on peut même choisir un mode libre sans score et avec la totalité des bâtiments disponibles dentrée de jeu islanders est agréable à jouer à son rythme la palette de couleurs est reposante la musique aussi bref tout concourt à la détente
+
+le jeu nen est pas pour autant ennuyeux la stratégie détablissement des colonies évolue au fur et à mesure les îles devenant plus complexes génération procédurale elles sont toutes uniques les terrains deviennent plus variés plus accidentés ou au contraire plus grands ce qui permet de placer une plus grande variété de bâtiments en mode high score il suffit de changer dîle avant darriver au bout dun stock de bâtiments pour autant que le changement dîle ait été validé par une colonie suffisamment grande pour repartir avec un terrain vierge tout en préservant son score la sauvegarde est automatique là encore pas de stress 
+
+et pour ne rien gâcher le prix est modique alors que le temps de jeu est a priori illimité  que demander de plus 
+
+edit bien quen 32 bits tourne sur macos big sur 117 malgré tout juste un peu lent
+
+#####
+
+ma définition perso de chill 
+plus sérieusement le jeu est très relaxant plus que le gameplay en soi cest surtout lathmosphère engendrée par les graphismes la musique et les bruitages qui en font un bon jeu pas prise de tête et sur lequel il est agréable de passser du temps lorsuqon a besoin de se poser un peu
+
+#####
+
+envoutant
+
+#####
+
+jeu très reposant agréable pour des soirée pour chill
+
+#####
+
+this is a very great game for relaxing no stress with any skills to have
+
+#####
+
+un joli petit jeu de gestion construction sans prise de tête pacifiste très agréable tout simple des parties plus ou moins longues un bon moment de détente  bravo 
+
+#####
+
+détente progression quand on connait un peu les assemblages parties quon peut arrêter et reprendre mais tout à fait capable de nous emmener à 2h du matin allez encore 1 île
+
+#####
+
+ce jeu est vraiment génial je lai finis à 100 et je me suis vraiment éclater ce jeu est chill de ouf et en même on peut ce casser la tête pendant 20 minutes pour bien placer un bâtiment de la manière la plus optimisé possible
+bref je recommande à 1000
+
+#####
+
+un sympathique petit city builder à la fois extrêmement simple à prendre en main mais avec des subtilités très intéressantes un beau travail déquilibrage aussi
+le jeu consiste donc à créer une ville équilibrée non pas en farmant des ressources mais en optimisant la position des bâtiments en fonction de la topographie ainsi que de leur position relative
+cest beau cest agréable et cest fin
+
+les limites du jeu  la répétitivité qui se fait vite sentir et une petite frustration sur lirrégularité de la difficulté des niveaux générés procéduralement pour gagner en profondeur et en durée de vie le jeu mériterait soit un mode scénario soit des défis spécifiques à résoudre car le mode highscore est finalement assez répétitif une fois les concepts intégrés
+
+cela dit le rapport qualité prix est bon je recommande
+
+#####
+
+même si jy joue moins faute de temps jai toujours bien aimé les city builders optimiser lespace gérer les interactions entre les différents bâtiments sadapter à la topologie il y a réellement un côté grisant à voir prospérer sa ville
+
+dans islanders vous allez coloniser différentes îles en y installant des structures variées  centreville moulin bûcheron druide etc les constructions sont regroupées par thèmes pack brasserie pack agricole parc
+
+tout se base ici sur les points chaque bâtiment a une certaine valeur modifiée par ce qui est déjà en jeu à proximité par exemple la cabane de bûcheron ne vaut rien toute seule mais rapporte 1 point par arbre aux alentours 4 points de plus sil y a une statue dans sa zone deffet et 5 points supplémentaires si une scierie est dans les parages par contre sil y a déjà un autre bûcheron à proximité 6 points seront retirés à sa valeur
+
+pour avancer dans le jeu vous allez devoir atteindre certains objectifs de points a chaque fois que vous validez un palier vous pouvez choisir entre deux packs de constructions en récompense un peu comme dans un jeu de cartes où vous obtiendriez un blister avec de nouvelles cartes à jouer lobjectif suivant apparait la partie continue et plus le temps passe plus votre optimisation et le placement de vos bâtiments sont importants car il est impossible de détruire quoi que ce soit tant pis pour vous si vous avez gâché ce joli plateau avec une construction minable en plein milieu
+
+au bout dun moment le jeu vous proposera de coloniser une nouvelle île générée procéduralement vous conserverez alors les bâtiments non placés et vous devrez vous adapter au nouveau relief petit archipel grosse montagne arches naturelles il y a une grande variété de terrains possibles et chacun vous opposera des défis différents la partie se termine lorsque vous navez plus de bâtiment à placer et que vous navez pas atteint lobjectif de points suivant pour en débloquer de nouveaux
+
+jai adoré islanders le jeu est beau simple intelligent et lidée que chaque construction rapporte plus ou moins de points en fonction de son placement sur lîle et des autres bâtiments déjà construits ajoute juste ce quil faut de réflexion les musiques sont parfaites et depuis que je lai installé jy joue 15  20 minutes par jour juste par plaisir
+
+plus vous avancerez dans le jeu plus vous débloquerez de bâtiments différents et les plus avancés pourront rapporter très gros mais nécessiteront une bonne préparation car ils coûteront très cher à poser au risque de carrément y perdre des points les trois personnes derrière islanders ont plein didées à ajouter à leur jeu et vu laccueil très favorable quil a reçu jai hâte de découvrir ce qui arrivera dans les prochains mois
+
+si vous cherchez un jeu reposant pour vous détendre après une dure journée de travail islanders est fait pour vous et plus globalement sauf si lidée de bâtir une ville vous rebute donnezlui sa chance à même pas 5 vous ne prendrez pas un gros risque pour ma part cest un coup de coeur 
+
+httpswwwyoutubecomwatchvll48cfy8ko
+
+#####
+
+les commentaires avaient raison cest complètement un jeu de style tetris sans contrainte de temps avec un peu plus de diversité dans les pièces à assembler et les patterns à utiliser
+après 3 heures de jeu qui sont passées très vite je peux dire quil est très reposant parfait pour faire une pause entre deux jeux qui utilisent plus les méninges ou la réactivité du joueur il a un aspect cassetête sans aucun stress
+ce nest pas un jeu de gestion il ny a aucun autre gameplay que de poser des bâtiments là où cela rapportera le plus de points pour passer à létape suivante dautres types de bâtiments avec une difficulté croissante pour les placer à cause de la taille et des incompatibilités avec dautres types de bâtiments quon a déjà posés auparavant ou bien une nouvelle île 
+a savoir que si on natteint pas le nombre de points requis à un moment donné pour éviter de faire un gameover on peut passer à lîle suivante si on la débloquée
+par contre comme beaucoup dautres joueurs jaimerais bien avoir une galerie qui garde en mémoire les îles terminées sous forme de screenshot 3d à faire tourner ça serait sympa  même juste la dernière de chaque partie finie en gameover
+
+pour le prix de deux viennoiseries je trouve quon ne sest pas fichu de moi ça vaut le coup pour passer le temps en confinement 
+
+#####
+
+islanders nest pas un jeu de construction de ville à proprement parlé mais voyez le plutôt comme un tétris amélioré
+
+le but du jeu nest pas de construire une ville mais de faire en sorte doptimiser lemplacement des différents bâtiments que lon nous propose afin den récolter le meilleur score possible et de pouvoir passer à lile suivant
+
+en soit ce nest pas un mauvais jeu ni un très bon jeu dailleurs mais il a un côté sympathique de part son design et de la rapidité des parties qui font que lon lui tient pas rigueur du peu de profondeur du gameplay
+
+en mode high score on a une ile avec un biome au hasard on choisit une catégorie de bâtiments parmis celles proposées on fait le maximum de placement et on passe à la suivante dès que possible et ainsi de suite jusquau moment fatidique où on ne gagne plus assez de points et on recommence une partie cest aussi simple et léger que cela
+
+et pour une fois je serais assez daccord avec les propos du développeur on est content de faire une partie sur islanders mais on na également aucun regret à le quitter il est amusant 10 minutes boff les 10 minutes suivantes et bon quest ce que jai comme jeu à faire après 
+
+a petite dose ça le fait sans problème 
+
+a vous de voir
+
+#####
+
+bonjour à tous
+
+petit test rapide de ce jeu assez surprenant surprenant de part le fait quil est reposant chose qui nous change de tous ces jeux de brutes
+
+les vidéos parlent dellesmêmes mais voici ce quil en est du gameplay
+
+vous commencez petit sur une petite île pour avancer dîle en île et donc en difficulté vous devez marquer des points qui sont obtenus en faisant prospérer cette même île
+une fois que vous avez débloqué la nouvelle île vous aurez le choix dy aller maintenant ou de marquer un maximum de point sur lîle actuelle pour essayer dêtre parmi les meilleurs
+
+a savoir que chaque île est unique et générée aléatoirement et à chaque fois que vous passez à lîle suivante le nombre de point requis pour passer à la suivante augmente
+
+des combos peuvent être fait notamment en combinant les totems aux centre villes qui augmentent par la suite les points obtenue en plaçant des manoirs et des maisons cependant des contre combos peuvent également être fait en vous apportant un malus de point par exemple les maisons de druides offrent énormément de points en présence de fleurs mais en perdent énormément en présence de civilisation de plus les manoirs gagnent plus de point en se rapprochant des druides 
+
+vous laurez compris cest un jeu reposant certes mais qui demande malgré tout un peu de jugeote et nécessite de prévoir à lavance où vous allez placer quoi 
+
+voilà test un peu chaotique je lentends bien beaucoup de termes propres au jeu 
+de ce fait retenez une chose je vous le recommande mais il ny a pas de quoi passer des heures et des heures nonstop dessus cependant une ou deux parties de temps en temps cest appréciable
+
+voilà bon jeu à tous 
+
+#####
+
+petit jeu vraiment bien développer et très plaisant à jouer
+
+#####
+
+simple et reposant
+
+#####
+
+incredible simply beautiful 
+seems easy gets harder and harder each level 
+i dont like the rogue like element where you reset your progress each time you lose but apart from that i cant find any negative points
+
+#####
+
+petit jeu très posé pour passer un bon moment a faire de belles petites îles
+
+#####
+
+après avoir goûter lexcellent superflight jai décidé de tester cet autre jeu de grizzlygames 
+pas déçu du tout  lambiance et les graphismes sont très sympas concept très bien variété bref  tout est très bien 
+
+#####
+
+city builder de babloche pour jours de flemme yeux miclots dans mou hamac on sarrête sans pression lorsque la musique se fait insupportable mais on en sort sans doléance tant le tarif est honnête
+
+#####
+
+super jeu détente puzzle musique très sympas 
+
+#####
+
+un jeu rafraîchissant presque pacifiant au gameplay efficace et aux graphismes agréables
+ca ne fait que 3 heures que jy joue mais je me réjouis déjà de la prochaine séance
+je nai pas beaucoup despoir de rejouabilité ceci dit
+
+#####
+
+jeu relaxant tout en douceur avec une da minimaliste aux petits oignons si vous aimez les jeux de gestion dorganisation et doptimisation ce jeu est pour vous
+
+#####
+
+je vous recommande islanders un jeu de construction de villes tout choupi où le but est de marquer un max de points uniquement grâce au placement des bâtiments et à leurs affinités entre eux il ny a pas de gestion ni de ressources simple efficace un peu stratégique à terme et moins de 5 
+
+#####
+
+calme zen et agréable un jeu pour samuser et se détendre 
+
+#####
+
+visuellement agréable musique et ambiance détente gameplay simple efficace et prenant petit jeu sur lequel on ne voit pas passer le temps 
+
+#####
+
+mélange intelligemment le type citybuilder et rogue like une partie de temps en temps cest parfait
+
+#####
+
+really efficient cities builder game
+
+#####
+
+vu le prix ça se laisse jouer mais je naime pas les jeux de gestion et bien que islanders soit dune grande facilité je suis mauvais et ça me rend rapidement désagréable
+
+#####
+
+tres bon jeu pour se détendre
+
+#####
+
+excellente surprise de ce petit jeu à michemin entre le jeu de gestion et de placement le principe est simple  il faut combiner les pouvoirs des bâtiments pour marquer des points et poursuivre laventure dans létablissement de villes sur différentes îles et si le score requis nest pas atteint cest le game over franchement cest sympathique et hyper prenant en plus il ne coûte que quelques euros alors pourquoi se priver de quelques bonnes heures de jeu sûrement aux alentours de 3 à 5 h pour voir à peu près toutes les structures offertes par le jeu
+
+710
+
+#####
+
+ce jeu est un petit bijou 
+
+il est apparu dans ma liste de souhait et me convient parfaitement  le jeu se prend très facilement en main il est à la fois simple et complexe demandant un peu de réflexion pour marquer assez de points et poursuivre laventure plus loin les graphismes sont superbes très lisses très doux très colorés très mignons aussi  et la musique souligne très agréablement cet univers avec ses harmonies sereines et calmes
+
+presque tombé par hasard sur ce jeu jai limpression davoir découvert un diamant jen suis déjà totalement amoureux et je recommande vivement 
+
+#####
+
+petit jeu sympa basic et qui fait passer le temps entre deux rdv p
+
+#####
+
+relaxant bien pour se détendre sans réfléchir ou pour se concentrer sur dautres choses un sorte de canard pour ceux qui comprendront
+
+#####
+
+super pour sendormir ou pour faire sendormir quelquun qui vous regarde
+la mécanique est simple mais le pic de difficulté est intéressant au moment ou il faut commencer à prévoir autour de bâtiments futurs mais sans se bloquer ailleurs
+malheureusement il ny a pas tout à fait assez de diversité dans les bâtiments et donc le jeu commence à devenir très protocolairesystémique quand on commence à le comprendre
+mais pour tuer une ou deux soirées cétait soporifique positivement
+
+#####
+
+jai joué quelques heures ici et là sur plusieurs années mais jy reviens encore
+
+jai pu tester de nombreux jeux qui se disent calmes et relaxant mais la plupart dentre eux nous imposent des limites frustrantes ou manques à nous attacher islanders réussis parfaitement sur tout les points 
+on crée une île en essayant déquilibrer les apports de points de bâtiments quand on ne peut plus rien construire petit screenshot et poof île suivante
+
+#####
+
+cest frais coloré les règles sont claires cest pas cher
+ça vous plaira si vous aimez les city builders
+
+
+si ça ne vous plaît pas faut désinstaller steam
+
+#####
+
+a perfect game to relax
+
+#####
+
+un excellent rapport qualitéprix derrière des mécaniques simples islanders révèle sa profondeur stratégique pour qui voudra atteindre les sommets en terme de score
+
+#####
+
+un petit jeu très sympathique et détente le concept est amusant et on y prend vite goût
+après quelques heures de jeu on éprouve une certaine satisfaction a anticiper de mieux en mieux le placement de nos bâtiments
+en ce qui concerne la durée de vie jai débloqué tous les succès en 15 heures pas tryhard du tout et le gameplay assez simple pourrait devenir lassant si on y joue trop mais cest avec plaisir que je coloniserai une île ou deux de temps en temps 
+
+#####
+
+excellent petit jeu de construction
+simpliste et complexe en même temps
+
+le ratio prix  amusement est très très bon
+je ne men lasse pas
+parfait pour passer le temps pendant la pause déjeuner ou occuper des temps mort sans trop se prendre la tête
+
+#####
+
+un jeu calme et paisible qui suit la vitesse du joueur les cartes tout comme les bâtiments sont très varié  ce qui donne un défit continu on peu rejouer le jeu sans sentir la monotone dun jeu classique donnant une longue longévité de jeu
+
+#####
+
+jeu très fun et détente
+
+#####
+
+jeu paisible très prenant avec des mécaniques simples qui demandent très vite de la réflexion si on cherche à optimiser son score
+
+#####
+
+salut ici 
+
+en vidéo  httpswwwyoutubecomwatchvcwmkq0ahokifeatureyoutube
+
+en résumé  un jeu que je recommande city builder orienté détente à 100 on prendra plaisir à résoudre les énigmes économiques de nos petits villages insulaires le jeu est très simple à prendre en main et destiné aux gens qui aiment réfléchir et optimiser un jeu qui ne remplacera pas votre jeu favoris dans la bibliothèque mais sur lequel on reviendra avec plaisir les parties étant courtes
+
+en détail 
+
+le son 
+une musique détendue détendue un sound design simple et efficace on sent que le jeu souhaite nous faire plaisir
+
+le graphisme
+comme on peut le voir sur les images de présentation le jeu nous proposera une grosse 3d simple au niveau des textures mais avec des couleurs et lumières soignées le jeu est donc visuellement très facile à lire les bâtiments sont simples à reconnaître et les animations sont présentes de manière constante sans pour autant être chargées dans le contexte de ce jeu cest une réussite visuelle et dinterface pour moi
+
+le gameplay
+on piochera des séries de bâtiments pour les poser ensuite le mieux possible afin doptimiser les productionscombos et de gagner un maximum de points pour peutêtre débloquer le puzzleenigmevillage suivant très simple à prendre en main les parties sont courtes et lenvie den refaire une dernière est présente
+
+en conclusion
+un petit jeu aux allures de city builder simplifié que je recommande vraiment davoir dans un coin de la bibliothèque il ne nous tiendra des heures par jour mais on aura plaisir à y revenir de temps en temps pour quelques parties et tenter pourquoi pas de battre nos records précédents
+
+cest tout pour moi je repars voyager à travers  les iles o have fun 
+
+#####
+
+excellent 
+
+#####
+
+reposant et apaisant islanders est mini citybuilder parfait pour de petites sessions de jeu tout ce que vous avez à faire cest poser vos constructions de manière la plus harmonieuse possible pas de gestion économiques pas de combat pas 36 conditions de victoires juste poser ses bâtiments et cest tout
+
+son seul petit défaut cest labsence de challenge et de satisfaction pour les chasseurs de succès cest ultra rapide et facile de tous les obtenir mais au final cest certainement voulu puisque le jeu transpire la sérénité
+
+#####
+
+super jeu très relaxant bon concept et bonne direction artistique 
+
+#####
+
+islanders est un jeu relaxant à lambiance colorée graphiquement cest agréable à lœil le fond sonore permet une immersion dans cet univers onirique
+
+du coup il se passe quoi làdedans 
+
+lobjectif cest de construire des sortes de villes sur des îles la place est limitée et on doit composer avec les bâtiments que le jeu nous donne afin datteindre des paliers de score
+au début cest facile on place tranquillement les choses on samuse même à créer un charmant environnement
+puis les choses se gâtent car le score à atteindre devient plus élevé et il faut faire chauffer notre matière grise faire les choix les plus pertinents entre les sets de bâtiments ou sur leur placement
+
+en somme un divertissement agréable qui permet de réfléchir tout en se détendant
+
+#####
+
+relaxing game
+
+#####
+
+un petit jeu vraiment agréable simple à prendre en main je recommande 
+
+#####
+
+very good and peacefull game you dont see the hours passing excellent price too
+
+i hope they will add citizens and a daynight lights feature it would be awesome
+
+#####
+
+super jeu rien de plus
+
+#####
+
+popir
+
+#####
+
+jeu de gestion très agréable à jouer avec des mécaniques simples et une musique calme pour passer un bon moment le jeu est plutôt simple mais cela nenlève rien à son charme
+
+#####
+
+petit jeu détente très bien réalisé
+
+#####
+
+cest un très bon jeux pour faire passer le temps et se dépacer a chaque fois
+
+#####
+
+bon désolé pour les développeurs mais la seule chose que je ressens en jouant à ce jeu est un ennui profond une note  alors disons 720
+
+66 minutes de jeu jusquà ce jour et je me disais tu devrais le tester de nouveau cette première mauvaise impression nétait peutêtre que due à un manque denvie de jouer à ce type de jeu allons faisons donc un effort  9 minutes de jeu plus tard une seule évidence  impossible daller plus loin cest trop pénible pour moi
+
+aucun fun rien du tout même pas limpression de se sentir intelligent quand on passe les difficultés je vous conseille donc de passer votre chemin et de chercher un autre jeu du même style mais plus amusant
+
+info config  tourne parfaitement sur un mac book pro 2010
+
+#####
+
+en 8h on a fait le tour du jeux mais pas mal bonne découverte
+
+#####
+
+le jeu est simple beau reposantparfait pour des petites pauses détentes de 30 minutes
+
+#####
+
+islanders
+
+aux premiers abords un simple city building sans intérêts hors il faut y porter davantage dattention pour remarqué que cest un city building différent des autres où lon marque des points en fonction du placement de certains batîments sachant que cest à notre guise de les faires pivoter ou de les places où lon le souhaite
+
+franchement rien à redire cest un jeu comme vous pouvez le voir peu coûteux qui demande un investissement moindre mais qui forcément devient très attachant mes premières impréssions en 3 parties sont la première on capte le concepte la seconde on essaye de pousser la chose et la troisième on rentre dans les détails on progresse dune façon fulgurante et les succès malgré quils soient courts et rapides à effectuer si on essaye de les produire et de ce focus dessus les 3 derniers sont très dures ainsi un jeu qui parrait être vite fait en 2s peut durer plusieurs heures dont lavantage de ses graphismes aux couleurs éclaircis et variés qui donnent une ambiance relaxante pouvant faire durer longtemps une partie sans quon y voit le temps passé de plus la musique est correcte et sympa
+
+estce que je recommande ce jeu très largement cest un des meilleurs petits jeux que jai trouvé et que je possède dans ma bibliothèque dailleurs je fais leffort de le recommander tellement il ma boulvercé et jinsiste dans le bon sens du terme 
+
+cordialement
+
+
+#####
+
+un jeu très relaxant et sympathique 
+
+#####
+
+petit jeu relax très sympa au gameplay simpliste mais relativement efficace pour passer un peu de temps  a recommander 
+
+#####
+
+wasnt expecting anything and landed on good game and a surprise for few dollars you can get a game to play for hours the mechanics arevery simple and once you understood and wrote down the maths influencing each building you can get far in the game 
+ smooth graphics and pretty easy to learn
+a classic simulation game mixed with city building
+
+ on a side note the lack of any story or goals except for the steam objectives can be improved
+
+#####
+
+ce jeux de construction minimaliste vous donnera toute la satisfaction des grands jeux de stratégie 
+même sil ne paie pas de mine vous allez devoir réfléchir et apprendre durable les bonnes combinaisons pour aller toujours plus loin ce qui est plaisant cest quaucune contrainte de temps ne viens vous mettre la pression donc même si vous avez peu de temps vous pouvez y jouer tranquillement
+
+
+un des meilleurs jeu détente que jai pu jouer ces dernières années
+
+
+#####
+
+pour 5  des heures de jeu sans stress paisible où on peut jouer en cherchant le pixel parfait ou juste faire des îles jolies
+
+
+
+#####
+
+ce jeu est vraiment top
+
+petit jeu de gestion façon puzzle ne coûte littéralement pas plus de 5 très reposant et addictif
+achetez sans hésitez 
+
+ps les màj font plaisir plus de bâtiments et des fixs
+
+#####
+
+devient répétitif très rapidement beau concept de jeu quelque chose de nouveau après 1 heure de jeu on fait rapidement le tour
+
+#####
+
+mieux que le cannabis
+
+#####
+
+très bon jeu très agréable à jouer et addictif 
+
+#####
+
+simplement excellent  simpliste avec un système de point mais tellement exigeant  un tuerie régalé vous 
+
+#####
+
+amateurs de jeux de gestion islanders est une petite pépite 
+
+les graphismes sont épurés comme il faut la musique relaxante quoiquil faille la couper au bout dune heure  p et le but du jeu très clair  poser des bâtiments pour construire une ville
+ici pas de ressources à gérer ni de course contre la montre islanders est un minijeu qui sadresse aux joueurs de tous niveaux car même sil paraît simple en apparence de nombreux paramètres danticipation sont à prendre en compte pour atteindre les highscores de la communauté 
+
+un jeu que je recommande chaudement jy retourne  p
+hf
+
+#####
+
+très bon petit jeu il permet de se détendre après ou avant de grosse session mais qui néanmoins peut être try hard pour augmenter son score au max a chaque partie je pense que le jeu a potentiellement un gros potentiel multijoueur pourquoi pas ajouter un éditeur dîle permettant au joueur de proposer aux autres des îles plus loufoque ou plus dure dans lobjectif de faire le meilleur score sur chaque îles crée par la commu un peu comme un trackmania mais version construction de ville je pense que de ce point de vu il peut être ultra intéressant en gardant ce mode solo en génération aléatoire
+
+#####
+
+un des meilleurs filler qui existe probablement sous couvert dun city builder se cache un excellent jeu de puzzle dont vous ressortirez de chaque partie satisfaite  ses couleurs saturées sa prise en main facile son envie den refaire une alors quil est 4h bref un must have du jeu à faire entre deux sessions
+
+#####
+
+islanders est un petit simulateur de construction de ville combiné à un jeu de puzzle
+ses simples calme et agréable à regarder rien de plus
+et si vous avez 499 à mettre dans un petit jeu et que vous recherché un jeu calme alors il sera fait pour vous
+
+#####
+
+super relaxant 
+
+#####
+
+divertissant pendant quelques heures mais ne pas en demander plus
+
+#####
+
+très reposant
+
+#####
+
+islanders est un bon jeu ou plutôt une application de détente je serai tenté de dire
+et cest aussi un petit peu ses limites de gameplay
+nattendez pas un jeu de gestion ici cest uniquement empaler le nombre le plus élevé de bâtiments de manière à faire le meilleur score en fonction des bâtiments qui sont à côté et qui ajoutent ou enlèvent des points selon
+donc gameplay limité mais détente assurée pour se faire une partie ou deux entre dautres jeux plus sérieux
+pour ces raisons je trouve le prix peutêtre un poil élevé compte tenu du manque dintérêt
+jai fait une demande de remboursement du coup
+
+#####
+
+jai essayer pendant 10 minute et jai préférer me faire remboursé
+
+#####
+
+to be quite honest i was expecting a city builder it seems to be more of a repetitive puzzle game its clearly not the type of game in which you will spend hours building a nice and big city cause for every mistake you make you would have to start back at the tutorial however the design is pretty nice remind me a lot of godus
+
+#####
+
+petit jeu simple et reposant 
+
+#####
+
+cest un jeu très chill musique reposante style graphique très plaisant on peut jouer entièrement à la souris
+il faut placer des bâtiments sur une carte en essayant de gagner le maximum de points chaque bâtiment a un rayon daction et selon le type il y a des bonus et des malus en fonction de la proximité avec les autres bâtiments
+
+malheureusement ça manque de profondeur et au bout dune demiheure jen avais déjà marre
+islanders est un peu léquivalent de démineur sympa à petit doses mais pas un vrai jeu
+
+#####
+
+un petit puzzle certes minimaliste mais vraiment addictif 
+
+le genre de jeu où lon se dit  aller encore un tour  aller encore un tour   oh zut il est déjà 3h du matin 
+
+#####
+
+jeu sans prise de tête plutôt jolie jaime bien y passer un peu de temps après le boulot
+
+#####
+
+a nice city builder game very relaxing with still a bit of challenge 
+
+#####
+
+tout à fait reposant idéal pour se détendre musique agréable gameplay de récompense bien pensé un super jeu feelgood pour se détendre à tout moment  pour le prix cest vraiment un jeu que je lance dès que je ne sais pas quoi faire et il engloutit une heure de ma journée le temps que je finisse mon île et quelle soit toute jolie  
+
+#####
+
+si vous cherchez un jeu calme et apaisant inutile daller plus là vous êtes au bon endroit
+islander est le jeu casual sans prise de tête
+
+le principe est très simple
+tout se déroule une vue aérienne vous survoler une île ou un archipel généralement vierge quelques forêts des fleurs des plages des zones herbeuses des reliefs rocheux voilà ce qui composera votre domaine et dans la plupart des cas une ou deux statue
+
+le but du jeu est ensuite de placer des bâtiments variés afin de réaliser un certain score
+chaque bâtiment donne un certain nombre de point mais est également influencé par ce qui lentoure ainsi un bûcheron aura plus dintérêt à être placé à côté darbre que sur une plage nue ils apprécieront également que la scierie soit proche mais détestent avoir de la concurrence dautres bûcherons
+
+evidemment les champs ne pourront pas être disposés sur de la roche stérile ni sur la plage laquaculture se fait obligatoirement dans leau etc mais hormis ces quelques restrictions le placement des bâtiments est libre vous pourrez les orienter comme bon vous semble
+
+le choix des bâtiments à placer se fait sur un principe de lot restreint
+quand vous arrivez sur lîle le jeu vous propose 2 lots de bâtiments ça peut être un lot axé sur les résidences ou labattage darbre ou encore la culture du houblon le choix est aléatoire
+si vous parvenez à faire un score suffisant avec les bâtiments à disposition vous pourrez choisir un nouveau lot le jeu propose alors 2 autres lots pris au hasard dans ceux qui restent à disposition qui peuvent contenir des exemplaires supplémentaires des bâtiment déjà débloqués
+
+une fois le score cible atteint vous avez le choix soit vous quittez lîle actuelle pour aller voir la suivante soit vous restez pour tenter de faire le plus gros score possible et débloquer tous les bâtiments disponibles
+
+comme les îles sont générées de manière procédurale et que le choix des bâtiments est semialéatoire chaque partie sera différente
+
+lambiance musicale est également très agréable souvent accompagnée par un léger bruit de vent
+cest très apaisant
+
+je ne me lasse pas de ce jeu
+islander cest une expérience de jeu sans prise de tête et très zen
+
+#####
+
+nice
+
+#####
+
+un jeu à la fois minimaliste et en même temps grandiose  un passe temps fabuleux et même si le jeu est relativement casual il offre un challenge assez intéressant pour exploser les scores 
+
+
+#####
+
+en principe jaime bien ce genre de jeu plutôt détente situé entre le puzzle game et le city builder je pense notamment à dorfromantik mini motorways
+
+le concept dislanders  on doit placer des bâtiment sur une carte à mesure quils nous sont proposés certains saccordent bien entre eux ou avec certains décors sils sont placés à proximité et génèrent des points bonus alors que dautres bâtiments nécessitent dêtre suffisamment éloignés sous peine de malus la topologie du terrain vient bien sûr perturber les architectes en herbe et ajoute un peu de difficulté au jeu
+
+au départ je me suis dis très bien un jeu de logique sympathique et relaxant seulement cest beaucoup trop simpliste et on comprend rapidement quau lieu de rechercher la logique il est plus facile de promener sa souris avec le bâtiment quon sapprête à poser tout en observant le score potentiel qui saffiche puis on lâche la souris
+
+en plus on a quun seul mode de jeu aucune variante aucun défi quotidienhebdo impossible aussi de revenir sur les îles déjà explorées pour y parfaire son score bref dans ces conditions je me suis très vite ennuyé
+
+#####
+
+excellent petit jeu de réflexion très divertissant 
+seul petit truc que je trouve dommage  on ne peut pas mettre des bâtiments de côté pour le changement dîle
+cest dommage
+
+#####
+
+excellent jeu  bravo simple et parfait pour se détendre  je recommande sans limite  toujours aussi excellent après autant de temps
+
+httpsyoutubetmjo1k1fuis
+
+#####
+
+minimaliste beau relaxant pas complexe
+
+#####
+
+bien
+
+
+#####
+
+chill
+
+#####
+
+je trouve ce jeu génial simple et intuitif il détend bien et peut même devenir addictif chez certains
+le classement est bienvenu linterface minimaliste est coloré participe a une ambiance zen 
+
+vaut largement son prix 
+
+ps utiliser shift  alt ou alors touche windows  barre espace pour switch vôtre clavier en qwerty et ainsi avoir un meilleur contrôle de la camera
+
+#####
+
+nice  relaxing game
+worth for the price
+
+#####
+
+le but du jeu est de positionner chaque nouveau bâtiment pour cumuler des points cest chiant à mourir quand on parle de jeu de construction cest erroné cest un genre de tetris relou
+
+#####
+
+iislandersi est un petit jeu parfait pour se détendre sans aucune prise de tête et se révèle être une très belle surprise 
+
+en effet ce jeu coloré et minimaliste vous demandera de marquer un maximum de points en plaçant et en associant différents bâtiments afin de créer des synergies entre eux ce qui vous octroiera des points bonus nécessaires pour avancer dans le jeu 
+
+visuellement très agréable il ne vous proposera pas dautres défis que daméliorer votre score lors de petites sessions de jeu reposant relaxant rafraîchissant ce jeu est à acheter les yeux fermés dautant que le prix est vraiment minime
+
+#####
+
+bon casse tête et passe temps entre deux parties ou si on a pas beaucoup de temps
+
+#####
+
+
+
+#####
+
+bonjour à tous le jeu lag complètement alors que jai un mac book pro avec un i5 
+je sais que cest pas une grande config  mais normalement  assez pour tourner islanders correctement 
+est ce que cest normal 
+
+
+#####
+
+très bon pour quelques centimes en réduc
+
+#####
+
+pas très intuitif ce jeu lergonomie de jeu nest pas terrible quand on na pas de souris je me suis très vite ennuyé
+
+#####
+
+le jeux me hypait pas mal mais en le lançant il ne faisait que lag jai un macbook pro 2016 donc cest dommage car même en baissant tout au max ça ne marchait pas
+
+#####
+
+pas mal 
+
+#####
+
+un bon petit jeu assez atypique un city builder dont la limite est un scoring vraiment novateur et prenant
+
+le support de gnulinux est parfait
+
+#####
+
+is a shit
+
+#####
+
+d
+
+#####
+
+toujours aussi valide ce jeu 
+
+#####
+
+jeu pour smartphone
+
+#####
+
+problème après lachat du jeux impossible de le trouver dans ma bibliothèque  quelquun pourrais maider svp 
+je ne peut même pas faire de demande de remboursement puisque je ne trouve pas le jeux  merci
+
+#####
+
+bof répétitif et abscons perte de temps et ennui sont au rendezvous
+
+#####
+
+je ne peux pas croire que jai payé pour ça avoir su que ce nétait pas un jeu de gestion autant quun minijeu quon a acces sur lapp store gratuitement en plus 
+
+#####
+
+répétitif on fait vite le tour
+
+#####
+
+𝘾𝙚𝙨𝙩 𝙥𝙖𝙨 𝙙𝙪 𝙩𝙤𝙪𝙩 𝙪𝙣 𝙟𝙚𝙪 𝙗𝙪𝙞𝙡𝙙𝙚𝙧 𝙘𝙚𝙧𝙩𝙚𝙨 𝙩𝙪 𝙘𝙧é𝙚 𝙩𝙤𝙣 î𝙡𝙚𝙩𝙪 𝙥𝙚𝙪𝙭 𝙚𝙭𝙥𝙡𝙤𝙧𝙚𝙧 𝙥𝙡𝙪𝙨𝙞𝙚𝙪𝙧𝙨 î𝙡𝙚 𝙢𝙖𝙞𝙨 𝙞𝙡 𝙢𝙖𝙣𝙦𝙪𝙚 é𝙣𝙤𝙧𝙢é𝙢𝙚𝙣𝙩 𝙙𝙚 𝙘𝙝𝙤𝙨𝙚 𝙩𝙪 𝙛𝙖𝙞𝙨 𝙩𝙤𝙪𝙟𝙤𝙪𝙧𝙨 𝙡𝙖 𝙢ê𝙢𝙚 𝙘𝙝𝙤𝙨𝙚 𝙖 𝙘𝙝𝙖𝙦𝙪𝙚 î𝙡𝙚 𝙘𝙚𝙨𝙩 𝙩𝙧è𝙨 𝙡𝙖ç𝙖𝙣𝙩 𝙘𝙤𝙢𝙥𝙡è𝙩𝙚𝙢𝙚𝙣𝙩
+𝙊𝙣 𝙛𝙖𝙞𝙩 𝙫𝙧𝙖𝙞𝙢𝙚𝙣𝙩 𝙫𝙞𝙩𝙚 𝙡𝙚 𝙩𝙤𝙪𝙧 𝙙𝙖𝙣𝙨 𝙘𝙚 𝙟𝙚𝙪 𝙢𝙤𝙞 𝙥𝙚𝙧𝙨𝙤 𝙟𝙚 𝙢𝙚𝙣𝙡𝙖𝙘𝙚 𝙙𝙖𝙣𝙨 𝙡𝙚 𝙢𝙤𝙙𝙚 𝙡𝙞𝙗𝙧𝙚 𝙞𝙡 𝙮 𝙖 𝙫𝙧𝙖𝙞𝙢𝙚𝙣𝙩 𝙧𝙞𝙚𝙣 𝙖 𝙛𝙖𝙞𝙧𝙚 𝙚𝙣𝙣𝙪𝙞𝙚 𝙩𝙤𝙩𝙖𝙡
+
+𝙄𝙡 𝙮 𝙖 𝙖𝙪𝙨𝙨𝙞 𝙡𝙚 𝙢𝙤𝙙𝙚 𝙃𝙞𝙜𝙝𝙎𝙘𝙤𝙧𝙚 𝙛𝙧𝙖𝙣𝙘𝙝𝙚𝙢𝙚𝙣𝙩 𝙟𝙖𝙞 𝙧𝙞𝙚𝙣 𝙘𝙤𝙢𝙥𝙧𝙞𝙨 𝙟𝙚 𝙢𝙚𝙩 𝙙𝙚𝙨 𝙗â𝙩𝙞𝙢𝙚𝙣𝙩𝙨𝙚𝙩𝙘 𝙟𝙖𝙞 𝙩𝙤𝙪𝙟𝙤𝙪𝙧𝙨 𝙪𝙣 𝙂𝙖𝙢𝙚 𝙊𝙫𝙚𝙧 𝙙𝙪 𝙘𝙤𝙪𝙥 ç𝙖 𝙢𝙚 𝙨𝙤û𝙡𝙚𝙧 𝙟𝙖𝙞 𝙖𝙧𝙧ê𝙩𝙚𝙧 𝙙𝙚 𝙨𝙪𝙞𝙩𝙚
+
+𝘽𝙧𝙚𝙛 𝙨𝙞 𝙫𝙤𝙪𝙨 𝙖𝙞𝙢𝙚𝙯 𝙫𝙧𝙖𝙞𝙢𝙚𝙣𝙩 𝙘𝙧é𝙚 𝙫𝙤𝙩𝙧𝙚 𝙥𝙧𝙤𝙥𝙧𝙚 𝙫𝙞𝙡𝙡𝙚𝙚𝙩𝙘 𝙟𝙚 𝙫𝙤𝙪𝙨 𝙘𝙤𝙣𝙨𝙚𝙞𝙡 𝙙𝙖𝙡𝙡𝙚𝙧 𝙨𝙪𝙧 𝙎𝙞𝙢 𝘾𝙞𝙩𝙮 𝙘𝙚𝙨𝙩 𝙫𝙧𝙖𝙞𝙢𝙚𝙣𝙩 𝙢𝙞𝙚𝙪𝙭 𝙞𝙡 𝙮 𝙖 𝙗𝙚𝙖𝙪𝙘𝙤𝙪𝙥 𝙙𝙚 𝙘𝙝𝙤𝙨𝙚 𝙖 𝙛𝙖𝙞𝙧𝙚
+
+
+
+𝓐𝓿𝓲𝓼 𝓭𝓮 ü𝓷𝓬𝓵𝓮 𝓦𝓸𝓸𝓭ÿ 𝓡𝓮𝓬𝓸𝓶𝓶𝓪𝓷𝓭𝓪𝓽𝓲𝓸𝓷 𝓝𝓔𝓖𝓐𝓣𝓘𝓕 à 80
+
+#####
+
+bof bof
+je suis un peu déçue
+je mattendais a quelque chose de plus je sais pas de plus
+là on passe son temps à placer des bâtiments sans difficulté y a zero gestion de ressources car zero ressource
+cest plus une sorte de puzzle en fait mais sans aucune difficulté
+dune ile à lautre cest très répétitif
+
+#####
+
+il fallait une liste de le jeu na pas dans la description pour combler lespace créé par le manque de features à lintérieur de ce jeu la base est solide et bien conçue mais cest tellement pauvre
+
+un mode highscore et mode libre sans intérêt un mode campagne ou mission aurait été tellement bien
+
+pas de support manette non plus alors que ça aurait été tellement simple à faire
+
+#####
+
+avis positif ou negatif 
+jeu de gestion simple avec de très larges combinaisons possibles permettant une longue durée de vie
+cependant 
+quand tu passes 2 heures sur une partie et quon te fais spawn après plusieurs lvl sur une île aride ou enneigée et où une seule erreur dinattention te fais tout recommencer ca casse les couilles 
+genre tu dois tout recommencer a chaque fois et les 3 premieres îles cest plus des tutos quun vrai gameplay vu que tu va rapidement changer dîle du coup 2 gros defauts 
+les map de merde ou tu perds pour presque rien hitbox de merde montagnelac impossible de construire
+le fait de devoir te retapper les premieres sequences a chaque fois et tas juste limpression de perdre ton temps 
+
+bilan 
+un jeu de détente qui va te faire devenir jihadiste radicalisé
+sur 20
+
+#####
+
+un peu trop simpliste a mon gout  je mattendais a un jeu de gestion et on est tres loin de cela 
+
+#####
+
+très bon je quan tu tennuies et sa détent
+
+#####
+
+je recommande se jeu si vous voulez juste poser votre cerveaux ce jeu est très relaxant
+
+#####
+
+such a cute game well put together very different from other gestion games i have played before
+
+#####
+
+islanders isnt exactly a strategy game its closer to a hybrid strategypuzzle game
+
+each building has special requirements to place it down each building also has interactions with other buildings
+your goal is to reach a high score without placing too many things down so youll often just end up making very tightly knit city where youll spend most of your time trying to fit as many things in a cramped place as you can kinda like a puzzle
+theres no ressource management aspect either outside of how many times the game will give you buildings so if you were expecting something closer to a classical city builder this wont be it
+
+in any case this game is worth it theres not that many strategy city builders out there so i recommend it
+
+#####
+
+un jeu de city building qui prend laspect presque dun tétris par moments libéré du stress et des considérations pécuniaires comme un anno on vous demande juste de placer des bâtiments de manière à avoir des points combos de certains autres les maisons près des centres ville les scieries près des bucherons mais aussi des points négatifs pour certains pour débloquer de nouveaux paquets de bâtiments et accumuler assez de points pour passer à lîle suivante le but est donc du scoring
+visuellement cest assez minimaliste mais cest coloré et laspect esthétique est là vous vous apercevrez que au fil de votre placement avec la logique des combos votre île est bien sympa quand même
+on se laisse prendre on voit pas le temps passer cest facile cest de la réflexion mais pas de blocage juste le plaisir de voir notre île ou archipel se peupler
+
+#####
+
+joli design mais très très vite lassant
+
+#####
+
+atmosphère ultra paisible et microoptimisation
+
+#####
+
+jeu de construction très joli et très reposant
+il illustre parfaitement le principe de facile à prendre en main et difficile à maîtriser
+
+jaime bien le principe de devoir changer dîle cela permet de finir et de recommencer à bâtir depuis zéro cest très satisfaisant et cela change par rapport à dorfromantik
+
+#####
+
+jeu de construction de bases jeu stratégique très calme pas de timer pas de pression si ce nest la réflexion pour anticiper le type de ville  base afin de marquer le  de points possibles un très bon jeu casu pour se détendre 
+
+#####
+
+islanders offre une expérience de city builder particulièrement agréable et relaxante bien que je naie pas encore achevé le jeu japprécie pleinement consacrer environ 30 minutes à chaque session pour rechercher lemplacement idéal de chaque bâtiment
+
+#####
+
+jeu apaisant tres intuitif je recommande
+
+#####
+
+oui
+
+#####
+
+pas mal dans le genre et pour le prix mons intéressantfun que dorf romantik certes les concepts des 2 jeux ne sont pas complètement identiques  mais au final ça me parait assez analogue niveau logique la prise en main est assez simpleintuitive
+
+contrairement à pas mal de joueurs je trouve le jeu moche ça manque cruellement de vie quitte à construire des villes ça aurait été pas mal de voir des habitants etou des effets afin damener un peu danimation ok le jeu nest pas cher on peut pardonner parfois jai la sensation de jouer à un prototype de jeu pas complètement finalisé 
+
+le point négatif en mode record lorsqu on perd cest principalement parce quon na pas eu de chance terrain incompatible avec les bâtiments ou map ridiculement petite sans possibilité dextension bref ce nest pas trop lié aux décisions du joueur ceci dit honnêtement je ne vois pas trop comment perdre sans ces mécanismes ça amène un côté assez frustrant  la rejouabilité nest pas infinie le jeu lasse ça manque de diversité niveau bâtiments et aucun évènement nexiste afin de perturber un run si ce nest le côté aléatoire de la génération de map
+
+au final un petit jeu sympa et pas cher pas de quoi crier au génie non plus
+
+
+
+#####
+
+un jeu pour chill mais pas vraiment pour tryhard quoique
+il existe vraiment des paliers pour chacune des iles un des trophées exige datteindre la 21e
+jai eu beau chercher sur le net à part le fait de dire que le changement est complétement aléatoire et de donner des astuces pour protéger sa run rien trouvé sur les paliers
+
+voici donc ceux que jai pu observer  
+    000        200  1e ile
+    200        800  2e ile 
+    800     1 740  3e ile
+ 1 740     3 300  4e ile
+ 3 300    5 900  5e ile  
+ 5 900    8 500  6e ile
+ 8 500  11 000  7e ile
+11 000  xxx
+oui atteindre la 21e ile exige donc davoir un score vers 200 000 points 
+
+mais sinon si cest juste pour le plaisir de faire sur une ile un beau paysage le jeu va très bien 
+
+#####
+
+nice cozy game for short session of island building
+
+#####
+
+ça détend
+
+#####
+
+bien
+
+#####
+
+vraiment cool bien pour chill 
+je recommande vivement
+
+#####
+
+very good chill game
+
+#####
+
+pour 5 euros un des meilleurs petits jeux tranquille quand on veut pas trop se prendre la tête parfait pour des soirs où on sait pas trop quoi faire
+
+#####
+
+je recommande
+
+#####
+
+super chouette pour les joueurs de city builder mais qui veulent jouer sans pressions
+
+#####
+
+very relax game d
+
+#####
+
+lets play  httpsyoutube9tvxgczobme
+devs  #coatsink    grizzlygames  stage clear studios
+style  stratégie relaxant solo game play 
+jai ce jeu depuis un moment sur console et pc mais je navais pas fait de vidéo ayant joué sur la console
+extrait du jeu détente stratégique placez bien vos différents items pour faire des points débloquez des items et îles
+layant sur console je ne lavais pas utilisé sur le pc suite à une vidéo sur astronimo  jai décidé de faire une petite vidéo in game
+
+#####
+
+petit jeu de stratégie  réflexion agréable avec mécaniques simples rapport qualité  prix très bon car le jeu peut permettre pas mal de temps de jeu
+
+#####
+
+un petit jeu sympathique
+
+#####
+
+calm game with a relaxing ambiance
+
+#####
+
+chill af
+
+#####
+
+très bon jeu de réflexion où lon peut prendre son temps et chiller
+simple mais efficace on y perd vite la notion du temps
+
+#####
+
+bon jeu 
+idéal pour se détendre légèrement addictif car très satisfaisant
+
+#####
+
+relaxing af
+
+#####
+
+sympa et agréable il nous faut une version smartphone d
+
+#####
+
+this game is simple and looks good
+
+#####
+
+ce nest pas un jeu de construction de ville mais un jeu de puzzle où vous placez des pièces qui ressemblent à des bâtiments de la ville et augmentez les points que vous obtenez à ce momentlà cétait un super concept de jeu avec une bonne ambiance une sensation de progression à un bon rythme et sans limite de temps cest une très bonne œuvre à jouer tout en regardant
+
+#####
+
+petit de construction à la fois simple zen et addictif
+
+#####
+
+
+
+#####
+
+one more build
+
+#####
+
+c tres simpa
+
+#####
+
+chilly top 
+
+
+#####
+
+bon jeu chill de construction dîles la musique et les graphismes invitent vraiment à se poser pas vraiment dobjectifs à part essayer daller le plus loin possible mais aucune punition dans le cas contraire ajout récent dun mode créatif non testé les succès sont globalement faciles à réaliser bref un jeu pas trop cher pour passer un bon moment simple et efficace
+
+#####
+
+ce petit jeu est plus proche du cassetête que du city builder pas de gestion il suffit de placer les bâtiments chaque bâtiment à placer vaut des points et le but est de placer les bâtiments de manière à faire le maximum de points ça parait simple dit comme ça mais en vérité il y a un vrai challenge car les points vont dépendre de comment vous placez les bâtiments les uns par rapport aux autres en bref un bon jeu de cassetête que je recommande aux amateurs du genre
+
+#####
+
+apaisant gameplay pas incroyable mais sympa
+si vous aimez ce jeu vous aimerez aussi dorfromantik
+
+#####
+
+intuitif et addictif
+
+#####
+
+sympa
+
+
+#####
+
+une vraie petite oasis qui peut se transformer si vous le voulez en puzzlegame très exigeant sur le papier cest du deckbuilding associé aux éléments les plus minimalistes dun jeu de gestion de villes  pas de production de ressources pas de besoins pas de classes dhabitants juste des bâtiments qui existent en relation les uns aux autres dans les faits japprécie le mode détente et de fabriquer mes petits jardins éphémères en écoutant la bandeson de qualité et en imaginant les sociétés que je construis
+
+#####
+
+très bon parfait pour chiller en regardant autre chose
+
+#####
+
+top
+
+#####
+
+best chill game ever
+
+#####
+
+bien
+
+#####
+
+tes bon jeux 
+
+
+#####
+
+super pour se detendre et ne pas trop sencombrer lesprit cest colas bim qui ma fait decouvrir ce jeu et cest top 
+
+#####
+
+superbe jeu de construction de villes dans des décors superbes et avec une ambiance relaxante on prends son temps on fait des combo et à la fin on admire larchitecture  un agréable mélange de stratégie desthétique et de plaisir
+très heureux davoir acheté ce petit jeu
+
+#####
+
+stratégie relax great game
+
+#####
+
+très bon passe temps rejouabilité excellente pour le prix on chill tranquillement
+
+#####
+
+un petit peu répétitif mais très bon jeu pour se détendre rien de stressant ou frustrant il suffit simplement de bien placer les batiments les uns par rapport au autres pour empocher le plus de points possible
+
+#####
+
+ouais
+
+#####
+
+très bon jeu avec des règles simples mais qui nous font comme par magie construire des îles magnifiques remplies de vie  on y passe le temps sans le voir sécouler
+
+#####
+
+ca tient ses promesses détendu et sans prétention on sy prend facilement quelques heures et on y revient avec plaisir quelques mois plus tard
+
+#####
+
+addictif à souhait iislandersi est le jeu idéal pour se vider lesprit après une journée chargée une musique relaxante des consignes simples un design particulièrement charmant et des villes de plus en plus florissantes certains succès buggés représentent le seul défaut du jeu en dehors de ça laissezvous tenter sans hésiter dautant plus quon ne trouve pas souvent de telles pépites pour 5 euros
+
+#####
+
+une ile par jour le top
+
+#####
+
+ya pas vraiment grand chose à dire  sur le jeu islanders est un petit jeu de puzzle et de réflexion qui occupe et surtout détend quand y faut le jeu est jolie suffisament simple pour être compris et suffisament compliqué pour provoquer une petite insulte quand on se rend compte que cest la fin de notre île parce que on mal géré notre organisation bref je recommande 710
+
+#####
+
+le jeu très tranquille et sympathique qui fait réfléchir malgré les possibilités infinis jai vite fais le tour du jeu
+
+#####
+
+très belle surprise petit jeu de gestionstratégie sans prise de tête et détendant au point de se retrouvé dans une petite bulle de calme
+
+#####
+
+un bon petit jeu détente no prise de tete
+
+#####
+
+bon jeu de puzzle
+
+pour ceux qui aiment chasser les succès comme moi ils sont très simple à avoir ce que je trouve un peu dommage personnellement
+
+#####
+
+simple et efficace
+
+#####
+
+petit jeu bien sympa et sans prise de tête où nous devons poser plusieurs types de constructions sur des petites îles afin dengranger des points une fois que suffisamment de points ont été obtenu nous pouvons passer à lîle suivante et recommencer le même processus le but étant davoir le maximum de points possible la subtilité cest que certains bâtiments au contact dautres vont nous faire gagner plus de points ou à linverse nous en faire perdre il faut donc réfléchir au meilleurs placements à adopter afin dêtre le plus efficace possible
+
+un jeu globalement très reposant à lancer en cas de petites sessions de jeu
+
+#####
+
+très bon jeu de strategie
+
+#####
+
+hfgf
+
+#####
+
+très chill cest vachement agréable
+
+#####
+
+trop b1
+
+
+
+
+
+
+#####
+
+a much more elaborate game than you might think at first glance where you will have to show a lot of logic to earn points
+
+#####
+
+petit jeu très sympatique ça détend 
+
+#####
+
+fit it all in 
+be happy
+
+#####
+
+un jeu peace
+
+#####
+
+
+
+#####
+
+calme et relaxant
+
+#####
+
+un super jeu relaxant 
+des graphismes sympas une bandeson qui détend une mécanique simple et originale
+
+#####
+
+excellent jeu chill pour passer un bon moment sans pression sur un beau petit jeu avec lenvie régulière dy retourner
+
+#####
+
+jeu très calme voire reposant
+simple ce qui nous permet facilement de se vider la tête
+la musique est un aspect incontournable du jeu selon moi  
+
+
+#####
+
+trés bon jeux pour passez le temps rapide a joué facile a comprendre trés beau pour un jeu arcade rapide et chaque partie et différente
+on peut même samuser a crée un ville si on veut
+
+#####
+
+excellent petit jeu ambiance adorable on sy prend vite la rejouabilité est bonne pas parfaite
+le sound design est très simple et mignon bon jeu chill 
+
+#####
+
+cest un jeu apaisant qui fait voyager
+
+#####
+
+incroyable
+
+#####
+
+chillzzz
+
+#####
+
+un suspens insoutenable un gameplay dynamique une musique magistrale dommage que le boss de fin soit si facile à battre avec le combo épée laser  masse darme
+je recommande vivement mais nhésitez pas à lire dautres critiques quand même avant dacheter
+
+#####
+
+petit jeu trèes relaxant cest un peu comme faire un mandala mais avec un village insulaire
+
+#####
+
+rendezmoi ma vie
+on pourrait terminer comme ça mais je pense que cest mieux au début islanders est le genre de jeu où on se dit allez je place encore un élément et je vais me coucher puis mince jai perdu bêtement en optimisant mal le placement allez jen refais une et deux heures plus tard vous y êtes encore
+pourtant il nest pas des plus chronophages quand on arrive à sen décrocher sans recommencer en boucle ou sans chercher à aller toujours plus loin sans faire de pause mais cest tout un ensemble de choses qui vont le rendre addictif
+_ cest calme et détendant
+_ le jeu repose sur des mécaniques très simples on choisit des lots de cartes pour commencer à développer une ville dans un archipel si on les place bien de manière à optimiser le score on déverrouille un nouveau lot puis un autre puis un autre etc jusquà ce quon ait un score assez élevé pour passer à larchipel suivant et on recommence
+il nest pas une révolution visuelle il nest pas particulièrement animé et il nest pas particulièrement complexe mais il y a une forme de paix et de liberté qui vous appellent à retourner
+cest un petit jeu parfait pour passer quelques heures en toute tranquillité après une grosse journée de boulot et cest la raison pour laquelle je le recommande
+
+#####
+
+encore un jeu dans lequel vous perdrez votre temps mais nen serez pas trop frustré faut pas tenir compte des high scores car il existe des trainers pour tricher dans le jeu je nen utilise pas alors arriver au même niveaux que les tricheurs vous sera impossible par contre pour réfléchir un peu cest parfait plus on fait durer plus on découvre de nouveaux bâtiments et installations
+
+#####
+
+fun et chronophage vraiment bon
+
+#####
+
+sympa le jeu
+
+#####
+
+really cute really chill if youre tilted and need to unwind play this for 20min
+
+#####
+
+very nice puzzle game simple to grasp yet difficult to master 
+
+the game has two mode highscore mode and sandbox mode 
+ highscore mode require you to select a set of building and think of the best way to place it on the island to make the most point if you run out of building before leveling up its game over you can unlock new island over time as you place more and more building
+
+ sandbox mode allow you to just enjoy decorating the island with access to every building available in the game and the possibility to just switch from one island to the other until you find the island that suit you
+
+overall a very enjoyable game pretty chill
+
+#####
+
+ca fait passer le temps
+
+#####
+
+uhmmm cool
+
+#####
+
+stratégie minimaliste mais ultra efficace avec une super musique
+
+#####
+
+jeu tranquille détente sans stress un petit city builder qui est plutôt bien fait
+
+#####
+
+le jeu est court mais cependant il nen reste pas moins très agréable et reposant
+en 7h vous pouvez obtenir tous les succès voir même plus vite car je ne cherchais même pas à tous les avoirs mais vous pouvez y rejouer de temps à autre quand lenvie vous en prend
+
+cest une très bonne expérience et je ne regrette pas avoir acheté le jeu hors solde pour soutenir les devs
+
+ce nest pas un jeu très nerveux ou demandant des réflexions si intenses mais qui souhaitent simplement que vous vous détendiez
+
+#####
+
+pour le prix cest super 
+
+#####
+
+jeux très compliqué jai passé 4 heure a monté dans les niveaux et maintenant je dois recommancé du début  super 
+
+#####
+
+nice at first for its atmosphere it got quickly repetitive and boring to me
+
+#####
+
+le principe est simple les possibilités multiples et la réflexion nécessaire très bon jeu
+
+#####
+
+visuellement cest vraiment sympa sans chercher trop loin les bâtiments sont simples mais clairs on prend plaisir à voir la ville se former
+au niveau concept cest original avec un système de bonus  malus en fonction de lagencement des bâtiments environnants ca demande quelques heures de jeu pour maitriser laffaire
+2 modes de jeu  libre et highscore le mode libre est super pour laisser jouer les enfants pour qui sim city est encore trop complexe
+seul bémol le jeu ne fonctionne pas avec steam link à cause dun bug de gestion de déplacement
+
+au final un très bon petit jeu original et bien conçu
+
+#####
+
+le jeu très reposant simple à prendre en main efficace 
+
+#####
+
+tres bonne simulation de gestion de batiment 100 fun a finir pas de prise de tete je recommande vivemenet
+
+#####
+
+easy to play and helpful when needing to take a break for using your brain for a second
+
+#####
+
+ras cest bien reposant tranquille ça occupe et nécessite demployer un brin ses méninges
+
+#####
+
+apaisant
+
+#####
+
+petit jeu chill
+
+#####
+
+très bon jeu plutôt un puzzle sous lapparence dun city builder
+
+#####
+
+oui 
+
+#####
+
+petit jeu de stratégie mais avec musique relaxante qui permet de créer des villages sur des îles à notre goût
+
+#####
+
+islander est un petit jeux de stratégie où vous devez builderorganiser un village sur une ile en prenant compte des bonusmalus de chaque bâtiment et au fur et à mesure de votre construction la place deviendra donc votre plus grand ennemi  superbe jeu bien reposant on y joue facilement en temps dennui et la rejouabilité est infinie je recommande car pour le prix ça les vaut largement
+
+#####
+
+pas très fun
+
+#####
+
+le jeu est bien pour se détendre si vous en avez marre de la pression des fps ou autre 
+tourneras sur les machines moyennes en terme de perf 
+bref un exellent jeu a tester 
+
+#####
+
+très bon reposant les mécaniques sapprennent vite mais on y fait vite le tour vaut son prix 
+
+#####
+
+
+un super petit jeu de placement calme et plutôt addictif 
+
+𝙶𝙰𝙼𝙴𝙿𝙻𝙰𝚈
+des bâtiments à placer sur chaque île vierge de sorte à scorer le plus possible le tout sur fond relaxant chaque bâtiment possède ses contraintes de placement il faut donc réfléchir pour optimiser au maximum
+
+𝙿𝙾𝙸𝙽𝚃 𝙿𝙾𝚂𝙸𝚃𝙸𝙵
+ prise en main hyper facile et bien quil y a des touches tout est faisable avec la souris uniquement
+ possibilité de sarrêter et de reprendre en plein milieu dune partie en court 
+ des succès steam raisonnables et tout à fait faisable par nimporte qui
+ un tout petit prix aucune hésitation à avoir
+
+𝙿𝙾𝙸𝙽𝚃 𝙰 𝙰𝙼𝙴𝙻𝙸𝙾𝚁𝙴𝚁
+ dommage que lon ne puisses pas créer une partie en mode high score et une partie en mode libre en même temps
+
+𝙿𝙾𝙸𝙽𝚃 𝙽𝙴𝙶𝙰𝚃𝙸𝙵
+ du pur détail mais je doute que le développeur compte ajouter du contenu ou créer un islanders 2 avec de nouveaux bâtiments et de nouveaux environnements un peu dommage
+
+#####
+
+эта игра потрясающая
+
+#####
+
+excellent choix pour se poser tranquille cest un des jeux les plus calmes et détendus que je connaisse a prendre en promo quand même parce que ce nest pas un jeu qui va vous occuper toute une vie de par la simplicité du gameplay mais une bonne expérience en tout cas et puis cest vraiment méga chill quand même
+
+#####
+
+très bon jeu chill
+
+#####
+
+du score du score et encore du score bof 
+
+#####
+
+je me perds dans ce jeu durant des heures cest le puzzlejeu de logique le plus relaxant qui soit
+
+#####
+
+sous ses airs de jeu de puzzle minimaliste ce islanders est bien plus riche quil ny paraît une vingtaine de bâtiments à combiner avec méthode et réflexion pour optimiser chaque ville et ce afin de débloquer la suivante et déviter ainsi le  game over  cest un peu une course en avant très joli et sacrément addictif je pense que cest le genre de jeu auquel lon revient de temps en temps après pour tenter daméliorer son  high score  on peut aussi jouer en bac à sable même si je pense que ça sessouffle plus vite davoir tous les bâtiments débloqués
+
+un petit bémol cependant  les bâtiments auraient pu sadapter un poil mieux au terrain je trouve même si ce nest pas vraiment gênant côté gameplay comme cela reste un jeu que lon prend autant plaisir à regarder quà modeler un système façon townscaper aurait pu être judicieux
+a part ça une belle découverte 
+
+#####
+
+c bien
+
+#####
+
+vous avez du temps a passer et vous ne voulez pas vous prendre la tête avec un jeu ou il faut trop réfléchir  vous avez votre jeu ici même 
+jai adoré la style les graphismes et le gameplay  point négatif le jeu deviendra assez répétitif a partir dun certain temps quelques maj avec de nouveaux batimentsnouvelles cartes sont je pense nécessaire mais très bon jeu pour passer le temps
+
+#####
+
+cest beau simple paisible et super addictif 
+
+#####
+
+bon petit jeu détente
+
+#####
+
+très relaxe comme jeu
+
+#####
+
+reposant
+
+#####
+
+simple relaxant efficace
+
+#####
+
+un jeu tout doux sans rien dangoissant fluide avec une prise en main facile qui permet une immersion immédiate
+
+#####
+
+tres bon jeu et tres beau
+
+#####
+
+islanders est un city builder vraiment très chill et sans prise de tête le jeu parfait pour se détendre le temps dune petite heure voir même une petite demiheure ou alors beaucoup plus longtemps si vous êtes comme moi
+le gameplay est simple intuitif et sans prise de tête la musique en fond aide aussi à la détente les succès très accessibles ajoutent un peu de challenge pour ceux qui veulent
+pour le prix quil vaut vous pouvez foncer 
+
+les  
+ grosse variété dîles pour construire 
+ le mode créatif pour construire comme on veut 
+ la musique dambiance 
+ le classement steam pour les tryhardeurs
+
+les  
+ certaines îles ont des bugs de textures ce qui rend la pose de bâtiments impossible à certains endroits 
+ la diversité des bâtiments atteint rapidement ses limites
+ le système de bonusmalus de points selon les bâtiments compliqué à comprendre
+
+#####
+
+ce jeu est vraiment incroyable aucune notion de compétition intense ou de grosse frustration on a de très jolie graphisme
+il est vraiment reposant et même si on a là un jeu avec une durée de vie assez courte cest une très bonne expérience qui pour le prix est parfait pour quelquun qui aime les jeux de création de ville à la the settlers ou tout autre str tout en voulant joué juste tranquillement sans se préoccuper du reste juste construire un petit village puis une grande ville éphémère
+
+#####
+
+génial foncez
+
+#####
+
+le jeu est peutetre enfantain mais tres bien a jouer
+
+#####
+
+ça détend
+
+#####
+
+un petit jeu sympa
+
+#####
+
+encore un petit jeu à avoir dans sa bibliothèque pour les aprèsmidis relax 
+je ny ai joué que 6 heures pour linstant mais cétait en un aprèsmidi en effet on se prend vite au jeu de construction et de points et le temps passe sans problème pour peu quon ait un stream ou de la musique en fond 
+en ce qui concerne le fonctionnement tout est dit dans la vidéo de présentation les îles sont à chaque fois différentes et le choix des paquets de constructions est aléatoire cest très simple et cest parfait pour chill en plus je trouve lunivers visuel bien mignon 
+bref à ce prix ne vous privez pas 
+
+#####
+
+un ptit jeu reposant vraiment à but de se détendre ou de créer des villages qui nont aucun sens pour que les potentiels habitants sy perdent 3
+
+peu importe le jeu na pas vraiment de but si ce nest daller le plus loin possible ou de compléter les succès d
+
+#####
+
+un jeu parfait autant pour se détendre que pour tryhard le meilleur score possible la musique et lambiance sonore est top répétitive mais très minimaliste alors cest pas du tout un problème cest visuellement très joli les bâtiments vont bien ensemble et ya un mode bac à sable pour ceux qui ont juste envie de faire une belle ville 5 ou 6h pour avoir tous les achievements si on veut le faire rapidement
+le jeu pourrait valoir le double ça serait toujours pas une arnaque foncez dessus
+
+#####
+
+bon petit jeu tranquillou calme et sans prise de tête musique et graphisme très agréables
+
+#####
+
+ce jeu est une pépite hyper reposant et pas prise de tête parfait pour faire de petite session de jeu mais attention le jeu peut vite vous entraîner dans une faille spatiotemporelle
+
+#####
+
+jeu très relaxant  a faire 
+
+#####
+
+island go brbrbrbrbr
+
+
+#####
+
+1010
+
+#####
+
+très relaxent
+
+#####
+
+excellent jeux 
+les graphismes sont vraiment adorables 
+je recommande vivement
+
+#####
+
+really nice and relaxing game perfect for a break 
+the light citybuilder mechanics are easy to understand yet hard to master
+
+#####
+
+
+
+#####
+
+bon petit jeu de construction de ville
+très simpliste mais efficace
+
+#####
+
+un jeu chill simpliste qui permet peu de choses mais qui le fait bien
+idéal pour se relaxer avant de sendormir
+
+#####
+
+yes
+
+#####
+

@@ -1,0 +1,2452 @@
+46 heures de jeu dont 30 sur la béta  
+un jeu magnifique  trés plaisant dans son game play  
+cest lultime jeu de gestion a ce jour  mais il y a un gros point noir 
+
+les plus  
+le gameplay trés facile  et trés libre
+les modélisation des animaux  le rendu graphique general du jeu
+loptimisation 
+les possibilité infinie de création
+le workshop qui se remplit de plus en plus
+
+les moins  
+quelques caprice de collisions leger
+les temps de chargement du shop danimaux
+la communauté 
+
+je mexplique sur  ce dernier point  la communauté ne cherche pas lentraide  ou pour etre roleplay la preservation des especes mais recherche le profit  la communauté vends trops chére ces especes surtout certaines  ce qui fait que si vous arrivez aujourdhui nesperez pas voir un lion un tigre ou un elephant dans votre zoo  il vous faudra farmer et farmer et farmer au vu des prix  donc pour le moment moi jessaie de casser les prix en vendant mes espece moins cheres pour que la commu suive  jespere que cela fonctionnera 
+
+
+#####
+
+etant fort intéressée par la vie animale ainsi que par les parcs zoologiques évidemment jai attendu ce jeu impatiemment et lai acheté dès que possible
+résultat  je ne suis pas déçue mais je constate un certain nombre derreurs quil est important de relever 
+
+
+le négatif 
+
+informations sur les animaux 
+le pire selon moi ce sont les informations sur les animaux les développeurs ont tout donné pour que lon apprenne un maximum de choses sur les animaux ainsi les fiches espèces nous conduisent à nous persuader que tout est 100 fiable cependant bon nombre derreurs sur léthologie des animaux sont constatables en effet les informations étant très nombreuses il est aisé de retrouver des fautes autant pour les règles générales que pour les anecdotes et même le gameplay en est affecté je ne citerai pas toutes les erreurs car il ny en a une sacrée quantité mais vais donner deux exemples qui mont profondément choquée étant admiratrice de ces deux genres danimaux 
+
+les jaguars et les panthères 
+déjà très déçue de ne pas trouver de panthère dans le jeu lapparition dans le pack amérique du sud des jaguars mavait séduite cependant ils ont écrit noir sur blanc lodieuse erreur de nous dire je cite  resultats des recherches  anecdote 3  les animaux que lon appelle  panthères noires  sont en fait des jaguars atteints de mélanisme une rare mutation génétique   non et étant adoratrice des panthères je mexplique  les jaguars et les panthères sont deux animaux differents les panthères portant également le nom de léopard sont présentes en inde et en afrique tandis que les jaguars sont présents en amérique du sud les deux animaux peuvent être atteints de mélanisme couleur noire il existe donc les panthères noires et les jaguars noirs
+
+les lémurs catta
+là le gameplay est même touché par ce genre derreurs fréquentes mais je prends pour exemple les bons vieux lémurs catta lémuriens tant adorés par le monde il est écrit dans la rubrique  informations sur lespèce    taille du groupe hors jeunes  130 jusquà 1 mâle et 29femelles 
+là aussi cest une erreur les lémurs catta font partie des espèces de primates dont les  chefs de groupe  les animaux dominants sont les femelles il y a donc généralement dans un groupe davantage de mâles que de femelles 1 mâle pour plusieurs femelles feraient donc se battre les femelles
+alors comme ça je semble pinailler mais quand jai lancé le jeu et ai décidé de faire un enclos de catta jai pris peu de femelles et beaucoup de mâles comme  dans la vraie vie   et le jeu me la interdit en mannonçant  combat dangereux dû au mauvais ratio mâles femelles  comprenez quil est frustrant de devoir jouer à un jeu basé sur des faits scientifiques mais devoir en fait poser ses connaissances à côté et devoir apprendre les fausses connaissances du jeu pour pouvoir jouer sans problème
+
+gourmandise
+ce jeu est extrêmement gourmand il faut un bon pc 
+je ne my connais pas des masses mais le mien possède un processeur intel core i79750h et 16gb ougo de mémoire vive fluide mais quand un zoo est trèèèès trèèès grand et fourni il peut lui arriver de frize
+le jeu conseille 8gb ougo minimum avec un processseur intel i5 mais mon vieux pc avait beau avoir ce minimum requis cétait unique je disais à droite il y allait 4 5 secondes plus tard 
+
+création
+comme le disent bon nombre de joueurs la prise en main nest pas évidente il faut y jouer plus de 10heures pour enfin maîtriser les contrôles
+subjectif pour le coup mais je naime pas le contraste entre la qualité des animaux et des visiteurs japprécie la création davatar mais suis déçue par le manque de possibilités
+
+bugs
+le placement des allées est selon moi insupportable parfois je veux placer une allée sur un terrain plat mais le jeu me dit que le terrain est irrégulier je dois alors créer des passerelles de 2m inexplicablement
+parfois jai des bugs par exemple mes crocodiles marins séchappent sans cesse mais rien ne le justifie  il traverse une barrière de résistance 6 sans labîmer à certains endroits de lenclos
+
+
+le positif 
+
+création
+la création est quasiment sans limite
+
+clôtures invisibles
+lidée des clôtures invisibles dont on peut combler lespace avec des rochers des arbres la dénivelé et autres idées est superbe en termes de beauté comme de gameplay il est assez aisé de remplir une clôture vide le jeu nous montrant ensuite où nos animaux peuvent circuler et cest bien plus joli quune clôture en béton de 25m de long 
+groupes
+les créations de groupes sont très bien faites on peut créer des groupes et les enregistrer les bouger comme on le souhaite jadore et ça facilite la construction
+
+graphismes
+cest très beau du détail sur les essences darbres de plantes et sur les rochers et évidemment les animaux sont dune qualité absolue des erreurs naturellement mais une qualité visuelle irréprochable et le censure des parties génitales est bien amenée
+leau est bien représentée ainsi que les cascades les remous etc
+
+gameplay
+une fois saisi il est assez simple sans lêtre trop on reconnait bien là la gestion de zoo à la zootycoon 
+
+employés 
+on noublie pas les employés lidée de formation des employés de la gestion de leur salaire est bien le jeu nabuse pas du réalisme les employés ont besoin de repos mais ont droit à des aspirateurs pour ramasser il ny pas à nettoyer les animaux les loges et lurine ce qui aurait ajouté trop de tâches aux soigneurs
+les employés sont plutôt réactifs et on na pas besoin comme dans zootycoon de toujours les déplacer face au problème danimal par exemple quand un animal meurt on peut appeler le vétérinaire mais il peut aussi y aller de luimême lia des personnages est autonome ce qui facilite le jonglage entre gestion et création
+
+animaux
+je suis assez déçue que à linverse de zootycoon on ne puisse pas savoir ce que lanimal fait on peut voir que le soigneur  va ramasser des excréments  mais on ne sait pas ce que lanimal fait mais cela a du bon lia des animaux est également bien faite ils font leur vie comme ils le feraient dans un zoo de  la vraie vie  et on doit essayer de comprendre ce quils sont entrain de faire il est amusant de les voir gambader et jouer
+
+animations 
+jadore la mise à jour où ils ont ajouté les  formateurs  qui sont en fait des animateurs le lancer de nourriture est réaliste et les animaux comme  en vrai  sont parfois parfois pas intéressés par la nourriture choisir la musique et lendroit où est faite lanimation est une riche idée
+
+le côté sauvegarde de la nature
+ayant effectué une formation pour la sauvegarde de la faune et la flore je suis très impressionnée par le désir de sensibiliser à la sauvegarde de la faune le jeu nous incite à relâcher de bons individus dans la nature parfois surréaliste car ce nest pas si simple de relâcher un animal dans la nature mais il le faut bien pour que ce soit jouable idées dajouter des panneaux de sensibilisation davoir intégré ce système de points de préservation déchanges lobjectif des parcs aujourdhui
+
+
+conclusion
+en somme quil sagisse du positif et du négatif je nai pas tout dit mais cest à ça que sert lespace évaluation chacun apporte ses aperçus jai donc apporté ce qui me marquait le plus
+
+je conseille ce jeu si on est adoratif des parcs zoologiques et des animaux trop choupinous et magnifiques  que lon aime la création et la gestion et que lon a un bon pc
+en revanche je ne conseille pas ce jeu si lon cherche à sinstruire il est plus à conseiller de prendre un livre pour ça 
+malgré quelques bugs normaux dans un jeu si colossal ce jeu est selon moi lalliage parfait entre les tycoon et frontier
+merci aux développeurs de nous avoir enfin offert un jeu de gestion de parc zoologique digne de ce nom 
+
+#####
+
+planète zoo est un excellent jeu mais il ne conviendra pas à tout le monde
+oé cest bateau mais cest très vrai en plus cest dautant plus polarisant quil y a un tas considérable de qualités face à un tas considérable de défauts en plus de correspondre aux types de joueurs concernés et à tous les types si on tient à profiter du jeu à 100 il faut faire partie de celles et ceux qui sont prêts à supporter les défauts pour profiter des qualités qui les intéressent
+
+en gros il y a trois types de joueurs visés par trois niveaux de préhension du jeu  les naturalistes attirés par la prétention écologiste et pédagogique du jeu et samusant avec les habitats et les bestioles  les constructeurs qui séclatent avec les outils et les objets et il y a de quoi  les managers qui ont aussi de quoi transpirer des neurones avec la gestion des zones de travail la satisfaction léconomie etc  et puis aussi beaucoup de joueurs qui aiment un peu tout plus ou moins telle ou telle approche
+
+aussi il faut être daccord avec le business plan de frontier si la version de base coûte 44 et pourra déjà suffire à qui napprécie pas le jeu la version complète sera vraisemblablement constituée de quatre dlc par an au tarif moyen de 10 pièce soit 135 au total pour deux ans de suivi avant que frontier ne passe à planet zoo 2 cest un plan onéreux pour les joueurs reste à savoir si ça reste un bon deal et là cest le contenu qui va parler
+
+en létat jessaierai de tenir à jour 
+
+1 le jeu conviendra peu aux enfants et adolescents et adultes qui veulent juste jouer avec des zanimaux etou construire des zoorigolos sans se prendre la tête la microgestion est considérable la simulation est assez poussée pour occuper des dizaines dheures par zoo la construction est un torrent de possibilités et doutils qui comme ceux de gestion peuvent savérer plus ou moins cryptiques et récalcitrants en fait il y en a tellement quaprès 50 heures on peut très bien en être à essayer de comprendre comment les magasins fonctionnent pour les joueurs casual il faudra se limiter au mode bac à sable et au moins maîtriser ou que ses parents maîtrisent le menu de désactivation des paramètres de gestion
+
+2 sur le long terme le jeu enrichira vraisemblablement beaucoup moins les naturalistes et les gestionnaires que les constructeurs cf dlc  maj à venir le 17 décembre  200 éléments de construction contre 4 espèces animales 2 panoramas 2 parties scénarisées il semble quil ne faille pas espérer finir avec plus de 100 espèces
+
+3 il ne conviendra pas aux personnes qui ont besoin ou juste apprécient dêtre confortablement aidées pour comprendre beaucoup de mécaniques il va falloir chercher cest à un tel point quà la sortie la réponse la plus courante et la plus juste à des remontées de bugs était que ce nétait pas un bug mais un fonctionnement non compris par le joueur et il y en a eu une sacrée flopée de remontées de bugs toutes les personnes allergiques aux recherches avancées sur google et dans les forums etou au visionnage de tutoriaux sur youtube les meilleures demandant dêtre anglophones risquent vite den avoir plein le dos
+
+4 le jeu ne conviendra pas des masse aux consoleux et pcistes amateurs de déplacements 3d fluides à la manette permettant aussi de jouer tranquille dans le canapé et favorisant aussi laccès aux personnes à mobilité réduite a ce jour il ny a pas de gestion de commandes de gamepad dans les paramètres et il semble même que la gestion des sticks analogiques ne soit pas inclue par ailleurs certaines mécaniques de linterface bouffent jusquà 13 de lécran quand on est en mode construction nattendez pas une expérience particulièrement agréable dun point de vue navigation 3d pendant les phases de construction qui sont légion ni même une expérience confortable dun point de vue ergonomie et production
+
+pourtant perso je le conseille il est vraiment excellent mais pour qui est avant tout dans la construction qui aime aussi bien se prendre le chou que ce soit avec les recherches hors jeu les simulations ou avec les interfaces et la manipulation des outils le côté zoo cest plus pour lambiance bien faite mais juste lambiance
+
+sinon
+
+les   
+ thème principal engageant et bien rendu si on trouve les zoos intéressants on va en bouffer 
+ visuellement agréable tant niveau modélisation quinterface 
+ imposant contenu et potentiel de construction
+ simulation très riche et pouvant fournir pas mal de challenge
+ une approche pédagogique au niveau naturaliste intéressante même si manquant globalement de profondeur et pouvant être pétée par certaines mécaniques favorisant plutôt lexploitation animale contrairement au propos tenu
+ très vivant le nombre dagents de visiteurs danimaux darbres etc est riche en types riche en interactions logique ouet  visuelles et colossal en nombre dindividus en jeu
+ la sensation légitime dêtre devant une usine à gaz au potentiel quasi infini dans son registre particulier
+ durée de vie extrêmement conséquente chaque partie de base pouvant déjà prendre un paquet dheures juste pour la mise en place pouvant éventuellement durer à linfini multiplié par toutes les variances quon peut déjà utiliser on naura pas épuisé le jouet quon verra arriver planet zoo 2
+ assez bien optimisé pour peu quon ai un bon processeur graphiquement le style est léger et passe crème cest même impressionnant mais il semble quun gros morceau des interactions sont calculées par le processeur et yen a un sacré paquet 
+ assez stable la plupart des bugs sont en effet des problèmes dutilisation des vrais bugs bien nuisibles il y en a eu très peu et même des bugs mineurs ce nest pas très courant
+ lintensité intéressante damélioration et dajout doutils de gestion et de construction des ambiances visuelles et des balancements du jeu par frontier qui permet despérer une belle évolution 
+ le workshop pour échanger des créations cest cool
+
+les   
+ il semble quil ne faille pas sattendre à profiter dune grande variété despèces à venir
+ mode carrière à lécriture faible en quantité et qualité 
+ musique de bonne facture mais assez générique et gnangnan et très vite gavante vu son manque de renouvellement
+ paramètres son obligeant de conserver le brouhaha fatigant en mode vision thermique ou de couper aussi tous les autres effets sonores pour ne conserver que la musique arg et les dialogues rares moyens et quelque peu enfantins
+ fonctionnements de linterface trop souvent irritants globalement ça va pas mal mais quelques nuisances sont trop fréquentes pour ne pas devenir une source dénervement a base de fenêtres trop étendues en mode construction et de fenêtres trop courtes en mode gestion de listing
+ paramétrage de linterface quasi nul et le peu existant est loin de faire le job de façon satisfaisante  taille de linterface modifiant aussi la taille des lettrages manipulation en jeu nétant capable que daugmenter la surface des fenêtres qui nen ont pas besoin
+ interactions réseau hyper limitées
+ le premier bonus deluxe à 11 pour seulement 3 espèces quelques screens et la musique en mp3 youhou
+ le premier dlc qui ajoute  11 4 espèces et 2 panoramas pour lambiance 2 scénarios pour la gestion sans doute quelques optimisations dhabitat et peut être quelques shops  alors que pour remplir un zoo dédié à un biome comme le grand nord il faut bien 10 à 15 espèces
+
+pour le prix je ne sais pas si je dois le mettre en positif on peut jouer à la majorité du titre pour 45 et profiter gratuitement de pas mal dupdates sympas  on peut visiblement avoir un gros paquet de contenus qui peuvent valoir si on est dans le trip construction chaque euro dépensé en dlc ou en négatif on parle vraisemblablement dun budget final autour des 140
+
+#####
+
+après plus de 20 heures de jeu sur la béta je peux faire un petit résumé 
+ graphisme comme toujours cest très beau les animations sont top et il ny pas de lag rien a redire pour ca
+ pour linterface on sy perd un peu mais en même temps elle est très riche il est donc difficile de faire une interface parfaite il manque peux être juste quelque icon raccourci pour faciliter la navigation
+ la gestion le très gros point fort du jeu une gestion très poussée des animaux top de chez top 
+ la diversité pour le moment le bestiaire est assez petit je dirais une 20ene danimaux et autant pour les vivarium cependant ce nest pas gênant tellement que leurs gestion est bien faite
+
+ il ny avait presque aucune explication au début du jeux et certains bouton daide ne fonctionnait pas
+jai du passé environ 1h a comprendre comment acheter un animal cétait très frustrant
+ le systeme dachat des animaux jai mis un moment a comprendre a quoi correspondait les cp et comment en avoir
+lidée est bien mais je trouve que cest très difficile den obtenir au début du coup cela limite beaucoup la liste des animaux possible
+il mas fallu environ 5 heures pour réussir a avoir de cp après 20h je nen possède que 1000 alors que pour un simple lion il en faut plus de 2000 aie
+
+idées daméliorations  
+ que tous les animaux peuvent sobtenir avec de largent et non que des cp même avec de faible stats  sa donne une chance davoir des bébé et donc de gagner des cp par la suite
+ améliorer laide et ajouter des raccourci dans linterface
+ pouvoir obtenir des animaux avec différent skins ou couleurs mais surtout pas avec de micro transaction o
+
+voila jespère que jaurai aidé certains a faire leurs choix
+et pour ceux qui pense que cest un simple copié collé de planet coaster absolument pas 
+la gestion est totalement différente vous allez simplement y retrouver linterface et certains batiments de base
+
+je précise aussi que tous mes commentaires concernée la béta je nai pas encore testé depuis la sortie officiel
+
+#####
+
+ public conseille 
+
+ je ne conseillerai pas ce jeu même à mon pire ennemi
+ les fans du genre ou de la franchise
+ les casual gamers
+ tout public
+ les pgm sudcoréens
+
+ graphismes 
+
+ très mauvais
+ mauvais
+ normal
+ correct
+ magnifique
+
+ qualiteprix 
+
+ gratuit
+ pas cher
+ attendez une promo
+ abordable
+ abuser
+
+ configuration pc 
+
+ lordi de ma grand mère
+ entrée de gamme
+ milieu de gamme
+ haut de gamme
+ pc de la nasa
+
+ la prise en main 
+
+ inné
+ facile
+ normal
+ difficile
+ nécessite limplantation dun nouveau bras
+
+ duree de vie 
+
+ moins longtemps quune mouche
+ breve
+ plusieurs heures
+ plusieurs dizaines dheures
+ plusieurs centaines dheures
+ interminable
+
+ traduction 
+
+ non traduit
+ jeanedouard encore en stage
+ pas mal derreurs
+ parfait
+ traduit dans toutes les langues
+
+ récurance de bug 
+
+ le jeu est une sorte de gros bug en phase terminal
+ les bugs gène le gameplay
+ les bugs ne gène pas le gameplay mais sont présent
+ quelques bugs
+ le jeu est codé à la perfection
+
+ optimisation 
+
+ vraiment mauvaise
+ mauvaise
+ acceptable
+ correct
+ optimus perfectus
+
+ avis général 
+
+ ny jouez pas
+ à vos risques et périls
+ à essayer
+ ne perdez pas plus de temps et jouezy
+ un must
+
+#####
+
+merci au confinement qui ma permis de devenir un expert en création denclos pour pangolin
+
+#####
+
+ajouter un mode coop ou on peut créer un zoo à plusieurs sinon bon jeu
+
+#####
+
+le jeu est magnifique et très complet beaucoup despèces de détails des comportements très réalistes jai particulièrement apprécié laspect conservation des espèces mis en avant par le jeu et les vivariums sont une excellente idée pour mettre en avant les espèces trop petites pour aller dans les enclos
+cependant et après avoir retenté plusieurs fois il y a un gros point noir pour moi cest la construction
+je passe mon temps à essayer de comprendre pourquoi je peux pas mettre un chemin ici pourquoi il y a un décalage entre le coté droit et gauche de la clôture pourquoi un chemin droit et une clôture droite convergent alors quils étaient parallèles au début pourquoi un terrain plat me demande de créer une passerelle pourquoi je peux pas raccorder deux chemins pourquoi cette boutique ne se raccorde pas au chemin alors que sa voisine si pourquoi cette boutique ne sintègre pas dans son habillage pourquoi mes guides ne vont pas travailler sur les points qui leurs sont dédiés
+enfin bref le volet construction est un enfer il est probablement super pour les joueurs habitués à ce type doutils mais il est clairement hostile aux nouveaux joueurs et rien dans le jeu nest fait pour vous aider à le prendre en main il faut toujours chercher et tester les milliards doptions faire des allers retours avec des guides en ligne cest marrant deux minutes mais cest très vite désagréable
+pour celles et ceux habitués à ce type doutils de construction foncez vous allez vous éclater pour les autres passez votre chemin ou revenez après vous être exercé sur des jeux plus amicaux envers les débutants
+quel dommage je pensais avoir trouvé un digne successeur à zoo tycoon mais en létat jabandonne je devrais ajouter un point pour être équitable le mode carrière est très bien fait et plaisant à jouer puisque cest le volet gestion qui est mis en avant pour les modes défis franchise et bacàsable cest laspect construction qui est le plus présent et cest celui qui mintéresse le moins alors avec la difficulté de prise en main cest injouable pour moi
+
+#####
+
+mon croco a bouffé mon panda mais sinon cest un bon jeu
+
+#####
+
+après 912 heures de création et construction sur planet zoo je recommande ce jeu au potentiel énorme tant que vous dépasser les limites de votre créativité et imaginaire ne pas hésiter à acquérir tout les dlc de ce jeu pour enrichir votre expérience dans planet zoo ne limiter jamais votre créativité aller bien audelà de votre imaginaire ne pas se contenter du réel ou du réaliste bien trop commun et vous pourrez vous rendre compte quen laissant vibrer votre esprit crée du complexe devient un jeu enfantin ludique et fun 
+
+after 912 hours of creation and construction on planet zoo i recommend this game with enormous potential as long as you exceed the limits of your creativity and imagination do not hesitate to acquire all the dlc of this game to enrich your experience in planet zoo never limit your creativity go far beyond your imagination do not settle for the real or the realistic which is all too common and you will be able to realize that by letting your mind vibrate creating a complex becomes a game childlike playful and fun
+
+#####
+
+je suis une nostalgique de zoo tycoon 2avec lequel je joue encore même si le jeu à mal vieilli  moi aussi jai mal vieilli donc jattendais avec impatiente quun jeu prenne la relève de cet opus cest selon moi maintenant chose faite à mon plus grand plaisir
+ les graphisme sont jolis jai un pc gamer entrée de game et ça tourne sans soucis ceci dit avec 3000 visiteurs et les graphismes au max mon jeu nétait pas fluide 
+ la gestion de foule est cool je veux dire que cest assez réaliste il y a des gens seuls des gens en groupe de différentes ethnies etc
+ beaucoup de micro gestionmême si je me concentre surtout sur les animaux personnellement
+ il y a un vrai travail pour respecter les moeurs de lanimal même si on peut améliorer ce point
+ la créativité est également un point central du jeu bon moi je ne suis pas douée pour faire de belles choses mais cest stimulant
+
+il y a quelques trucs qui pourraient être améliorés ceci dit comme 
+
+ une fonction recherche autant dans le marché des animaux que dans la gestion des animaux ou de la zoopédie
+ dailleurs en parlant de la zoopédie ce serait bien dy avoir des filtres pour trier les animaux par biomes par continent par statut de conservation etc
+  que la gestion des animaux du zoo se souvienne de nos derniers filtres car on perds un temps dingue lorsquon tient à éviter la consanguinité par exemple
+ que lorsquon place un habitat ou autre par défaut celuici soit au niveau du sol ou avoir un visuel qui indique quon est 3m au dessus du sol par exemple ou pouvoir rectifier cela facilement
+ pouvoir sélectionner dun coup toutes les parois de lhabitat
+ se passer de la validation du filtre dans le marché des animaux notamment pour la sélection du sexe comme cest le cas avec les animaux de vivariums
+ une meilleure réactivité au clic je veux dire que quelque fois je dois cliquer plusieurs fois avant que le clic soit validé
+
+après je ne suis pas une pro et je ne suis pas incollable ni en pc ni en jeu ni même à ce jeu du coup si certaines de ces fonctions  existent mais que je ne les ai pas trouvées ou quil existe des astuces je suis preneuse 
+
+#####
+
+edit
+après de nombreux mois ou je nai pas joué je suis finalement revenu sur le jeu et jai eu lagréable surprise de ne plus avoir les bugs récurrents que jai cité plus bas  il y a seulement un bug qui revient le fait quun animal soit dit échappé alors quil est toujours dans son enclos en parfait état cependant ce nest clairement plus autant impactant sur lexpérience de jeu quavant  
+merci pour les corrections  
+
+
+
+un bon jeu dans lensemble que ce soit par la qualité graphique et les assets disponibles dès le début qui vous offre pas mal dheures de constructions en vues une petite variété danimaux disponibles suffisant pour avoir déjà beaucoup dheures de jeu sans sennuyer à voir les prochains animaux qui arriveront 
+
+cependant les nombreux bugs polluent vraiment lexpérience on parle pas de bugs mineurs non mais de bugs qui impactent réellement négativement le jeu 
+ le jeu doit souvent être relancé plusieurs fois pour ne pas planter avant son lancement et dans le menu principal ce nest pas arrivé quà moi donc pas de problème de config de pc
+ les soigneurs ne font que se promener la plupart du temps même quand les animaux sont en train de mourir de faim et que lenclos est vraiment sale les animaux sont alors malades  meurs de faim pour rien  pourtant avec un enclos bien configuré reconfiguré même avec un élan despoir ils rentrent dans lenclos et repartent instantanément alors que les mangeoires sont à portées de mains et que les animaux sont affamés résultat  nombreux animaux morts à cause dune ia plombée 
+ les fameux détritus  jai beau avoir 6 agents dentretien pour un parc petit ils ne viennent pas ramasser les détritus et comble du rire sur le panneau des employés leur charge de travail est basse 
+ dans les échanges danimaux pour vendre ou acheter un animal il faut cliquer une dizaine de fois sur le bouton ce qui peut faire perdre une opportunité dachat 
+ je ne comprends pas non plus tous mes objets vandalisés alors que jai installé des caméras et que mes agents de sécurité ne remarquent jamais rien
+ les animaux qui meurent déshydratés alors quils ont plusieurs fontaines totalement accessibles dans leurs enclos je ne comprends pas non plus
+ les visiteurs qui ne voient pas les animaux devant leurs yeux ou au contraire quils voient les animaux alors quils sont bien loin deux
+ les zones de travaux demployés qui se réinitialisent
+
+en clair  lia est vraiment à revoir les animaux mais surtout les employés sont débiles comme des manches à balais cest dommage car le jeu serait vraiment bon sans ces bugs devoir relancer à tout va ses parties et espérer des améliorations cest pas normal pour un jeu qui vaut ce prix là pour un jeu à 45 euros on sattend à mieux et surtout à ce que lia soit développée dautant plus que les bugs sont impactant pour la gestion et plot twist cest un jeu de gestion soccuper de ses animaux dans ces conditions cest pas évident à quand des majs qui vont régler les nombreux soucis 
+
+au final je ne recommande pas ce jeu dans létat actuel de lia par rapport à son prix il ne vaut pas son prix en revanche on peut quand même samuser dessus jai joué 20h et je ne compte pas marrêter pour autant plus quà attendre une réponse de léquipe de devs et attendre patiemment la résolution de tout ça
+
+#####
+
+dans la continuité de planète coaster planète zoo est un excellent jeu de gestion et bac à sable il vous permettra de développer votre zoo de rêve ou tout simplement dêtre créatif avec son mode constructif inégalable 
+simple à prendre en main pour les non expérimenter plus que complet pour les férus de détail planète zoo est lassemblage presque parfait pour tous 
+une météo dynamique complétera votre amour dimmersion 
+les scéarios sont nombreux et dispose dune vrai progression de difficulté 
+les possibilité de gestion sont très nombreuses et poussent les curseurs à leurs maximum 
+
+pour les points négatif 
+demande un pc relativement puissant pour les gros zoo en bac à sable 
+pas dobjet personnalisé mod 
+demande lachat de dlc pour une véritable expérience complète 
+comme pour planet coaster il manque une véritable grande extension sur le monde aquatique
+
+#####
+
+ public conseillé  
+ je ne conseillerai pas ce jeu même à mon pire ennemi
+ les enfants
+ les fans du genre ou de la franchise
+ les casual gamers
+ tout public
+ les hardcore gamers
+ les pgm sudcoréens
+
+ graphismes 
+ à vomir par terre
+ très mauvais
+ mauvais
+ corrects
+ bons
+ très bons
+ beaux à en chialer
+
+ qualitéprix 
+ il faudrait me payer pour y jouer
+ attendez une promo
+ abordable
+ pas cher
+ à ce prix là cest cadeau
+
+ configuration pc recommandée 
+ lordi à ma grand mère
+entrée de gamme
+ milieu de gamme 
+ haut de gamme
+ un pc de la nasa
+
+#####
+
+étant fan de jeux de gestions mais nayant finalement joué que 30h à planet coaster jattendais ce planet zoo en me disant que ça moccuperai là aussi une trentaine dheure avant que je ne décroche et ne me lasse ça na pas loupé après les trentes premières heures de jeu le décrochage exactement comme avec coaster où était le problème alors  et bien le problème était assis entre le bureau et la chaise car ce jeu a absolument tout pour être joué pendant des dizaines dheures pour peu quon sintéresse à créer un parc réaliste et détaillé en se souciant du bien être des animaux mais aussi de leurs enclos leur santé mentale leur sociabilité leur reproduction  lorsque jai découvert le jeu je trouvais laspect gestion peu poussée et javais limpression comme pour coaster que ce jeu nétait destiné finalement quaux esthétes quà celles et ceux qui veulent simplement construire un parc sans se prendre la tête sur laspect gestion alors quen fait à linstar de coaster mais encore plus poussé sur zoo à mon sens on a à faire ici avec un vrai jeu de gestion pur et parfois même dur gérer la consanguinité les décès les maladies la recherche les enclos le personnel les visiteurs et tout le reste demande un sens de lorganisation assez poussé et surtout une excellente mémoire impossible de sennuyer avec un tel jeu pour peu quon sintéresse à son univers bien sûr nettement meilleur que coaster finalement plus basique zoo est à coup sûr le meilleur jeu de gestion de parc animalier à lheure actuelle
+
+#####
+
+après avoir joué au jeu quelques heures je ne peut décemment pas le recommander 
+car cest bien simple planet zoo est un demijeu un jeu qui vous ment quant à ses mécaniques
+
+le jeu se vends en effet comme un jeu de gestion de zoo ils vous proposent des visiteurs et des animaux chacun avec des barres de besoins à remplir donner à manger aux visiteurs à boire ou leur donner des toilettes ce genre de chose évitez quils ne jettent des choses par terre en mettant des poubelle les informer en plaçant des panneaux sur les animaux 
+idem coté animaux chacun a des besoins et pas mal de choses peuvent être faites pour les remplir
+
+le jeu vous vends ainsi que tout ceci fonctionne et que ça a une influence sur le cours des événements et on est tenté de le croire au début  on fait un parc laspect construction est toujours aussi génial comme dans planet coaster les graphismes sont au top bref cest du tout bon puis les besoin des visiteurs et des animaux vous tiennent occupé et vous êtes presques à deux doigts décrire une critique positive
+
+puis la scène de théatre tombe et vous vous rendez compte que tout nest que mensonge dans ce jeu
+prenons un exemple  faite un zoo et déconnectez complétement le zoo de lentrée des visiteurs que croyez vous quil va se passer  que les visiteurs vont repartir mécontent que leur nombre baissera quils demanderons un remboursement du billet que votre zoo finira en banqueroute faute de nouveaux visiteurs comme dans tout jeux de gestion de parc digne de ce nom depuis roller coaster tycoon premier épisode 
+
+bah non les visiteurs continueront à affluer année après années faisant rentrer de largent dans les caisses sans avoir vu un seul animal 
+
+oui cest à ce point 
+après quelques test jai pu confirmer que les visiteurs arrivent en fonction du nombre danimal dans le zoo tout simplement quils les aient vu quils repartent heureux ou non ne change rien à laffaire
+
+alors comme vous vous rendez compte quil y a anguille sous roche vous faites quelques test  isoler un visiteur sur un chemin pendant 3 ans  bah il va très bien ses barre de besoin sont toute vide mais son bonheur est au top  si vous reconnectez le tout il rentrera chez lui heureux et déposera même des sous si il y a des boites de dons sur le passage
+
+tout le jeu est comme ça une sorte dépisode de dora lexploratrice ou tout nest que mensonge et faux semblant si vous ne faites pas attention vous ne le remarquez pas avant quelques temps le jeu vous semblera sans doute creux à la longue mais vous narriverez peut être pas à mettre le doigt dessus mais en passant les mécaniques à la loupe tout le truc tombe à leau  car il n y a tout simplement pas de mécanique 
+
+je pourrais parler du coté gestion sur les animaux mais cest un peu pareil même si cest un poil meilleur ça reste beaucoup de pipeau
+
+en conséquence je ne recommande clairement pas le jeu non seulement il ment dans sa publicité mais ça on a lhabitude mais en plus il vous ment dans le jeu en essayant de vous camoufler son absence complète de mécanique
+
+#####
+
+ce jeu est magnifique autant dans la simulation la gestion que la personnalisation sur ces points un véritable régal de créer son zoo soigner et réintroduire des espèces 
+
+malheureusement il ya un gros point noir et de taille loptimisation en état planet zoo se positionne au rang de processor killer loptimisation est autant étrange que catastrophique là où planet zoo vous promet des zoos immenses entièrement personnalisables vous serez très vite limité à un petit zoo de cinq habitats et enclos 
+a bien regarder de près jai remarqué pas mal dincohérence le jeu tourne presque quasiment que sur le processeur la carte graphique et la ram seront peu sollicitées quand le cpu pourra tourner de 70 à 90 laissant alors  peu de ressources au système dexploitation si bien quau mieux le jeu plantera au pire tout votre pc sera en carafe en faisant quelques tests jai pu remarqué des points étranges laisser le jeu tourner en arrière plan seule 30 du cpu sera mobilisé mais à lécran il montera vite en charge jusquà 90 le constat sera donc que même laspect graphique est géré par le cpu bref une optimisation étrange mais surtout dangereuse avoir une grosse cg ne changera rien et tenter doptimise le jeu non plus jai diminué les paramètres graphiques et si à peine une seconde je gagne des fps aussitôt les ressources libérées sont prises dassaut pour le calcul
+
+je dirai bien à voir avec des patchs correctifs mais je ny crois pas le problème est récurrent à planète coaster jamais corrigéq 
+
+bref si jouer avec des minis zoo ne vous embête pas foncez mais pour une simulation complète dun véritable parc animalier vous serez forcément déçu le problème étant dans le coeur du programme un gros processeur ne changera strictement rien pour être dans ce cas là
+
+
+
+#####
+
+excellent jeu
+des heures passées dessus et impossible de sen lasser
+la qualité graphique est excellente  le niveau de détails est incroyable le comportement des animaux est remarquable et réaliste
+la prise en main nest pas évidente au début mais on sy fait vite merci les vidéos youtube
+
+néanmoins comme dans tous les jeux il y a des points négatifs
+ une optimisation à nettement améliorer
+ des pertes de fps énormes une fois le zoo conséquent en taille et en détails
+ des crash
+ parfois une latence importante à ne plus pouvoir jouer
+
+malgré ça le jeu est incroyable et je le recommande pour sa liberté de création et son réalisme
+ 
+
+
+
+#####
+
+du trés bon et du trés mauvais comme limpression que le jeu a été développé par 2 équipes différentes  une trés compétente et lautre complétement aux fraises le jeu est magnifique mais la caméra et les déplacements à vomir le choix dans les éléments de construction et les infos diverses sont énormes mais la navigation dans les menus et linterface mal fichues lanimation des animaux est parfaite mais on se retrouve parfois obligé à débloquer un animal bloqué dans le décor genre vitrine denclos aprés avoir joué avec une boite en carton trop prés des murs ensuite pas mal dautres petits bugs pas insurmontable mais le probléme principal pour moi  cest le coté chronophage du jeu  et je me rends compte que sur les 300 h de jeu  jai juste passé mon temps a recommencer mon zoo encore et encore et ces derniers temps pour des raisons de plantage sans pouvoir récuperer ma partie en mode franchise impossible de se faire un dossier de save lidée nest pas forcément mauvaise en soi meme si le fait est quavec laccés à une save de début de jeu je naurai pas recommencé de 0 de nombreuses parties mais dans ce cas le jeu se doit détre parfaitement optimisé stable et sans bugs j y reviendrai dans quelques mois en espérant une amélioration
+
+#####
+
+grande fan de zoo tycoon premier du nom jai été ravie quand planet zoo est sorti
+le jeu promettait de belles choses les graphismes sont magnifiques et le mode construction nous offre la possibilité de construire un zoo unique certains joueurs font des parcs animaliers absolument magnifiques
+il y a beaucoup despèces même si je regrette labsence danimaux aquatiques de la banquise ou même doiseaux dlc estu là 
+
+mais parce quil y a un mais le jeu est à lheure actuelle injouable 
+les nombreux bugs gâchent littéralement lexpérience de jeu
+depuis la mise à jour du 27 novembre mes zoos sont devenu obsolètes je ne peux plus jouer 
+
+ tous mes animaux sont affamés et meurent de dénutrition parce que les mangeoires sont devenues inaccessibles  choses quelles nétaient pas avant la maj peut importe comment je les place pour certains enclos le bug perdure 
+les enclos  certains enclos se cassent à une vitesse fulgurante le mécanicien qui répare la clôture est à peine sortit de lenclos que les clôtures sont déjà abîmées passant de 100  à 40 dun coup
+pour les enclos toujours certains animaux senfuient sans raison apparente ils traversent lenclos et se baladent au milieu de vos visiteurs 
+ mon zoo principal était au moment de ma reprise avec un solde de plus de 500 000 cétait un  zoo viable depuis plusieurs dizaines dheures de jeu en une heure de jeu je passe à  327 000 car les visiteurs demandent un remboursement  en analysant leurs besoins même les groupes satisfaits demandent le remboursement mon solde cest donc fait siphonner sans pouvoir rien faire certains visiteurs arrivent à peine dans le zoo et en quelques secondes font demi tour et demandent à se faire rembourser
+ le vandalisme quand lun de vos visiteurs est ne serait ce quun tout petit peu contrarié lors de sa visite il le fait savoir bancs écrans poubelles et jen passe se font détruire vos mécaniciens passent leur temps à courir pour réparer des objets qui se font redémolir dans la seconde ceci provoquant agacement sur les autres visiteurs qui cassent à leur tour le cercle vicieux commence les vigiles même en nombre ne suffisent pas à contrer cette vague de casseurs digne du manif des gilets jaunes 
+ enfin dernier point pour moi qui justifie ce pouce rouge il ny a aucune communication de la part du développeur concernant le suivit des bugs je vois beaucoup de gens qui comme moi râlent mais aucune réponse officielle pour savoir où en sont les patchs correctifs ce manque de réponse me laisse pantoise trouve cela un peu irrespectueux 
+
+je laisse donc mon avis ici en espérant avoir une mise à jour pour corriger tout ça
+
+#####
+
+franchement ajouter 3 bestiole tout les 3 mois pour 11 balle sa fait mal au cul sa coûte rien de les ajouté gratuitement quand le prix du jeu de base est a 45 balle
+
+#####
+
+ah oui oui oui jai pas vu le temps passer
+
+#####
+
+une optimisation terrible de nombreux bugs un drop de fps alarmant un jeu parfois injouable une latence affreuse des crashs au lancement mais quel bon jeu  tous ces mignons petits animaux  le niveau de détail zoom est une vraie surprise la qualité graphique est vraiment top et surtout un max de possibilités en termes de constructions  mises en scène cest vraiment très très complet et rien que pour ces points positifs je recommande très chaudement  manque juste des animaux aquatiques mais jai cru comprendre que ça gênait quelques associations
+
+bon ok le jeu est parfois injouable mais soit on attend un peu soit on redémarre pour libérer la ram soit on fait quand même avec cest pas non plus constant heureusement 
+
+#####
+
+très bon jeu ma copine est très heureuse et je suis un homme épanoui dorénavant
+
+#####
+
+je conseille le jeu pour son aspect gestion et création laissant une infinité de possibilités pour rendre son zoo très beau et faire des enclos magnifiques adaptés aux animaux etc
+
+en fait en terme de création et de gestion de zoo cest quasi parfait
+
+le seul gros défaut du jeu qui est exactement le même que sur planet coaster pour la création de parc dattraction cest que le jeu commence à ramer quand il y a beaucoup de visiteurs et que le zoo commence à grandir avec tous les éléments que lon place  il devient très gourmand
+ donc soit on reste sur un zoo petitmoyen et ça ne rame pas ou pas trop soit on décide de faire un grand zoo avec des milliers de visiteurs et dutiliser tout lespace mais il faut sattendre à des pertes de fps cest dommage et ça limite quand même le jeu qui à la base a des possibilités énormes 
+
+cest le seul gros bémol que je retiens mais je le recommande quand même car ça reste un très bon jeu
+
+#####
+
+english below
+
+grande fan des jeux de gestions et des animaux je dois dire quavec celuilà je capote en plus  dêtre beau et très réaliste comportement des animaux jai limpression que je ne me lasserai jamais quil est infini le système de construction une fois pris en main est génial on peut presque tout créer encore bravo a frontier developments
+
+big fan of management games and animals i must say that with this one i fail in addition to being beautiful and very realistic behavior of animals i have the impression that i will never end that it is infinite the construction system once taken in hand is great you can create almost anything again bravo to frontier developments
+
+#####
+
+cest beau cest bien foutu mais ce jeu nest pas destiné tout comme planet coaster aux fans de gestion alors certes tout est assez agréable à loeil les menus sont bien faits et pour les amateurs de décos il y à de quoi faire mais pour le reste après quelques heures de jeu ont se rend comtpe que la gestion est survolés on pose des magasins quelques batiments pour le personnel et cest fini tout roule comme sur des roulettes sans la moindre difficulté la recherche est ridicule aucun enjeu ni même informations on dragdrop un membre du personnel sur une recherche globale et voilà millionnaire au bout de 15h de jeu je mennuie
+
+#####
+
+le jeu est bien plus complet quun simple jeu de gestion de zoo il permet une grande créativité au niveau de la construction il existe aussi une belle communauté qui remplie le workshop créée des videos et permet de trouver de nouvelles idées jaimerais un pack comprenant une volieredes oiseaux 
+
+#####
+
+ancienne joueuse de zoo tycoon jai cherché un jeu plus moderne et avec plus de fonctionnalités jai trouvé planet zoo et il ne ma pas déçu après la prise en main des différents facteurs à gérer on peut vraiment faire ce que lon veut notre imagination est la limite
+je lai même recommandé à un proche qui est aussi addicte que moi 
+
+#####
+
+très bon jeu de gestion de zoo poussé
+
+#####
+
+ayant déjà joué à la béta je me permets de rapidement donner un avis le jeu est le digne successeur des zoo tycoon il reprend tous les aspects de ces jeux et les améliore laspect gestion est là il est poussé et intéressant le bienêtre des animaux est au centre du jeu tout est pris en compte jai hâte de jouer plus au jeu jai hâte davancer et jai surtout hâte de créer je remercie sincèrement frontier davoir fait ce jeu cest un gros coup réussi pour moi
+
+#####
+
+y a des lions
+
+#####
+
+un jeu très sympa qui laisse libre cours à notre imagination en mode bac à sable on ne se sent pas lésé si lon ne possède pas les packs dextensions mais cependant il est vite tentant de vouloir les acquérir le mode construction est pointilleux et demande quand même plusieurs heures pour le maîtriser de façon correcte
+
+#####
+
+ancien joueur de zoo tycoon jai énormément attendu ce jeu
+jai uniquement joué au mode franchise
+jeu très bon sur certains points mais très mauvais sur dautres malheuresement
+
+les plus
+très bon jeu de gestion on gère les animaux les employés formations zones de travailles magasins et attractionsprix des boissons même les condiments  
+le gameplay
+les graphismes
+les possibilités de création
+les mods du workshop
+le nombres danimaux même si encore plus ne serait pas de refus
+les animaux albinos ça donne un petit coté pokémon shiny
+
+les moins
+beaucoup mais alors beaucoup de bug animaux comme les hippos qui en nageant traversent les barrières animaux qui meurent de soif alors quils ont de leau de rivière et en plus des abreuvoirs
+les mécaniciens qui ne réparent pas les écrans ainsi que les speakers dinfos
+le gros problème vient surtout des visiteurs qui ne sont jamais contents ils ont soif ensuite faim malgré des magasins de nourriture et de boissons
+les visiteurs pas content se mettent ensuite à tout vandaliser casser les bancs renverser les poubelles et cest à vous manuellement de réparer fatiguant de perdre son temps a faire cela car le zoo devient de plus en plus grand
+et cest visiteurs qui ne sont pas heureux demande un remboursement vous pouvez gagner beaucoup dargent et a cause de cela 30 minute plus tard vous retrouver en déficit quasi impossible a remonter et donc recommencer un zoo si vous en avez le courage
+
+je mamuse beaucoup sur ce jeu mais jespère vraiment une correction de tout ces problèmes qui gâche lexpérience et surtout les besoins des visiteur qui est pour moi le gros point noir
+
+jespère pouvoir le recommander dans les jours ou semaines qui viennent mais pour linstant ce nai pas le cas
+
+#####
+
+très bon jeuxbeaucoup de possibilité
+
+seul bémole a mes yeux la reproduction des animaux est beaucoup trop rapide quand on commence à avoir plus dune dizaine despèce différente on passe plus de temps a géré la consanguinité que le reste du zoo
+
+#####
+
+ce jeu est vraiment superbe  il y a tous en corrigeant les probleme  de planet coaster  il sont  arrivez  a  sortir un jeu de gestion de zoo vraiment tres complet et tres  beau beau graphiquement  je suis vraiment pas decu un tres bon achat jespere qui sera  avec des dlc  avec des aquarium des oiseaux des spectacle  etc
+
+#####
+
+dans ces lieux dune obscénité générale où les cages sont habitées danimaux enfermés on nse promène pas munis des clefs pour les ouvrir  cest plutôt des tickets quon porte des tickets marchandés contre de largent  de largent échangé contre un moment dautorisation pour épier les animaux cest le zoo et le zoo voyez cest dla gestion  pas de ticket pas dargent  pas dargent pas danimaux les animaux sont subordonnés à des impératifs financiers
+
+cest parfait pour un jeu vidéo nestce pas   la gestion   le zoo cest parfait   cest dla gestion   pourquoi faire un jeu sur la spa par exemple quand les zoos existent   la spa où est largent trop discret trop secret   le zoo en revanche où est largent partout  largent est partout  
+
+payer des employés cest cher   les gardiens les vétérinaires les agents de sécurité les vendeurs les mécaniciens les balayeurs cest coûteux  très coûteux   puis encore les animaux payer la nourriture nettoyer les enclos entretenir lenvironnement cest coûteux  trop coûteux   cest trop le but du jeu surtout  vous avez là dintroduit tout le défi qui lui donne tout son intérêt  trouver de quoi faire balancer les énormes coûts liés à la gestion dun zoo
+
+planet coaster  la version parcs dattraction  manquait certainement daspects gestionnaires  sa microgestion était trop absente trop effacée planet zoo a rectifié le tir  la microgestion est partout présente jusque dans les gobelets à soda jusque dans la qualité des repas servis aux bêtes jusque dans le coût de laccès aux latrines tout est sujet potentiel au profit tu veux poser un cake aux toilettes cher client   aucun souci   lâche un biffeton et jte laisse à ton occupation 
+
+honnêtement cest trop jai limpression déprouver un logiciel de formation au management pour devenir apprenti dirigeant dentreprise les impératifs de gestion sont si nombreux que les heures passent aussi vite quune enveloppe à la poste ecoutez du temps que je réglais divers problèmes de déficit samuel jeune gazelle adoptée la veille est devenu un vieux mammifère paresseux partageant son temps entre la couchette et les plateaux de repas jpasse plus de temps à regarder des chiffres de compte plutôt que mes pensionnaires bestiaux et lorsque jles regarde ce nest souvent que par intérêt
+
+ samuel par exemple samuel a des besoins nourriture boisson jouets température adéquate environnement propre et adapté samuel a beaucoup de besoins peutêtre se sentil un peu seul dailleurs autant lui amener une copine il a besoin de femelles il en a tellement besoin quil engrosse toutes les femelles que jlui apporte une à une samuel est heureux samuel est épanoui quelques mois dattente et voici que la première femelle accouche puis la deuxième la troisième aïe la troisième mauvaise pioche elle accouche dun mâle samuel ne supporte pas les mâles samuel est fâché et quand il est fâché il est violent alors il fait mal au petit mâle il blesse son fils horreur malheur   jai une amende le vétérinaire est appelé en urgence pour une opération les clients sont choqués et linspectrice punit le zoo dun rapport au vitriol
+
+bien bien je retiens la leçon après léquilibre financier jdois veiller à léquilibre entre mâles et femelles entendu chaque fois quun accouchement est programmé jdois vérifier à quel sexe le nouveauné appartient sil est de trop dans lenclos jdois le retirer sinon jdois faire attention quil ne se fasse pas sauter par un père un frère ou linverse jdois prévenir la consanguinité il faut introduire de nouveaux animaux du nouveau sang la solution   le marché
+
+planet zoo a mis en place un système déchange entretenu par diverses circulations et distributions initiées par les joueurs pour les joueurs plus besoin dun animal ou besoin dun autre  place au marché  jvais mettre en circulation lun de mes animaux inutiles ou chercher à en acquérir un parmi les propositions disponibles selon les réserves cédées par différents joueurs 
+
+ cest cest assez peu pratique en fait les problèmes de ce système sont les mêmes que celui duquel il sinspire  le libéralisme problèmes de disponibilité problèmes de spéculation problèmes de prix problème f x problème puissance 10 au carré  joueur pas content 
+
+joueur pas content oui mais dans les limites de sa satisfaction le jeu est satisfaisant toutes ces réserves évoquées sont pour ainsi dire autant des défauts que des qualités la toile de fonctionnalités est dense  le joueur peut y perdre des heures avec le sentiment de bidouiller un vieux moteur dont le fonctionnement dépendrait de lui le zoo dépend de lui 
+
+tout dépend de lui oui dans cette simulation de gestion de zoo elle est incontestablement la plus réussie la plus approfondie de toutes celles à qui elle peut être comparée  parmi lesquelles bien sûr zoo tycoon 2 assurément obsolète depuis la sortie de planet zoo qui est pourraiton dire un pur prolongement de sa logique de ses codes planet zoo suivant zoo tycoon cherche le réalisme les animaux sont entourés étouffés de prérequis zoologiques de conditions préalables à leur survie dimpératifs environnementaux ils sont pensés comme des prototypes déthologie des particules virtuelles de la vie réelle    
+
+de ce point de vue planet zoo dépasse largement zoo tycoon 2 cest essentiellement un prolongement je lai dit rien quun prolongement peutêtre techniquement le prolongement est saisissant  tous les comportements toute la nature toute la chaîne des opérations retranchées dans les zoos tout est plus vraisemblable mais audelà de la technique laudace manque le panache est absent et loriginalité exilée
+
+planet zoo développe son prolongement dans le cadre limité de codes déjà utilisés par les jeux de gestion de zoo depuis des années planet zoo pour le dire autrement ninnove pas ou disons linnovation se fait toujours sous tutelle de la superficialité voyez ce quelle ajoute par exemple  relâcher dans la nature les animaux menacés dextinction sensibiliser les visiteurs sur le changement climatique le braconnage la déforestation  pourquoi pas mais là cest à se prévaloir dun vernis couleur verte et dune teinture écolo pour revendiquer lavantgarde progressiste  à côté je nvois aucune innovation décisive 
+
+où sont les animaux qui sortent de lordinaire à part les bestioles de terrarium  où sont les animaux aquatiques  où sont les aquariums  et puis où sont les concepts originaux qui pourraient donner à penser la gestion de zoo autrement que par des calculs financiers ou des transactions basées sur des logiques de marché libérales  où  nulle part dans ma tête dans des déceptions qui sexpriment 
+
+la déception peut sexprimer elle est marginale après tout  après la profondeur des mécaniques de gestion après lénorme quantité de possibilités de personnalisation et de construction architecturale après la beauté graphique des environnements virtuels après la variété des animaux après leur cohérence danimation après tout le reste la déception compte assez peu elle pèse léquivalent dun doigt qui cliquerait sur jouer  aussitôt le jeu commencé la déception est aussi loin de contrôler la partie que lauriculaire
+
+#####
+
+a presque 290h de jeu je peut affirmer que ce jeu est parfait pour les fans jeux de gestion il offre plusieurs mode  carrière chronométré bac à sable franchise et défi  et plusieurs niveaux de difficulté la diversité des animaux décors et objets notamment grâce à lachat des dlc est incroyable
+les graphismes sont top parfois des petits lags lorsque le zoo est grand et quil y a beaucoup de visiteurs mais dans lensemble cest un jeu stable
+vous pouvez créer des merveilles visuelles
+
+#####
+
+annonce dun dlc payant alors que le jeu nest pas toujours pas correctement jouable
+sérieusement
+
+des menus qui ne marchent pas tout le temps une infobulle recalcitrante un pathfinding souvent aux fraises et jen passe
+si ils corrigeaient juste ca non le jeu est sorti depuis 1mois et demi ceux qui ont fait lerreur de lacheter et qui pouvaient parfois même pas le lancer ne sont même pas remercié
+un petit crachat au visage tout simplement
+
+#####
+
+le jeu est très bien
+
+simplement je vote en négatif pour les jeux qui refusent les mises à jours gratuites et qui mettent à 9 lajout de 4 animaux pour atteindre bout en bout des budget de 150 euros ou plus pour un jeu
+
+un dlc est un intermédiaire entre un nouveau jeu et loriginal lajout de micro contenus cest de la maj pour entretenir la vie du jeu et montrer à ses clients le respect qui leur ai dû en principe
+
+des dlc prennent tout de même du temps pour être développées  oui mais les prix doivent dans ce cas être proportionnels le jeu coûte 50 euros disons quil met deux ans à être développé comment un dlc qui na pas à refaire le moteur graphique ni le gameplay peut chiffrer 15 du prix du jeu original pour un développement de quelques semaines ou mois 
+
+mais nen doutez pas le jeu est bien fait   simple opposition à une mauvaise habitude qui se généralise chez les éditeurs
+
+#####
+
+même si le jeu demande un ordinateur assez performant pour jouer cest désormais lun de mes préférés les graphismes sont nickels les animaux très réalistes et jaime beaucoup la partie gestion du zoo de plus je trouve que lon a plus de possibilités pour créer les bâtiments etc que dans planet coaster celuici me semble plus développé
+
+#####
+
+un excellent jeu de simulationgestion de zoo très complet et très compliqué très difficile à maîtriser mais franchement magnifique et le meilleur jeu de zoo quon puisse trouver il manque juste la fonctionnalité de pouvoir jouer à la première personne un soigneur car à part toujours plus décorer votre zoo en créer de nouveaux toujours plus vous améliorer dans la décoration et la gestion on sennuie un peu puis ça pourrait aider les nouveaux joueurs à mieux comprendre le jeu et baisser sa difficulté jadore particulièrement jouer en mode franchise sinon le mode campagne nous fait miroiter des zoos magnifiques pas comme mes chenils tout cracra que je crée à mon niveau de joueur actuel et nous montre ce quà le jeu a dans le ventre mais franchement un jeu dur à maîtriser 
+jadore ce jeu et je peux mempêcher dacheter dacheter de nouveaux dlc pour débloquer de nouveaux animaux et décors alors que je suis assez mauvais à ce jeu 
+
+je recommande si vous aimez tout personnaliser à fond que vous aimez les jeux de zoo et que vous adorez observer des animaux virtuels très réalistes pendant des heures
+
+#####
+
+5 mois de sortie et les soigneurs buguent toujours dans leur batiments sans préparer aucune nourriture faisant patienter les autres soigneurs ce qui affame les animaux et les tuent
+sérieusement pour un éditeur spécialisé dans la gestion de parc 5 mois après sa sortie merci au revoir 
+
+#####
+
+attention on ne voit pas le temps passer 
+
+#####
+
+je recommande planet zoo 
+pour y avoir passé des heures  il permet de se vider la tête tout en stimulant notre créativité il est quasiment possible de créer tout ce que lon imagine très bon jeu
+
+#####
+
+très bon jeu de gestion super complet ludique et bien fait dans son ensemble 
+
+#####
+
+jaime beaucoup le fait quil soit très complet de différentes manières il faut contenter tout le monde les animaux les visiteurs ainsi que les employés la dimension écologique et respectueuse des animaux est vraiment intéressante jai trouvé le jeu dune certaine complexité au départ puis avec du courage jai fini par le prendre en main non sans difficultés mais tant mieux finalement 
+
+#####
+
+jeu de gestion de zoo vraiment très prenant
+on peut créer des enclos assez facilement et rapidement une fois le système bien pris en main et il y a beaucoup despèces différentes
+
+quelques points négatifs 
+ les achats danimaux à dautres joueurs à des tarifs parfois très élevés il faut toujours faire attention
+ les besoins en type de terrains des animaux qui sont en pourcentage plutôt quen superficie pas très réaliste
+ ça manque de dauphins volières et autres peutêtre dans de prochains dlc 
+ jai parfois limpression que les visiteurs viennent pour boire et manger plutôt que pour visiter le zoo 
+
+malgré ça je prends beaucoup de plaisir à jouer à ce jeu 
+
+#####
+
+certainement un des meilleurs jeu de gestion disponible et si ton rêve cest de construire ton propre zoo et voir tes animaux vivre leur meilleur vie alors nhésite plus 
+
+le jeu est extrêmement complet ce qui en fait presque un point négatif car il nécessite quelques heures pour le prendre en main il est très beau calme et agreable tout a fait jouable sans les dlc mais bien sûr ils ajoutent un certain plus la durée de vie est presque infinie et la place laissée a la créativité est très grande
+
+bref je recommande chaudement merci frontier pour ce beau travail 
+
+#####
+
+jeu de gestion hyper complet et de ce fait très stimulant  nombre dindividus par groupe groupes interespèces biome idéal surface terreeau types de mangeoirespoints deau et enrichissements etc bref  énormément de paramètres à prendre en compte rien que pour les enclos a ça nous pouvons ajouter la génétique pour obtenir des individus viables de bonnes repro pour relâcher dans la nature ou gardervendre
+et si lon soccupe de laspect général avec le besoin des visiteurs là encore il y a pas mal de paramètres qui jouent  
+
+ce côté completcomplexe donne vraiment limpression davoir affaire à un vrai jeu de gestion et ça fait plaisir  de même que pour la construction  quasi tout est possible   à en voir le nombre de vidéos tuto sur youtube et les parcs des joueurs 
+
+les graphismes sont magnifiques autant pour le paysage que les animaux la jouabilité reste agréable un petit peu de temps pour la prise en main surtout en mode construction de a à z bien que certains petits bug puissent survenir
+
+les seules choses quon peut reprocher à ce jeu 
+  les énormes map quon ne peut pas remplir au risque de faire surchauffer votre pc ou simplement lag comme si vous le tourniez avec une carte graphique obsolète donc un conseil  nétendez pas trop votre parc  
+ les carrières qui sont parfois prises de tête  je ne les ai pas encore terminées car ça me gonfle un peu  grosso merdo quand tu dois faire avec les zoo pourris du mec blindé dargent mais la plupart restent sympas  
+
+hormis ça le jeu est souvent mis à jour les dlc sont sympas et vous avez du choix   de quoi bien vous occuper et prendre du bon temps sur un jeu comme planet zoo 
+
+#####
+
+très très bon jeu un zootycoon qui manquait vraiment à lheure actuel avec beaucoup de temps on arrive à faire de très belle choses vraiment unique et sans forcément avoir une grande créativité prise en main plus simple que planet coaster il faudra juste avoir une config correct pour en profiter pleinement
+
+jai vraiment hâte de le voir évoluer et peutêtre un jour avoir un dlc avec des aquariumsanimaux marins comme zootycoon en son temps en attendant il y a de quoi faire avec un très bon rapport qualitéprix quand à sa durée de vie
+
+#####
+
+on vas etre tres claire  le jeu a 1 mois  on en est deja a 20 euros de dlc on se fou de qui  je cautionne pas ce genre de pratique je me suis deja fait plumer a fond sur jurassic world  la blague continue avec ce jeu au passage  le jeu de base fait peu de go de donnée  mais bizarrement chaque dlc  meme sil n est pas acheté  se rajoute au jeu de base  se telechargeant automatiquement   rajoutant des go de données inutiles si on achete pas les dlc pour debloquer ce fameux contenu on se fou de qui  je me disait avec jurassic world  que cetait surement la politique duniversal  qui poussait le studio frontier à ce genre de pratique  jurassic world etant une grosse licence  mais non apparemment  cest bien une politique du studio frontier que de faire un max de fric avec peu de travail  10 euros un dlc avec 3 animaux on vas meme plus loin que dans jurassic world qui en principe equivalait a 5 euros les 5 dino  
+je ne juge pas le jeu de base excellent  qui lui par contre a un contenu enorme  et tourne tres bien  mais juste cette politique infame de dlc hors de prix  bref  un jeu bourré de micro transaction en gros  enfin 10 euros 3 animaux  maxi transaction plutot 
+
+#####
+
+jeu absolument génial  une grande immersion très réelle avec beaucoup de contenu  on est très vite investie dans notre zoo
+ 
+seuls petits bemols pour moi  
+ la prise en main un peu compliqué 
+ répétitif au bout dun moment  à chaqu nouvel eclos ce sont toujours les mêmes actions à effectuer
+ la personnalisation des batiments est bien trop compliqué  heuresement quil y a la workshop
+
+#####
+
+pour tous les frustrés de son grand frère planet coaster cette fois ci planet zoo réussi à conserver la beauté du jeu la contemplation à construire et se balader dans son zoo tout en ajoutant une couche gestion plus aboutie rien de parfait la partie financière tourne trop bien si on utilise certaines mécaniques trop évidentes
+mais par contre la gestion des animaux a une certaine faveur les contenter est beaucoup trop facile mais par contre on peut rapidement essayer de sintéresser à la reproduction pour obtenir les animaux les plus parfaits possible 
+donc le jeu nest pas parfait la gestion pas encore assez aboutie et son mode franchise avec un marché des animaux centralisés ne fonctionne pas bien ni dun point de vu technique ou performance des serveurs ni dun point de vue valeur dun marché avec son offre et la demande mais le jeu est beau agréable contemplatif et tout simplement pas frustrant de ne pas réussir à construire une montagne russe qui fonctionne et qui soit magnifique
+
+#####
+
+malgré un petit manque danimaux à mon goût très bon jeu et complet au niveau de la simulation 
+
+#####
+
+une magnifique surprise qui mattendait sous le sapin 
+le jeu pourrait sembler incomplet pour les détenteurs de zoo tycoon 2 comme moi et pourtant sa complexité en fait un fidèle concurrent au jeu de notre enfance
+si vous êtes un passionné des bêtes vous aurez de quoi vous amusez car le moindre facteur est pris en compte les graphisme sont très agréable pour ceux dont la machine est motivé et il y a enormement de choses à découvrir 
+dailleurs une première mise à jour est déjà arrivé à loccasion des fêtes on ne peut quespérer que ça continue en amenant toujours plus danimaux sans tomber dans lea compulsif 
+il y a chez moi quelques petites erreurs de collision qui seront patchées je lespère mais en dehors de ça cest un réel plaisir et je sens que de nombreuses heures de mon blocus risquent de disparaître si je ne fais pas attention
+alors merci père noël jy retourne tout de suite 
+
+#####
+
+très bon jeu de création si vous avez aimé planet coaster c est quasiment le même jeu dans un autre thème
+la principale différence c est qu ici vous allez vous occuper de la gestion des animaux au lieu de vous occuper des files d attentesles animaux sont bien modelisés et plutôt fun le seul truc qui me dérange c est la construction des routes et des enclos encore beaucoup plus laborieuses que dans planet coaster après les soigneurs qui ne nourissent pas les animaux et de devoir le faire manuellement c est un peu relou j aime le côté éducatif qui apporte un interet supplémentaire par rapport à planet coaster par contre on aurait aimé avoir une option pour masquer l effet de pluie cette derniere nous gâche juste le plaisir de jouer parcequ on ne voit strictement rien du coup je ne joue que le biome désert le seul selon moi à ne pas nous saouler avec 8 mois de pluie dans l année
+
+#####
+
+il est magique  très bien fait visuellement excellent et les personnalisations sont presque infinies jy est passé 17h en 3 jours cest addictif au possible xd
+
+#####
+
+un bon jeu de gestion
+
+#####
+
+jeu magnifique bien quassez difficile à prendre en main au début mais on sy habitue assez vite 
+il y a quand même une grande diversité danimaux même dans les dlcs et les comportements sont vraiment réalistes bien que le prix du jeu pique pas mal on en a pour des centaines de temps de jeu le contenu est régulier et très apprécié c
+
+#####
+
+bon graphismes peu de bugs il manquerais peu être un mode multijoueur adapté mais cela ne change rien à ma note je vous conseille fortement ce jeu si vous aimez les jeux de gestion
+
+#####
+
+ce jeu est juste incroyable 
+
+#####
+
+ancienne évaluation
+
+une optimisation complètement à revoir avec un parc qui devient progressivement injouable à mesure quil grossis je précise que possède une machine relativement récente et complètement orienté gaming geforce 1080 16go i77700 avec tout les pilotes à jours
+
+mon parc fait à peine 20 de lespace disponible et cest devenu injouable visiblement ce serait lié aux calculs liés au nombre de visiteurs qui deviennent ingérable passé une certaine limite même pour des configuration ultra récentes les chutes de fps surviennent généralement vers les 4k de visiteurs voir avant pour des config plus légères et le jeu devient progressivement injouable vers 67k voir bien avant pour des config pourtant robustes je suis monté actuellement à 85k visiteurs mais le jeu est devenu injouable pour de bon arrêt complet pendant une dizaine de secondes avant davoir 5 secondes de jeu mettre les graphismes à low ne change rien à la donne cest bien le nombre de visiteurs et les calculs liés collision pathfinding gestion des besoins qui rendent le jeu injouable du moins cest ce qui en ressort de tout les forum en
+
+les retours concernant ces problèmes de visiteurs commencent à se multiplier et frontier à récemment ajouté une option pour en limiter le nombre  ce qui équivaut à un aveux dimpuissance et ne constitue en aucun cas une solution en effet cest le nombre de visiteurs et largent quils dépenseront qui vous permettra de maintenir votre zoo payer vos employés et la nourriture des animaux
+
+si votre but est de vous amuser une dizaine dheure en créant quelques enclos foncez  le jeu est vraiment beau sympa vends du rêve et reste agréable à jouer du moment que votre zoo reste de très petite taille mais si vous envisagiez créer un zoo avec toutes les espèces passez votre chemin ce sera malheureusement  impossible à lheure actuelle
+
+il est possible de créer des zoo de taille moyenne avec des enclos immense et très peu danimaux pour maintenir un nombre de visiteurs bas mais bon
+
+une grosse décéption au final après une première partie daventure plaisante et porteuse de promesses je ne regrette pas davoir attendu quelques semaines et 214h de jeu pour rédiger mon appréciation car je naurais pas pu déceler ce vice caché après quelques heures de jeu
+
+nouvelle evaluation
+
+après plusieurs mois frontier semble enfin avoir fixé cet énorme problème les parties injouables ont été patché et peuvent être relancés le jeu reste actuellement fluide a 85k visiteurs ce qui était strictement impossible auparavant en létat je recommande donc à nouveau le jeu
+
+#####
+
+meilleur jeu de simulation de zoo ultra complet tant dans la gestion que dans la construction juste jaurai aimé un dlc vollièreaquarium mais cest largement  suffisant tel quil est je recommande vivement  ne pas se laisser impressionner par la complexité de loutil de construction on finit par le prendre en main facilement
+
+
+#####
+
+jaime beaucoup ce jeu dune part parce quil est très agréable à jouer et il est bien fait graphiquement dautre part plusieurs modes de jeu  bac a sable défi campagne franchise sont disponibles pour satisfaire tous les goûts
+ ayant kiffé zoo tycoon à lépoque je trouve ce jeu vraiment mieux sur tous les points 
+ le jeu était plein de bugs au tout début mais en 2 semaines un gros travail a été réalisé pour améliorer les choses en espérant que cela continue
+je recommande ce jeu 
+
+#####
+
+très joli jeu avec pleiiiins de possibilités jouant à zoo tycoon quand jétais petite cest une belle découverte
+
+#####
+
+très bon simulateur de zoo graphiquement très plaisant 
+les animations des animaux sont bien faites chaque animal est différent 
+on en fait trop vite le tour malheureusement 
+il y a toujours des mises à jour de contenu et cest très plaisant 
+il vaut largement le détour cest le meilleur dans ça catégorie
+
+voici quelques idées daxes damélioration en espérant que les concepteurs me lisent 
+
+1 la gestion des animaux du parc ne peux se faire en automatique il faut constamment ordonner aux employer de actions quil devraient faire deux même notamment en cas durgence
+en fonction du niveau du vétérinaire etou de connaissances des animaux il pourrait y avoir une gestion automatique ça réduirait la gestion sinon toutes les 3 min faut vendre et acheter pour pas faire naître des consanguins cest lourd au début du jeux cest bien pour comprendre mais après cest trop
+
+2 la gestion des zones est pas mal mais manque un peu de simplicité à mettre en place 
+les indicateurs ne me semblent pas tout à fait au point sur la gestion du parc niveau maintenance exemple  je mets un contrôle tous les mois niveau max mais les grilles cèdent ou les batteries brûlent pas de réaction il faut que je leur disent de réparer il faut dire au vétérinaire daller soigner les animaux
+les gardes de sécurité jai limpression quils ne servent à rien ça serait interessant que lorsquun animal sévade il se produise des combats avec les gardes ou les visiteurs ce qui détruirai la note du zoo en lui faisant de la pub
+
+3 les wagons sont un peu complexes il ny a pas assez dindications pour savoir comment les rendre rentable
+
+4 les animaux européens sont trop peu nombreux à mon gout ou sont les cerfs  les sangliers  les renards  canards lapins de garen oies sauvages chauves souris taureaux
+
+5 comme beaucoup de jeux de gestion le jeux manque de compétition de challenges 
+ce serai intéressant de créer un marché régional avec une quantité de visiteurs potentiels segmenté avec un nombre de joueurs qui correspondent pour les mettre en concurrence voir avec un ia
+
+il pourrait y avoir des flux saisonniers des visiteurs des périodes creuses et dautres dabondance 
+
+à commencer par avoir une variabilité jour nuit les gens ne baladent pas aussi massivement la nuit que le jours dans les zoo 
+que lon puisse voir aussi la fermeture du zoo et sa réouverture pendant la nuit
+une variabilité des taxes de létat
+
+6 il ny a quune zone dentré cela pourrait être intéressant de pouvoir mettre un parking payant ou non
+le  bus scolaires fonctionnel dans le mode de jeux normal
+
+7 détails accessoires
+a pour arriver au nombre maximal détoiles en éducation il faut mettre une quantité de panneaux et microphones qui me paraît trop importante idem pour la sécurité des panneaux et cameras partout
+
+b la musique est toujours la même un peu triste mais à la rigueur il suffit de la couper de mettre la notre à côté
+
+c comme tous les jeux de construction le jeux lagg si les constructions sont trop importantes un système de grandeur maximal du zoo définit par par exemple un nombre maximal despèce pourrait régler le problème puis mise en place dun système dinvestissement pour financer dautre zoo en leur prêtant de lagent ou en les rachetant par exemple
+
+d cela pourrait être intéressant de créer une extension safarie création dune zone sauvage ou les gens viennent chasser pêcher ils payent pour la qualité de la chasse et le terrain sauvage les chenils sont prêt races de chien en fonction de lanimal pris en chasse les véhicules lhôtel ou les tantes barques palombieres tenues terrain dentrainement au tir mais les dérapages sont possible il faut une équipe de soin
+
+
+#####
+
+contrairement à planet coaster qui napporte pas grand chose niveau gestion et se base presque uniquement sur du créatif planet zoo nous apporte enfin la gestion tant attendue tout en gardant le côté créatif
+
+#####
+
+un super jeu comme souvent quant il sagit dun jeu de chez frontier la formule marche les animaux sont bien fait la complexité est réelle  planet zoo est sans conteste un achat idéal en ces temps de confinement générale de la population car vous ne verrez pas passer les heures devant votre ordinateur dailleurs vous risquez même de rester chez vous a jouer une fois la quarantaine terminée
+au rayon des critiques je déplore quelques inutilités graphiques  par exemple laltèrnement journuit qui à mon gout na aucun intérêt et qui fait réellement mal aux yeux tant la visibilité est médiocre en période nocturne
+cest aussi un jeu qui sadresse a un public créatif autant vous dire que si vous nêtes pas portés sur la création et sur les petits détails vous risquez de vite tourner en rond dans votre zoo
+
+
+#####
+
+jeu super le tutoriel est très bien fait le jeu est complet et magnifique je le recommande
+
+#####
+
+encore plus chronophage que planet coaster
+cest la même chose en mieux et avec des zanimaux love
+vous apprécierez particulièrement si vous aimez construire et designer votre zoo dans les moindres détails
+
+#####
+
+très bon jeu
+
+#####
+
+difficile à prendre en main au début mais une fois quon y arrive on trouve une liberté dans la créativité et on prend vite plaisir à la gestion du zoo je conseille au début de faire les missions en histoire pour comprendre quelques fonctionnalités ou de jouer en mode bac à sable pour ne pas avoir la contrainte de la gestion
+
+point positif
+ régulièrement des maj avec de nouveau animaux et décors
+ grande map
+ les notification en jeu sont bonne
+ éclater les ballons de mes visiteurs
+
+bémol du jeu  
+ pas de zoo en mode coopératif création dun zoo à plusieurs entre amis ni la possibilité de visiter les zoo des autres joueurs certes on peut séchanger des animaux avec les zoo des autres joueurs mais ce nest point suffisant à mon goût 
+ manque parfois un peu de liberté dans le placement des allées surtout si lon cherche à créer une belle place autre que rectangulaire
+ zoo au milieu de nul part il nexiste même pas une route relié à notre zoo ou encore un joli parking le décor de fond est sympa mais jaime aussi le réalisme
+ météo parfois capricieuse de la neige en juin et en europe je veux bien mais mes manchot du cap on moins appréciés 
+
+linterface pourrait être améliorer elle reste cependant bonne
+
+#####
+
+jeu vraiment complet autant dans la manière de gérer son zoo visiteurs et staff que dans la gestion des animaux
+
+la construction est un point complexe du jeu qui permet de nombreuses créations incroyables mais qui est aussi assez long à prendre en main pour les nouveaux joueurs vu la diversité de loutil et qui pourrait en rebuter certains
+
+quelques petits bugs parci parlà tels que certains animaux aquatiques qui peuvent passer à travers des murs denclos si leau est trop profonde ainsi des chemins que ne peuvent se rejoindre alors quils sont lun en face de lautre
+
+malgré ces points le jeu reste vraiment agréable et est très bien réalisé il y a beaucoup à découvrir et à faire il pourra vous occuper de nombreuses heures sans problème 
+
+#####
+
+très très bon jeu avec une infinité de possibilités de construction énormément danimaux  on peut construire des restaurants des boutiques et même des vivariums 
+
+#####
+
+si on aime les jeux de gestion et les animaux ce jeu est incroyable en plus il est incroyablement beau mais il faut un bon pc pour le faire tourner 
+des que je le lance je peux y passer des heures sans men rendre compte 
+je recommande
+
+#####
+
+ magnifique
+ gameplay intéréssant
+ gestion au top
+ quelques problèmes dinstabilité
+ patch correctif très complets 
+ community managers à lécoute 
+ gestion des animaux au top 
+
+#####
+
+bonjour 
+
+jai joué une dizaine dheures au jeu et donc je nai pas vu lensemble des possibilités que celuici offre cependant il mest possible de donner un avis bien que dautres critiques seront sûrement nettement plus objectif que la mienne
+
+en fait depuis la sortie officielle ce jeu me faisait des yeux doux puis un jour jétais prêt à essayer dautres choses quelque chose de légèrement plus corsée en terme de difficulté et donc planet zoo me semblait le jeu idéal
+
+je nai pas été déçu concernant ce point car ce jeu est vraiment à lextrême opposé de jurassic world evolution cestàdire que le nombre de possibilités est nettement plus élevé cependant trop cest comme pas assez en fait la quantité déléments à prendre en compte rend lexpérience frustrante non pas à cause de la difficulté mais de lergonomie des menus absolument atroce on sy perd totalement bien que selon moi la thématique du jeu aurait dû apporter quelque chose de pratique et confortable ils envisagent une sortie console sachezle un jeu ayant pour titre planet zoo nattira pas uniquement les pros et habitués des jeux de gestion alors ne blâmez pas les néophytes de sintéresser à ce jeu on viendra pas me dire que planet zoo était destiné uniquement à ce public de progamers comme ont entend souvent pour dark souls 
+
+en fait cest ma passion pour le monde animal qui ma fait sauté le pas puis jétais certain et ce après plusieurs recherches et visionnages du jeu sur youtube que jallais pouvoir madapter au système de construction que le jeu propose cependant ce nest pas le cas en plus nattendez pas de laide des développeurs aucune mission tutoriel concernant les possibilités quoffre loutil de construction en fait il faut se référer à des guides en ligne ou vidéo mais de mon point de vue ce nest pas à la communauté denseigner puisque ces enseignements devraient être intégrés dans le jeu heureusement la communauté est très présente sur steam mais surtout dans la langue de shakespeare 
+
+jaimerais revenir sur laspect construction car lessentiel du jeu est là ne vous attendez pas à une myriade de bâtiments préconstruits car les développeurs proposent très peu de contenu préfabriqué  encore une fois tout repose sur la communauté et par chance le workshop est extrêmement bien fourni sauf quencore une fois cest demander à la communauté de faire une partie du travail des développeurs avec une sortie console envisagée ils sont mieux de proposer un équivalent au workshop de steam car sinon ça va être la catastrophe 
+
+puis en toute honnêteté loutil de construction est assez médiocre certes il propose énormément de possibilités mais audelà de limagination il faut surtout saccrocher car les premières tentatives ne permettent pas de construire quelque chose de probant à linverse de loutil des sims toutes versions confondues ce dernier même si vous êtes un constructeur médiocre permet de concevoir des belles choses malgré tout je pense que le jeu aurait bénéficié de différents niveaux de difficulté pour la construction afin de permettre aux débutants moi comme aux médiocres de larchitecture moi de proposer un produit satisfaisant ainsi même un débutant aurait pris du plaisir 
+
+cest vraiment dommage car les animaux sont merveilleusement bien animés et agréable à regarder en fait je ne sais pas trop quoi penser car le jeu semble très bien sur plusieurs aspects mais me déplaît sur dautres je ne dois pas être le public concerné en fait je voulais un zoo tycoon 2 cestàdire quelque chose de profond mais facile daccès ici rien nest facile daccès 
+
+dernière chose le mode franchise est une catastrophe étant donné que vous êtes toujours en ligne dans ce mode alors vous êtes soumis aux aléas de linternet les menus et boutons nobéissent pas puis parfois on perd carrément le contrôle de la caméra cest bien de proposer un format multijoueurs dans un jeu de gestion après il faut que ça soit bien fait 
+
+je vais sûrement rejouer au jeu mais avec du recul ce nétait pas lidéal que javais en tête 
+
+cordialement 
+
+bousier de verdun
+
+
+
+#####
+
+complet détaillé dlc parfois un peu chers dommage de devoir payer non seulement pour des animaux mais aussi pour des objets de construction et autres pièces de décoration mais cest comme ça que le jeuvidéo fonctionne aujourdhui
+je recommande
+
+#####
+
+excellent jeu 
+merci frontier 
+et un gros merci aussi à tous les builders de la communauté pour leurs partages
+effectivement si le coté construction à la roller coaster vous effraie pas de problèmes 
+il y a tellement de monde qui créé et partage des constructions que vous trouverez
+forcément votre bonheur sans pour autant passer des heures à vous demander 
+comment construire vos prochaine toilettes  op
+bon jeu à tous
+
+#####
+
+beaucoup trop de bug depuis 2 semaines mon jeu plante sans arrêt le nom des visiteurs ne saffiche pas dois cliquer plusieurs fois sur les choses affin de les prendre cest vraiment désagréable   quand estce que le problème sera réglé  jenvoie des rapports derreur plusieurs fois par connections mais je ne vois aucun changement
+
+#####
+
+il est superles animaux sont asser réalisteles personnes qui aime les animaux et la gestionc est le jeu qu il vous faut
+
+#####
+
+points posititfs  tout
+ graphismes ouf 
+ posibilités enormes
+ realiste
+ complet
+ juste trop bien
+
+points negatifs  gourmant en performances et lourd à installer mais ca en vaut la peine
+
+#####
+
+to be fast and clear  
+
+ do you like to manage a huge park with dozens of animals to take care and lot of money to make with shops 
+ do you like to build awesome structure with various continents designs with a great and easy gfx engine 
+ do you like to make rising tons of species in your park and release some in deep nature 
+ do you like to fulfill several challenges in order to increase your skills and reputation as zoo manager 
+ do you still get a life 
+
+if the answer to these 5 questions is yes  try this game and you will spend 300h on making awesome exhibits for your favorites animals 
+
+it just become one of my prefered game after ive reached to get all achievements there
+
+enjoy  and tyvm frontier 
+
+#####
+
+un excellent jeu de gestion
+etant un grand fan du premier roller coaster tycoon jai retrouvé toute laddiction que je pouvais avoir pour ce genre de jeux on a envie de perfectionner son zoo de voir tous les animaux sépanouir de leur construire les plus beaux habitats et surtout darriver à gérer le fonctionnement de tout ce petit monde employés compris 
+
+le jeu nest pas évident à prendre en main au départ mais en gardant patience et en effectuant le mode carrière tutoriel pour les premiers niveaux on assimile petit à petit tous les éléments nécessaire pour notre future progression 
+laspect finance peut sembler très compliqué mais à mon sens seul le début est difficile il ne faut pas hésiter à emprunter à construire 2 à 3 habitats avec quelques vivariums pour attirer du monde et revendre les animaux en trop à mettre à disposition quelques boutiques et à limiter le nombre demployés dès quun équilibre est atteint la gestion deviendra beaucoup plus simple et les bénéfices vont croître de façon exponentielle 
+
+le seul gros défaut que jai pu constater notamment sur les zoos franchisés très avancés ce sont les ralentissements liés au trop grand nombre de visiteurs mauvaise optimisation des ressources du jeu je présume ces ralentissements ne sont malheureusement pas diminués en abaissant la qualité graphique je nai pas vraiment trouvé de solutions à ce problème mon zoo franchisé tourne donc au ralenti avec un lag constant ce qui est très frustrant
+
+#####
+
+super graphisme possibilité de construction infinie rien à dire cest un régal
+
+#####
+
+bon jeux réaliste
+
+#####
+
+jadore ce jeu mais je ne peux pas profiter car les serveurs bug et me font quitter ma franchises toutes les 5 minutes
+jespère que ce problème sera réglé rapidement
+
+#####
+
+excellent graphiquement mais de nombreux problèmes comme lergonomie abominable des chemins faire un simple terrasse sans trous prend la journée et dautre bug comme celui qui fais que les soigneurs ne donne pas à manger au animaux et que ces dernier meurent de faim en permanence rend le jeux un peu frustrant
+
+#####
+
+le comportement des animaux est bon la personnalisation est complète la gestion est complète et complexe et vous narriverez pas à prendre en main le jeu du premier coup cest un grand oui pour moi
+
+#####
+
+je pensais que jallais avoir une copie de planet coaster version zoo mais pas du tout le jeu est très innovant est vraiment prenant je reprend goût à la gestion  jattends déjà de voir les prochains animaux disponible jai hâte 
+
+#####
+
+beaucoup trop de bugs pour être appréciable actuellement comme les soigneurs qui rentrent dans un enclos sans mettre à manger laissant les animaux mourir de faim
+
+#####
+
+cest un jeu vraiment sympa et tout public vraiment intéressant voir même éducatif cependant beaucoup de bug encore présent et daction à répété qui pourrais être éviter  pour les clôtures ou encore pour la séléction danimaux dans le mode échange  énormément de bug notamment en ce moment le jeu qui freeze et qui ce coupe cest pas fun un systéme de sauvegarde automatique serais pas mal aussi du coup dans ce genre de cas  jespére en tout cas que ce bug sera vite corriger  sinon le jeu est vraiment sympa et je le conseil à tout amateur danimaux ainsi que de jeu de gestion vous ne dépenserais pas votre argent inutilement au vu du nombre de chose à faire et de temps que lon peut passer dessus
+
+#####
+
+très beau jeu beaucoup de possibilités de construction un système de partage via le workshop intéressant même si je nai pas encore énormément joué ca fait plaisir de rejouer à un jeu type zoo tycoon auquel javais énormément joué plus jeune
+
+#####
+
+interface pas toujours intuitive et multiplication des actions pour réaliser une tache notamment en construction
+
+#####
+
+cest le meilleur jeu de cette catégorie
+
+#####
+
+la prise en main est franchement pas simple mais une fois compris le jeux est sympa 
+
+#####
+
+beaucoup de contenu de base et additionnel possibilité de créer nimporte quoi
+peutêtre que le but datteindre les 5 étoiles nest pas assez poussé cest très facilement atteignable donc peu de but vraiment précis hors zoo carrière  zoo campagne
+très bon jeu je pense
+
+
+#####
+
+une expérience poussée au maximum une qualité graphique et gameplay
+
+#####
+
+le jeu est top on joue en famille
+
+#####
+
+le jeu en luimême est très bien réalisé beaucoup de possibilité dans la construction et laménagement de son parc et de ses enclos on regrettera peut être un petit manque danimaux communs doiseaux ou danimaux aquatiques jimagine quils viendront par la suite dans des ajouts de contenus qui seront je lespère en partie gratuits même si je pense que cest un doux rêve
+
+mais la raison pour laquelle je lui mets un avis négatif aujourdhui 112019 cest quil y a encore beaucoup trop de bug et crash qui viennent pourrir lexpérience de jeu je vais citer notamment les 2 plus embêtants pour moi à lheure actuelle 
+  le marché des animaux qui est un vrai calvaire les filtres marchent une fois sur deux les animaux ne sont pas triés en ordre alphabétique il arrive que lorsquon change de page les animaux ne soient plus sélectionnables il est souvent nécessaire de fermer le marché et de louvrir à nouveau en remettant les filtres quand il bug du coup on passe un temps fou sur cet outil alors quon devrait trouver notre bonheur en 2min 
+  les crashs après avoir jouer un peu plus de 6h je répertorie déjà une dizaine de crashs je ne fais jamais la même chose donc cest encore plus étrange parfois je construis parfois je cherche des animaux une fois jessaie même de simplement lancer ma partie
+
+bref je ne sais pas si je suis le seul dans ce cas sinon vous savez à quoi vous attendre si vous lacheter en létat jespère que des mises à jour viendront très bientôt régler tout ça je ne manquerai pas alors de lui donner la recommandation quil mérite
+
+#####
+
+je place une évaluation négative pas parce que le jeu est mauvais ou quil manque de qualité mais parce que sa finition nest pas acceptable
+après planet coaster et jurassic park world cest le dernier jeu de frontier developments que je prends day one
+
+je ne reviens pas sur ses qualités vous allez trouver des dizaines déval qui vont vous les expliquer le défaut rédhibitoire qui vous sautera aux yeux dès que vous partirez dans le mode bac à sable cest tout dabord à cause des déconnexion régulière des serveurs qui ont pour conséquence de mettre votre partie en pause le temps que vous vous reconnectiez
+
+non ma connexion web nest pas en cause cest bien du coté serveur que le soucis se pose
+alors que frontier development semble avoir trouvé le juste équilibre entre gestion et construction ils réussissent à saboter le travail avec cette satanée connexion obligatoire qui nous pourrit lexperience de jeu
+
+le système déchange danimaux y est étroitement lié et cest la pire idée quils ont pu avoir
+laissezmoi comme dans jp découvrir les animaux par des expéditions scientifique si vous me laissez aux mains de la communauté fatalement le loot des espèce devient fade et saoulant
+
+au delà de ça tout devient lent le jeu charge en permanence les listes danimaux disponibles online et quand on ne passe pas son temps à attendre la reconnexion aux serveurs on passe son temps à faire du refresh en espèrant que lespèce que nous voulons dans notre zoo apparaissent
+
+chaque action est lente compliquée la charge sur le cpu  gpu est horrible franchement  jen attendais beaucoup mieux
+
+
+ mise à jour 181119 39h de jeux au total 
+
+le mode franchise est toujours aussi catastrophique cest pourtant pour moi ce qui aurait du être le coeur du jeu passez votre chemin sous peine de frustration continue
+
+#####
+
+déja incontournable 
+
+#####
+
+très bon jeu mais trop de bugs au niveau déchange danimaux ou des bugs de déconnexion désolé mais ça passe pas ce sont les mêmes que lors de la béta
+
+#####
+
+superbe jeu  je ne regrette pas mon achat  graphisme top  gameplay top 
+le jeu quon attendait depuis zoo tycoon  
+vivement lajout doiseau  animaux marin etc 
+jaimerais aussi voir des spectacles 
+
+#####
+
+ce jeu est excellent si vous voulez vous relaxer il est magnifique les animaux sont bien reproduis cest une vraie merveille pour les yeux 
+
+#####
+
+cest un zoo tycoon version super avancée tellement de paramètres à gérer en même temps trop trop bien pour les amateurs de simulation complexes
+
+#####
+
+un nombre incroyable danimaux adorables et aux besoins spécifiques que vous devez bichonner dans un environnement ultra organique
+des outils de construction illimités pour créer les enclos de vos rêves
+une macrogestion accessible boostée par tout un tas de petites mécaniques très astucieuses richement agrémentée dune microgestion fourmillante de détails pour le plaisir de tout contrôler je nai effleuré ici que la surface il existe aussi par exemple tout un système damélioration de vos employés entre beaucoup dautres choses
+du nouveau contenu régulier qui embellit et enrichit lexpérience de jeu pour constituer un univers toujours plus foisonnant
+un musthave absolu
+cest pas tout ça mais jai des alligators à nourrir bisous
+
+#####
+
+jeux super je vais juste parler des points négatifs parce que le jeux est quand même rempli de bug
+le truc qui me rend dingue cest les lags sur le marché des animaux en mode franchise tu cliques comme un boeuf sur ta souris pour espérer valider quelque chose
+le placement des chemins qui nest pas ergonomique du tout et cest même super pénible vraiment mal foutu leur truc
+les animaux vieillissent trop vite on passe son temps à les remplacer
+et enfin lattraction locomotive pour circuler dans le parc qui est complétement beugué la moindre modification sur les paramètres les visiteurs ne montent plus dedans on ne peut plus modifier le nombre de voitures etc etc
+autrement cest beau jaime les animaux le jeux est fabuleux pour ceux qui aiment le genre mais les problèmes cités plus haut surtout les lags dans le marché pourrait me faire arrêter le jeux tellement ça rend complétement fou
+jespère vraiment que les développeurs vont se pencher làdessus et trouver une solution
+
+#####
+
+le jeu est juste génial jai toutes les extensions et franchement il est complet
+
+#####
+
+jadoreeeeeeeeeeeeeee
+
+#####
+
+le jeu est super grande diversité de choses pour créer ce que lon veut je recommande
+
+#####
+
+super jeu avec de beaux graphismes jeu de gestion et de construction la prise en main est un peu compliquée au début pour tout ce qui est construction mais avec un peu dentraînement tout va bien
+
+il y a quelques bugs cependant mais il y a très régulièrement des mises à jour pour régler ces petits soucis
+
+et attention aussi cest un gros jeu donc il faut avoir un ordi assez récent et assez costaud pour pouvoir faire tourner le jeu 
+
+#####
+
+bon jeu mais assez compliqué a prendre en main 
+
+#####
+
+planetzoo est un bon jeu assez difficile à prendre en main surtout pour les batiments et leur décoration je nai jouer quune petite partie de lhistoire mais en mode franchise je peux vous dires que je suis en train de créer des zoo moche certes mais la biodiversité est totale je passe de lafrique à lasie puis vers la conquete de lamérique premier point négatif dailleurs mais pas très grave car les dlc peuvent y remedié au départ je voulais faire chaque espèce de chaque continent du coups je commence par lafrique  je conseille de prendre les animaux dafrique pour commencer les autruchessangliers et hyppogratte noir vont vous aidez à avoir des points franchise bref tout ce passe bien et vue la biodiversité je nai pas su tout faire mais lenvie davoir un grizzly ma faite ouvrir un zoo en amérique du nord surprise que quelque espèce qui ce compte sur le doigt de la main sur ce continent bon cest pas grave je vais faire les espèces damérique avec des espèces pour mon futur zoo en asie il ny a quune forte biodiversitée disponible en afrique et asie
+
+vient les bugs incésent du marché il faut longtemps avant davoir lanimal que vous avez vue au prix bas les prix élever ne me dérange pas mais élever sans abus je comprend que certaine espèce sont plus rares dans le marcher et donc augmenter les prix mais arriver aux 1000 pour un simple bison damérique haha non sauf si évidemment cest un bison doréargenté les prix de base au dessus de 1000 existe par contre mais je pense que le joueur va trouver sa abusif car mon lion dafrique doré a 1200  de base ne se vend pas snif snif
+
+bref a chaque début de zoo en franchise il est difficile de ne pas être dans le négatif dans les fameux dollars il faut alors attendreattendre 
+
+pour les ia je trouve que les soigneurs sont un peu lent à mon goût mais par rapport aux anciennes mises à jour les soigneurs nourrissent de petit enclos
+dans mon zoo en afrique jai voulu mettre toute les espèces qui sapprécient ensemble pour leur faire plein de calins et les voir gambader jusquà ce quun gnou noir te percute bref je met tout le monde dans un grand endroit creuser par mes soins je créer leur biotope parfait je met des route surélevée pour que les visiteurs les voies sans se faire écraser résultat mes soigneurs et animaux sont morts   enfin mes soigneurs étaient mort de fatique car vous imaginez remplir toute les gamelles et ramasser toute ces magnifiques bouses sur une superficie énorme je me suis dit pourquoi ils ne se partagent pas la tache vue que jai plusieurs espècesmais je pense que cest trop compliquer à faire donc je conseille de mettre 2 espèces maximum dans un enclos long et pas large
+
+passons aux enclos les enclos doivent être plus long que large  3 barrières max pour le large sauf pour les éléphants si vous faites trop large les animaux risques de ne pas être vue par ces visiteurs qui ne sont jamais content si vous faites comme moi vous aurez moins de problème et une meilleure réputation
+pour les clotures je trouve que ce nest pas assez il y en a trop peu et pas assez adapter mais il ny en a pas 10k non plus mais là grande fan des ours que je suis jattends patiemment dans mon zoo en déficit que mes ateliers découvrent les clotures à résistance 6 et électrique avant de mendeté pour juste avoir des ours  
+
+bref saviez vous que vous pouvez renommer vos animaux je renomme que mes males avec des 1234 pour la reproduction et ne pas mélanger les générations mais parfois un bug fait quil renomme en même temps dautre animaux et donc la consanguinité est de mise
+mais ce nest pas grave jai regarder et les statistiques des animaux ne baissent pas si cest de la consanguinité 
+
+par contre quelque chose mennuie je comprend que les animaux alpha beta se battent pour avoir leur statut pour la reproduction mais pourquoi la notification est en rougeje trouve que cest normal et quelle devrait plutot être en orange car oui je sais que les animaux peuvent être blesser et donc dangereuxmais jaime aussi voir la nature opérerun autre problème dans les notifications cest que lon mélange problème de bien être de animaux avec les notifications de problèmes de cloturessaleté il faut donc scroller jusquà voir quen fait 2 enclos se sont effondrer et quune surpopulation de tigre est présente
+
+
+pour les plantes cest le seul truc que je gère ton parc est mochemet des plantes pour tout cachertes routes ne sont pas droite met des plantes    on voit trop tes locaux du personnelmet des plantestes enclos sont moche met bon vous avez compris hein
+
+
+bref je pense que cest tout pour linstant je nai pas encore tester les attractions sur rail mais cela serait très pratique surtout pour les enclos ou les visiteurs peuvent entrer car souvent les animaux sont très vite stresser surtout quand notre zoo accueille 7k de visiteurs et que les enclos ouvert sont sur leur première route
+
+
+bon voilà je me suis pas relue parceque cest long donc on juge pas hein
+
+
+#####
+
+je recommande planet zoo  car jattendais un jeu qui soit le digne héritier de zoo tycoon il a le potentiel pour le devenir je maîtrise pas encore tout le jeu mais il est vraiment intéressant pour plusieurs raisons
+
+ la possibilité de faire des zoos uniques du plan de lallée à un enclos très développé et des services visiteurs personnalisés à volonté
+
+le réalisme des animaux dans leur comportement le fait que leur note dattrait puisse évoluer selon les générations qui passent dans votre zoo
+
+ le système de recherches mise en place pour les animaux les maladies et les recherches mécaniques pour développer le zoo
+
+ les exigences des visiteurs concernant leur besoin en nourriture soif éducation et repos tout comme les employés
+
+ la possibilité de faire des safaris pour vos visiteurs et faire le tracé du trajet
+
+les scénarios du mode carrière sont vraiment intéressants
+
+je note quelques points négatifs cependant mais cela ne retire rien à mon avis positif
+
+ le placement de certains objets qui peut être compliqué avec les niveaux de terrain
+
+ la communauté du mode franchise qui par moment abuse du prix des animaux concernant les crédits de conservation jentends quil existe un marché et un inflation et quand je vois des animaux coûtant 6000 
+
+
+voici mon évaluation de planet zoo
+
+#####
+
+bonjour après une petit centaines dheures de jeu je poste mon avis  tout dabord se jeu est géniale lun des meilleures jeux de gestion pour moi personnellement et si on est fan danimaux il est top  il est très beau très bien pensé je le recommande vivement mais il y a des petites choses moins cool  déjà il faut avoir une très bonne connexion et une bonne config pour bien le faire tourner sinon vous allez avoir énormément de lag  et ensuite le point le plus négatif pour moi qui jespère va être vite réglé sinon malheureusement je ny jouerais plus cest les begs du centre déchange danimaux  par pitié faite quelque chose  impossible parfois de transféré mes animaux dans les habitats ou alors dacheter des nouveaux animaux et ça  ça enlève tout le charme du jeu et cest lune des raisons qui me pousse à ne plus jouer en se moment  
+
+#####
+
+jeu génial plein de possibilité créatif
+
+#####
+
+super jeux on peut y passer des heures et des heures
+
+#####
+
+1695h  update 1 an plus tard je suis à 2695h de jeu pour le moment jaime bien  jaime toujours  peutêtre que si javais plus dheure sur le jeu je pourrais donner un avis plus constructif  je pense quil me manque encore quelques heures mais faut laisser un peu de temps à ce genre de petite boîte pour voir leur valeur y a encore des dlcs qui doivent sortir attendons en tout cas pour le moment je dirais oui le moi du futur est daccord avec le moi du passé pour le moment cest oui
+
+#####
+
+toujours 1010 
+après les scenarri je créé mon zoo de a à z en bac à sable après toute la zone africaine je suis sur la zone asie
+il y a tellement de possibilités et de choses à faire
+le moindre détail compte 10000 objets posés  pour le moment  faire des clôtures des cascades des dômes de beaux bâtiments etcet bien sûr ne pas oublier la gestion ce serait dommage de ne pas soccuper des animaux correctement élément fondamental du jeu
+j attends donc plus dobjets à venir pour développer encore mon imagination
+bravo pour ce jeu
+
+#####
+
+très bon jeu prenant on ne voit pas le temps passer quand on y joue
+très complet et visuellement agréable
+
+#####
+
+super jeux
+
+#####
+
+gestion animaux culture sur les animaux harmonie détente
+
+#####
+
+trop de putain de bug sauvegarde perdues plantage en plein jeux on a connu mieux comme sortie
+
+#####
+
+ce jeux est trés bien je vous le conseils 
+
+#####
+
+magnifique très bien conçu prise en main rapide plaisir infinis
+
+#####
+
+pour ma part je suis déçu on est la encore une fois dans un jeu de construction et non de gestion tout comme planet coaster
+il faut avant de pouvoir profiter du coté gestion passer des heures à construire la moindre clôture le moindre buisson et avec un systeme de construction mal fichu on sénerve on galère car la jouabilité pour faire tout ça est mal pensé ce qui naide pas a faire passer la pilule de la construction a outrance
+
+#####
+
+planet zoo est bien plus quun simple jeu de gestion de parc animalier  jen suis totalement dingue une expérience immersive qui sait capturer la beauté et la diversité de la faune et la flore mondiale une gestion captivante est très poussé de son parc est proposé en mode franchise le mode bac à sable vous permettra de laisser votre créativité sexprimer
+
+les graphismes sont magnifiques et le rendu des textures est réellement intéressant et agréable à regarder le mode photo permet dobtenir des images dun réalisme époustouflants les nombreuses mise à jours et les dlc apportent tous de la fraîcheur au jeu de base et des contenus et fonctionnalités complémentaires non négligeables
+
+la variété des animaux proposé est énorme et jai appris beaucoup sur certaines espèces voir découvert dautres grâce à la zoopédie du jeu
+
+construire et gérer un parc animalier demande une planification minutieuse une attention aux besoins des animaux et une gestion efficace des ressources les nombreuses options de personnalisation permettent aux joueurs de créer des habitats uniques et doffrir des expériences enrichissantes aux visiteurs de leur parc
+la bande son contribue à limmersion dans le jeu avec des bruits danimaux réalistes et des musiques dambiance apaisantes cependant une plus grande variété de pistes musicales pourrait améliorer lexpérience et éviter une éventuelle monotonie
+
+avec une aussi grande variété danimaux de défis de gestion dobjets de constructions et une communauté active qui propose des blueprint sur le workshop le jeu propose une rejouabilité quasi inépuisable
+
+planet zoo est pour moi un chefdoeuvre de gestionsimulation et saura ravir les amoureux du genre ainsi que des animaux et de la nature
+
+#####
+
+jeu de gestion absolument génial très complet et joli
+
+#####
+
+jolie jeu
+
+#####
+
+la force de planet zoo réside dans le fait que chaque joueur peut y trouver son compte  les amateurs de gestion seront servis avec des possibilités complexes et les créateurs en auront pour leur argent car les possibilités de constructions sont quasiment infinies  je recommande à 200 ce jeu sur lequel vous pourrez passez des centaines dheures
+
+#####
+
+très complet en matière de gestion similaire à planet coaster et sensibilisation à la sauvegarde des espèces vulnérables
+
+#####
+
+une expérience agréable un jeu chill et adorable si vous appréciez les jeux de construction et gestion je ne peux que le conseiller
+
+#####
+
+incroyable 
+
+
+#####
+
+je savais pas que pour jouer à un jeu fallait un bac 10
+mais franchement une fois le jeu en main les heures passent vite
+
+#####
+
+tellement à faire et à découvrir seule bémole la gestion des déchets que je ne comprend pas jai pourtant mis des poubelles partout et jai au moins 5 agent dentretien en début pour 5 enclos
+
+#####
+
+tout simplement le meilleur jeu de gestion de zoo graphismes superbes animations réussies possibilités infinies petit bémol si on est pas un génie créatif le côté bac à sable incroyablement permissif et vaste peut donner un sentiment de submersion heureusement le workshop est là pour soit trouver des plans prêts à lemploi soit donner des idées et de linspiration
+
+#####
+
+comme planet coaster mais avec un zoo  ce qui est super cool 
+vous allez pouvoir créer votre zoo de rien ou en reprendre un dans le mode franchise 
+une bonne sélection danimaux qui se multiplie avec les dlc nombreux mais cher 10e 
+la gestion de base est complète avec le bien être des animaux et celui des spectateurs puis la gestion ce fera sur lemplacement les saisons et la reproduction
+cest un très bon jeu avec des animaux divers et variés ils nont pas oublié les petits aussi vous aurez toutes sortes dinsecte de reptile et daraignées  
+la possibilité de créer ses propres bâtiments enclos et autres est un réel plus très agréable jeu complet et qui mérite votre attention si vous êtes intéressés par le genre
+
+#####
+
+jeu très réaliste gestion totale du parc je conseille
+
+#####
+
+jeu sympas a jouer 
+
+#####
+
+ce jeu est une pur pépite si vous avez du goût de la patience et un brin dimagination  foncez
+meilleur achat steam et de très loin
+
+#####
+
+fou
+
+#####
+
+un jeu de gestion de zoo aux graphismes sublimes  cest sûrement le très gros points fort de planet zoo qui offre par ailleurs un système de gestion vraiment très poussé et intéressant 
+japprécie beaucoup le fait de devoir gérer aussi bien le bienêtre des animaux que des visiteurs et des employés
+pour les fans de personnalisation les possibilités semblent infinies quant à la création dobjetslieuxdécors de quoi peutêtre un peu décourager ceux moins adroits patients et créatifs dans ce domaine qui se contenteront des designs proposés dans le jeu ou sur le workshop
+petit bémol forcément plus le zoo est grand plus ça rame alors peutêtre quil faudra plutôt samuser sur des espaces plus restreints et créer plusieurs zoos que de vouloir absolument tout mettre sur une partie
+
+#####
+
+most complete and amazing zoo management game constructions and paths take a little time to be manages properly but after that you can create whatever you dreamed for your animals and guests
+
+#####
+
+jaime avoir la gestion complète du zoo gérer son équipe gérer les animaux cela paraît plus réaliste le graphisme est top les éléments de décoration sont top aussi
+
+#####
+
+un fantastique planet zoo étant un mordu de constructionpossibilité infini et en plus grafiquement beau
+animation genialevraiment top
+
+une merveille de jeux 
+
+#####
+
+cela fait déjà un moment que je me tâte le saucisson pour savoir si je met un avis positif ou négatif mais après moult et moult réflexion sur planet zoo mon avis sera négatif je mexplique
+
+planet zoo est un jeu super qui sort du lot de tous les jeux qui sont sortis ces dernières années mais car il y a toujours un mais pleins de petits bug accumulés vont vous faire sortir le saucisson de la bouche entre vos soigneurs qui sont débordés de remplir deux enclos qui contiens un mangeoire chacun la clôture aussi fragile que les iphones le vétérinaire et le mécanicien lorsquils font une recherche ne soccupent plus du tout des enclos les chutes de fps lorsque vous avez un peu trop de visiteurs vos singes marsupilami qui vont se téléporter dune bûche à une autre en faisant un saut de 10m les visiteurs qui distinguent mal les animaux alors quils sont à 2m devant eux mais ils voient très bien avec un rocher devant leurs yeux les dlc abusifs dès la sortie du jeu jai aussi remarqué que ma note de parc ne baissait pas car jai voulu recommencer mon zoo et ma note de préservation étoile des animaux etc ne bouger pas du tout les besoins des visiteurs qui sont juste buger aussi car leur besoin en toilette est vert alors que jai aucun toilette de plus sa fait 4 jours qui tournaient en rond dans mon parc sans le quitté o_o les visiteurs ne quitteront jamais votre parc lorsque vous limitez le nombre de visiteurs il y a des choses vraiment que je ne comprends pas la bouffe aussi qui se périme en 10 minutes cest abusé certes le jeu est bon les graphismes sont bons le concept est bon mais bien évidemment encore un mais le concept du vous pouvez vendre vos animaux à dautres personnes en lignes daccord cest intéressant mais cest beaucoup trop mal fait le filtre marche une fois sur 2 problème de connexion problème dactualisation le jeu vaut un bon 30e sans hésiter mais pas 45e à son état actuel et cest bien dommage je continuerai à jouer mais mon avis restera négatif je le mettrai à jour au fur et à mesure  malheureusement la politique de frontier est vraiment basé sur la thune le jeu à déjà un dlc  un upgrade deluxe alors que le jeu contient des bugs flagrants et les dlc le nom approprié serait addon sont très très maigres en contenu
+je vous le conseille en promo sans hésiter mais attention à la config de votre pc 
+
+
+
+
+#####
+
+points positifs 
+
+ bon jeu de gestion dans la lignée de planet coster 
+ possibilité de laisser libre court à son imagination pour le design des enclos et du parc avec la possibilité de recréer des thèmes
+ grande diversités despèces
+
+points négatifs 
+
+ très très mal optimisé  comme planet coster dès le palier des 1000 visiteurs atteint le jeu commence à ramer impossible de travailler sur les chemins de bouger la caméra librement etc
+
+#####
+
+impressionnant autant pour la construction que pour la gestion du parc dommage le peu danimaux dans les dlc mais sinon rien a redire beau boulot les gars 
+
+#####
+
+jy ai énormément joué malgré les bugs récurrents et les petits défauts de jouabilité mais là au bout dun mois et demi on nous sort déjà un dlc à 10 balles pour 4 animaux  vous êtes sérieux  cest vraiment prendre les joueurs pour des cons cest hallucinant
+
+#####
+
+malgré les quelques  bug encore présent le jeu est juste sublime et fun  je vous le recommande vivement si vous aussi vous avez été élever avec zoo tycoon 
+
+#####
+
+planet zoo est un jeu à la gestion très présente les animaux sont magnifiques et tu peut prendre 10 zoos différents aucun ne sera identiques 
+prévoir une bonne configuration pour y jouer
+
+#####
+
+si vous aimez les être vivants et surtout les petites peluches toutes mimis panda roux  vous serez au ange 3
+cest tellement beau que je reste plusieurs 10ene de minutes à les observer vivres dans les milieux de mes choix et sous les meilleurs conditions possibles
+il y a un grand nombre de chose à faire défi franchise histoire défi communauté avec un service offline si vous navez pas trop de connection
+
+un cadeau ou achat que je peux que recommander  noël approche   
+
+
+
+#####
+
+excellent jeu  les animations sont parfaites le gameplay est correct et les graphismes sont sublimes cependant trop de micro gestion sur les animaux naissances décès surpopulation ratio mâlesfemelles ça va beaucoup trop vite à ce niveaulà
+
+#####
+
+il serait pas mal dans une future maj de pouvoir visiter le zoo et echanger des animaux directement avec ses amis steam  
+sinon jeu au top pour moi 
+
+#####
+
+des bug des bug des bug des bug bug des bug des bug des bug bug des bug des bug des bug bug des bug des bug des bug
+
+impossible de lancer le jeu  depuis 3 jours a la sortie il marché presque bien bon il fallais que je lance le jeu une première  fois  il plante dans le menus  ctrlaltsuppr  relancer le jeu et la sa marche  
+mais depuis 3 jours plus rien impossible de lancer le jeu et jai déja 17h de jeu donc bye bye le remboursement 
+
+vivement les patch
+
+#####
+
+bien que la bêta ait eut ses moments difficiles le jeu reste une perle pour tout les amoureux des animaux et de la gestion ayant terminer le mode campagne qui nest pas de tout repos pas facile du tout mais pas infranchissable non plus je peux poster ma review le jeu est dun réaliste à tout épreuve si vous aimez les animaux et aimez en apprendre plus sur votre espèce favorites nhésitez plus  les besoins sociaux le partage denclos des espèces jusquau nombre de petits par portés est réaliste à son maximum sans pour autant en faire pâtir le gameplay  je ne peux pas parler de cette licence sans vous dire bien sur que la seule limite à votre créativité est votre imagination le nombre de combinaison et création de bâtimentenclos est infini 
+
+point fort 
+ animaux magnifiques animation splendide
+ animaux diversifiés 
+ difficulté pondéré mais bien présente
+ système de reproduction réaliste et pointilleux génétique
+ très peu de lagfreez nvidia
+ type de construction aux possibilités infinis 
+
+point négatif  
+ il y a déjà beaucoup danimaux mais on en veut toujours plus
+ quelques petits bugs minime encore présent nentache en rien le gameplay
+ pas danimaux seulement aquatique dauphin poisson surement prévu comme dlc 
+
+je conseil fortement ce jeu aux amoureux des animaux 
+
+
+#####
+
+le jeu est juste magnifique mais truffés de bug cest un injouable une fois cest le soigneur qui ne viens pas donner à bouffer au animaux une fois cest les visiteurs qui entre dans le zoo et font demi tour 100m plus loin une fois cest les employés qui décident de faire du sur place ou encore des crashs quand je met le jeu en accéléré et plein dautres encore vraiment dommage car le jeu a beaucoup de potentiel jattends avec impatience une maj qui corrigera tout ca
+
+#####
+
+ le jeu de zoo le plus complet sorti à ce jour  top 
+
+#####
+
+havent played a game like this since zoo tycoon first of its name more than happy  
+
+career is fun franchise or challenge franchise but offline is great for management and some spicy challenges sandbox is perfect for when you just wanna make pretty things and chill
+the animal wellfare is the main concern you should have and is really detailed animals are super cute and varied though i hope for many more in dlcs to come  
+you also have an immense freedom when building stuff you can make anything youd like if you put in the time and effort
+
+more than i ever wanted would recommend this game to anyone i just cant stop playing 
+
+#####
+
+omg so good
+
+#####
+
+excellent jeu de gestion le mode franchise est très complet et permet de gérer ses différents zoos grâce au système de création de compagnie
+
+h1 modification 2021 h1
+
+le jeu est bien plus  agréable grâce aux moddeurs qui ont sorti plus de 65 nouvelles espèces danimaux cela comprend des animaux en tout genres que ce soit aquatiques ou terrestres
+
+cependant le jeu reste toujours injouable avec un pc au top une fois que le nombre de visiteurs dépasse les quelques milliers 
+
+30 fps en pause et 10 quand le jeu tourne avec un i7 6900k et 6000 visiteurs dans le parc
+
+les options graphiques ne permettent pas doptimiser cela
+
+h1upoints positifs uh1
+ mode franchise très complet
+ mode sandbox sans prise de tête
+ heatmap pour voir les problèmes dans le zoo
+ elements de gestion tels que 
+   sécurité
+   fatigue selon la grandeur du parc
+   chaleur
+   etc
+ grande variété danimaux
+ énormément de structures qui permettent de créer absolument tout ce qui nous passe par la tête
+ workshop disponible pour les moins créatifs
+ les modèles des animaux sont très réussis
+ quasiment tous les animaux sont disponibles dès le départ pas besoin de jouer des heures pour avoir des lions et autres animaux rares
+
+h1upoints négatifs uh1
+ pas daquariums
+ les dlc ne contiennent que peu danimaux
+ le path tool nest pas top
+ incohérences dans lia
+   ne marchent pas sur des structures type escalier fabriqués soismême
+   détruisent des objets tels que des panneaux solaires
+  la perte de fps quand le zoo est trop grand
+ la perte de fps en avance rapide
+ dépendance assez importante du cpu cpu pas top  injouable
+ léchange danimaux entre joueurs via le marché nest fait que pour le profit
+ animaux beaucoup trop cher en crédits de conservation
+
+#####
+
+si vous aimez les animaux et la gestion ce jeu est fait pour vous  il ya encore quelques soucis mais je suis sur que les mise a jour vont suivre  le jeu est vraiment beau mais manque encore un peu dopti 
+
+#####
+
+super jeux très complet
+
+#####
+
+top
+
+#####
+
+le jeu est bugué à la date de cet avis soit 2 mois après sa sortie les mécaniques de gestion ne sont pas maitrisées loptimisation du moteur graphique laisse à désirer les scénarios sont baclés et le mode franchise nouvelle star du jeu ne fonctionne tout simplement pas
+passez votre chemin et revenez dans un an en attendant rester un planet coaster ou même jurassic world evolution pour ne pas vous fâcher avec frontier
+
+edit 2021  bon le jeu est stable des dlc ont été développés mais beaucoups ne sont que pur case cochées au planning car apportent peu pour leur coût je continu de penser que les développeurs naccorde pas beaucoup de dimportance à cette franchise le mode franchise continue dêtre bugué et les maj post dlc bien sûre  ne répondent pas à grand chose
+bon ma critique est très sévère car frontier sait faire beaucoup mieux et la stratégie de communication commercial me tape sur le système maintenant en terme de jeu de gestion de zoo il reste lun des meilleurs pas beaucoup de concurrence il faut le dire donc un bon jeu de gestion made in lun des meilleurs studio de jeux de gestion mais pas à la hauteur de sa réputation
+
+#####
+
+yes yes les animaux 
+
+#####
+
+que dire comment vous décrire la déception qui fut la mienne quand je me suis sentis obligé darreter de jouer a planet zoo a cause des trop grands problèmes que le jeu vous oppose
+commençons par le positif  
+le jeu est beau la physique des animaux est impresionnante et les textures sont plutôt réussis encore que celles du terrain nont rien dextraordinaire 
+le jeu est complet en tout cas il me semble dans ses propositions de gestion prix des billets des articles qualité de la nourriture pour les animaux aires de travail des employés etc
+vous naimez pas les angles droits  vous voulez que toutes vos allées vos enclos forment de jolis courbes  en ce qui me concerne les personnes qui répondraient oui sont de dangereux malades que lont devrais enfermer mais le jeu à tout prévu pour vous  
+
+voilà pour le positif
+
+pour le reste  
+ce jeu est incroyable il a le don de rendre impossible les choses qui devraient être terriblement simple 
+la gestion des allées est purement ridicule sans plaisanter cest une honte jai passer mon temps à regretter lépoque de zoo tycoon dans lequel de simples carrés rendaient les choses bien plus simple 
+le système dachat des animaux est probablement proche de la réalité une abérration vidéoludique  vous devez attendre que lanimal voulu soit vendu par quelquun aléatoire afin denvisager lacheter en gros  vous voulez faire un enclos de lions  cest dommage seul 2 lions mâles sont disponible et ils ne cohabiteront pas pas de lionnes vous en achetez un et attendez que dautres soient disponible  2 ans ig plus tard  vous nen avez toujours pas trouver  vécu après je peux comprendre le coté réaliste mais dans ce cas comment est il possible quaucune alerte ne soit configurable afin de ne pas avoir à retourner dans le panneau des animaux achetable toutes les 4 minutes temps moyen durant lequel une vente danimal reste active ig estimé par mes soins a 2 min près
+je ne vais pas faire de listes plus longues en gros voila mon avis 
+je suis terriblement déçu par un jeu qui a plus misé sur laspect esthétique de ces petites bestioles je ne sais pas si des gens prennent 5h à construire un zoo pour en suite passé 20h en caméra animale sans rien faire moi pas que les aspects pratique de son jeu
+jattendrai un patch
+
+#####
+
+très bon jeu dommage quil faut payer en plus pour avoir de nouveau animaux car en soit le jeu est déjà chère en lui même
+
+#####
+
+au moment où jécris jen suis à 7h de jeu et franchement je ne peux pas le recommander en létat le jeu a un énorme potentiel  il est très joli il y a beaucoup de choses à faire mais pour linstant la frustration lemporte totalement sur le plaisir de jeu jai ressenti la même chose avec ancestors the humankind odyssey début septembre en cause une interface très très très lourde  ça manque cruellement de fluidité la construction denclos la gestion des allées ou encore des palissade est une plaie abominable laide factuelle est très superficielle en dépit dun mode campagne dirigiste heureusement quil y a de bons tutoriels sur youtube la caméra est insupportable il faudrait clairement intégrer un mode de transparence comme dans divinity où les arbres seffacent pour montrer les éléments de linterface lorsquon fait pivoter la caméra enfin la gestion du cpu toujours à 100 est absurde la physique erratique les effets météos irritants et le pire cest que jai vraiment envie de jouer à ce jeu mais pour linstant cest trop pénible il devrait toujours être en bêta
+edit  après 6 heures de jeu de plus je rencontre de gros bugs dans le zoo que jai construit impossible de nourrir les animaux jai choisi les bonnes mangeoires vérifié que tout était bien fait dans les enclos déterminé des zones de travail mais les soigneurs entrent et ressortent ou nettoient donnent de leau mais ne nourrissent pas mes animaux qui meurent litteralement de faim il est extrêmement frustrant dêtre ainsi impuissant  jappelle des soigneurs jen embauche mais il ny a rien à faire alors que jallais atteindre les 3 étoiles mon zoo dépéri
+jai également pu voir un soigneur flotter passer dans leau puis sous un pont et réapparaître en boucle
+bref de gros gros bugs alors quon aurait tellement envie que cela fonctionne
+
+
+#####
+
+le jeu est sorti le 5112019 le 17122019 un dlc sort à 10 euros pour 4 espèces
+alors parfois un dlc peut être le bienvenu afin dajouter une part non négligeable au gameplay un pan entier une nouvelle façon de jouer mais là à 25 euros lespèce
+le pouce vous vous le mettez bien où je le pense
+
+#####
+
+jeux très sympa pendant la beta  peut être un successeur des tycoons 
+
+#####
+
+ancien fan de zoo tycoon je nai pas retrouvé lamusement qui my faisait passer tant dheures
+le jeu à limage de planet coaster est plutôt concentré architecture et graphismes avant la gestion dun zoo
+
+en effet la partie gestion semble avoir peu dinfluence sur le déroulé du jeu et pour ceux qui nont pas la fibre architecturale passé la découverte des animaux très bien réalisés lennui arrivera jétais millionnaire recherches toutes débloquées animaux en bonne santé en 10 heures de jeu et javais toutdemême des remarques comme quoi le zoo nétait pas assez cher
+
+jai également trouvé loutil de construction plutôt capricieux et surtout aucunement intuitif  difficile dans mon cas dobtenir ce que je souhaitais 
+
+comme son frère planet coaster le jeu semble plutôt orienté puriste que casu dommage car le public jouant à ce type de jeu est justement plutôt casu
+
+#####
+
+très très bon jeu jattendais un successeur digne du premier zoo tycoon et il est là  
+
+#####
+
+honnêtement jai regardé des youtubeurs des avis et tout je me suis laissé tenté et je regrette vraiment 
+
+laspect contruction cest juste un enfer  non lenfer sur terre  sérieusement si vous kiffez mettre 1 petite fleure par 1 petite fleure faire des routes courbées au millimètre près ajuster le niveau de vos cailloux pour quils dépasse de 02cm au lieu de 03cm du sol alors ce jeu est fait pour vous vous pouvez même faire vos propres bâtiments de a à z
+franchement je me suis fait un petit papier mémo des raccourcis clavier du mode de construction on dirait les codes pour lancer ariane 6
+
+après il faut rendre à césar ce qui appartient à césar  laspect mise en avant des espèces comportement des animaux et graphismes cest top si on a du temps à linfini pour construire un zoo on peut vraiment faire des trucs vraiment chouette 
+
+en fait je mattendais à un successeur de zoo tycoon mais là cest trop capillotracté pour moi
+
+#####
+
+bonjour à toutes et tous 
+
+malgré le peu dheures que je possède actuellement je me suis déjà donné un avis sur ce planet zoo 
+cest un jeu de construction simulation et gestion de zoo bien évidemment au vu du titre  la gestion de celuici est relativement complète intuitive et donc facile à prendre en main si vous avez du mal à vous y repérer faites en premier lieu les tutoriels cela vous aidera énormément 
+le peu de temps que jy ai passé je peux vous assurer que cest un pure et réel plaisir dy jouer à ce jeu il est vraiment top prenant beau graphiquement et surtout il existe un immense choix de constructions danimaux  sans oublier les dlc qui sont plus quabordable au niveau du prix et ça cest un gros point positif
+si vous aimez les jeux de gestion les animaux et bien sûr la construction de ton parc de tes rêves comme on pouvait le faire sur planet coaster alors foncez les yeux fermés parce que ce jeu est fait pour vous  
+sur ce je retourne jouer à ce planet zoo  
+
+enjoyyyy
+
+#####
+
+cool
+
+#####
+
+bonjour
+jadore ce jeu  soccuper des animaux et essayer daméliorer leur bien être en bâtissant construisant  est très agréable   on ne voit pas le temps passer tellement cest addictif   vraiment un super jeu  je ne vois rien de négatif à dire  jai souvent ramé mais sans doute comme dautres et quand je vois les merveilles de zoos que certains ont faits ça mépatevoilà bonne journée
+
+#####
+
+très complet très addictif les effets et graphismes sont beaux mais pensez à avoir une carte graphique qui suit je recommande largement  un magnifique mix de créativité tirée de planet coaster et de minutie de gestion de jurassic world evolution une conception réussie  vivement les corrections des quelques bugs de lancement notamment en franchise
+
+#####
+
+planet zoo est un jeu adorable et rafraîchissant offrant aux joueuses et joueurs de créer et gérer le parc animalier de leurs rêves les animaux sont extrêmement bien modélisés et attachants et on prend réellement plaisir à les admirer vaquer à leurs occupations réaliste le jeu offre aussi une encyclopédie très complète qui fourmille dinformations sur nos adorables  pensionnaires
+
+laspect gestion du jeu est également très développé car outre les soins aux pensionnaires du parc il faudra aussi gérer linfrastructure et laspect commercial pour attirer des visiteurs 
+
+malheureusement la prise en main du jeu est très compliquée en mode éditeur le gameplay se révèle très imprécis peu clair et souvent on ne comprend pas pourquoi on ne peut pas construire à tel ou tel endroit ou pourquoi il ny a pas moyen de faire la jonction entre deux allées du zoo de même édifier des murs ou barrières se révèle complexe tant la prise en main est confuse 
+
+un jeu extrêmement attachant donc mais au gameplay partiellement raté
+
+#####
+
+estce un problème dambitions des développeurs mais lextrême richesse du jeu ne suffit pas à faire oublier son injouabilité les bugs en plus de ceux de texture traversée de clôtures visiteurs fusionnés  et en particulier ceux liés à lactivités des employés 
+soigneurs ne nourrissant pas les animaux  ils entrent dans lenclos pour en ressortir immédiatement conduisent à la mort de tous les animaux
+employés affectés à une zone mais dont la fiche annonce quil ne sont pas affectés 
+rendent le jeu injouable
+
+je pourrais allonger la liste des défauts
+
+il me semble que ce jeu doit être fini il le mérite
+
+#####
+
+le jeux à un potentiel de fou 
+
+il est très beau et je pense que la côté gestion est pointue ce qui rends le jeux très sympa
+
+cependant je vais surement arrêter dy jouer à cause dune seule chose  les allees  cest une catastrophe entre le fait que le terrain ce creuse tout seul que les allées ne ce connecte pas etc cela me rends fou 
+
+jespère donc un patch pour régler ce problème rapidement pour pouvoir y jouer de nouveau
+
+edit 1111  mon évaluation devient négative car trop de bug surtout en crash rajouter que mon pc i9 rtx 208064 go ram  galère et hurle à la mort pour le faire tourner 
+
+ras le bol de payé des jeux pleins tarif non finis 
+
+#####
+
+ce jeux est super bien détaillé amusant et si vous ne comprenez pas bien au début le mode histoire est comme un tutoriel donc nayez crainte et prenez le 
+
+#####
+
+excellent jeu
+gestion très poussée graphiquement magnifique seule limite limagination
+si vous avez aimé planet coaster nhésitez pas achetez tout de suite 
+
+#####
+
+très bon jeux
+
+#####
+
+très bon jeu je suis complètement accro les graphiques sont vraiment beaux et les animaux vraiment mignons des heures de plaisir 
+
+#####
+
+très bon jeu mais plante fréquemment
+
+#####
+
+un jeu a ce prix aussi buggé cest pas possible  décu 
+
+#####
+
+trop bien
+
+#####
+
+if you love animals simulations managing a zoo and creation this game is for you
+my favorite thing is breeding animals and having the best and rarest of them its a really well made system
+
+the possibilities are endless and with mods its even better the only unfortunate thing is the constant flow of dlcs that make the full game more and more expensive to buy but apart from that its a great game
+
+#####
+
+pur bonheur
+
+#####
+
+we enjoy it as a family 
+amazing game with depth in the way it allow you to be creative in the building and just taking care of all those animal is so cool
+
+#####
+
+un excellent jeu de gestionsimulation 
+pour tous les fans de la licence zoo tycoon ce jeu reprend le concept de son ancêtre mais rajoute de nouvelles fonctionnalités il est très complet et aborde différentes problématiques intéressantes comme linclusion de lanimal dans le groupe la génétique etc
+
+#####
+
+super jeu
+
+#####
+
+parfait
+
+#####
+
+super moment jeu trés agréable
+
+#####
+
+extrêmement cool graphisme incroyable immersion totale et grande possibilité de gameplay et de création
+
+#####
+
+ce jeu est très bien la partie bac à sable est parfaite pour la créativité
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####
+
+bon jeu
+
+#####
+
+juste incroyable
+
+#####
+
+jeu de gestion et de construction très complet le graphisme est en plus très beau
+après plus de 300 heures de jeu je ne men lasse toujours pas
+
+au début des didacticiels sous forme de carrière sont présents pour nous aider à comprendre pas à pas la mécanique du jeu
+de nouveaux scénarios de carrière avec des niveaux de difficultés différentes sont de temps ajoutés
+
+côté animaux on a de quoi faire très bien réalisés et dans le game play cest vraiment encore une fois très joli à regarder la gestion des animaux est intuitive et une zoopedie  est présente pour nous aider 
+la gestion du personnel est simple mais un peu fastidieuse à prendre en main zones de travail nombre de personnel
+
+côté construction un régal tout est possible avec de limagination et de lentraînement 
+jai juste un problème avec les allées comme bon nombre de joueurs au final on y arrive mais ce nest pas évident parfois
+
+la seule chose qui manque et ça a déjà été dit dans dautres commentaires ce sont les aquariums et les volières ce serait vraiment le top du top pour finaliser les zoos
+
+si vous hésitez foncez 
+
+#####
+
+pour 44 balles ce jeu vaut franchement le coup ce jeu est absolument manifique et génial
+
+#####
+
+un jeux complet je le conseil aux fan de zoo la gestion y est complet
+
+#####
+
+ce jeu est juste génial très complet très personnalisable assez joli il faut un petit temps dadaptation au début pour bien tout comprendre et être à laise mais ensuite cest du bonheur en barre 
+
+#####
+
+jeux très complet avec beaucoup de paramètre pris en compte cest un vrai plaisir de jouer dessus de nombreux outils à votre disposition pour créer comme vous pouvez limaginer il faut avoir lordinateur pour faire tourner le jeu et lapprécié à sa juste valeur
+
+#####
+
+meilleur jeu de zoo qui existe et largemen aucune limite de construction et une super communauté
+
+#####
+
+que dire de planet zoo
+
+je vais commencer par un point personnel  jamais dans ma vie je ne pensais trouver un jeu auquel je serais tellement accro que jen dépasserai les 700h de jeu
+planet zoo mapporte tellement de choses positives jai passé beaucoup de temps où je ne me sentais pas bien dessus il ma beaucoup aidé à oublier mes soucis et à mapaiser ce jeu est purement relaxant je pourrais regarder les animaux pendant des heures
+
+maintenant niveau gameplay design etc  
+
+ le jeu est simple dutilisation pas de prise de tête à part pour quelques trucs pas objectif puisque je suis très maniaque et que dès quun truc dépasse je cherche par tous les moyens à le corriger
+ les graphismes  juste rien à dire ils sont beaux agréables à la vue hormis quelques bugs de clipping très rares par exemple quand les animaux grimpes sur une butte les modèles peuvent connaître quelques distorsions il ny a rien a dire
+ plusieurs modes disponibles  le mode histoire nest absolument pas compliqué même en difficile enfin il faut savoir gérer les différents pôles économique personnel etc et le mode bac à sable sur lequel je passe le plus de temps est agréable en tout points pour les autres modes je les utilise pas ou très peu donc je ne ferais pas de commentaire dessus
+ les musiques les bruits de fond les animaux tout est très fidèle et agréable à entendre
+ la personnalisation na quasiment aucune limite et ça cest un pur bonheur contrairement à jurassic world evolution jeu de la même boite de dev  frontier
+
+ensuite les dlc apportent toujours plus de magie avec plus danimaux et de décors et surtout sont toujours à un prix totalement abordable et aujourdhui dans un monde où les dlc sont très présents pour la quasitotalité des jeux cest très agréable quand on voit le prix de ces derniers pour certains jeux
+
+pour finir quon soit amoureux danimaux de gestion etou darchitecture et oui  on y trouve totalement notre compte 
+
+ce jeu je le recommanderai 1000 fois sil le faut 3
+
+#####
+
+pour jouer au jeu depuis la beta  je suis un peu dégoutée davoir pris lédition delux qui au final napporte pas grand chose de plus que les dlcs 
+au moins il ya moins de bugs et des ajouts gratuits qui sont utile mais il est quand même dommage de devoir débourser autant
+
+pour moi il ya toujours trop peu de choix en matière de déco comparé à planet coaster sans dlcs au niveau des portes fenêtres et modification de couleurs sur les éléments je suppose que je devrais attendre un énième dlc 
+
+cependant je recommande le jeu car il est malgré tout très bien et reste optimisé pour ma brouette de pc
+le coté gestion à aussi nettement été améliorer 
+bon jeu qui allie gestion et décoration ou même juste la décoration en bac à sable
+
+#####
+
+good game
+
+#####
+
+un jeu réaliste avec le mode carrière pour la prise en main un jeu qui prend en compte le risque de consanguinité les gênes des parents etc beaucoup de possibilités élever des animaux pour pouvoir en mettre en liberté construire un habitat digne de ce nom des niveaux de difficultés la possibilité de créations exceptionnelles jeu qui peut être addictif   il faut aussi veiller au bien être des visiteurs leur éducation énormément de paramètres et je nen suis quau début 
+
+#####
+
+chill détente musique reposante un jeu super pour un moment tranquille
+image magnifique animaux bien détaillé
+
+#####
+
+cest juste le meilleur jeu de la terre point barre
+
+#####
+
+wow omg
+
+
+#####
+
+cest de la balle zootycoon toute mon enface
+
+#####
+
+le jeu est génial et peut devenir incroyable si les développeurs se décident à sortir des gros dlc je pense aux aquariums aux volières mais aussi à des gros packs avec beaucoup danimaux en ce qui concerne la jouabilité du jeu il est facile à prendre en main malgré les nombreuses possibilitées daction
+
+#####
+
+planet zoo est suffisamment complexe et offre assez de possibilités pour ne pas devenir trop répétitif jai dépassé la 100aine dheure et entre la gestion des visiteurs du staff des animaux et la création du parc jai encore une très belle marge avant den avoir fait le tour le jeu offre à la fois un système de gestion complexe et des possibilités de constructions très larges une fois quon a pris le système en main
+
+#####
+
+great game  if you love animals and park simulation then its the perfect game for you way more interesting than jurassic world from a management point of view
+
+#####
+
+très beau très profond jaime
+
+#####
+
+planet zoo est un jeu a plusieurs gameplay la créativité ou la gestion je conseille le jeu pour la raison que le jeu même un peu faible en gestion mais cependant la construction permet de tout équilibrer mais au bout de plusieurs enclos et un grand nombre de visiteurs le jeu commence a avoir des difficulté a tourné je pense que le jeu est quand même recommandé car il a des graphisme incroyables
+
+#####
+
+super jeu tout ce quil manque cest des musiques perso et il sera parfait
+
+#####
+
+une merveille  un jeu de gestion avec un mode histoire ou un mode libre beaucoup de possibilités en terme de créations un grand merci à léquipe qui a réalisé et entretenu ce jeu 
+
+#####
+
+un peu difficile a prendre en main mais sympa a jouer et niveau graphisme tres joli 
+
+#####
+
+beaux animaux caca bien modélisé et exploser les ballons et un vrai plaisir
+
+#####
+
+très bon jeu avec beaucoup de possibilité de créations diverses et variées
+jai toujours un problème avec les bateaux mais sinon vraiment bien fait 
+
+#####
+
+jeu génial et plus que complet on y passe des heures
+
+#####
+
+patience est le maître mot de ce jeux
+tout est à réfléchir de la conception des enclos à la disposition dans le parc des différents éléments
+le jeux offre de nombreuses possibilités de créations ce qui le rend extrêmement attrayant 
+superbe graphisme bande son quelque peu répétitive
+encyclopédie des animaux complète et instructive
+je recommande
+
+#####
+
+un cadeau de mon ami je voulais ce jeu depuis un long moment beaucoup de technique mais franchement si vous avez un bon pc cest super il faut penser à tout depuis la nourriture des animaux à lélectricité du zoo jadore ce genre de jeu de gestion en plus les graphiques sont superbes il faut aimer gérer des problèmes et pas juste jouer avec les animaux ou les regarder cest une simulation qui comporte beaucoup de responsabilités des heures et des heures de plaisir à venir
+
+#####
+
+jeux complet mise à jour constante de super dlc une expérience immersive mais aussi une très grande optimisation du jeux  quelques défaults existe bien évidement mais sont très rare frontier pour moi à fais largement le taff
+
+#####
+
+cest génial  
+
+
+#####
+
+ce jeu est une pépite tant au niveau graphismes que de gameplay cest un outil incroyable pour les créatifs et pour ceux qui nont pas dimagination le workshop est une vraie mine dor
+quant aux animaux ils sont si bien faits cest vraiment bluffant  le nombre de choix despèces rien que dans le jeu de base est appréciable je pourrais passer des heures à juste les observant tellement ils me captivent par leur réalisme x 
+concernant les dlc je trouve que 10  lunité ce nest pas cher payé pour leur contenu et pour moi ils valent tous le coup 
+
+bon je narrête pas de faire des éloges sur le jeu mais il y a quelques points négatifs tout de même comme le fait que les commandes ne sont pas du tout instinctives et que la prise en main peut prendre du temps le truc qui me saoule le plus cest vraiment les allées qui sont horribles à placer même quand on commence à avoir lhabitude si votre zoo devient conséquent vous devrez vous attendre à ce quil bug pas mal en mode vie mais pas spécialement en mode pause 
+sinon je trouve quil vaut vraiment le coup si vous aimez les jeux de simulation très réalistes et où on peut tout customiser à souhait
+
+#####
+
+une merveille de plus signée frontier jeu conseillé aux fans du genre le jeu est soigné les graphismes sont très jolies et la construction très bien réaliser dans le mme esprit que planet coaster
+
+#####
+
+avec ce jeux on peut se détendre tout en laissant notre créativité parler et en apprenant plus sur les animaux beaucoup de possibilité soffre à nous pour créer un zoo ce qui rend chaque nouveau zoo unique 
+
+#####
+
+pour linstant jadore ce jeux le côté gestion est très bon et les animaux sont variés en plus davoir beaucoup de détail sur leur mode vie etc je note juste 2 défaut je le trouve le jeu dure à prendre en main par rapport au touche et à la caméra et je trouve quil manque des animaux européen comme le cerf le renard le chevreuil etc mais sinon très bon jeux si vous aimez les jeux de gestion et les animaux je vous le conseil
+
+#####
+
+on prend un café on se détend le petit plaid sur les genoux et cest partie pour débuter un dimanche à rien faire 
+si vous êtes fan de création vous êtes pointilleux curieux ce jeu est pour vous  
+accro au simcity je me suis dit que de gérer une ville cest ennuyeux tiens pourquoi pas des tigres
+ben cest super dur  je vous le recommande fortement on prend son temps le jeu est très bien conçu assez rapide à prendre en main il ya tellement de possibilité qui soffre à vous que je pense quil  faut un moment pour en faire le tour je vous conseille de lacquérir au moment des soldes cest un achat que je ne regrette pas
+
+#####
+
+chill  fun
+
+#####
+
+merci frontier pour la clé  
+
+ graphismes 
+
+ très mauvais
+ mauvais
+ corrects
+ beau
+ très beau
+ extrêmement beau
+
+ le gameplay 
+
+ injouable
+ on se force à continuer
+ le gameplay est dans la moyenne
+ intéressant mais quelques défauts
+ aucun défaut
+
+ le scénariolhistoire 
+
+ incompréhensible
+ assez mauvais
+ générique
+ assez intéressant
+ très intéressent
+ exceptionnel
+
+ la bandesonmusique 
+
+ innécoutable
+ cest potable
+ cest assez plaisant
+ cest très bon
+ cest incroyable
+
+ qualitéprix 
+
+trop cher
+ attendez une promo
+ pas cher
+ à ce prixlà cest parfait
+
+ configuration pc recommandée 
+
+ pc sans carte graphique
+ pc peu puissant gtx 750
+ entrée de gamme gtx 1050
+ milieu de gamme gtx 1060
+ haut de gamme gtx 1070
+ un pc très haut de gamme gtx 1080
+
+ la prise en main
+
+ facile
+ nécessite quelques heures
+ difficile
+
+ durée de vie
+
+ 1h de jeu grand max
+ plusieurs heures
+ plusieurs dizaines dheures
+ plusieurs centaines dheures
+ infini
+
+ récurance des bugs
+
+ le jeu est injouable
+ les bugs gêne le gameplay
+ les bugs ne gêne pas le gameplay mais sont présents
+ quelques bugs en multijoueur
+ le jeu est codé à la perfection
+
+ optimisation
+
+ vraiment mauvaise
+ mauvaise
+ acceptable
+ correct
+ très bonne
+ parfaite
+
+ avis général 
+
+ ny jouez pas
+ à vos risques et périls
+ à essayer
+ bon
+ très bon
+ un must have 
+
+#####
+
+très bon jeux qui fait honneur au vieux zoo tycoon  assez gourmand en ressource malheureusement
+
+#####
+
+le meilleur #rtk
+
+#####
+
+juste magnifique 
+
+#####
+
+un mélange réussi du style planet coaster et zoo tycoon
+
+#####
+
+salut le jeu est très complet très amusant et beaucoup de diversité
+
+#####
+
+planet zoo offre des possibilités de création formidables jusquaux moindre des détails la gestion du parc et du bienêtre des animaux est idéale animaux qui dautre part ont fait lobjet dun travail soigné frontier ont choisi daborder ce jeu comme étant éthiquement correct avec des zoos engagés dans la préservation des espèces animales de par la réintroduction de celleci tous ces points et bien plus en font un excellent jeu sans pareil très plaisant à jouer
+
+#####
+
+javais adoré planet coaster et ce planet zoo est très similaire
+on perd vite du temps à optimiser un enclos pour le bien être des animaux
+du coup le temps passe très vite les animaux sont très biens reproduits le gameplay est très bien exécuté
+un conseil toutefois faire les 5 premiers scénarios avant de se lancer dans une partie défis ou bac à sable
+
+#####
+
+ce jeu est prenant les possibilité de créations sont infini  les graphismes et animation sont vraiment bien
+le seul bémol cest que jaurais aimé pouvoir faire un zoo en multi avec des amis car il y a tellement de choses a gérer en même temps que pour profiter a 100 du jeu il faut toujours mettre le temps en pause
+
+je recommande fortement  d
+
+#####
+
+en mode franchise jeu de gestion difficile à prendre en main très dense en informations mais quand vous arrivez à vous y retrouver satisfaire vos clients gérer votre personnel les zones de travail vos dépenses vos pubs le bien être de vos animaux et commencer vos premiers élevages en maniant bien la génétique cest génial  le marché est rempli doffres parfois abusées parfois très bonnes il faut savoir faire le tri avec lhabitude attention à vous ça bouffe le temps
+
+#####
+
+vraiment un super jeu avec énormément de possibilité ou lont peut laissé parlé sa créativité 
+
+#####
+
+tres bien
+
+#####
+
+le jeu est vraiment super parfois les sol ne sont pas facile a poser mais sinon il est super
+
+#####
+
+super bien   super graphismes et grand choix danimaux 
+
+#####
+
+h1 excellent  h1
+spoiler je suis un fan des jeux frontier donc oui je parti pris spoiler
+très peu joué pour linstant mais je sais que je vais y passer un moment incroyable les animaux sont magnifiques et la gestion semble être assez b poussée b du coup lets go je mettrais mon avis à jour au cas ou mais foncez la gestion est tellement chill 
+
+#####
+
+jeu de gestion extrêmement complet jadore 
+
+#####
+
+un jeu très joli graphiquement qui permet de laisser libre court à sa créativitéje le trouve relaxant malgré quelque difficultés de gameplay pas insurmontable il peut aussi être éducatif pour les enfants jespère plus de contenu dans lavenir proche je recommande
+
+#####
+
+excellent pendant le confinement
+
+#####
+
+je suis devenue accroc à ce jeu je le conseille à 100 
+
+#####
+
+et ben voila un jeu sur lequel on va passer quelques dizaines d heuresgraphiquement c est sympa meme très sympaet le cote éducatif aussicertains disent que la prise en main est facileoui certes mais tres complete et vaste pour créer des zoo très coolpourt ma part je le trouve très bien ce jeu et je le recommande
+
+#####
+
+jadore ce putain de jeu mais jai jamais vu un jeu aussi bugé please faite quelque chose la cest pas possible  jai 32 giga  de ram une rtx alors ce nest pas la compo de mon ordi qui ne va pas on a beau rapporter tous les problèmes rien ne change et cest bien dommage car se jeu est un petit bijou
+
+#####
+
+super jeu de simulationgestion qui allie cassetête et bonheur de regarder les animaux pendant des heures il y a plusieurs modes de jeu pour ceux qui préfèrent créer ceux qui préfèrent gérer des comptes et des employés ou encore résoudre des défis je recommande
+les graphismes et le niveau de détail réjouiront les détenteurs dune bonne carte graphique  
+les possibilités de création une fois les commandes comprises sont infinies 
+oyé joueurs venez rejoindre la communauté 
+
+#####
+
+planet zoo est un jeu de gestion comme on les aimait autrefois il offre une liberté totale sur la construction des habitats des bâtiments et des espaces visiteurs ce qui est tout simplement génial et qui nous rappelle enfin les bons vieux temps avec les zoo tycoon ou encore widlife park jouer à ce jeu a été un véritable plaisir entre la gestion animalière mais aussi de lespace et enfin des visiteurs nous navons pas le temps de nous ennuyer cependant attention si vous nêtes pas fan de la gestion financière mais aussi de lespace de votre zoo ce jeu ne sera pas pour vous en effet planet zoo nest pas juste un jeu de zoo mais au vu de sa difficulté il se cumule avec de la gestion financière et de la réflexivité fini le jeu de zoo où on parvenait avec une facilité accablante à avoir un zoo viable et des visiteurs heureux ici il vous faudra bel et bien comprendre les besoins de vos visiteurs de placer intelligemment vos espèces en fonction de leur popularité dans votre zoo afin de ne pas perdre bêtement de largent et de pouvoir vous occuper convenablement de vos bêtes car gare à vous si elles sont malheureusement puisque des manifestants débarqueront immédiatement dans votre zoo et vous feront perdre de nombreux visiteurs mais ce nest pas tout  il vous faudra aussi assurer autant la sécurité de vos visiteurs que de vos petits protégés pour vos visiteurs il faudra placer des caméras de sécurités mais pas trop car ceuxci pourraient sen sentir oppressés  il faudra aussi engagé des agents de sécurité car gare aux casseurs et aussi au pickpocket qui viendront dans votre zoo et se mêleront aux foules pour les animaux il est important de placer des panneaux afin de dire aux visiteurs comment agir et donc respecter lanimal
+
+planet zoo a ce petit plus qui sensibilise aussi les joueurs à la cause animale il propose de relâcher les animaux dans la nature mais donne accès aussi à zoopédie très détaillée de chaque espèce que nous accueillerons dans notre zoo cependant comme tout jeu il nest pas parfait et quelque bug sont encore présents mais seront rapidement corrigés frontier est très actif à ce niveau là et je les remercie pour cette expérience quils moffrent chaque jour avec cette merveille quest à mes yeux ce jeu
+
+#####
+
+cool
+
+#####
+
+très bon jeu de gestion lun de mes préférés
+
+#####
+
+génial
+
+#####
+
+super réaliste et chiant prcq faut savoir être organiser et aimer sembêter
+
+#####
+
+excellent jeu de gestion cependant la prise en main un peu difficile ne va pas correspondre à tous le monde
+
+la gestion est très complète 
+bien être des animaux gestion de la population mâlefemelle éviter les situation incestueuse environnement etc
+lenvironnement et les besoins spécifiques en terme de température etc pour certains animaux
+une très grande liberté dans la conception du zoo
+la beauté des models des animaux surtout les crocos
+
+un petit regret il ny a pas de véritable mode photo dédié mais la possibilité de faire pause et de masquer les éléments dath est suffisante pour réaliser de beaux screenshots de ces animaux
+
+#####
+
+génial
+
+
+#####
+
+10 dlc no other content update for a 45 game
+
+#####
+
+
+
+#####
+
+très bon jeu après planet coaster pour les constructions et un savant mélange de jurassic world evolution et de zoo tycoon mais a l heure actuelle on rencontre beaucoup trop de soucis pour un jeu fini  un dlc arrive aujourdhui et pourtant le jeu n est absolument pas stable  il recquiert une config bien trop haute pour ce type de jeu et encore même avec une excellente config le jeu plante bugfreeze lag a tout va et on ne parle pas encore du mode franchise qui est encore bien pire dans l ensemble au plus vous agrandirez vos parcs au plus vos fps descenderont jusqu a tourner a quelques fps par moment je tiens a rappeler qu on est en 2019 et que je n ai a mon avis jamais vu un jeu aussi mal optimisé quand on vois des jeu comme gta tourner sur des maps énorme avec de nombreux joueurs et de meuilleures graphismes on se demande comment ils ont coder planet zoo pour revenir en franchise le concept est sympa mais très mal développé les offres dachat ne durent qu une heure et cest bien trop peu surtout qu en plus le temps de réponse des serveurs vous obligent a cliquer de nombreuses fois pour vous déplacer dans les menus du centre d échange pour au final déboucher sur très peu d animaux vendu a prix d or sans scrupules par tout le monde ce centre doit être retravaillé intégralement a mon sens car très mal réfléchi ici quelques pistes ajout de temps pour les offres de ventes 1224h  fixer des prix min et max par type danimaux car au final tout les animaux ou presque coûtent 10000 crédit de conservation avec de tout comme stats système de réputation du zoo ou du vendeur et le partage des technologies et recherches qui ne fonctionne pas en franchise alors que ça n a pas de sens de recréer un parc et refaire des recherches sous la même franchise
+
+#####
+
+jai acheté ce jeu à sa sortie et jy ai passé  de 100h le jeu partait bien beaux graphismes bonne gestion bon choix danimaux très complet
+et puis un jour ils décident de sortir une mise à jour sur léconomie de jeu et là cest devenu nimporte quoi javais  de 2m dollars dans mon zoo et dun coup je me met à tout perdre sans comprendre pourquoi et sans avoir rien changé je décide de recréer un zoo en surveillant les finances je dépasse les 300k et maintenant je me retrouve à 130k jai passé 2h à me battre avec la gestion économique du jeu pour remonter mais pas moyen 
+passer des jours de jeux à créer un super zoo pour que le jeu le fucked up complètement avec ses mise à jour bidon non merci 
+
+edit  enfin des mises à jour qui ont rééquilibré le jeu je ne fais plus faillite woohoo 
+
+#####
+
+excellent jeu pour passer un bon moment
+
+#####
+
+digne successeur de zoo tycoon
+
+#####
+
+rend addict
+
+#####
+
+très bon jeu de gestion même si encore quelques bugs
+mais pas assez danimaux différents mettez 
+ des alpagas
+ otaries
+ tatous
+ fennecs
+ paresseux
+
+#####
+
+le jeu est beau et ultra complet  manque les animaux aquatiques 
+je recommande à tous les fans de zt
+
+#####
+
+bles b
+très bon jeu
+bonne histoire
+beaucoup danimaux
+faire son zoo comme on veut
+
+bles b
+outil de construction un peu capricieux par moment
+pas assez de tutos
+les employés font un peu nimp à voir avec les prochains patch
+
+#####
+
+étant une grande fan de zoo tycoon cétait évident que jattendais ce jeu avec impatience
+résultat je suis très contente le jeu est beau il y a un vrai côté gestion une possibilité infinie de créations je ne vois jamais le temps passer si je devais lui trouver quelques défauts car oui il y en a cest les bugs des animaux qui traversent les murs ou les objets de manière générale et les visiteurs également dailleurs en parlant des visiteurs ils ne sont jamais contents avec la nourriture et les boissons alors quil y a ce quil faut ils vandalisent également les objets type poubelle bancs écran etc quil faut réparer à chaque fois nousmêmes perte de temps fou car mes zoos deviennent vraiment énormes à force le personnel de sécurité ne sert à rien pour tout ça ni les mécaniciens dailleurs
+bref je pense quavec des patchs tous ces petits soucis vont disparaître au fur et à mesure le jeu est tout récent alors je ne lui en veut pas non plus 
+si vous manquez didées noubliez pas daller sur le worshop il y a de sacrées pépites
+bon jeu à tous 
+
+#####
+
+très bon jeu du même gabarit que planet coaster zoo personnalisable a linfini animaux super détaillés et très attachants je recommande 
+
+#####
+
+excellent jeu de gestion avec de nombreux paramètres possibles la prise en main est un petit peu difficile et peu décourager les amateurs dans un premier temps
+
+#####
+
+jeu au gameplay exceptionnel et infini les graphismes sont magnifique
+
+#####
+
+ planet zoo 
+
+le jeux est vraiment bon dans le domaine de la gestion vous aurez toujours quelque chose a faire il est parfait dans le domaine de la construction  la seul limite cest votre imagination je suis a 30 heures de jeux franchise mode et je suis clairement au début a savoir que pour ce jeux il faut vraiment prendre sont temps et calculer les moindres détails dans la conception de votre zoo sinon vous aurez des soucis avec vos visiteurs et animaux  on peut pas ce dire tien de vais faire un zoo non ca fonctionne pas il faut vraiment faire attention a bien planifier sont zoo a lavance et débuté avec des espèces qui demande peut dargent pour lentretient 
+
+graphisme 
+810 franchement cest ouf les détails sur les animaux et la biodiversité le jeux est très beau dans sont ensemble 
+gameplay
+710 pratiquement parfait mes je lui retire 2 points pour les quelques bug que vous allez rencontrez 
+bande original
+810 super plaisant découter cette bande original et le sound design qui est bien réaliser 
+
+conclusion  achetez le  il est vraiment bien et complet  amateur de simulation et jeux de gestion cest pour vous  
+
+
+#####
+
+très bon jeu
+
+ rejouabilité
+ le mode franchise et la participation en communauté
+ beau
+ gameplay fluide
+ les fiches pour en apprendre plus sur les animaux
+ le côté écolo très intéréssant
+
+ encore quelques bugs
+ on sent venir les dlc en pagaille
+ le placement des routes comme dans planet coaster est une catastrophe sans logique aucune
+
+#####
+
+super jeu aucun problème jadore jairé mon zoo
+
+#####
+
+exellent plein de point positif évidement des bugs des drops de fps pour certains moments mais bon on est quau début à voir lévolution de ce bébé
+
+#####
+
+cool
+
+#####
+
+perso je kiff ce jeux pas beaucoup dheure car jai pas trop le temps mes cestt le best
+
+#####
+
+planet zoo es un bon jeu de simulation de gestion de parc animalier dans la lignes des zoo tycoon et autre ancètre il remet au gout du jour un style un peu abandonné ces dernière années et tout ce que lon peut dire cest quil réussit son pari bien sur il y a encore des bug et petit soucis mais avec une équipe de devs qui fait des maj régulièrement et qui est a lécoute de la comunauté sa ne peut que continuer sur du bonheur de jeu
+
+#####
+
+très bon jeu même si tout va très vite à mon goût du moins en mode franchise  mais il y a de quoi passer de bonnes heures dessus
+
+#####
+
+un jeu parfaitement fou
+très bon gameplay beaucoup plus poussé que planet coaster
+mises a jours qui corrigent les bugs même si certain persistent encore mais ceci étant normal pour un début de jeu
+
+comme jai pu le lire communauté il faut faire des prix corrects pour les échanges faisons tous cela pour rendre ce jeu encore plus beau 
+
+#####
+
+très bonne surprise  après la lourde lourde déception que fut zoo tycoon 2 enfin de quoi samuser les mécaniques sont sensiblement les mêmes que planet coaster les animaux en plus les possibilités de constructions sont donc infinies quant au bestiaire il est assez varié
+on peut regretter le manque de fairplay de certains joueurs sur le marché en ligne pour le mode franchise qui vous propose des animaux mourants à prix dor mais cest la faute des gens pas du jeu
+enfin une petite crainte quant aux futures dlc qui ne manqueront pas de rajouter de nouvelles espèces mais à quel prix
+
+#####
+
+ouais ouais ouais le jeu est sympa biensur le concept la gestion les animaux la déco tout y est 
+le jeu est jolie les animaux aussi tout est fait pour passer un bon moment 
+sauf que  jai du mal à digérer le fait que le jeu que jai testé en béta était injouable ou frustrant mais sous couvert de cette béta lindulgence était de rigueur passons donc sur tout ces problèmes déjà présent à ce moment la
+
+mais à présent  le jeu est bien sorti quelques bugs ont été corrigés mais clairement pas tous  la preuve nous en sommes à présent sur la troisième mise à jour oui oui celleci corrige 400 problèmes lol 
+
+ma problématique est bien la les jeux qui sortent pas fini dans quelle époque vivonsnous ou un jeu sans mise à jours nest pas jouable parle ton dune franchise qui débute dun studio amateur pas du tout  
+
+alors oui je suis surement vieux et jai connu une époque ou les jeux fonctionnaient sans mise à jour car il ny en avait tout simplement pas de disponible le jeu était  incroyable  fini le jour de sa sortie du coup jen ai ras le bol de devoir attendre un mois ou deux après la sortie dun jeu et les mises à jour qui suivent pour finalement avoir un produit qui tourne 
+
+lindustrie du jeu se tape cordialement des joueurs et du respect du produit fini que lon est en droit dattendre
+
+je ne sais pas encore ce que va donner la dernière mise à jour si le jeu sera enfin finaliser mais je donnes un avis négatif pas sur le jeu en lui même que japprécie en dehors des bugs  mais plus sur le foutage de gueule de cette compagnie qui sort un jeu trop vite et fini à la 
+
+#####
+
+après avoir jouer à planet coaster il est évident pour moi de prendre planet zoo
+
+et la première fois que jy ai jouer je vois une énorme différence entre zoo et coaster je ne dit pas ça sur le fait quon gère un zoo différemment quun parc datraction mais bien sur le fait quils y a des mécanisme du mode gestion qui aurait put être dans coaster notamment les analyse par zone démographique qui dans zoo permet de savoir les zones ou peuvent échapper les animaux les bâtiments qui pourrait diminuer la satisfaction des visiteursqui dans coaster aurait put être utilisé pour savoir les zone les plus attirants les zones ou il y a trop de visiteur sur un allées
+
+la partie gestion est beaucoup plus travailler bien que les bug nous ajoute de linjustice sur la réputation de notre parc des soigneurs qui restent sur place alors quils y avait largement de lespace pour passer la nourriture qui ne se renouvelle pas quand le soigneur en ajoute les animaux qui ne vont pas immédiatement au point deau quand ils ont soif alors quils passent à coté ect ainsi quune petit manque de logique sur les besoins de certains animaux exemple  quelque soit la taille de leurs habitats on ne peut pas mettre plus de 2 panda roux pourquoi ne pas faire en fonction de la tailles des enclos  pour info frontier devellopment ils y a des zoo avec plus de 2 pandas roux mais à part ces quelque détails le fait quon doit chouchouter à fond les animaux par peur de se faire passer de monstre par des manifestant nous montre bien que le coté créatif nest pas le seul critère pour gérer notre zoo à linverse de planet coaster
+
+en résumer un jeu un peu plus buger que sont prédécesseur lier au fait quon change dunivers et donc on a plus de choses jimagine à programmer à linverse de programmer un jeu de gestion de parc dattraction mais qui vaut quand même le dépaysement quand on a trop jouer à planet coaster
+
+#####
+
+bon jeu de gestion de zoo le jeu a vraiment du potentiel même si malheureusement il reste quelques bugs un peu génant dans la progression
+
+#####
+
+très bon jeu et très chronophage  toujours quelque chose à faire très bon jeu pour les fans de gestion et danimaux car cest orienté plus sur le bien être animal et le sauvetage des espèces en danger que sur la gestion dun zoo
+
+#####
+
+un bon jeu dans lensemble que ce soit par la claque visuelle et les heures de gameplay en vues les créateurs se sont bien renseignés sur plusieurs points du métier de soins animalier que ça soit pour le nombre de mâlefemelle par espèces et enclos ou bien les meutes le nettoyage les maladies la génétique 
+par contre je crains fortement les animaux à suivre étant donné que cela sera surement sous forme de dlc qui seront à des prix surement excessif
+
+ les plus 
+ le gameplay est assez facile une fois pris en main
+ la beauté et les détails des animaux poils blessures
+ un workshop déjà bien remplis de créations
+ la qualité graphique du jeu jusquau pavé des routes
+ le système de création ma foie complexe mais infini
+
+
+ les moins 
+ la boutique déchange danimaux en franchie qui lag et bug pas mal
+ le jeu ne demande pas trop de ressource mais quand il y a un troupeau de monde à un endroit le pc y passe même si les composants sont bons
+ les ia pas très intelligentes càd que parfois quand on demande à un soigneur de mettre à boire il ne le fait pas les vendeurs passent leur temps à se promener à la place daller bosser les agents dentretiens aussi
+ pas danimaux aquatiques tel que les otaries phoques et pas de volatile tel que les rapaces perroquet je trouve ça dommage car un parc animalier devrait contenir beaucoup plus danimaux le jeu en manque
+
+   avis perso 
+ je trouve linterface très gros et parfois il gâche pas mal la vue
+ je trouve la caméra chiante mais dautres personnes la trouve correcte
+ certains animaux se reproduisent à une vitesse folle amenant vite à une surpopulation
+ les prix des animaux par rapport à la génétique de lanimal dans le shop sont parfois abusé mais ça ça ne dépend que des joueurs
+
+enfin un bon jeu sur le travail du soigneur animalier et la gestation de parc avec pas mal de recherche derrière sur le besoin animalier mais qui est je trouve cher pour les multiples bug rencontré en seulement 40h de jeu mais je lespère les créateurs règleront surement tout ça 
+
+#####
+
+le nouveau zoo tycoon
+
+#####
+
+juste excellent  merci 
+
+#####
+
+ce jeu est complètement addictif  je lai achetée avant hier et jai commencée à y jouer hier soir résultat je suis déjà à 12h de jeu en ayant joué quà un seul mode pour le moment jeu très graphique les animations sont magnifique la gestion est ouf
+
+#####
+
+super
+
+#####
+
+cest un super jeu hyper beau et réaliste
+
+#####
+
+jadore assurezvous davoir un bon ordinateur
+
+#####
+

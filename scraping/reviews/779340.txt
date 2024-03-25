@@ -1,0 +1,2368 @@
+un total war que jattendais depuis pas mal de temps vu que jaime beaucoup la période au cours de laquelle le jeu se déroule et que je la connais bien voici donc mon ressenti 
+
+h1 points positifs h1
+
+ loptimisation enfin un total war qui est bien optimisé avec ma configuration gtx 1080 16go ram i7 4770k le jeu tourne avec tout au maximum sans problème sur la carte de campagne et entre 35 et 60 fps en bataille jai eu quelques freezes pendant les grosses batailles 10 000 hommes et plus mais rien de récurrent
+ les temps de chargement ca rejoint loptimisation mais il faut le noter quand même fini les chargements de 30 secondes avant ou après les batailles
+  les musiques cest subjectif mais je les trouve vraiment excellents surtout celle sur la carte de campagne
+ le système de diplomatie repensé on peut enfin savoir exactement si oui ou non notre demande va marcher au lieu davoir un nous pourrions nous entendre qui ne marche pas 2 fois sur 3 le système de diplomatie rapide qui permet de sélectionner ce quon veut faire puis qui nous liste les factions les plus aptes à accepter est agréable et fait gagner du temps
+ la carte de campagne et les maps de bataille sont belles pour celles que jai vues jusquà maintenant les petits détails sont sympas et rajoutent une touche de réalisme
+ la possibilité de choisi entre le mode romance et le mode historique ca permet à ceux qui veulent une touche de fantaisie dêtre servis et inversement
+ la possibilité de mettre lintégralité du jeu en vo donc en chinois ce qui rajoute de limmersion pour ceux qui le souhaitent le jeu peux être mis en vf
+ le soin apporté dans la diplomatie je la trouve plus poussée que dans les anciens tw je suis pas un spécialiste de ce domaine dans le jeu mais jai le ressenti quil faut plus sy pencher dans cet opus le système damitiés au sein des factions de rang  oblige à réfléchir un peu plus à ce quon fait même si ça ne demande pas non plus une optimisation exceptionnelle
+ la clarté de la carte cest coloré les villes ressortent bien on en a enfin fini de ces cartes de campagne grises comme dans attila
+ les duels pendant les batailles les généraux peuvent se provoquer en duel résultat on peut assister à un un contre un pendant que les autres se battent entre elles en plus les animations sont bien faites cest agréable à regarder
+ lajout du système de classé en multijoueur on aurait bien aimé le retour dun mode semblable au multijoueur de shogun 2 aussi
+
+
+h1 points négatifs h1
+
+ les graphismes le jeu tourne sur le même moteur graphique que tw  attila et il commence à se faire vieux alors cest pas moche mais on aurait pu espérer un peu mieux pour un jeu de 2019 par contre le jeu est beaucoup plus coloré du coup le rendu est quand même globalement plus agréable à loeil
+ linterface tout a été refait cest bien pour certaines choses mais horrible pour dautres jai du mal avec pour le moment mais je pense que cest une question dadaptation toujours estil que je préfère avoir une liste de réformes simple plutôt quun cerisier qui fleurit et qui cache absolument tout cest sûr que cest beau mais cest un cassetête à trouver ce quon veut
+ le recrutement alors là aussi ça doit être une nouveauté dont il faut prendre la main mais le système de recrutement est incompréhensible et pas hyper bien pensé un général ne peut avoir que 6 unités sous son commandement donc pour avoir une armée complète il vous faut 3 généraux soit un total de 21 unités pareil les unités ne se débloquent plus comme avant et je trouve ça juste horrible les unités quon peut recruter changent en fonction du général bref je comprends pas pourquoi ils ont fait ce choix
+ les petits détails qui ne sont pas très précis historiquement alors ça ne dérange pas et je cherche vraiment le plus petit défaut mais il y a deux ou trois trucs qui sont faux par rapport au contexte de la période les grappins pour monter les murs pendant les prises de villes a cette époque on utilisait des échelles ca coûtait rien de mettre des échelles au lieu des  cordes
+ la vf alors en ellemême elle est bonne les voix sont claires le ton aussi quoique quelque peu surjouéµ mais la prononciation est juste horrible je sais pas comment ils font pour doubler leur jeu mais à chaque total war où il y a un nom qui ne se prononce pas selon la norme française cest la catastrophe par exemple cao cao qui se prononce tsao tsao et non pas kao kao comme dit en vf cest moins pire que dans shogun 2 mais la plupart des noms sont mal prononcés même si ça ne casse pas le jeu ça casse un peu limmersion
+
+
+ensuite jai vu beaucoup de personnes se plaindre à propos du dlc des turbans jaunes quon obtient soit en précommandant le jeu soit en lachetant au cours de la première semaine après sa sortie si vous avez acheté le jeu sur steam ou sur chez un revendeur officiel alors vous aurez le dlc si vous lachetez autre part là par contre cest moins sûr
+
+
+pour conclure le jeu est bon et prometteur jusquà maintenant il reste beaucoup de choses que je dois découvrir et je chipote sûrement pour les défauts mais je reste confiant par rapport au futur du jeu et je suis sûr quil redonnera à la série un peu de prestige qui avait été perdu après léchec de tob je recommande donc le jeu 
+
+
+h1edith1
+
+après 30 heures de jeu et une partie terminée jai pu me faire une idée un peu plus poussée du jeu globalement je maintiens ce que jai dit en haut sauf 
+
+ loptimisation le jeu tourne bien comme je lai dit plus haut mais pour les grosses batailles 10 000 hommes et plus cest pas incroyable ca reste normal vu que ça représente beaucoup de choses à afficher mais je le dis quand même
+ le système de recrutements et de généraux que je trouvais bizarre après avoir compris le fonctionnement cest beaucoup plus simple et en fait assez logique chaque général à une spécialité donc il faut recruter par rapport à cette dernière par exemple les généraux sentinelle sont des spécialistes du combat à distance cest donc avec eux quon peut recruter les meilleures unités darchers et ainsi de suite
+
+#####
+
+cela fait maintenant plus de 15 ans que je joue aux titres de la série total war et après 100h de jeu je pense quil temps de donner mon avis 
+three kingdoms est probablement le titre le plus abouti qui ai vu le jour et il est également celui qui a retiré nombre délements de gameplay 
+
+le contexte dabord lépoque de la chine ancienne qui très appréciable la carte change beaucoup avec un seul pays pour linstant en tout cas au lieu de toute leurope comme la majorité des anciens titres bien sûr nous avions eu shogun mais la géographie du japon avec diverses iles ne mavait donné cette impression dêtre enfermé ici nous avons une carte vraiment grande où toutes les provinces se touchent à lexception de deux ou trois petites îles au sud 
+le système de recherche de technologies est modifié tous les 5 tours il est possible den débloquer une aucun besoin davoir un agent en parlant dagents il ny en a plus  terminé les diplomates princesses espions druides prêtres etc la seule compensation est la possibilité denvoyer des héros en espionnage vers dautres factions mais ce nest pas exactement la même sensation si votre espion devient général pour un autre ce sera la seule possibilité de le voir sur la carte 
+
+le mode romance ajoute un principe de storytelling unique à chaque personnage qui est fort appréciable le mini côté rpg ajouté dans ce mode aux différents héros est très agréable sans trop en faire cela reste un jeu de stratégie après tout sur le champ de bataille nos héros ne compte que comme une seule unité toujorus en mode romance mais peuvent faire des dégats dévastateurs dans les rangs ennemis ce mode romance est si bon que le mode classique avec des gardes du corps à nos généraux semble désuet dans ce jeu 
+
+les batailles navales ont disparues et le manque ne se fait pas absolument pas ressentir car bien que javais revé de pouvoir en diriger depuis medieval 1 javais vite désenchanté avec leur apparition sur empire les avait détesté dans shogun 2 et les avait évité au maximum dans rome 2 et attila ici vous passerez le plus clair de votre temps à vous battre au sol les rares occasions de mener des batailles navales seront donc automatiques 
+
+la campagne principale est solide la difficulté relevée il est moins aisé de réussir à trouver léquilibre entre gérer économie et améliorer sa puissance militaire 
+ concernant les dlcs les turbans jaunes sont une addition sympatique mais nonessentielle les factions ajoutées présentent un défi de taille mais mont paru moins agréables 
+les 8 princes proposent une suite indirecte du conflit dans lequel se passe la campagne principale hélas cette expansion fait réchauffée nouveaux personnages certes quelques nouvelles mécaniques mais les factions se ressemblent trop ce point est dailleurs ce que je  regrettent le plus à ce three kingdoms  la rejouabilité est moyenne comme nous sommes dans un seul et même pays toutes les factions possédent les mêmes unités hormis quelques bataillons exclusifs à certains personnages toutes les autres peuvent être débloquées par le biais de nouvelles technologies ou davancement vers le titre dempereur ou roi 
+
+le dernier dlc est en revanche excellent 
+mandate of heaven nous propose de jouer 8 ans avant les évenements de la campagne principale et vivre le début de la révolte des turbans jaunes les deux points principaux sont daprès moi le fait de voir les changements pour chaque personnages ex pourquoi et comment dong zhuo est il devenu le tyran controllant lempire  mais surtout de continuer la campagne au maximum a la manière dun crusader kings vous avez une nouvelle date de départ mais celle fin reste inchangée les parties peuvent donc devenir bien plus longues
+
+côté graphismes le jeu a perdu de sa superbe oui il est surement compliqué de tenir un jeu ou des milliers de personnages saffrontent en temps réel combiné aux animations diverses attaques surpuissantes des héros tir darchers et engins de sièges charges de cavaleries mais total war nest plus ce titre qui vous met une claque ayant toutes les options en ultra je suis déçu le flou est désagréable et avec la sortie dun dlc gratuit ajoutant une faction je me laisse rêver dun dlc offert avec de meilleurs textures
+
+#####
+
+je vais vous parler de total war three kingdoms jai obtenu une clé en préaccess avant la sortie officielle du jeu merci à creative assembly et monsieur given pour mavoir donné cette opportunité 
+
+je recommande ce jeu pour plusieurs raisons
+
+ le jeu est bien optimisé je tourne avec une carte geforce nvidia gtx 960m et 16 giga de ram
+ lambiance du jeu est sublime avec les graphismes la bande son du jeu et lunicité du jeu
+ la stratégie de composition des armées à été revu pour cet opus en effet vous devez recruter un général principal et deux commandants secondaires au maximum chaque commandant a une classe lui permettant davoir une efficacité dans un domaine ex champion est bon contre les autres généraux et efficace avec des troupes dinfanterie
+les temps de chargement une hantise pour certaines personnes ont été repensés vous pouvez voir les personnages parler le temps du chargement
+le choix entre le mode historique généraux avec gardes du corps et romancé héros individuels capables dexploits mais pas invulnérables non plus comme dans warhammer 
+chaque faction peut avoir des mécaniques uniques ex zheng jiang la reine doit gagner de linfamie pour avoir des bonus ou dhong zhuo avec de lintimidation
+ un accès à la diplomatie repensée avec le système classique et un système rapide pour trouver rapidement le type de traité souhaité et les factions concernées pacte de nonagression accord commercial etc
+ le retour de véritables charges dévastatrices de cavalerie depuis attila total war
+
+cependant je note quelques points à améliorer
+
+ lia est très bonne en défense mais en attaque ce nest pas la joie
+les attaques de villes avec les tours ennemis très nombreuses vont vous faire un carton dans vos troupes
+ labsence de didacticiel où le joueur apprenait comment jouer avec les contrôles et autres en  cependant un tutoriel avec plusieurs vidéos est présent lorsque vous faites echap pour aller sur le menu de campagne
+ jai peur que les archers deviennent trop puissants à long terme dans le jeu
+depuis quelques opus lia est très boostée je donne un exemple une faction avec deux villes dans une seule province peut avoir une armée complète
+
+je vous conseille de le prendre si vous souhaitez unifier la chine sous une seule bannière 
+
+#####
+
+je suis un fan de la sage total war cet opus ma laissé partagé mais je tâche de rester objectif je ne connaissais pas lhistoire des trois royaumes et il fut un peu difficile pour moi de me plonger pleinement dans lunivers les noms métaient inconnus et je confondais sans cesse les factions aux noms similaires liu bei liu biao yuan shu yuan shao et jen passe une fois une campagne de terminée et un peu plus familiarisé avec lunivers je me permet donc décrire ma critique
+ la diplomatie est plus poussée que dans les autres opus on peut vendre des objets aux autres factions pour éviter la banqueroute dans des situations qui auraient pu devenir désastreuses par exemple longlet marché rapide permet de savoir ce quon peut se permettre de négocier ou non et gagner un peu de temps là dessus par contre cela reste très long si on doit jouer en multijoueur avec un ami nous navons pas pu la finir dailleurs les tours beaucoup trop longs ont fini par nous lasser mais pour la défense de cet opus nous navons toujours pas fini la moindre campagne de total war en multijoueur sur les autres non plus
+ les combats sont pas mal pour avoir joué en mode romance et historique le premier est le plus intéressant selon moi outre le fait de pouvoir foncer comme un débile dans les troupes ennemis et de gagner parfois les combats à 3 contre mille les compétences des généraux vont apporter de précieux avantages lors des affrontements de vos troupes alors quen mode historiques ils auront chacun un régiment de garde du corps mais perdront tout lintéret de leur description les sentinelles ne seront plus capable de tenir un goulet détranglement contrairement à ce quannonce toujours leur description par exemple étant peu nombreux et ne faisant pas de dégats et les champions avec leur détermination prononcée seront les plus à même de se battre et de défaire des centaines dennemis ayant le plus de points de vie ce qui fait la différence en plus les généraux nont plus de compétences actives alors que certains objets ramassables permettent toujours de réduire leur délai dactivation sauf que ben ya rien à réduire on sent que ce mode a juste été mis en place pour ceux à la recherche du réalisme des totals war classiques sinon lia reste toujours bien à désirer et va faire toujours les mêmes manoeuvres stupides qui permettront de renverser les situations où elle aurait deux fois plus de troupes que nous 
+ il est toujours lent de remporter une partie la fin qui consiste à conquérir un maximum de territoire en mode rouleau compresseur gâche toujours un peu le fun et on se force à finir pour le précieux haut fait final qui pour la faction bandit na pas été créé dailleurs si javais su
+ peu de variations dans les unités on se lasse vite à cause de cela je trouve
+ une partie de la carte est encore inoccupée cela sans les upgrade payantes on change pas une procédure qui marche   mais cela permet de sétendre rapidement vers le sud en bousillant les han et en se mettant copain avec toutes les autres factions 
+ arbre des technologie esthétique plus que sympa tout le monde avance au même rythme dune technologie par 5 tours pas davantages à ce niveau là quand à la créations duniversités ou autre cest aussi là que lon pourra débloquer toutes les unités voulues qui seront recrutables nimporte où sur notre territoire même sans aucune structure militaire dont lintérêt est grandement diminué à part pour les garnisons qui donnent de la défense et de lordre publique peut etre
+
+bref jai hésité à mettre recommandé ou non moi il ma moins plus que dautres opus en tout cas donc je fini par mettre non recommandé mais que dautres ladorent en raison de lunivers ou pour ces mécaniques de jeux qui leurs parlent plus quà moi pourquoi pas
+
+#####
+
+superbe jeu très profond qui demande quon lui accorde un temps dapprentissage ce que tous les joueurs ne sont pas prêts a faire il est vrai mais une fois cet effort initial fait cest plus de 1000 h de jeu qui vous attendent
+
+#####
+
+jarrête définitivement de jouer à ce jeu tant que yuan shao na pas été nerf a chaque partie cest la même chose il devient surpuissant en quelques tours et possède la moitié de la carte avec ses vassaux quand on pense pouvoir enfin avoir une game qui permet de prendre un peu son pied tout dun coup yuan shao pop une guerre venue de nulle part et on se retrouve à chaque fois avec 3 à 6 armées pleine dans son territoire quand on peine à en maintenir une économiquement parlant
+
+ca ne sert à rien non plus davoir des alliés ils naident en rien quand ce type de guerre arrive on a beau demander dentrer en guerre contre compensation on se retrouve avec des désaccord à 20 quand on fini par quand même égaler le 20 de désaccord on se rend compte quen fait le compteur est buggué car il reste encore 15 à combler finalement
+
+les alliés ne servent donc à rien la diplomatie est donc caduque 
+
+jai fait une dizaine de campagne en difficile et très difficile et à chaque fois que je dépasse dix territoires cest directement ce qui est expliqué cidessus qui se produit 
+
+dailleurs ce serait cool aussi que quand une armée assiège la ville pendant le passage du tour que la garnison ne soit pas déjà à 50 de sa force quand on reprend la main sur le tour je veux bien que lia a des boost pour augmenter la difficulté bien que je trouve ça très fumeux en 2019 comme ia mais déjà quelle se reconstitue une armée pleine en 2 tours avoir en plus un débuff colossal quand on se fait assiéger cest nimporte quoi depuis quand quand les assiégés voient une armée arriver la moitié dentreeux tombent raide morts 
+
+certaines unités sont par ailleurs complètement useless comme les sabres qui devraient pourtant ouvrir en deux des unités de lanciers les archers sont uber de vrais snipers  cest pas rare quavant même quil y ait contact avec les troupes de mélées que jai au moins deux de mes unités en fuite dû à la pluie de flèches les unités entre ia et joueurs sont déséquilibrées également des paysans arrivent facilement à tenir contre des unités moyennes et donc de métier je doute que ceut été le cas à lépoque des trois royaumes en chine 
+
+le multi en compet est broken aussi on se fait spammer par les mêmes héros qui ont des pouvoirs cheatés aucun fun 
+
+je suis un gros fan de la série total war jai toujours pu mamuser malgré lia boostées dans les niveaux les plus durs mais là les mecs on est en 2019 il est un peu temps de se sortir les doigts du  et de coder une vraie ia et darrêter de nous sortir des jeux à moitié finis me semble même quà lépoque de rome 1 on avait des ia moins cassecouilles et plus réalistes quand on était en alliance et quune faction attaquait lallié venait aider quand on flinguait quasi une armée elle se reconstituait pas en deux tours
+
+bref tant quil ny a pas de patch déquilibrage ou des mods qui amènent une ia vraiment challenging et qui ne triche pas dans tous les sens cest sans moi
+
+#####
+
+public conseillé 
+
+ je ne conseillerai pas ce jeu même à mon pire ennemi
+ les fans du genre ou de la franchise 
+ pour ton petit frère
+ tout public
+ public avertis
+ les pgm sudcoréens
+ les nolifes
+ même ta grandmère le peut
+
+ graphismes 
+
+ pong mais sa a son charme
+ à vomir par terre
+ très mauvais
+ mauvais
+ oubliable
+ corrects
+ bons
+ très bons
+ arrachestoi les yeux jamais tu ne verras quelque chose daussi beau
+
+ qualitéprix  
+
+ une sharkcard de gta à côté cest donné
+ vendez un de vos reins 
+ attendez les soldes
+ un peu chère
+ abordable
+ pas chère
+ a ce prix là cest donné
+ gratuit cherchez pas à moins de vous faire sponsoriser y a pas moins cher
+
+ configuration pc recommandée 
+
+ un microonde
+ pc de lère soviétique
+ entrée de gamme
+ milieu de gamme
+ haut de gamme préférable
+ un pc de la nasa
+ le pc hal 9000
+
+ la prise en main 
+
+ les doigt dans le
+ inné
+ abordable
+ se prend en mains en quelques parties
+ difficile
+ nécessite limplantation dun nouveau bras dans certain cas
+ touhou project lunatic
+ dragons lair nes
+
+ durée de vie 
+
+ mes rapports au lit
+ jeu de wc
+ la campagne call of duty
+ les crampes sinstallent
+ plusieurs centaines dheures
+ maman on est en quelle année déjà 
+
+ niveau de la traduction 
+
+ ça tombe bien y en na pas mais version française fan made dispo
+ ton petit frère au cp
+ i speak english veary well
+ google trad qui déconne encore
+ faux saccrocher pour comprendre
+ nickel
+ traduction strike ouzbek	strike chinoise disponible
+
+ récurance de bug 
+
+ infogrames
+ le jeu est une sorte de gros bug en phase terminal
+ coder avec le q
+ les bugs gênent le gameplay en cours de patch temporaire
+ les bugs ne gêne pas le gameplay mais sont présent
+ quelques bugs
+ le jeu est codé par glados
+
+ avis général 
+
+ joue aux billes y a plus de rebondissements
+ à vos risques et périls
+ une fois pas plus
+ pour les fans de la franchise et du genre
+ mec tu loupes un truc 
+ ça ne changera pas ta vie quoi que mais ça changera quand même ta manière de voir les choses
+oses
+
+#####
+
+jai terminé une campagne avec cao cao en un peu moins de 30h
+
+pour récapituler cest un sentiment plutôt positif davoir terminé la campagne est vraiment excellente on ne sait jamais de quel coté tourné et lia ne vous laisse pas faire votre purée tranquillement dans votre coin je me suis sentis assez mal quand jai attaqué le royaume de song et juste avant de prendre sa capital le royaume de wu ma attaqué 
+
+les pouvoirs quant à eux sont géniaux surtout cao cao quel plaisir de passer directement roi et ensuite autodéclaré la guerre entre les deux autres royaumes je pense que ça a sauvé ma campagne je ne mattendais pas à ce que les 2 autres gugusse me rejoignent directement
+
+finalement la diplomatie je nai jamais été autant diplomate que sur 3k ça cest finis avec dong peyshan en allié un brute qui me fait pensé à la nécro de noob et un autre vers la fin nous étion 30 armées dans le royaume de wu et on sentraidait lia ma vraiment donné un coup de main sur la conquête ça ne métais jamais arrivé dans aucun tw
+
+niveau bataille bah rien à changé
+
+#####
+
+ jeu très bon gros bémol étant les batailles trop rapides pour linstant il faut compter sur léquipe de radious ou sur mon mod lui est magnifique limpide et ultracompéhensible belles musiques effets sonores immersifs et très divsersifiés cycle journuit de campagne émouvant animations des unités géniales surtout les chevaux dans leur changement de direction ampleur des armées enfin à la hauteur
+gestion de la nourriture diplomatie et gestion des personnages meilleure et plus riche que dans le dernier jeu de paradox interactive imperator cest dire pour un total war quel progrès  
+les graphismes de style romance sont éblouissants en bataille seul la map de campagne est un peu trop simple à mon avis elle gagnerait à avoir plus de détails telle la map de warhammer 2 elle est tout de même très correcte
+
+ batailles beaucoup trop rapides
+ animations pauvres et simplifiées par rapport à rome ii attila ou thrones of britania je naime pas du tout ce tournant pris par ca  ils ont persévéré dans la simplication des animations dans troy total war et cest un désastre
+
+voila jai renoué avec creative assembly merci les gars continuez dans ce sens
+mais faites un effort pour les batailles beaucoup trop arcades sinon ce sera le dernier jeu acheté 
+
+ps  creative assembly vous devriez inclure la bande son en mp3 dans les fichiers du jeu ou la vendre en dlc carla bande son est géniale
+
+
+1520
+
+#####
+
+cest certainement le meilleur tw historique depuis shogun second du nom
+comparé aux autres volets très bons mais dun niveau largement inférieur à shogun ii celuici peut se permettre darriver à sa hauteur et notamment grâce à une campagne aux petits oignons des musiques qui font toujours le régal de nos oreilles une diplomatie excellente et un multijoueur sublimé qui ne manquerait quune seule chose  le système de conquête de lavatar qui a fait de shogun ii le plus abouti en multijoueur
+
+un musthave à avoir venez maffronter
+
+#####
+
+après quelques 400h de jeu et 5 campagnes finies avec des factions différentes disponibles dans le contenu classique je pense quil est temps de livrer une analyse détaillée de cet opus et pk estce que je ne le recommande pas malgré ses nombreux points positifs et cela si lon ne prend pas en compte les dlc et quon considère que vous lisez cet avis que pour le jeu de base
+
+pour commencer on va faire un résumé rapide du concept du jeu et de ses objectifs  la dynastie des hans se casse la gueule et à travers toute la carte différentes factions vont sen partager les restes dans une course pour le pouvoir et vous devrez vous efforcer de suivre la cadence de vos rivaux pour vous proclamer empereur et écraser les deux royaumes concurrents doù le concept des 3 royaumes pour ce faire vous devrez maîtriser le système complexe de développements de bâtiments de vos territoires conquis ainsi que celui des technologies que je vais vous détailler après parce quil y a beaucoup beaucoup de choses à dire à ce sujet
+bon résumer comme ça cest pas très clair mais vous avez au moins une vague idée de ce total war et je vais maintenant pouvoir détailler
+
+je vais commencer par la partie gestion  chaque région a une capitale et des commanderies secondaires avec leurs ressources propres dont il faudra tenir compte pour faire en sorte que les bâtiments que vous construisez soient pertinents le développement des territoires vous laissent le choix de construire des bâtiments militaires industriels commerciaux dadministration et daides aux paysans qui vont vous permettre de soigner les 3 points principaux de la gestion  le revenu généré la nourriture consommée ou produite et enfin la corruption 
+et là je mapprête à vous mettre sous le nez les principaux problèmes du jeu demblée   la prise en mains du jeu est dur à en crever et ce pour rien ce qui va rendre vos 20 premières expériences considérablement frustrantes 
+la gestion des bâtiments est dur mais juste et saura vous récompenser si vous faites les bons choix ce qui sera quasiment impossible à vos débuts malheureusement mais par contre larbre des technologies est une catastrophe  et je pèse mes mots
+ pk  alors nn seulement vous avez une tonne de branches dont forcément une tonne de branches éclatées et complétement superflue mais surtout vous ne pouvez pas augmenter la vitesse de recherches de vos technologies donc les choix de vos technologies sont particulièrement importants car ils sont du coup très limités vu vous navez pas le luxe de rechercher nimporte quoi  je vous rappelle que vous avez 3 stats à soigner vous faites les recherches correctes vous atteindrez la prospérité mais si vous vous égarez croyezmoi que vous allez plomber votre partie 
+
+un exemple concret  plus vous possédez de territoires plus la corruption va augmenter partout vous ne faites pas les recherches qui la contrent  vous pouvez avoir consacrer autant de thunes que vous voulez au développement vous allez toucher 0 ça va aller de mal en pis vous allez devoir attendre 5 tours avant de rechercher la bonne technologie ou la nulle qui vous intéresse pas mais qui se trouve avant et que vous êtes obligés de faire sauf que ce que je viens de vous dire vous nen êtes pas avertis en début de partie  et pour beaucoup il faudra en faire lamère expérience au moins une fois avant de comprendre quil faut surveiller particulièrement cette statistique et veillez à la prévenir et nn pas la guérir 
+toujours dans larbre des technologies vous trouverez au bout de cellesci des unités délites et des unités impériales enfin ça cest pour les recherches intéressantes parce que les unités impériales des recherches éclatées vous les jouerez normalement jamais parce que vous navez pas intérêt à vous taper les 15 recherches nulles mais malheureusement nécessaires pour les avoir et je vous rappelle que vous ne pouvez pas accélérer votre taux de recherche et si vous prenez en compte que les tours en fin de partie sont très longs parce que vous avez une tonne de choses à gérer vous aurez probablement exploser vos adversaires ou perdu avant davoir les 34 de larbre de recherches ce qui rend la chose vraiment frustrante cest que dans au moins un dlc larbre des recherches est plus simple mais plus efficace donc je mexplique pas ce vieux truc pété
+ah et bien sûr les unités impériales dont je vous parlais sont stylées et efficace mais vides dintérêt en raison des malus quelles se tapent
+
+ca cétait pour la partie gestion maintenant on peut passer au reste 
+au moment de lancer une partie vous avez deux choix de modes de jeu  historiques vos héros sont en unités leur compétences servent à buffer vos armées et votre faction laccent est donc mis sur votre gestion globale des troupes et nn pas sur les héros ou bien romance cest nimporte quoi cest au choix tout les commentaires parlent du mode romance et comment les héros sont trop kiffant et tout alors cest peutêtre moi qui suis con je dis pas mais moi je trouve juste que cest le bordel et un gros coup de pouce pour lia qui va vous spammez de propositions de duels si elle peut gagner dailleurs on sait pas comment cest calculer mais votre héros peut être super bien équipé et expérimenter et se faire latter la gueule par moins fort que lui ou les refuser si elle risque de les perdre donc cest super ça et le fait que parfois elle se contente de les faire charger sur tes troupes et te faire 100 morts ou bien plus selon le niveau du héros  ce que je ne mexplique pas cest que dans total war warhammer jeu auquel jai bcp joué cette mécanique des héros étaient déjà présente mais pour quils soient forts il fallait quils soient uniques etou expérimentés là ten as qui démonte tt le monde dautres personnes lui il gagne le duel lui pas et tu sais pas pk 
+
+la diplomatie bénéficie dun éventail de possibilités importants et appréciables mais souvent superflu parce que tt façon en fin partie tas de tels malus que tt le monde te chie dessus et en plus tu peux perdre des alliés en chopant dautres malus car ils sont devenus potes avec tes ennemis donc tas mieux fait de rouler sur tt le monde
+
+lespionnage est stylé dans la théorie mais dans la pratique gâché par lapparition dévénements aléatoires aux dilemnes superflu et frustrants exemple concret  tu as réussi à faire embaucher ton espion par la cible pas facile tu as réussi à le faire intégrer larmée ça va tu as réussi à lui faire intégrer ladministration dun territoire difficile tu as réussi à lui faire intégrer la famille de la cible tres difficile tu as réussi à faire de lui lhéritier de la faction godlike à ce niveau il ne te reste plus qua lui faire assassiner le chef de la faction et tu auras ton espion à la tête du pouvoir sauf que tu peux pas parce que ça déclenche a chaque fois un événement aléatoire et qui te pousse au dilemne de sacrifier la couverture de lespion ou à renoncer et la tes coincé car si tas le malheur dêtre en mode romance tt les personnages sont centenaires et le chef de faction ne mourra pas jusqua ta victoire et tas perdu ton temps super et de toute façon comme jai essayé de lexpliquer cest pas des occasions que vous allez avoir souvent
+
+pour finir je dirais quon a en théorie un très bon jeu gaché dans la pratique par une prise en main très complexe allié à des absurdités de gameplay et à un mode romance qui enlève du skill du jeu puisque si tas pas les héros cest vrmt à celui qui est le meilleur général devoir lutter pour acquérir des unités stylées et fortes que tu ne vas pas utiliser en raison de malus absurdes sans compter celles que tu peux pas avoir en raison du système de recherches stupide est si dommage sans ça le jeu pourrait être vraiment bien et te permettre dêtre la tête dune armée chanmé avec des unités digne de celles que tu vois dans le manga kingdom ou du film la cité interdite
+
+#####
+
+depuis que jai lu lart de la guerre jai appris à devenir un connard et je suis en école de commerce
+
+#####
+
+après pas mal de temporalités et de nations visitées léquipe de bcréative assemblyb a tenté la licence warhammer les fans ont pour certain critiqué louverture au grand public mais je pense que les équipes ont entamé une refonte progressive du système bien rôdé quétait total war
+
+h1probablement lun des meilleurs total warh1
+
+ici on se retrouve avec le meilleur de lancienne franchise et cet apport nouveau qui a conquis probablement plus de monde
+la carte est jolie fourmille de détails et dune taille plus que correct le système de réputation et déchange a été revu ajoutez à ça le fait que les parties sont bien plus interactives et vous avez le début dun bon jeu 
+
+ en effet lia passe son temps à vous solliciter pour tout et nimporte quoi et ne subit plus littéralement les adversaires la difficulté global a été revu et la gestion des relations est bien meilleurs que dans les opus précédents
+ même si un des points négatifs actuel est le manque de lisibilité des factions lors déchanges il est franchement pas facile de les trouver sur la map si cest elles qui vous sollicitent
+
+ lamélioration du système de famille et de cours est excellent même si probablement perfectible on doit le prendre en compte sans y passer des heures ce qui enrichit chaque partie à la limite je regrette quelques petites embrouille possible sur britannia mais franchement rien de bien grave
+
+ la possibilité de reconvertir lun de vos personnages en espion est tout bonnement génial en plus les possibilités sont franchement nombreuses
+
+chaque faction a un style de jeu unique grâce à un petit plus cao cao peut déclencher des guerres entre deux factions sans y participer liu bei peut convertir les han sans combat yuan shao possède un moyen bien moins cher de recruter des héros
+
+en mode romance ils ont gardé le système de héros ils sont il faut lavouer très puissant mais aussi très utile à lhistoire personnellement jaurais aimé un entre deux plus marqués mais ça ne gâche pas pour autant le plaisir surtout si vous voulez coller au roman
+pour les puristes un mode normal existe sans eux avec des troupes et des généraux classique
+
+ les bataillons régiments brigades unités sont moins nombreuses visuellement les combats sont sans doute un peu moins fournis que les précédents opus dommage quant on sait que certaines batailles historique on vu des milliers de combattants saffronter
+
+ pas de batailles navales même si pour tout avouer ça ne me manque pas
+
+ les duels sont vraiment un plus sympa même si rapidement le général adverse ne vas pas trop sy laisser prendre si les niveaux sont trop différents en gros niveau batailles il ya peu dévolutions probablement pour les prochaines versions
+
+ le jeu est bien plus stable que dhabitude en sortie dun total war 
+
+bref lensemble rends très bien  cest dépaysant ce sera probablement pour beaucoup une découverte complète de cette histoire que partage pourtant une grosse partie de la population mondiale
+
+mon conseil ne boudez pas votre bonheur vous pouvez lacheter 
+
+#####
+
+incroyable du cul
+
+#####
+
+depuis le temps que jattendais que la franchise totalwar se penche enfin sur lunivers des 3 royaumes je trouve que ce jeu en vaut la peine le jeu est complet et propose de nombreuses possibilités de gameplay
+
+les 
+ les héros sans êtres op ajoute la touche nécessaire au côté légendaire de lépoque et permet une diversité tactique avec leurs spell et le type dunité quils peuvent posséder ils peuvent être stuffer avec du matériel glané au fur et à mesure dont les armes et armures légendaires qui ont appartenu à ces héros autre  le gain de niveau permettant de spécialiser les personnages en fonction de leur type guerrier intendant tacticien
+
+ la carte est immense et la gestion des villes est un mix entre rome 2 et shogun 2 on retrouve la subdivision en région plutôt quen ville comme dans rome 2 mais contrairement à celuici vous pouvez faire de nombreuses améliorations dans vos capitales de région sans que cela ne soit trop limité dans rome 2 pour rappel vous pouviez faire 4 bâtiments max ici vous avez des spécialisations selon les régions et en plus vous pouvez varier alors que sur rome 2 le schéma était quasiment le même quelque soit la région 
+
+ la diplomatie le côté pangée de la chine rend la tactique encore plus importante car si vous ne négociez pas finement avec vos voisinsalliésvassaux vous risquez de vous faire assaillir de toutes part
+
+ le nombre darmée est correct même avec le système de généraux importé de rome 2 et warhammer vous avez tout de même la possibilité dutiliser des héros mineurs et votre total darmée à la fin est autour de 1617 ce qui est largement suffisant
+
+ le nombre de faction jouable est bien dosé la difficulté également le gameplay est vraiment différent selon que vous jouiez cao cao ou les turbans jaunes avec en prime des capacités spéciales de faction ainsi que quelques troupes dédiées
+
+ la recherche est vaste et il faut composer par choix tous les 5 tours se tromper nest pas trop grave mais il faut réfléchir un temps soit peu aux priorités5 tours ça peut faire beaucoup de différences
+
+ la notion de corruption fait historique au sein des 3 royaumes est bien retranscrite et fait partie des paramètres intéressantsurtout au début lorsquon a besoin dargent
+
+ larbre généalogique et le comité de direction est plutôt bien foutu vous devez composer avec vos généraux pour leur attribuer des fonctions afin de les rendre heureux fonctions qui au passage apporte beaucoup à la gestion de votre royaume et qui se débloquent selon votre expansion
+
+ les events sont plutôt bien dosés et amène un peu daléatoire
+
+les 
+
+ le jeu est assez gourmand surtout vers la fin de nombreux crash et freeze sur la map ou pendant une bataille ce qui peut être frustrantsauvegardez souvent
+
+ lia est meilleure que les précédent opus mais reste encore un peu en deçà niveau difficulté
+
+ lespionnage bien quune bonne idée devrait être plus utile quand un de vos personnages arrive à avoir une place dans un royaume adverse vous pouvez faire des dégâtssinon vous vous contentez juste de spamer lamélioration commerciale jusquà ce que votre espion soit découvert ou mort de vieillesse je nai pas non plus limpression que lia soit très porté là dessus je nai eus aucune entrave de ce côté là
+
+ côté maritime cest plutôt léger vos unités embarquent et se déplace sans besoins de navires annexes
+
+pour résumer si vous avez apprécié les meilleurs opus de la franchise qui datent un peu vous pouvez prendre celuici sans problème on est sur de lexcellent total war
+
+
+#####
+
+fan des total war depuis le début après léchec pour moi de britannia jai longtemps hésité le confinement a eu raison de mon hésitation  et bah putain je le regrette pas pour moi cest un si ce nest le des meilleurs opus 
+
+les plus  
+ la qualité danimation non sérieux jai jamais pris autant de plaisir à regarder les gens se charger dessus les animations de combats sont très très très bien faites franchement des fois je me lance des petits duels juste pour voir ça le mode romance cest géniaaaaaaaal  
+ les combats qui vont avec du coup  même si il y a peu dunités le système classique est toujours présent avec le système des éléments pour aider à sy retrouver type tout ce qui a de la portée et qui reste loin du combat cest eau les cavaliers de chocs sont feu etc pleins de petits trucs bonus qui sont là les barricades lhuile inflammable la possibilité de cramer les arbres pour tuer les soldats cachés dessous cest un pur bonheur stratégique bon ça peut aussi vite être un enfer quand ça se retourne contre nous 
+ le système de recrutement est très bien pensé avec la gestion des héros et des différentes combinaisons possible dans larmée si on rajoute à ça le système damitié ça peut faire des compositions très poussées et qui combinent très bien ou au contraire un capharnaüm sans nom  bon après cest sûr quand larmée est en train de se former elle est très fragile donc pas glop
+
+les moins 
+ la diplomatie bon faut pas se leurrer cest un total war donc à la fin on devient trop menaçant et cest impossible de se faire des alliés sauf si on a en depuis le début et quon a toujours fait les guerres avec eux du coup souvent la diplomatie se résume ah bon bah personne veut rien de moi à part la guerre et des fois la paix youpidou  surtout quavec le système de rivalité et damitiés cest vite un casse tête mais ça donne un côté réaliste
+ labsence dagents jaime bien les agents moi il y a un système despionnage pour compenser qui peut facilement retourner une bataille en notre faveur surtout si on a plusieurs espions bien placés chez lennemi le système despionnage est bien mais pas assez abouti pour vraiment remplacer les agents puisque globalement dès que lespion fait un truc peu discret il devient inutile je pense que ça peut vite devenir un vrai plus mais il faudrait revoir un peu léquilibrage 
+ peu de rejouabilité cest logique un seul pays donc peu de différences je nai pas les extensions peutêtre que je suis mauvaise langue mais jai cru comprendre que non après chaque faction a quelques spécificités tout de même donc ça permet de faire au moins une partie avec chacune dentre elle
+ la gestion des provinces nest pas très poussée faut juste les hyperspécialiser pour profiter au maximum des bonus des bâtiments de ville et de ladministrateur
+
+pour conclure cest un opus se centralisant vraiment sur les combats avec un paquet de compétences secondaires et des tonnes de combos jouissif au détriment de la gestion si vous voulez juste vous friter et marcher sur les cadavres de vos ennemis nhésitez pas  surtout quavec les mods il y a de quoi se faire vraiment plaisir d
+
+bon jeu à tous 
+
+edit  le jeu crash régulièrement depuis la mise à jour 15 les devs sont au courant on va attendre patiemment quils fassent leur job ça devrait être résolu à la 152
+
+#####
+
+lun ou peut etre le meilleurs total war depuis  tres longtemps
+batailles tres chouette diplomatie et gestion du territoire revu et bonifié le tout accompagné dun excellent systeme de personnageshéros
+
+bref cest du tout bon 
+
+#####
+
+eh bien jattendais un jeux de stratégie depuis que je joue à la série des dw et ce depuis le tout premier étant passionné dhistoire la chine antique na pas de secret pour moi le jeu est excellent ceux qui le juge pourrie feraient mieux dallé jouer à barbie parce que de tout les total war cest sur et avéré mon préféré avec warhammer total le jeu est très fluide respect parfaitement lhistoire et les personnages historique seul petit petit truc ils manquent énormément de héros généraux et seigneurs et manque de bataille historique mais en sois le jeu est excellent 
+
+#####
+
+ total war une saga connue et reconnue pour ses volets de jeux stratégiques mélangeant tour par tour sur des cartes tactiques et rts sur des champs de bataille épiques 
+  cette foisci ils sortent un jeu sur le roman des trois royaumes classique chinois permettant un mélange subtile entre histoire et saga héroïque en pleine antiquité je nirai pas par quatre chemins le jeu est à la hauteur des attentes mais avec quelques hics symptomatiques des total war récents 
+
+ plus  
+  graphismes toujours alléchants mais moins gourmands que sur un warhammer sans doute pour plaire au public chinois ca permets de faire tourner le jeu de façon satisfaisante sur un ordinateur moyen sans avoir limpression de manipuler des taches de pixels
+  la diplomatie est un énorme plus  très développée et immersive couplée aux personnalités des généraux elle permet enfin de développer la partie tour par tour en lui donnant une nouvelle profondeur il faudra composer avec les autres factions pour ne pas se faire écraser par une coalition 
+  lespionnage est une autre nouveauté fini les agents  place aux personnages à infiltrer comme généraux ou administrateurs dans une autre faction couplé à la diplomatie lespionnage approfondit encore les possibilités horsbataille  
+  les mods oui je sais ce nest pas à mettre au crédit du jeu en soi mais la communauté de moddeurs dont le classique radious apporte une valeur ajoutée gratuite au jeu  
+  la map encore améliorée par une maj gratuite elle devient de plus en plus intéressante couplée aux éléments antérieurs et aux acquis de warhammer et warhammer ii les forteresse par exemple 
+ défauts  
+  lia toujours un peu boiteuse en combats jétais content de revoir des batailles épiques dans de gigantesques cités mais lorsque ladversaire défenseur masse ses unités derrière les murs prêtes à se faire arroser de flèches la grandeur de la ville devient inutile cest dautant plus dommage quavec le système de barricades et des cités mineures également bien pensées on aurait pu avoir des combats urbains très sympathiques 
+  les mods ben oui sans mods le jeu est vachement moins bien et pourtant ça ne serait pas compliqué de pouvoir ajouter dès le départ les bonnes idées des moddeurs 
+  ca va trop vite  les campagnes sont souvent trop rapides lempereur meurt en 10 tours les turbans jaunes en 15 et ça finit en gloubi boulga de factions étalées jamais de grand combat entre lempire tout puissant et les effrayants rebelles turbans jaunes on finit souvent avec une faction mineure qui prend beaucoup de puissance alors que les protagonistes sont trop passifs 
+
+ en bref une bonne surprise qui sort des codes établis par warhammer et rome ii tout en sinspirant des deux une chouette découverte je lui donnerais une note de 15 ou 1620 si noter les jeux avait un quelconque intérêt  
+
+#####
+
+three kingdoms est un peu comme un vent de fraicheur dans les total war il y a beaucoup de choses très intéressantes à découvrir pour ceux qui ont déjà joué à des jeux de cette même licence avec un vrai plus qui est laspect immersif du jeu qui nous plonge dans lunivers et lhistoire de la chine à lépoque des trois royaumes le jeu vaut définitivement le coup les dlc sont aussi très bons selon moi et rajoutent des nouvelles fonctionnalités qui embellissent lexpérience 
+bref ce jeu est génial
+
+#####
+
+les total war ont été sont et seront certainement pour toujours de très très grands jeux de stratégie au tour par tour ainsi que de magnifiques jeux tactiques entre deux armées avec ou sans renforts
+quand à lunivers des trois royaumes il est dune certaine poésie et toujours aussi bien rendu par le jeu
+on pourrait ainsi faire le tour des unités des bâtiments et des musiques et que saisje encore  que nous naurions pas fini den dire du bien
+
+mais alors pourquoi une notation négative 
+cest assez simple depuis shogun i et medieval i lia na pas évoluée dun pouce  elle est stupide se contente de bourrer bourrer et bourrer encore et évidemment le grand classique dans ces caslà cest de la faire tricher tout simplement  histoire que le jeu fonctionne histoire quelle ait sa chance le problème cest que ça en devient total debile le problème cest quon finit par sennuyer mais genre vraiment sennuyer pas parce que cest dur il y a toujours des solutions et dans le pire des cas des sauvegardes juste parce quon sy enquiquine mais grave si encore les temps de chargements étaient rapides et les plantages bureau nexistaient pas bon mais là  sur mes 80h00 de jeu il y en a une bonne dizaine à attendre alors bon je veux bien que cela reste une grande licence je reste un très grand fan des medievals i et ii mais en vingt ans et quelques bons gros millions de chiffre daffaire je trouve pas de termes élégants là vous comptez évoluer quand 
+
+#####
+
+cest un bon jeu certe mais on en a vite fait le tour malheureusement peutetre que jai pas vu des trucs mais a par la difficulté toutes les factions se ressemble il est bien trop cher pour se quil est shogun 2 avec 3 campagnes différentes est clairement mieux et proposer une moitié de jeu a 61 avec des dlc qui sont souvent noté en negatifs sur steam cest une honte de proposer ca
+attendez les réductions genre 80 ou 90
+
+#####
+
+ graphics 
+ you forget what reality is
+ beautiful
+ good
+ decent
+ bad
+ dont look too long at it
+ my eyes
+
+ gameplay 
+ very good
+ good
+ its just gameplay
+ mehh
+ watch paint dry instead
+ just dont
+
+ audio 
+ eargasm
+ very good
+ good
+ not too bad
+ bad
+ im now deaf
+
+ audience 
+ kids
+ teens
+ adults
+ grandma
+
+ pc requirements 
+ check if you can run paint
+ potato
+ decent
+ fast
+ rich boi
+ ask nasa if they have a spare computer
+
+ difficulty 
+ do you even need a keyboard
+ easy
+ medium if you know the enemy and know yourself you need not fear the result of a hundred battles
+ difficult
+ pain
+
+ grind 
+ nothing to grind
+ only if u care about leaderboardsranks
+ isnt necessary to progress
+ average grind level
+ high playerrepeatgrind
+ youll need a second life for grinding
+
+ story 
+ no story
+ some lore
+ average
+ good
+ lovely
+ itll replace your life
+
+ game time 
+ 5min ingame world record
+ short
+ average
+ long
+ faster than light
+
+ price 
+ its free
+ worth the price
+ if its on sale
+ if u have some spare money left
+ not recommended
+ you will waste both your time and money
+
+ bugs 
+ never heard of
+ minor bugs
+ can get annoying
+ ark survival evolved
+ imagine a spider web full of bugs
+
+   10 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+
+#####
+
+franchement cest vraiment cool campagne longue les systèmes sont très bien pensés 
+je vais faire une liste
+
+ interface assez lourde elle est correcte  vous inquiétez pas on est très loin dimperator rome sur ce sujet  et aussi un très beau travail artistique
+ gameplay cest du total war le système des personnages est vraiment bien pensé toute la structure gouvernementale est facile à prendre en main attention 2 points négatifs la cavalerie est décevante trop peu nombreuse par unité mais aussi trop lente et des unités de tirs très puissantes point positif les sièges
+ univers parfait gros travail sur la chine la carte est immense les interactions entre personnages sont vraiment sympa des events jaurais aimé cependant comme dans warhammer total war un event dinvasion cest à dire une grosse invasion venant dune puissance extérieure  je pense surtout aux mongols  
+  caocao est un  de gordon ramsay sous stéroïde excellent 
+
+point négatif que je souhaite mettre ici les armées sembles peu variées cest souvent du copié collé dunité ça manque de grosse unités en armure de fin de game clairement 
+
+je prend beaucoup de plaisir à jouer à ce total war cependant comme je nai pas encore beaucoup dheure sur ce jeu il est possible que je change davis et que jaméliore ma review
+
+#####
+
+jeux exellent possiblement le meilleurs de la série dommage pour le dlc blood qui est encore payant
+
+#####
+
+le meilleur total war niveau campagne
+le principe de se focaliser sur les personnages rend les 100150 premiers tours géniaux avec des généraux uniques et charismatiques
+
+le problème cest quà partir de la deuxième génération  ou la troisième 3 sun dynasty  ça devient des persos random tous les stratèges se ressemblent tous les commandants se ressemblent  et ten vient juste à espérer que ton héritier soit pas un champion histoire de pas avoir la gueule de han fu
+
+dommage aussi que certaines possibilités diplomatiques soient lock  jamais rencontré un connard qui accepte de se faire confédérer  et quil soit si durrandom de récupérer les personnages uniques en revanche parfois ce même random fait de beaux cadeaux recruter lu bu au tour 10 pour le dépouiller de son arme et de son cheval avant quil se barre en équiper sun ce et le voir éliminer 3 régiments sans tomber sous 50 cest jouissif
+
+niveau bataille je suis content parce que jarrive à nouveau à faire des miracles cest beaucoup moins poussif que ne pouvaient lêtre rome attila ou même les warhammer en revanche la diversité est logiquement réduite vu quon se cantonne à un seul pays
+
+dans lensemble je mamuse énormément dessus je trouve que leurs idées de dlc à différentes époques du conflit sont excellentes et jattends juste que le workshop se mette en place pour pouvoir enfin cheater comme un connard et ramener tous les persos uniques dans ma faction  ça va je me suis tapé deux fois lempire du song et ses 30000 vassaux et jai gagné les deux fois jai le droit de souffler un peu 
+
+peut être ajouter des fonctionnalités pour améliorer le focus sur les persos genre des nouveaux portraitsdescriptions plus uniques mais dans lensemble je mamuse comme jamais si vous aimez les tw historiques cest ce qui sest fait de mieux sur bien des aspects
+et prenez des catapultes dans vos armées vraiment
+
+#####
+
+quelle déception
+traitant une période si riche ce jeu brille pourtant par sa pauvreté
+certains aspects du gameplay sont néanmoins très intéressant notamment en ce qui concerne la diplomatie où lon assiste à un progrès fulgurant
+lia semble aussi avoir progressé mais du point de vue des graphismes on a fait un bond en arrière
+quand on compare les détails des cartes de campagne  entre three kindoms et attila ou rome 2 on est déjà un peu déçu mais lorsquon a passé les derniers mois à jouer à warhammer2 la frustration nen est encore que plus grande
+de même les graphismes des batailles sont plus que moyens je joue en ultra dautant plus que les cartes de batailles sont très peu variées notamment en ce qui concerne les batailles de siège sans parler du nombre très limité dunités
+bref je ne comprends vraiment pas le rayonnement qua eu ce jeu mais jespère que celuici saméliorera dans les jours à venir et deviendra à la hauteur du potentiel de cette période
+
+#####
+
+1  un rapel de shogun qui fait plaisir 
+
+#####
+
+je le recommande  il vaut large son prix
+
+les bons point  la musique est magnifique lambiance les graphismes les duels la diplomatie les réseaux despionnages le gouvernement de notre nation et pas mal de retournement de situation dans le nuage diplomatique trahisonsect
+
+je recommande la séries des trois royaumes sur ytb si vous vous intéressez à lhistoires  httpswwwyoutubecomwatchvhkb3jnic16glistplcsh2rcoxqlacaqevbcj6gqwtztl5ep8 il y aussi le film mais je pense pas quil soit sur ytb 
+
+tt est excellent et me redonne gout à jouer au total war il est largement complet pour ça sortie
+
+
+#####
+
+vraiment bon un des meilleurs total war historique ça fait vraiment plaisir après leurs bouses en chaine britania attila  hormis warhammer qui est pas mal mais un peu hors sujet car non historique
+
+grâce à sa fraicheur je le classe sans hésitation aux côtés de empire rome 2 médiéval 2 ou encore shogun 2 qui sont mes total war préférés
+
+la partie carte de campagne est beaucoup plus poussée quun total war classique cest ce qui manque aux autres total war fini les agents le gameplay de campagne comme lespionnage est beaucoup plus subtil la diplomatie est aussi beaucoup plus aboutie que dans les autres total war il y a plus de choix et lia est moins facilement pinable il y a beaucoup trop à dire sur les originalités de la campagne du coup je marrête là mais faites moi confiance du lourd
+
+la partie bataille est très originale avec un tout nouveau système dorganisation avec 3 généraux max par armée même si je ne le trouve pas fantastique comparé à dautre total war le retour aux séquences vidéos à la rome 2 petites animations durant la bataille fait extrêmement plaisir mais dans lensemble je trouve que les batailles manquent de substance je pense que cest en partie due au fait quil ny a pas trop dunité spéciale comme des éléphants ou des chars ou même des chiens de guerres et quil ny a pas de bataille navales  point revu en edit après il faut tout de même respecter le contexte historique mais bon la partie bataille reste tout de même très bonne les duels entre généraux quand le jeu est en mode romance rajoute vraiment quelque chose de bon bonne idée à garder 
+
+en gros  sans conteste le meilleur total war au niveau de la carte de campagne par contre au niveau des batailles cest moins stratégique quun bon warhammer ou rome 2
+
+un très très bon total war franchement cest du très très lourd jespère quils vont continuer dans cette voie et que la page britania qui mavait fait perdre foi en ce studio malgré le fait que jadore la période abordée est bien tournée
+
+edit  après plusieurs maj et du contenu additionnel lajout de nouvelles cultures qui a au passage ajouté des nouveaux arbres techno chaines de batiments type dunité etc etc a ajouté une énorme variété dunité des tigres et des éléphants par exemple pour vous mettre leau à la bouche 
+
+#####
+
+total war three kingdoms est très probablement lépisode de la série le plus complet qui soit il propose non seulement une période historique originale et captivante mais aussi une scénarisation plus marquée que ses prédécesseurs qui fonctionne à merveille et simbrique parfaitement dans le système de jeu tout des batailles à la gestion de son territoire en passant par la diplomatie est merveilleusement réussi et pertinent
+
+hormis les quelques bémols soulevés en fin de test et le fait que lune des factions nest disponible quen dlc payant il ny a rien à redire sur cet opus qui simpose comme un des tout meilleurs de la saga dautant plus que le multijoueur certes classique satisfera les amateurs du genre un must have
+
+#####
+
+retour aux sources dans la plus pure tradition de la culture asiatique embellit de nouveautés vraiment sympa un regal 
+
+#####
+
+englishreally goooooood total war  best one so far  diplomacy improved  combat are gorgeous  the map is wonderfull and ritch 
+
+the only downside they missed aan opportunity to make it 3 players campain map
+
+francaisvraiment bon total war  le mellieur a date a mon avis  diplomacie ameliorer  les combat son magnifique  et la map est tres belle et riche 
+
+le seul default a mon avie  ils on manquer une opportuniter de faire la campagne multiplayer 3 joueur 
+
+#####
+
+très bon jeu enfin une diplomatie avec de nombreuses options comme le retour des échanges de territoires la vassalisation et lannexion pacifique de territoires des gouverneurs qui contrôlant les cités un système despionnage permettant de voler des villes ou des armées à ses ennemis peutêtre un peu plus complexe à prendre en main que ses prédécesseurs car on a plus dinformations affichées à lécran plus de menus et doptions de gestion mais ça  nest pas plus mal on sy fait vite 
+je vous le conseille vivement 
+
+#####
+
+avis dun vieux joueur de tw je suis cette licence depuis 1998  le premier est sorti en 2000
+
+une campagne avec cao cao en hardvh cest pas de la tarte  contrairement  à ce qui est écrit dans le menu campagne 
+il faut utiliser  à fond le système de diplomatie et despionnage plutôt bien fait et il est bon dans ce domaine le fourbe 
+un moteur usé jusquà la corde mais bien optimisé
+disparition des personnages stratégiques des batailles navales pour un gain de temps évident en terme de rythme de campagne 
+des personnages attachants avec une campagne romance qui  peut plaire ou pas 
+au final un excellent total war mais pas de quoi hurler au chef doeuvre comme je lai lu à gauche à droite sur les sites spécialisés 
+
+
+
+#####
+
+premier total war tres dur a prendre en main aussi bien au niveau economique que strategique
+
+#####
+
+je suis un ancien fan des total war mais les épisodes récents ne mavaient pas convaincus en cause la course aux graphismes et grandes armées sans tenir compte des temps entre les tours des lags etc du coup je ne mattendais pas vraiment à ce jeu
+après avoir vu quelques lets play jai été convaincu et enthousiaste et quelle claque 
+visuellement le jeu est beau avec une très belle patte asiatique et chinoise tout est parfaitement intégré 
+le fait davoir ce côté romance amène quelque chose doriginal et qui amène de nouvelles stratégies les duels sont une très bonne idée
+la carte de campagne et les factions sont variés avec des unités uniques et particularités qui donnent envie de tester toutes les factions et généraux
+bref le jeu est plein de bonnes idées et surtout il est quasi parfaitement optimisé quel plaisir de pouvoir enfin passer un tour ou charger en quelques secondes 
+je le conseille à tous les fans des total war ce jeu ma même réconcilié avec les combats en temps réel sega va dans le bon sens et jai hâte de voir la suite
+
+#####
+
+bon total war qui permet de faire des campagne à deux joueurs sans décidé avant que cela sera une victoire commune ou quil devront ce foutre dessus
+
+#####
+
+après avoir eu quelques déceptions lors des derniers total war britania et jen passe je ne peux que saluer la qualité de cette saga des three kingdoms efficace profond et une durée de vie gigantesque bravo
+
+ optimisation du jeu
+ le mode romance bien intégré
+ profondeur taille des cartes et des possibilités
+ faction avec des objectifs bien différents
+  au départ
+
+#####
+
+le retour aux sources de total war avec des chinois 
+
+après les épisodes warhammer 40k que jadorent nous retrouvons des troupes plus conventionnelles
+vos combats seront encore plus stratégiques avec la possibilité de jouer vos commandants comme de puissants champions capables de retourner une batailles à eux seuls ou au sein de leur régiment comme les total war plus anciens vous aurez encore plus de types dunités différents chacun avec leurs avantagesinconvénients
+
+si vous jouez dans loptique dêtre le plus optimisé possible vos troupes ne vous suivront plus tout le long de la campagne mais devront être remplacées au fur et à mesure que vos commandants gagnent des niveaux ajoutant par la même occasion plusieurs stratégies en fonction des besoins
+
+la partie empire se trouve elle aussi renforcée où la gestion de la nourriture est encore plus primordiale quavant surtout si vous avez la mauvaise idée denvahir en hiver avec peu de réserves de nombreux bâtiments différents sont également présents avec un modèle unique par faction
+
+la diplomatie est toujours aussi importante où vos voisins noublieront pas rapidement vos trahisons vos alliances voir même vos traités commerciaux pour les plus belliqueux faites attention à vos espions sils se font prendre vous pouvez être certains de retombées négatives
+
+dun point de vue esthétique la carte est magnifique retranscrivant les différents climatsreliefs de la chine vous obligeant à prévoir les mouvements de troupes avec plusieurs coups davance
+
+en bref toujours plus de stratégie toujours plus de plaisir 
+
+#####
+
+edit 240222  je recommande finalement ce jeu avec deux mods indispensables pour que les batailles de jour se déroulent vraiment  de jour  httpssteamcommunitycomsharedfilesfiledetailsid2373839865searchtextfog   httpssteamcommunitycomsharedfilesfiledetailsid2446822730searchtextfog
+
+après avoir refait 2 nouvelles parties je peux affirmer que ce tw est avec thrones of britannia le plus abouti en terme de fluidité et dabsence de bugs
+le gros point positif est la politique et les nominations où il y a enfin une utilité de nommer des personnages à des postes hauts placés en fait juste les héros légendaires recrutés à lennemi pour éviter quils ne deviennent déloyaux   si il ny a plus de postes disponibles il est toujours possible de leur décerner un titre honorifique qui vont booster leur stat et leur loyauté nous sommes à des années lumière du système politiquesic de rome 2 
+
+je ne reviendrais pas sur le concept de ce titre avec les unités fidèles au général les duels etc   cest juste extra
+
+franchement un des meilleurs tw de ces dernières années
+
+urlhttpssteamcommunitycomidgoontyscreenshotsappid779340sortnewestfirstbrowsefiltermyfilesviewimagewallquelques screen par votre serviteururl
+
+on ma souvent demandé en commentaire le mods pour avoir davantage de skins pour les généraux  cest içi  httpssteamcommunitycomsharedfilesfiledetailsid2500130962
+
+
+ancienne éval de 2021 le jeu serait sympa si 9 batailles sur 10 ne se déroulaient pas de nuit avec une météo horrible qui gâche absolument le plaisir de chaque bataille  pas de bouton attendre comme dans les précédents tw
+je jai jamais eu un beau soleil comme sur les screen présentés sur la page du magasin
+après 50 h à jouer toutes les batailles de nuit en fait cest ambiance 5h du mat avec grosse brume si il ne pleut pas vous avez de chance  pas de mod à jour pour corriger ça jarrête définitivement ce jeu
+
+sur de nombreux des aspects que je ne vais développer ici par flemme je dirais que cest un soft clairement destiné au public asiatique qui na pas les mêmes goûts en terme desthétique et nattend pas forcement les mêmes fonctionnalités que nous autres occidentaux
+
+
+
+bonus  urlhttpssteamcommunitycomsharedfilesfiledetailsid3007304721carte de tout total warurl
+
+#####
+
+ce jeu est le meilleur total war que je connaisse
+
+#####
+
+juste excellent
+
+#####
+
+jadore ce total war three kingdom 
+
+jadore jouer en mode romance les généraux sont beaucoup plus résistants et le jeu est bien plus fun mais on peut tout de même les tuer avec des unités classiques le jeu joue beaucoup dans lexagération en terme danimation de combat les unités volent souvent quand elle se prennent des coups des fois les généraux font des cabrioles inutiles mais bon ça me dérange pas car ça me fait penser au cinéma de films historiques asiatiques où les héros font des arts martiaux et cest cool oui jadore la possibilité de choisir entre le mode romance et le mode historique ça devrait exister sur dautres total war car je préfère un général que je vais réellement jouer que laisser en arrière des combats en spectateur de peur de le perdre dans les combats hormis sur total war rome 2 où jai aucun scrupule à les envoyer dans la mêlée car ils tiennent le choc 
+
+jadore les petits détails comme la poussière sur les tenues des personnages après une chute de cheval ou une roulade ce que jaime moins cest les design dunités qui sont parfois trop proches les uns des autres et faut se repérer avec les bannières bannières qui des fois cachent les combats car présentent en grands nombres les décors sont jolis et on a envie dutiliser le terrain à notre avantage cest cool dobliger les ennemis à traverser des rivières ou de la boue tout en les canardant avec des flèches ou les cramer en mettant le feu a une forêt 
+
+ce total war nous plonge dans la mythique période des trois royaumes vers 220280 avant ec et non pas dinvasion mongole car ça cest vers 12051279 javoue jaurai bien aimé explorer ces dates là ou aller jouer des batailles dans la corée de la période joseon 13921897
+
+je regrette de pas avoir de mode romance sur total war shogun 2 car jaurai aimé voir des duels de samouraïs épiques entre généraux comme sur total war three kingdom le nouveau système darmée divisée en régiment commandé par un général est au début déroutant mais cest finalement très intéressant en plus des duels en mode romance les généraux nous apportent leurs lots dunités qui sont parfois unique au personnage ou à sa classe par exemple si vous voulez déployer des trébuchets il va falloir ajouter un général de classe stratège qui nest pas vraiment un combattant à son armée pour être sûr de remporter les duels ils va falloir un personnage qui est bon en mêlée comme un personnage de classe champion 
+
+les nouveautés peuvent faire peur aux fans de total war certes mais moi jaime ces nouveautés même si jai eu un peu de mal au début ce total war est sublime et mérite quon lui donne sa chance puis ça mempêche pas daimer aussi lexcellent total war rome 2 heureusement que tout les total war ne se ressemblent pas ça serait dun ennui  je recommande total war three kingdom que je considère comme lun des meilleurs total war à côté de rome 2 et shogun 2
+
+#####
+
+cest de la bombe jouez y avec radius et kiffez comme jamais
+
+#####
+
+cétait un pari risqué de partir en chine pour ce total war mais sa marche très bien les paysages et larchitecture général du jeu sont magnifiques les généraux de factions sont super charismatiques les batailles épiques avec lajout des duels chorégraphiés entre généraux avec nos troupes qui se battent autour cest juste plaisant à regarder une superbe époque bien retranscrite par ce total war
+
+#####
+
+best total war ever
+
+#####
+
+très immersif et vraiment complet jétais completement perdu au début puis petit à petit je trouve mes marques et étant un joueurs des dynasty warriors depuis les premiers le plaisir de retrouver lhistoire des trois royaumes sa rapelle les versions empires des dynasty  
+petit clin doeil au vieu jeu dragon throne aussi 
+
+#####
+
+excellent jeu  digne de la saga des total war  je recommande vivement  bien que les unités ne soient pas très diversifiés entre les différentes factions cest compensé par le système de gestion et politique ayant reçu une belle évolution par rapport à rome ii la direction artistique est top la musique est excellente également voire relaxante ce qui est un comble pour un jeu qui sappelle total war mais en tout cas rien à redire là dessus si on parle graphismes je rejoins lavis de la plupart des journalistes et de certains joueurs en disant que le moteur graphique commence à dater mais cest un détail tant le reste rend le jeu addictif
+
+#####
+
+très bon jeu le plus abouti des totalwar sur la diplomatie une histoire immersive au top avec le mode romance
+en moins  lia est pas ouf pour autant en stratégie guerrière et se ferra prendre facilement en embuscade
+cest un jeu total war et donc a lachat nest pas entier et il vous faudra payer beaucoup dextension pour pouvoir voir toutes les unités du jeu et les factions
+
+#####
+
+lu bu 
+
+#####
+
+nice and fair mix between total war warhammer and the three kingdoms saga
+if you like both you should spend time on this total war opus
+
+si vous êtes fan de total war varhammer ou de la legende des cinq rivières vous allez aimer 
+cest un subtil mélange entre la gestion des anciens total wars et les célèbres romans série film jeux chinois
+
+#####
+
+pour linstant je nai joué quune campagne avec sun jian et cest déjà mon tw préféré
+
+la partie a commencé normalement je grignote petit à petit les territoires de lempire han mon fils se joint à moi dans la bataille puis ensuite son ami zhou yu je joue assez agressif et les différentes factions autour de moi commencent à sallier pour se défendre je mentends bien avec mon voisin cao cao et son allié liu bei et je vassalise yuan shu que jannexe très rapidement cao cao men veut et commence à coloniser les territoires de la côte et entourer mes terres après une course pour bloquer son expansion je deviens suffisamment puissant pour devenir roi et mautoproclamer empereur cao cao et liu bei font de même et ce dernier me déclare la guerre 
+jai des ennemis au sud au nord ouest et nord est je fais courir mes généraux partout pour essayer de bloquer mes ennemis je profite de mon nouveau statut pour vassaliser diplomatiquement plusieurs petites factions notamment le fils de dong zhuo malheureusement alors que liu bei masse dénormes armées et que je dois contrer une de mes armées se fait attaquer par des turbans jaunes je perds la bataille de peu et zhou yu se fait capturer et exécuté larmée est en piteuse état avec un général survivant qui réclame vengeance pour son ami pendant ce temps lui bei continue de mattaquer et cao cao nous regarde nous détruire 
+jaurais pu faire la paix à ce moment là avec les turbans jaunes pour éviter davoir trop de front surtout que je nai rien dans les environs pour contre attaquer mais il faut venger zhou yu alors je lève en vitesse une nouvelle armée jignore liu bei et je lance deux armées à peine constituer contre la forteresse des turbans jaunes eux aussi on amasser des troupes et ils essayent de briser mon siège ils ont 2300 hommes contre mes 1300 les deux généraux sont des némésis chacun voulant venger la mort dun de ses amis 
+la bataille na pas beaucoup dimportance dans la guerre pour lempire mais le jeu se déroule comme une histoire avec des trahisons et des alliances inattendues des héros qui survivent dans des circonstances inespérées et dautres qui meurt lorsque lon sy attend le moins la création des trois royaumes est organique et la tension augmente chaque tour cao cao va sûrement mattaquer dun moment à lautre
+
+le jeu a quand même des défauts surtout lia des batailles jai pu gagner avec 4 troupes de garnison contre une armée avec trois généraux certes pas en très bonne état mais ils étaient en surnombre sauf quils ont divisé leur armée en trois parties et jai pu les prendre une à une 
+elle a aussi des problèmes avec la cavalerie jai gagné une bataille avec sun ce trois unités de cavalerie deux unité darchers et une de lanciers contre 4 fois plus dhommes en baladant le gros de larmée ennemi avec mon général et une unité de cavalerie pendant que les autres attaquaient les unités qui se séparaient du reste cétait censé être une défaite décisive je risquais la mort de mon héritier alors je lai joué et ça a fini en victoire héroïque
+
+aussi il ny a pas beaucoup de diversité dans les unités et jai limpression que cest pour nous vendre plein de dlc vu comme les turbans jaunes ont leurs propres troupes jespère que cest plutôt dû au fait quil ny avait pas beaucoup de différence entre les factions mais jai un doute
+
+il nempêche que le jeu est excellent et sûrement un des meilleurs total war
+
+#####
+
+total war différent des autres et il était temps 
+
+#####
+
+plaisant  sans plus  pas de réel innovation dans le gameplay  jai limpression que la série commence a perde de son prestige  les dlc a répétition font aussi que les total war son les maître dans la vente de jeux en kit 
+ combat de champion sympathique 
+ les bataille grandiose 
+ graphisme 
+je recommande donc  mais avec retenue 
+
+
+
+#####
+
+un jeu dont la perspective ne me plaisait pas vraiment mais qui a su me surprendre malgré tout 
+ce jeu najoute rien de vraiment nouveau a la franchise a part au niveau diplomatique meme si ca reste assez trivial et que les options sont tres limitées
+au niveau de la carte de campagne cest plutot assez deroutant vu quil ny a aucun continent et aucun endroit type auquel se référer mais ca permet justement limmersion dans un monde qui suscite le chaos et dont on ne controle pas le destin cest donc un point positif lenvironnement est beau et agreable
+au niveau des batailles lia en mode tres difficile nest pas stupide et sait prendre des decision interréssante par moment et pour ce qui est des animations de combats les collisions entre les psg reste encore a amelioré meme si cest bien mieux que ses predecesseur et je dirais que ca ressemble un peu au systeme de combat dans rome total war 1 qui avait instauré le meilleur des systeme meme a son époque pour info le systeme de combat pour faire une comparaison brève dans rome2 totalwar puis dans les jeux de la franchise qui ont suivi lorsque deux groupes de combat rentraient en melé eh bien chaque combattants faisait son duel dans son coin sans que le moindre soldat puisse intervenir entre eux ce qui a mis une grosse claque a la stratégie et le réalisme pour ce qui est tktw le jeu reprend la mécanique bien ancienne qui consite a mettre en scene des combats dont laspect numerique impactera grandement sur lissue du combat entre chaque corps darmée
+mais malheureusment cela ne suffit pas puisquil reste quelques incoherances conditionnelles je mexplique par exemple lorsque 3 soldats sont entrain de se battre contre un meme soldat et que lun des trois est derriere lui et lui inflige des coups celui ci ne reagit qua certain coup porté comme si il avait un retard au stade de la prise en compte du coup normalement fatale qui lui etait porté dautre cas du meme genre sont a denoté ce qui casse legerment le volonté de realité des batailles achetez le quand meme il est cool le discord si vous voulez jouer a ce jeu ou que vous vouliez obtenir plus dinfo relative a celui ci httpsdiscordgg25cxf4 si seulement les developpeurs etaient resté sur leur idée de base dans les combat de melé qui faisaient parti inclue des premier total war tel que rometotal war et medieval 2 total war ces jeu ayant adoptés un systeme de combat au sein des 
+batailles des plus ingenieux alors jaurai une question poourquoi repenser le systeme de combats ingenieux des anciens total war cité precedemment alors que vous aviez la clé de la reussite de toute la franchise total war jusqua aujourdhui tres triste de voir la charme et la touche artistique jadis presente et qui en faisait sa singularité il me faudrait expliquer et analyser pendant des heures et encore de maniere synthetique pourquoi la franchise sombre dans le commun des jeux ou plutot le commun des mortels puisque je ne crois pas en la perenité des nouveaux total war depuis rome ii total war qui a lancé cette nouvelle mode pour imager a travers une analogie medieval 2 et rome premier du nom total war est a rome2 total war et la suite de cette franchise ce que le livre est a la liseuse
+jai pas trouvé mieux pour lanalogie mais je suis preneur pour celui qui men proposera une meilleur
+
+explications et analyse du gros point faible de tree kingdoms total war 
+
+#totalwar threekingdoms teamdeveloper  pourriez vous reprendre les anciennes mecaniques de combats bien plus réaliste de medieval 2 totalwar2006 et rometotal war2002 qui avaient adopté un système de combat en melé dans lequel chaque unité pouvaient se confronter a plusieurs soldats simultanément ce qui permettant aux combat en melé detre plus représentatif de lexposition de chaque soldat a une menace constante
+autre point tres negatif qui lest imperatif de corriger si vous souhaiter que le jeu perdure comme medival 2 totalwar qui possède actuelement le meilleur systeme de combat en melé dans les batailles grandioses proposé par celuici donc tout cela pour en venir aux combats sur le champ de bataille qui malgré sa dynamique ne cache pas le defaut de la cohérance des combats a léchelle des soldats qui peut savérer etre embarrassante lorsque les attaques et les parades ne sont pas toute synchronysées selon les réactions et les choix de style de combat dun soldat contre un autre soldat les réponses aux attaques consécutives dun adversaire au sein dune melé ne sont pas toute parées et lorsquelles ne le sont pas ladversaire ne réagit pas et ne se fait meme pas mettre a terre ou déséquilibré par le coup normalement transpercant ou blessant infligé par son adversaire jai aussi remarqué que lorsque les deux soldats se retrouvent admettons en duel si les deux lancent une attaque simultanement a part si cellesci sont envoyé dans la meme direction a ce moment la elles sentrechoquent et provoquent une interruption au cours de lattaque mais sans cet événement les deux attaques simultanées émisent par les deux guerriers saffrontant  donc celle de notre soldat et de son adversaire atteignant  pratiquement au meme moment le thorax des deux combattants ne provoque aucune réactions de part et dautre comme si les coups que chacun avaient infligé a lautre au meme moment navaient eu aucune gravité
+les points positifs étant le non recyclages des animations de combats des anciens total war qui étaient nul puisquelles illustraient une répétitivité meme si jai bien peur que total war three kingdoms ne deviennent répétitif au niveau des animations de combats en melé  je compte sur les développeurs pour amener une harmonie aux combats en melé merci et continuez vos mise a jour je suis optimiste quant a la pérénité de ce jeu possèdant un potentiel stratosphérique 
+
+#####
+
+batailles dantesques entre armées et duels épiques entre généraux gestion du royaume et des affaires diplomatiques des relations avec les nobles de votre cour et des aptitudes martiales de vos commandants darmée mariages et descendance complots et espionnage si la réputation de la licence sest construite autour des batailles avec le temps elle a fini par étoffer les mécaniques extérieures à cellesci en se donnant un petit air de crusader kings qui nest pas pour me déplaire même si évidemment on est à mille lieux de la profondeur de ce dernier pour tout ce qui est horsbataille
+
+petit hic cest difficile de sy retrouver vu que tout le monde se ressemble
+
+la campagne quant à elle est riche de contenu bon nombre de personnages sont jouables chacun offrant une position et une situation différente mais également un gameplay différent  
+
+list
+ cao cao génie stratégique est tourné vers la diplomatie et les frappes subtiles réduisez les relations de vos ennemis avec les autres factions diminuer ses réserves de nourriture exposer ses espions réduisez les déplacements de ses généraux
+
+ dong zhuo tyran sans coeur usera dacte de cruauté pour accroître son pouvoir rasez les villes et exécutez vos propres courtisans pour que tous vous craignent afin de maintenir lordre public
+
+ zheng jiang bandit implacable vivra de ses actes dinfamie et devra faire preuve dune expansion agressive pour maintenir la satisfaction et le moral de ceux qui la suivent et gagner le prestige nécessaire pour devenir impératrice tout en gardant à lesprit que plus elle progressera en ce sens plus ses relations avec les autres factions seffondreront
+list
+
+et il existe ainsi plus dune dizaine de personnages sans même prendre en compte les dlc offrant chacun un style de jeu propre 
+
+à cela sajoutent les événements qui parsèment la campagne dont certains sont scriptés et calqués sur les faits historiques et pour lesquels on vous donnera parfois un choix à faire entre suivre la trame de lhistoire avec un grand h ou prendre une décision uchronique selon ce qui vous semblera le plus avantageux sur le moment 
+
+tout ceci contribue à faire de la campagne de three kingdoms une totale réussite
+
+#####
+
+pour une fois que je réussis la compagne dun total war il était temps  ce total war est à limage des autres  excellent on est jamais déçu avec ce studio
+
+#####
+
+un très bon total war avec de bonnes idées pour renouveler le genre   loptimisation nest pas dégueu comparé aux autres tw warhammer2
+
+#####
+
+le meilleur total war  la diplomatie na jamais été aussi complète
+
+#####
+
+très très bon pour moi musique excellente campagne excellente bataille excellente rien à dire à part au début
+
+#####
+
+peutêtre le meilleur total war à ce jour
+malgré moins de diversités graphiques dunités et un jeux uniquement centré sur la chine combat que terrestre le jeu est extrêmement complet sur tous les points et a une difficulté élevée lune de mes meilleurs expériences total war
+
+#####
+
+formidable si ont aime les trois royaume et dynsasty warrior et la chine au temps des vrais guerrieret  si lont aimes les total war évidement
+
+#####
+
+very good game
+
+#####
+
+je ne vais pas faire une évaluation trop longue de nombreuses personnes ont déjà apportées beaucoup dinformations de qualité je suis un amateur des total war depuis longtemps et pour moi total war three kingdoms fait partie de mes favoris différents styles de jeu en fonction de la faction choisie une histoire riche le côté romancé ne ma guère gêné et la gestion de la famille du clan quon incarne est assez plaisante sans être excessivement lourde 
+
+je recommande ce tw autant pour les anciens que pour les nouveaux en sachant que des dlcs étoffent et étofferont davantage le jeu a ne surtout pas éviter 
+
+#####
+
+bon je commence à avoir quelques heures en fait je vais faire comme dhabitude avec ca attendre que les moddeurs aient fait des trucs sympas après 2 patchs sensés corriger ce putain de yuan shao qui vassalise le monde cest toujours pas le cas et puis même globalement il manque des trucs lia est complètement débile en bataille encore et cest inmoddable ça trouvez vous des gens pour jouer en custom mais très correcte en campagne après elle tombe dans toutes les embuscades ou presque donc la limite est vite atteinte pour le désign cest de la bombe lemballage est croquant le jeu est fluide à souhait les batailles sont dynamiques et sympas lidée des types de généraux est sympa elle aussi on sent que total war  arena les à inspirer dune certaine manière le mode romance est drole mais complètement pété niveau réalisme le mode réaliste est sympa si tes fan de dynasty warrior et que le réalisme tu ten balance cest joussif en romance et si tes un puriste lautre est fait pour toi la fatigue des unités est réaliste perso je suis un puriste mais  romance quand même cest fun par contre je comprends pas lissu de certains duels et linterface de comparaison est pas super bien fichue pour le gameplay campagne on perd les agents on gagne lespionnage les agents sont vitaux dans tww pour leur aspect héroïque mais globalement cest une perte de temps énorme et une gestion horrible en multijoueur et tk est très multiplayer friendly la campagne à un gros rythme la course au throne est violente le mode légendaire tient ses promesses car on ne ressent pas que cest du surbuff dia pété après je vais lui remettre une petite centaine dheure et je reviens ah ils nous ont encore fait payer le sang les enfoirés
+
+#####
+
+un bon jeu pour conquérir annonay néanmoins prenez garde au grand malik qui mène la faction docteur barry car il est extrêmement redoutable
+
+#####
+
+its a beautiful work of art
+
+#####
+
+ chan x chan ai  chiki chiki ban ban   
+
+ ai  chiki chiki chan chan aa  chiki chiki ban ban 
+
+ ai  chiki chiki ban ban ai  chiki chiki ban ban 
+
+ ai  chiki chiki chan chan aa  chiki chiki ban ban ai  chuki chuki      
+
+dites vous que je mets cette musique quand je conquis la chine     
+
+jai apprécié shogun 2 jai aimé ce three kingdoms  
+ce total war a des fonctionnalités uniques et a même des options bien plus améliorés que ses prédécesseurs a y jouer en solo tout comme à deux en ligne  vous passerez un long et bon moment à essayer de conquérir la grande chine 
+
+#####
+
+la guerreeeee
+
+#####
+
+stratégie militaire très poussée relation diplomatique a approfondir
+
+#####
+
+vous me demandez mon avis super jeu
+
+#####
+
+bien
+
+#####
+
+un total war difficile à apprivoiser mais néanmoins très réussi 
+la complexité de la diplomatie qui est remarquablement développé la gestion des cités des personnages la variété des unités les possibilités tactiques la série a fait un formidable pas en avant avec cet opus
+jajouterai à ça lia qui représente un véritable challenge même en très difficile
+
+#####
+
+jeu de stratégie qui met en avant des options jamais  vu dans un total war linfiltration corruption  
+la qualité graphique du jeu est magnifique il est plus agréable de négocié car lia est plus ouvert aux échanges et des nouvelles propositions donne une autre vision dun jeu de stratégie basique où le combat reste la seul issu
+
+#####
+
+un jeu excellent mêlant stratégie militaires et négociations poussées on ne voit pas le temps passer 
+
+#####
+
+truc de ouf
+
+#####
+
+tres bon jeu
+
+#####
+
+un très bon jeu on y trouve les mécaniques classiques de 4x 
+sur le champ de bataille diriger les armées est vraiment simple et plaisant la tactique est très importante pour remporter la bataille même en souseffectif il est possible de gagner si la stratégie choisie est correcte
+la diplomatie et la gestion du trône sont très importantes et à ne pas négliger pour arriver à ses fins cela nempêche pas de pouvoir user de la force également pour faire plier les factions ennemies
+linterface est très agréable et plus intuitive je trouve que celles des anciens total war
+les graphismes sont jolis avec pas mal de détails pour ce genre de jeux lhistoire sympa la durée de vie très très longue après plus de 40h je ne suis toujours pas empereur sur mon premier scénario
+même lorsque tout semble perdu changer de stratégie et nouer des liens avec les autres factions peuvent radicalement changer la donne
+je ne regrette pas du tout mon achat
+
+
+#####
+
+le meilleur total war depuis shogun 2 mème si je déplore labsence de batailles navales et des forteresse avec plusieurs niveaux mais le batailles sont rythmée un peu plus longue que dans le warhammer et la campagne assez passionnante je recommande ce jeu  c un très bon total war
+
+#####
+
+très bon jeu total war 
+
+#####
+
+actuellement ses lun des meilleurs total wars  auquel jai pu jouer même si je suis un peux déçu du manque de cinékill je ladore je le recommande chaudement
+
+#####
+
+un des meilleurs total war pour moi le jeu centre sur la chine ancestrale et superintéressante niveau graphisme le jeu sest amélioré 
+lun des seuls bémols du jeu est la diversité des troupes qui reste assez pauvre mais ce qui est normal car nous ne sommes pas dans un monde fantastique comme total war wharhammer
+
+#####
+
+beau graphisme et nouvelle mécanique agréable
+
+#####
+
+bon jeu 
+
+#####
+
+sympa
+
+#####
+
+très cool
+
+#####
+
+la synthèse idéale de tout les total war historiques et non historiques
+
+#####
+
+best ttw ever
+
+#####
+
+si on a affaire à des chinois de chine la cest différent
+
+#####
+
+jétais septique au début rejouabilité variété des unités etc mais la refonte des différentes options de total war diplomatie dynastie provinces rends ce jeu indispensable
+vivement troy
+
+#####
+
+fuck the devs for ruinning this game
+
+#####
+
+jattendais ce jeu avec une grande impatience
+jai cependant été assez déçu sur certains points et agréablement surpris sur dautres
+
+
+
+mes points négatifs 
+
+ les batailles terrestres
+le meilleur totalwar étant pour moi rome 2 jai beaucoup de mal à madapter aux différents mouvements des unités sur ce three kingdoms qui se rapprochent énormément des systèmes de déplacement des warhammer que je nai pas aimé
+
+ labsence de bataille maritime en soit cest la chine et on a pas beaucoup dinfos sur eux niveau maritimes ils ne se sont pas forgés un nom pour leur batailles navales mais tout de même on aurait pas craché dessus
+
+ crash du jeu souvent notamment si vous faites un retourwindows durant les temps de chargements qui restent tres longs pour les campagnes multijoueur soyons honnêtes
+
+
+
+les points positifs 
+
+ des graphismes au top sur ce point rien à dire
+
+ des nouvelles mécaniques et intéractions avec lenvironnement en bataille bien sympa
+
+ le système de diplomatie est vraiment poussé très loin et influe beaucoup plus le jeu quavant en tout cas de ce que jai connu donc jai été agréablement surpris sur ce point 
+
+ les factions je nai pas encore testé tout le monde ont lair dêtre assez équilibré on na pas de faction op par rapport aux autres
+
+
+pour conclure
+je suis encore loin davoir tout découvert mais pour linstant je pense quil devrait tenir 100200hrs de jeu à voir ce quils proposent en dlc si ça vaut le coup
+le jeu propose des choses nouvelles mais aussi du réchauffé qui me déplaît énormément surtout venant de tw warhammer mais qui plaira peutêtre à dautres
+le jeu en multi reste assez horrible temps de chargement trop longs nombreux freezes durant les 1v1 ou les campagnes multi donc si vous voulez vraiment faire une campagne à plusieurs je recommande dinstaller le jeu sur ssd et davoir une connection solide pour éviter dattendre trop pendant les chargements et davoir des ralentissementsfreeze en bataille
+
+
+#####
+
+je joue au total war depuis le premier medieval et cela fait 51 heures que je joue à three kingdoms depuis sa sortie 
+je considère cet opus lun de mes préférés et de loin cela reste purement subjectif
+
+les graphismes  des graphismes acceptables sans plus cependant les teintes de couleurs le style sont les aspects qui tape à loeil et qui rend à cet opus sa beauté visuelle le coté grandiose donné aux détails sur la map campagne avec ses immenses montagnes ses fleuves rendent également le tout majestueux pleins de petits détails pendant les batailles comme les drapeaux de faction au vent leffet de lumière et jen passe tous cela ajoute au charme
+
+diplomatie  lune des diplomaties les plus développées dans un total war et le tout est cohérent lorsque quon prend en main son fonctionnement cela a donné lieu à des intrigues à couper le souffle depuis le début de mes campagnes le système despionnage qui donne une sensation de se trouver dans un épisode de game of thrones ou presque
+
+interface  nouveau rafraichissant besoin dun temps dadaptation au début afin de cerner le fonctionnement
+
+optimisation  première fois que je considère quun jeu total war est si bien optimisé dès sa sortie je roule à ultra avec quantité dunité extreme avec un i7 4790k 16 gb ddr4 gtx 970 et un ssd jai eu plus de 10 000 unités à lécran et le fps varie entre 30 et 60 aucun bug à ma connaissance jai planté une fois dans une campagne multi mais cest tout assez surprenant 
+
+les aspects négatifs  lai en bataille qui parfois reste simplement là à se faire tuer par mes tours par exemple ou à tourner en rond dans une ville avec ses généraux sans savoir ce quil fait pendant que leurs hommes auraient besoin deux en plein combat on observe ces incohérences en contexte de siege surtout en campagne la diplomatie peut etre parfois surprenante en revanche 
+
+les tours de siéges beaucoup trop meurtrières les archers trop efficace et la cavalerie un peu lente gagnerait à être optimisé
+
+ces détails peuvent être corrigés dans le futur 
+
+je donne un 9 sur 10 à three kingdoms ca nous a pondu un petit bijou qui se déroule à une époque de héros et de légende tout à fait charmante
+
+#####
+
+jai joué à tw shogun2 et testé attila mais je nai jamais été conquis certains points me plaisent mais beaucoup dautres non jai pris celuici car la période historique me plait ayant joué à beaucoup de dynasty warriors et ayant lus la romance  il fallait que je test quand bien même le genre ne me plait pas tellement trop lent trop de gestions inutiles et un mode combat qui me révulse pour finir
+
+je nai joué quà la campagne mais elle a suffit à me retenir plus de cinquante heure donc bon je dirais paris gagné pour le jeu même si au début jai dû maccrocher dur pour comprendre les bases et mhabituer
+
+je naime toujours pas le mode combat cette prise en main nest pas faite pour moi cest trop le bordel et la gestion des troupes plus de la caméra est vraiment spéciale on doit toutefois y recourir car pour je ne sais quelle raison lia perd souvent sans raison des combats que même un nullard comme moi parvient à remporter en prenant les commandes et cest dun frustrant 
+
+pourquoi ty joues couillon si taimes pas les combats en temps réel  
+ben en fait à force den faire peutêtre que je my habituerais et en prendrais du plaisir à force de maméliorer qui sait en attendant ce qui me retient sont les gestions géopolitiques et tactiques qui sont très riches dans ce jeu même si beaucoup de choses ne sont pas encore claires dans mon esprit japprécie également le contexte que je trouve assez bien retranscrit même sil y a du faux  et même si les dèvs auraient pu mieux lexploiter  on est content de pouvoir jouer autre chose que les confédérés comme les gouverneurs ma teng ou même liu biao ou encore le tyran dong zhuo même si sa campagne est une horreur de difficulté comme celle des gilets jaunes
+
+concernant le côté technique ça tourne très bien chez moi malgré les longs temps de chargements jai crash une seule fois et cétait avant le fix
+
+les graphismes nont guère évolués depuis shogun 2  cest pas très beau mais cest pas laid non plus
+
+je crois avoir fait le tour pour ma part je le conseil rien que pour sa durée de vie quand on aime on a du mal à décrocher on se dit toujours aller un dernier tour pour au final rester bien plus
+
+#####
+
+ce jeu est un potpourri de tout ce qui se fait de bien dans les total war et les principales améliorations et nouveautés se trouvent sur la carte de campagne le gros point fort étant la diplomatie qui offre beaucoup plus de possibilités quavant a défaut dêtre révolutionnaires les batailles sont très réussies environnements magnifiques je trouve difficile de faire plus spectaculaire et varié que warhammer mais pour linstant le plaisir de jeu est là hâte de voir les possibilités de modding
+
+
+
+#####
+
+je nattendais pas ce jeu mais les lets play mont donnés le goût de lessayer on retrouve enfin un vrai total war sans magie et dragon je ne veux pas faire une liste des défauts ou des perfections du jeu je vous le recommande parce que je laime une beauté graphique avec des guerres spectaculaires et des conquêtes épiques je vous le conseil grandement si vous aimez les total war
+
+#####
+
+ouch la claque dans la gueule je mattendais a un total war historique classique et finalement cest très différent déjà le système de création darmée qui est un peu étrange mais finalement assez intéressant mais surtout le gros point positif cest la diplomatie et la gestion de la faction 
+
+laissez moi vous raconter lhistoire de ma partie je commence et je joue guongsun zan au nordest de la chine assez vite jélimine guongsun du je crois ainsi que mon ancien mentor je récupère leur territoire et je grandis je décide alors daller chasser des brigands dans les montagnes a louest la mer me bloquant a lest et yuan shao me bloquant au sud quelle erreur  jétais trop centré sur un total war classique mon isolement au nordest mempéchait de trouver des alliés fiable je nallais quand même pas mallier a yuan shao qui me bloque au sud  donc lorsque les bandits a louest se sont retrouvé vassaux de yuan shao jétais un peu niker mais qua cela ne tienne  je réunis mes forces tout semble parfait yuan shao est donné clairement vainqueur mais si je la joue fine je peux essayer de lemporter 
+quel désastre  mes armés se sont littéralement battu a 3 contre 6 mes hommes étaient a 1 contre 7 je me suis fais rouler dessus et jai du reculer les nombreux vassaux de yuan shao mempéchait de prendre lavantage numérique cest alors quil arrive lui yuan shu rival de son frère il me propose une alliance  merveilleux  cétait exactement ce quil fallait les troupes de lalliance de la lune sombre sont obligé de se couper en deux pour maffronter moi au nord et yuan shu au sud lalliance de la rivière jaune grandit rapidement pour accueillir liu bao et un peu plus tard dong min successeur du terrible dong zhuo ainsi que son vassal les restes de lempire han pour moi cest la renaissance je peux enfin contreattaquer et reprendre les cités et les colonies perdues mais très vite les choses se stabilisent il semble que ni moi ni mes alliés ne parvenont a prendre lavantage le saligaud avant très bien et ses vassaux ne sont pas a prendre a la légère  
+cest alors que le miracle intervient le terrible lü bu rejoint mon armée gongsun zan zhao yun et lü bu dans une armée xiahou yuan gongsun xu héritier et une dame dont je ne me souviens plus du nom dans lautre nous arrivons a bloquer larmée de yuan shao le combat est rapide nous sommes largement en surnombre et rien ne résiste a la colère de lu bu  victoire yuan shao capturé je léxécute immédiatement 500 pièce ne suffisent pas a ce que je libère cet adversaire tenace yuan tan reprend la main mais il est moins doué que son père la guerre continue mais cest alors que sun ce rentre dans la partis et prend yuan shao comme son vassal trop loin et tout aussi puissant que son nouveau vassal jabandonne la lutte et je vais mattaquer aux anciens vassaux de yuan shao désormais libre de leur ancien maître devenu esclave lalliance de la rivière jaune change de nom et devient lalliance de la grue élégante nous sommes pourtant loin dêtre les maître de la chine 
+
+en bref ce que je peux regretter jusque là cest dabord que ma première partie a du sarrêter assez vite a cause dun bug daffichage la caméra refusait de montrer la carte et préférait afficher des nuances de bleus et aussi lennemi nose pas attaquer mes places fortifiée autrement que lorsquils sont 3 armées ce qui rend la défaite inévitable et qui ne fait que me motiver a déléguer la bataille pour gagner du temps 
+
+en bref cette partie est ma première vraie et longue et je ne suis clairement pas déçu de ce jeu  même si je pourrais tout a fait men passer puisque le jeu est excellent jattend avec impatience louverture du marché des mods pour voir ce que la communauté a de magnifique a proposer
+
+edit  attention toutefois un bon moment après la sortie du jeu il existe pas mal de bug
+
+#####
+
+excellent pour le moment le jeu est beau optimisé oui oui très complet avec énormément de nouveautés un vrai régal 
+
+#####
+
+après installation impossible de lancer le jeu blocage sur lécran titre au fonds noir jai essayé toutes les manipulations trouvées sur internet impossible de le lancer déçu car jai payé 81 de jeu et de dlc pour ne pas pouvoir jouer pour le moment toutes les mises à jours sont faites steam pc avast etc
+a quand une solution 
+
+#####
+
+ce jeu n est pas un total war  normal   car il est vraiment reservé pour le marcher chinois et est franchement un dynastie warrior 
+je le deconseille fortement à toute personne qui à aimé les total war jusqua attila
+
+#####
+
+dynasty warrior 
+
+#####
+
+jeu très bien niveau graphisme ainsi que de la prise en main il mélange extrémement bien la gestiondiplomatie ainsi que les batailles en temps réel par raport aux anciens opus
+
+#####
+
+cette saga de total war est vraiment a détacher des autres un systeme trés différent qui peut être déroutant au départ jai étais dans ce cas mais au fil du temps on y prend goûtque se soit les batailles ou la court avec les nobles et notre famille qui sagranditdonc je le conseille pour tout fan de total war cest un trés bon opus
+
+#####
+
+alors pour ma part le jeu a vraiment évolué de la bonne manière 
+
+les  
+ le système très poussé de lespionnage infiltrer en tant que général voir même en tant que femme du dirigeant pour ma part permet beaucoup de chose booster le commerce le ralentir renverser une armée améliorer les relations entre régions empoisonner larmée 
+
+ larbre de compétence finis les tours dattentes après avoir sélectionner la compétence maintenant cela seffectue tout les 5 tours
+
+ le style rpg des généraux pouvoir les faire évoluer est vraiment plaisant 
+
+ les duels pour le mode romances sympa visuellement et permet de dégommer lennemi sans se faire focus le général par les archers
+
+ la diplomatie chaque actions a son importance ce qui peut plaire à un voisin ne plait pas à lautres le fait que nos alliés nous lâchent quand on commence à devenir trop puissant rend le jeu plaisant 
+
+ la difficulté pas besoin de jouer en légendaire pour avoir du challenge en normal voir difficile on peut déjà prendre une belle rousse 
+
+ les combats tout comme les autres total war très plaisant à faire un plus encore pour lenvironnement  type arbre ou bâtiment qui senflamme si touché par un projectile incendiaires 
+de plus on a maintenant de vrai charge de cavalerie qui envoie valser les unités au sol 
+
+ la période choisit exit leurope bienvenue lasie pour des personnes nayant que peut toucher au dynastie warrior cest une découverte agréable pouvoir jouer des généraux légendaire chacun son style de combat est vraiment plaisant
+
+ le style graphique de la carte dans la suite des warhammers finis les couleur fade
+
+ la rejouabilité du au nombres de seigneurs de guerres de positions de départ de hiérarchie de départ du mode romance et historique  on peut largement soccuper  de 200h sans avoir une histoire identiques 
+
+les  
+
+le moteur graphique un peu vieux mais pas vraiment dérangeant à mon goût le jeu est axé stratégie et non 100 claque graphique
+
+ quelques soucis de collision mais le jeu est sortie mercredi donc je ne minquiète pas 
+
+le jeu plaira donc au vieux de la vieille comme au nouveau venu sur la licences ok
+
+#####
+
+clairement un des meilleurs total war et une excellente surprise en ce qui me concerne en fait je nattendais pas énormément de cet épisode après la débâcle de thrones of britannia et puis bon la chine antique cest quand même particulier il faut aimer
+
+et puis ça a été la claque sur la forme dabord  les décors les unités linterface claire et les musiques très adaptées au thème et somptueuses dans cet épisode sur les maps où total war warhammer me paraissait franchement laid visuellement et ce même en ultra three kingdoms marque une nette amélioration certains font un détail de cet aspect graphique mais à mon sens ça décuple le plaisir de jeu
+
+et ensuite sur le fond  de très bonnes idées et améliorations par rapport à ces prédécesseurs on prend vraiment plaisir à gérer ses généraux avec une bonne dose rpg bien marquée et plus sympa à gérer que sur warhammer notamment dans la gestion des items
+
+autre point fort  la diplomatie  complète elle tient la route et propose davantage que les simples traités ou accords de commerce habituels de la série on retrouve également une gestion familiale avec héritier mariage adoption et jen passe
+
+les factions sont intéressantes les relations entre les chef de clan et les différents évènements auxquels vous serez confrontés renforcent encore le coté roleplay
+
+tout ça donne vraiment du cachet à lensemble et rend le jeu très agréable
+
+après on pourra lui reprocher son manque de variété dans les unités làdessus pas de doute il y a encore à faire et sur ce point il est encore très loin datteindre le niveau de warhammer peu probable dailleurs quil latteigne un jour
+
+qua cela ne tienne  voilà un titre avec dexcellentes qualités que je placerais en top 3 des meilleurs total war derrière warhammer 2 et empire en somme si vous êtes adepte de la série vous devriez sérieusement considérer lachat de ce three kingdoms
+
+#####
+
+cao cao did nothing wrong
+
+#####
+
+total war three kingdoms a une profondeur économique et politique assez réussie il faut se creuser le coco heureusement les développeurs ont pensé à optimiser les interfaces pour rendre cette gestion plus facile dans le même esprit la politique internationale est plus complexe et plus informative que certains opus de la série tout en donnant la possibilité de prendre des actions hyper simplifier en dautres mots ils ont essayé de combler les désirs des amateursdébutant et des master ils ont aussi essayé de combler les fans historiques et les fans fantastiques en laissant le choix à lutilisateur de donner ou non  des pouvoirs plus grands aux héros le jeu est tout de même conçu pour laisser une place au héro larbre des technologies est satisfaisant les ressources comme le bois le thé et le jade ont beaucoup plus de sens que les précédents opus 
+les combats sont toujours aussi bien ils sont même un peu plus complexe avec les héros et les nouvelles sortes dunitéformation
+
+je crois quil serait difficile de faire un jeu plus complexe tout en restant simple à jouer bref que tu sois nouveau dans la série ou un maître de rome total war 1 le jeu est super
+le thème chinois est un plus et un moins ce nest pas leurope médieval pour moi cest clairement un plus
+
+#####
+
+excellent
+
+#####
+
+great engine
+
+#####
+
+bien plus poussé en strategie carte espionnage et commerce que les precedent total wars avec chaque clan proposant une fonctionalité bien differente de toute autres et systeme de duel en combat avec des animations tres bien travaillé
+
+je recommande fortement pour les fan et ceux voulant aller plus loin que le total wars  warhammer 
+
+#####
+
+ce jeux est incroyable probablement le total war avec le plus dinnovations une diplomatie poussée une gestion des armées une peu différente des personnage qui réagissent aux événements qui se produisent etc le campagne sont toutes différente jaime beaucoup de jeux même sil est plus dur à prendre en main quun total war warhammer
+
+#####
+
+bon jeu une diplomatie bien plus complète
+
+#####
+
+meilleur total war que jai joué
+
+#####
+
+total war three kingdom est très plaisant comme jeu il faudrait être de mauvaise foi pour dire le contraire cependant il a de bon cotés comme de mauvais cotés  
+
+les bons points  
+
+ la carte de campagne elle est belle elle met dans lambiance et elle permet un nombre incalculable de possibilité de stratégie bien plus que sur les autre total war je trouve 
+
+ le système de campagne romance pour les fan historique ou de jeux tel que dynasty warrior beaucoup de bon souvenir vont ressortir avec tout ces personnages et leur puissance au combat  je le sais jai un fan de dw qui ne cesse de me faire des commentaires x  
+
+ dans un certain sens la difficulté et la stratégie requise dans les batailles car en prenant comparaison les warhammer donc jeu darcade au final et passé a celui la jai trouvé quun niveau de difficulté ajusté avait été trouvé  plus ajusté que britannia  
+
+les mauvais points  
+
+ les poursuite et déplacement dans les montagnes vous avez tout votre déplacement et attaquer une armée a même pas 100m ils fuient et vous avez plus assez de mouvements pour les finir  
+que ce soit ça ou rien que le fait de ce déplacer a travers les montagnes je peut comprendre le principe réalisme mais 6 tours pour faire deux petites montagnes pour aller au sud  jouer dong zhuo et regarder la ville au sud vous comprendrez 
+
+ les tours que ce soit dans les villes je comprends okay cest un bon avantage mais dans les campements  4 tours qui tire a 360 avec 5km de portée et qui font 1 tir 1 mort avec une cadence de tir plus élevé quune minigun cest bien sympa mais cest chiant
+
+la diversité des troupes et des batiments je sais que je peut compter sur les mods pour ça mais merde quoi cest vide alors okay chaque général a deux troupes spéciales a lui mais sinon cest vide la diversité et je compare avec des jeux style shogun 2 voir medieval 2 pour montrer que des jeux pas tout jeune de la license faisait mieux alors bon
+
+donc en gros très bon jeu mais il y a quelque imperfections qui peuvent vous horripilier ils seront corrigés par les mods  ou le jeu  peut etre  mais sinon foncez et achetez le il est cool
+
+#####
+
+le jeu est vraiment bon mais encore une fois on achète un jeu incomplet je ne paye pas le jeu pour louvrir et voir que je ne peux jouer quun quart des dirigeants et une époque sur 5 sans payer de nouveau en microtransactions
+
+#####
+
+sil y a une série qui semble immuable sur pc cest bien total war le premier opus sorti il y a 19 ans total war shogun a marqué un petit tournant dans lunivers du jeu de stratégie subtil mélange de tour par tour et de temps réel la prolifique série a réussi à garder un cap et cela pour chaque opus de sa conception jusquau résultat final mais arriva total war warhammer jeu sorti en 2016 qui a vu certains de ses mécanismes sadapter afin de mieux répondre à la demande fantasy que la licence de games workshop réclama de ce postulat la série connut son premier changement majeur en faisant passer le côté épique en premier lieu à défaut de la stratégie pendant les combats si ce choix est venu à contrarier un public il nen restera que la série warhammer reçue un succès certain cest dans ce contexte quarrive total war three kingdoms opus souhaitant réunifier les anciens et nouveaux joueurs sous une seule et même bannière et cela tombe parfaitement au bon moment car en plus des joueurs la chine aussi doit être unifiée
+
+la suite de notre avis 
+
+urlhttpswwwjvfrancecomtesttotalwarthreekingdomsgarantiesanscontrefacon182324 lien vers le test jvfrance url
+
+#####
+
+really great campaign pretty smart ai compared to former titles of the series nice graphics and big diplomacy improvements
+
+#####
+
+cest mon premier total war et je savais pas à quoi mattendre mais je lai pris car lépoque mintéressait et jai tout suite accroché au jeu bien que jy comprenais pas toujours tout jai commencé en facile puis au fur et à mesure jai augmenté la difficulté alors pour donner mon avis le jeu est bien mais a beaucoup défauts commençons par ses qualités
+graphismes au niveau
+immersif
+diversité de pouvoirs selon différents chefscao cao manipulationdong zhuo intimidation etc
+larbre de compétences très complet et on peut ladapter selon le perso quon joue et nos besoins tout au long de la partie
+diversité de personnages héroiques dans presque toutes les factions on a un perso héroique ce qui est agréable même si jaurais aimé quil yen ai plus par exemple pour cao cao quand on connait lhistoire de ses fils cest dommage que cao pi na pas de portrait
+diversité des batiments ce qui est vraiment une bonne chose dans certaines villes on va pouvoir faire que des villes de commerces dans dautres nourrituresindustries etc
+les échanges sont bien fait bien que parfois ils sont pas équitables par exemple si vous échangez des auxiliaires de  même rareté la valeur de lia sera supérieure à la votre alors que cest censé être la même
+
+maintenant les mauvais
+beaucoup de bugs vraiment parfois ça devient frustrant attaque des ennemis en mode marchebcp de bugs en combat les unités sarrêtent dattaquer et bcp dautres
+ce point là cest mon avis perso mais la map est mal faite tu peux  prendre que les sun dans le sud du pays et cest une promenade de santé on gagne vraiment facilement  alors que dans le nord cest beaucoup plus intéressant ou on se fout sur la gueule dès le début 
+les trébuchets sont beaucoup trop fort on peut en abuser alors que lia nen fait quasi jamais
+on peut jouer avec les mêmes troupes du début à la fin de la partie sans problèmes alors quon est censé les changer au fur et à mesure
+lordre public insupportable parfois tout se passe bien et  tout dun coup la ville devient folle alors quil ya pas de raison je préfère largement le système dordre public dans le dlc les huit princes
+le jeu devient redondant car cest tout le temps la même chose et si tu joues pas une faction du nord ça devient encore plus ennuyeux bien sur une fois quon a fait plusieurs campagnes si vous commencez le jeu vous allez vous régaler
+ce point la cest peut être ma parano mais quand on joue en légendaire dès que vous avez une guerre qui commence vos généraux commencent à mourir de raison naturelle
+la difficulté de facile à difficile ya très peu de différence en légendaire cest plus dur mais ça reste facile même pour un débutant des tw comme moi
+
+
+pour résumer si vous commencez les tw vous allez vous régaler au début a découvrir les mécaniques du jeu et malgré les points négatifs vous trouverez du plaisir a y jouer également un bon point vous pouvez jouer en simulation jusquà la difficulté normal sans jamais faire un combat si vous avez envie de jouer en tant que gestionnaire au dessus faut faire des combats par contre ne vous attendez pas a faire 300h de jeu ça lasse vite même le dlc qui au passage est très facile malgré ça je laisse une évaluation positive car le jeu reste bon et sur certains site on peut le trouver moins cher ce qui justifie son prix
+
+
+#####
+
+this total war provide the best version of the world map its quite difficult to play another total war after that
+
+#####
+
+
+
+#####
+
+un super total war très beau et poétique les unités non pour moi pas assez doriginalité entre les factions on se retrouve vite avec le même style de bataille en boucle
+
+#####
+
+interesting introduction to the 2nd century china and the story of the three kingdom for a french like me with realy good total war gameplay graphics and art design recommended 
+
+#####
+
+bonjour je trouve total war three kingdoms excellent laspect graphique du jeu et les unités sont variées mais il y a un mais  en effet le jeux est excellent chaque unités disposent de drapeaux et ces drapeaux sont très encombrants et enlèvent la beauté du jeux en lui même dans les mêlées cest ça que je trouve dommage cependant je vous recommande le jeu 
+
+#####
+
+déjà pour commencer jaimerai juste signaler parce que on voit ça souvent quand même que moi je nai eu aucun crash quelque ce soit donc les différentes personnes indiquant des crashs ceux ci sont surement dus à leur ordinateur et non au jeu ou alors ils faut quils réinstallent les fichiers de jeu
+
+voilà ceci étant dit on peut passer à la partie évaluation  
+pour le moment jaime beaucoup ce jeu qui est vraiment dans lâme des total war avec de grosses améliorations dans le système de la diplomatie ce qui est vraiment appréciable car les relations avec les différentes factions font vraiment partie intégrante du jeu  notamment on a plus cet effet que lon avait dans medieval 2 et empire je nai pas joué aux autres où dès que lon sétend un peu absolument tout le monde se ligue contre nous ici on peut savoir les raisons pour laquelle une faction nous apprécie ou non et aussi la tendance pour la suite on a également beaucoup plus déchanges entre les factions et notamment dargentnourriture en échange de pacte de nonagression ou daccès militaire finalement pour en finir avec la diplomatie les options sont plus nombreuses et on peut savoir exactement quand une option sera acceptée ou non et ce quil faut mettre en plus pour laccepter ce nest pas forçément réaliste mais beaucoup plus agréable que de proposer des options un peu au pif sans vraiment savoir si on aurait pu demander beaucoup plus ou si lautre était proche daccepter
+
+pour le reste du jeu linstauration de la production de nourriture est un vrai plus je trouve qui oblige à gérer un peu et ne permet pas denvoyer une armée à lautre bout de la carte comme je le faisais dans empire par exemple de la même façon je préfère ce nouveau mode de recrutement on recrute immédiatement toutes les unités achetées mais elles sont faibles au départ et prennent plusieurs tours pour se reconstituer qui permet davoir toujours léquilibre souhaité dans son armée avec juste le nombre augmentant avec le temps
+
+un autre point positif à mon sens est que lia en campagne est plus intelligente quavant  certaines factions seront plus agressives nhésiteront pas à envoyer plusieurs armées pleines pour vous stopper ou vous attaquer quand précédemment lia avait tendance à placer de nombreuses  petites armées  partout ce qui était facile à détruire avec une grosse armée globalement je trouve donc la campagne plus difficile et quasiment impossible si vous êtes en guerre avec plusieurs grosses factions  le défi nen est que plus intéressant et je vous rassure cest quand même très largement jouable 
+maintenant pour les quelques points négatifs  autant lia en campagne est meilleur autant lia en bataille ne lest pas vraiment sans être pire non plus jai pu détruire des unités entières avec des archers sans que lunité ne bouge parce que lia a décidé quelle nattaquerait pas et comme leurs archers étaient derrière eux ne pouvaient pas matteindre ils ne protègent pas leurs archers donc si vous avez des régiments de cavalerie vous pouvez très facilement faire un massacre dans leurs rangs alors que ils niront jamais attaqué les votres et puis aussi ce peut être anecdotique mais je trouve que les batailles ne sont plus aussi belles quavant  ici je nai pas envie de zoomer pour la voir au plus près la vue  stratégique  semble assez ceci étant dit ces batailles en temps réel reste un des gros points forts de la série total war et dernier petit point négatif  les drapeaux des factions se ressemblent tous ainsi que les noms même si je comprends bien quils ont voulu rester dans le cadre des  trois royaumes  ce qui rend parfois difficile de comprendre les relations entre les différents personnages notamment dans les premiers tours 
+en somme malgré quelques petites imperfections ce total war reste une grande réussite avec de lévolution par rapport aux précédents opus et je le recommande aisément 
+
+
+#####
+
+il faudrait peut être commencé à faire quelque chose pour ces crash en fin de partie ou on passe plus de 3040 minutes et quon doive encore tout refaire et ce depuis les tout premiers total war arf  sinon bon jeu
+
+#####
+
+le meilleur total war sorti à ce jour
+
+ optimisation excellente
+ excellente retranscription des trois royaumes
+ la diplomatie est passée au premier plan
+ le système de gestion des personnages est très complet
+ linterface est magnifique
+ et jen passe
+
+#####
+
+bon jeu d echec avec intrigue et bonne strategie mais le pointeur de la souris a tendance a disparaitre seulement l agiter
+
+#####
+
+total évolue ajoute de la profondeur de la gestion de la politique à la paradox  on nest vraiment plus très loin de la perfection  ceux qui nont pas aimé nont jamais touché un total war de leur vies cest pas possible autrement tout est mieux alors ok on na pas la patte fantasy de warhammer  mais les maps sont vraiment gagnable les alliances fonctionnent la diplomatie a un réel intérêt et en plus cest vraiment très beau
+
+un très grand oui
+
+#####
+
+jaime bien le style de ce total war 
+
+shogun 2 version chine
+
+#####
+
+hormis un gros problème avec les informations de diplomatie inexistantes ou introuvables sur les relations amisennemis des autres factions le jeu est très beau et très bien quand même 
+exemple de problème de diplomatie  
+ lorsquun allié me demande dattaquer quelquun je nai aucune information sur les amies et ennemis de celui que lon me demande dattaquer je ne peux donc que refuser cette demande car je risque peutêtre de frustrer quelquun avec qui je souhaite rester en bon terme et ça pendant toute la partie cest la galère 
+
+#####
+
+vraiment un très bon jeu surtout pour moi qui joue à un total war pour la première fois je trouve vraiment lunivers de celui ci incroyable les décisions quon est mené à prendre sont très intéressante ainsi que la quantité de possibilités quil y a dans le jeu que ce soit du début à la fin jai vraiment pris du plaisir à y jouer personnellement
+
+#####
+
+franchement magnifique  une claque visuelle des héros charismatiques et des unités simplement exceptionnelles  et il y en a tellement quon en découvre tout les jours
+cependant un petit défaut de ce jeu et que lon déplore est labsence de tableau statistique de fin de bataille
+
+#####
+
+très bon total war
+
+#####
+
+bravo 
+
+#####
+
+suite aux nombreux patchs reçus je modifie mon avis
+
+ce jeu est toujours graphiquement daté et mal réalisé graphiquement rome 2 est meilleur il a 7 ans et contient toujours quelques bugs gênants
+
+mais lia est corrigée elle est toujours stupide mais elle reste dans le domaine de lacceptable
+
+les campagnes sont bien efficaces longue et sanglantes
+il y a plein de bonnes idées une nouvelle diplo un système de contrepoid à votre puissance assez efficace des territoires riches en interaction le jeu se joue plus dans loptimisation de vos biens que dans vos batailles armées
+
+le jeu peut paraître vide en choix et type dunités entre les factions comparativement à un romeatillawarhammer mais cest plutôt logique puisque nous ne jouont que la chine et quen cette époque les grandes armées sont des armées de paysans
+
+le jeu mérite une seconde chance et je le nomine aux steam awards
+
+#####
+
+bonjour
+bon ben si on enlève le problème redondant des ttw depuis au moins empire tw cest à dire des batailles qui sont expédiées en quelques ridicules minutes vite un mod  ce tw est un grand cru du coup cela me pose un dilemme quand je veux me faire une petite séance de tw jhésite entre tw warhammer ii et 3 kingdoms 
+
+#####
+
+un jeu exceptionnel 
+
+#####
+
+la campagne est coolca écoute et communique de plus en plus avec la communauté les phases de batailles doivent etre amélioréles unités et les héros doivent etre plus équilibré mais vu les dernières annonce de mise à jours cela ne sera plus un problème pour longtemps
+
+#####
+
+tres bon total war avec de bonnes nouveautées
+
+#####
+
+le meilleur des total war 
+
+#####
+
+sincèrement le meilleur jeu de stratégie en temps réel auquel jai joué  bravo  va falloir continuer sur cette lancée courage à vous 
+
+#####
+
+graphic   810
+gameplay  politic ex  210 
+ia  1010
+
+#####
+
+bourré de bugs mal optimisé peu dunités différentes par faction
+
+on peut passer une campagne entière sans rencontrer le moindre bug comme on peut ne pas être en mesure de finir la suivante car le jeu crash quand vous essayez de passer vos derniers tours avant de la finir
+
+entre les unités qui parfois restent buggé et sont immobilisé dans un coin de la map
+la carte de campagne qui ne se met pas toujours a jours
+le jeu qui se ferme quand on passe un tour
+
+autant les deux premiers on peut passer dessus mais le troisième  passer 20h sur une campagne pour être dans limpossibilité de la finir
+
+a coté de ça il y à quand même quelques points positifs les négociation rapide dans le menu diplomatique sont cool surtout ça permet de gagner beaucoup de temps pour pouvoir passer des accords sans avoir a passer en revue toutes les factions
+
+a part ça franchement bof une ambience superbe des décors géniaux une musique a tomber
+tout dans lapparence mais le jeu en ce qui me concerne me semble vide
+
+#####
+
+un jeu néanmoins satifaisant malgré des crash de mon ordinateur qui laissent à désirer cela ne fera pas plaisir à tout le monde mais personnellement je laime bien et en partie car jaime la stratégie
+
+#####
+
+tu aimes jouer a des jeux sans jamais finir la moindre partie et wai mon pote 155h de jeux et jamais fini une game questce tu vas faire grosse folleuh
+
+#####
+
+
+
+#####
+
+que dire sur trois royaumes
+
+
+mon premier commentaire avant world of betrayed était assez cru maintenant quelques années plus tard trois royaumes est dignes de sa légende il reste du travail il en restera toujours mais néanmoins le jeu est un véritable bijou une foule de nouveaux généraux de fraction tellement différente lune des autres et de nouvelle mécanique le système de combat les ordres les forteresses et les sièges sont exceptionnels
+que dire du système despionnage jadore et la capacité de crée des dynasties et des mariages comme dans rome et attila est vraiment une mécanique majeure pour moi 
+
+
+trois royaumes a vieillie comme un bon vin jespérais beaucoup de troy et quand jai joué à troy jai vraiment été désappointé du jeux face à toute les mécaniques délessée et cela ma réconciliée avec trois royaumes je compte achetée troy sur steam et jespère beaucoup de sa sortie trop peutêtre 
+
+
+maintenant avec presque mille heures 80 des succès je continue à adorer ce bijou chaque dlc rajoute tellement de mécanique vraiment ne passez pas à côté de ce jeu jai eux autant de plaisir a jouer chaque peuple de ce jeu vraiment trois royaumes regroupe le meilleur de rome datttila et de warhammer 
+
+
+je tenais a re postée un nouveau commentaire 
+
+
+maintenant pour ceux qui sont intéressée 
+
+mes mods sont 
+radious  radious increased 80
+radious  part 1
+radious  part 2
+
+recruited unique character alex shao
+vanilla units remaster
+respec character skill
+
+et surtout wu kingdaissance qui est un mod exceptionnelle
+
+sur cela je vous souhaite bon jeu
+
+#####
+
+bon jeu
+
+#####
+
+bon jeu
+
+#####
+
+jeu extrêmement compliqué à prendre en main lorsque on découvre la saga un tutoriel nettement insuffisant je le déconseille
+
+#####
+
+lun des meilleurs jeux  de la série total war
+
+#####
+
+jvais pas détailler mais si a la base vous aimez les totals war vous allez vous régalez avec celui la sans auccun doute il est devenu mon total war preferer sur tout les points tout est mieux
+ayant fais tout les totals war rome 2 cetait la base ok mais ceux qui diront que rome 2 est plus beau et meilleur en gameplay nest pas réelement vrai celon moi
+
+graphiquement je trouve que la difference est la comparer aux autres total war le jeu est sublime  et plutot bien optimiser je tourne le jeu en 1440p et la taille dunitée en extreme avec une 1070 et un i9 9900k
+
+#####
+
+tres bon jeu le prix est un peu cher mais pour vrai jai vraiment eu beaucoup de plaisir a ce jeux et je continue a ce jour a avoir du bon temp  je recommande fortement ce jeux pour les gens qui aime avoir des combat strategique beaucoup de facteur peuvent faire en sorte que tu puisse perdre un combat ou en gagner un  pour de vrai je ne regrette rien de ce jeu 
+
+#####
+
+great total war
+
+#####
+
+un super total war pour ma part rien a dire sauf quil est optimisé avec les pieds
+
+#####
+
+jaime pas les maps jaime pas les unités des innovations qui font plaisirs mais qui sont logiques et qui auraient du voir le jour il y a de ca plusieurs jeux en arrière franchement cher ca reste cependant un total war sympa
+
+#####
+
+fan de total war warhammer jétais au départ très mitigé concernant three kingdoms et assez confus
+après environ 5 heures de jeu et avoir commencé de comprendre le jeu voici mon verdict 
+3k na pas grand chose à voir avec ses petits frères son immense point fort est sa campagne qui offre des possibilités et une richesse de jeu très profonde empruntant les bons concepts dun europa universalis 4 mais sans le côté lourd et inutilement compliqué
+contrairement à ce que je pensais le mode de jeu romance est bien plus intéréssant bravo 
+graphiquement très réussi
+musiques au top
+il y a peu de richesse en revanche sur le plan des unités on est extrêmement loin dun tw warhammer mais les batailles sont tout de même plaisante et parfois très bonne toutefois on reste assez loin de lampleur stratégique que peut avoir warhammer 2 par exemple avec ses unités et contreunités jespère quun effort sera fait de ce côté
+
+très content de mon achat
+
+
+#####
+
+excellent pour ceux qui aime la chine antique et la période des trois royaumeset les total war bien sûr
+maintenant jattend un mod sur le manga kingdom et le premier empereur de qin
+
+#####
+
+ca ne dérange visiblement plus grand monde quaprès avoir acheté un jeu payant à plein tarif on nait accès quà la moitié des factions jouables et à 1 campagne sur 4 
+soyez cohérent cessez de prendre les gens pour des vaches à lait et devenez un jeu totalement gratuit avec des options
+
+#####
+
+pour moi ce jeux est une déception pour total war que ce soit en campagne ou en bataille
+la gestion de villes nest pas novateur et est dun ennui à cause de la longueur pour générer des ressources en bataille pour résumer cest celui qui à la plus grande armée qui gagne le manque dunités diversifiée à débloquer et selon moi le point le plus négatif malgré des choses intéressante comme lamélioration des alliances et coalitions ainsi que lajout des héros ce jeux nà rien à envier à rome 2 total war
+
+
+#####
+
+passez son temps a jouer léquilibriste avec certaines factions  et à courir après les autres seigneurs parce que ceuxci fuient la queue entre les jambes  passionnant  impossible de suivre lhistoire je my étais remis pour test les maj cest encore plus nul  vraiment ce jeu ainsi que throne of britania sont nuls
+
+#####
+
+très peu de contenu pour beaucoup dargent 
+la carte nest pas intéressante toutes les armées ont grosso modo les même unités donc on sennuie très vite
+jimagine que les dlc rattrape un peu la donne mais bon rajouté encore 30 très peu pour moi
+clairement le moins bon de tous les tw auquel jai joué
+
+#####
+
+pourtant fan des total war je déconseille cet opus qui bien que très bien documenté savère compliqué surtout en romance centrée sur les personnages où on passe son temps à dépenser ses revenus à compenser les baisses de satisfactions des personnages très chiant a réserver aux amateurs dhistoire  à noter que jai gagné quelques parties  je ne suis donc pas frustré ma note  410
+
+#####
+
+très bon jeu je veux passer niv 10 sur steam
+
+#####
+
+le meilleur jeu total war auquel jai joué devant warhammer
+la diplo est top et jai bien galéré en very hardvery hard
+on ne peut pas vraiment snowball et du coup je me suis pas ennuyé pendant les 269 tours 
+dommage quil a été abandonné par ca
+
+malgré tout le pognon quils ont gagné ils abandonnent tous leurs jeux sauf warhammer  dommage 
+
+en terme davenir je pense quils finiront par couler euxmêmes leur licence
+
+heureux quand même dêtre devenu empereur de chine sur cette difficulté  il y a un réel sentiment de satisfaction
+
+#####
+
+bon c est pas un twww  mais si vous aimez les historique ce jeux est fait pour vous  assez dur surtout si vous commencer par les bandits comme moi 
+
+#####
+
+cool  en attendant warhammer 3 
+
+#####
+
+ce nest pas lesprit totalwar  les batailles sont presques de larriere plan dmg
+
+#####
+
+excellent à ce stade du jeu tourne bien et les nouveautés sont appréciables et dans lambiance de lunivers
+
+#####
+
+vraiment top tous les fans de total war ne seront pas décu
+
+#####
+
+se jeu avais un potentiel énorme mais après avoir acheté le jeu plein pot jai eu limpression par la suite de devoir acheter le vrai jeu avec les dlc et là jai compris que javais acheté un jeu incomplet bref je me suis fait avoir
+
+#####
+
+trés bon dlc qui ajoute une vrai profondeur au jeu
+
+#####
+
+le jeu est grave bien en vrai faut juste etre un oeu déter si on connai pas les total war
+
+#####
+
+meilleur jeu que je decouvre seulement en 2023 grand fan de la période des 3 royaumes et débutant de la saga tw
+
+#####
+
+stratégie  et tactique  intéressantes   superbes décors bonne visibilité
+
+#####
+
+super jeux vraiment bien fait
+
+#####
+
+cool
+
+#####
+
+sympa
+
+#####
+
+needs few improvments but still very amusing 
+
+#####
+
+cool
+
+#####
+
+
+
+#####
+
+xin zhao approves
+
+
+#####
+
+fidele à lui meme
+
+#####
+
+je recommande
+
+#####
+
+excellent jeu de strategie
+
+#####
+
+un des meilleurs jeux du genre auquel jai joué lhistoire des 3 royaumes est juste magnifique
+
+#####
+
+le meilleur total war selon moi
+
+#####
+
+meilleur total war jusquà présent
+
+#####
+
+une dinguerie 
+
+#####
+
+pas le meilleur mais vraiment pas mal saga total war the best 
+
+#####
+
+xsrjyx
+
+#####
+
+très bon jeu de la saga total war
+
+#####
+
+top
+
+#####
+
+excellent jeux
+
+#####
+
+oyea
+
+#####
+
+incroyable
+
+#####
+
+uy
+
+#####
+
+not that fun
+
+#####
+
+patate
+
+#####
+
+cest le deuxième total war que jaime le moins
+
+#####
+
+je narrive pas à le lancer
+
+#####
+
+celles et ceux qui auront découvert total war par la version fantasywarhammer risquent dêtre un peu décontenancés  beaucoup moins dunités beaucoup moins de variété on revient aux classiques des tw historiques  lancierscavaleriearchers le triptyque peut sembler fade après les dragons linfanterie monstrueuse les unités volantes les sorciers mais creative assembly a beaucoup travaillé sur ce jeu et il y a bien des raisons de se réjouir audelà des très beaux graphiques de linterface admirable et des améliorations à la diplomatie déjà relevées il faut aussi mentionner le système de couleurséléments bleu eau  généraux stratèges unités à distance rouge feu  généraux avantgarde cavalerie de choc vert bois  généraux champions infanterie de lanciers jaune terre  généraux commandants cavalerie de mêlée violet métal  généraux sentinelles infanterie de mêlée chaque élément correspond à des caractéristiques des généraux avec des bonus pour les personnages et les unités ces élémentscouleurs mettent en place un système de points fortspoints faibles leau contre le feu le feu contre le bois etc qui est une façon originale pédagogique et pertinente du point de vue historique dorganiser les différences entre les unités et les généraux
+
+le mode romance est une manière pour les développeurs de prolonger les avancées du côté fantasy de warhammer avec des généraux surpuissants et leurs capacités originales etc tout en menant une réflexion historique très intéressante  les récits qui sont fait de la période des trois royaumes sont peuplés de personnages aux faits darmes extraordinaires tel héros affrontant 300 hommes lautre pouvant envoyer cinq hommes dans les airs avec sa lance faire les figure les plus improbables sur son cheval etc cest donc pour la franchise tw une façon de continuer sur la lancée de warhammer tout en faisant une exploitation particulièrement originale des données historiques sur la périodes des trois royaumes nhésitez pas à lire sur cette période pour vous immerger dans le jeu il y a aussi plusieurs vidéos sur youtube qui récapitulent les évènements et une série chinoise de bonne qualité sobrement nommée three kingdoms en anglais
+
+la campagne principale des trois royaumes est à mon avis très réussie elle pousse à bien anticiper le moment de déclaration des trois royaumes qui fige les conflits diplomatiques et les guerres passé ce cap une position mal construite trop fragile géographiquement économiquement ou diplomatiquement conduira à léchec de la campagne a la manière dun jeu de go  cest dans le thème et ce nest sans doute pas par hasard dans lequel il faut patiemment construire ses positions de manière à survivre aux futures offensives des adversaires
+
+enfin lia sajuste à la difficulté choisie si en difficulté normale vous pouvez vous permettre de jouer à épuiser les munitions de vos ennemis en faisant se promener vos généraux sur le champ de bataille et en gardant vos troupes hors de portée ce genre de manoeuvre ne fonctionne plus dès lors quon augmente la difficulté cest valable pour dautres éléments contournement de cavalerie etc ce qui augmente grandement le challenge pour celles et ceux qui le voudraient
+
+en résumé magnifique bien développé profond gros challenge  un excellent jeu 
+
+#####
+
+pour moi le meilleur des tw  
+
+#####
+
+le total war possédant les meilleurs campagnes et gestion de la carte tactique couplé à sa da et son ost qui rendent ce total war légendaire
+
+#####
+
+pour y avoir jouer près de 130heures  je peux facilement dire que le jeu est très bon  la diplomatie cest refait une beauté et offre un tas de possibilité quil ny a pas dans les autres total war  
+les ia se font plus agressives et plus forte quavant  les unités même si presque toutes similaires  1 à 3 unités spéciales selon votre faction  elles vous forcent à vous battre de manière plus intelligente et à ne plus foncer dans le tas avec des unités op 
+les nombreuses factions disponibles ingames sont toutes très intéresasntes à jouer car elles ont toutes leurs spécificités  certains sont très bon en diplomatie cao cao et dautres dans la gestion militaire gongsun zan  dautres ne peuvent pas devenir empereur par euxmêmes catégories des gouverneurs  après toutes ces spécificités  il reste les turbans jaunes qui eux soffrent un roster entier totalement différents du reste du jeu  un arbre de technologies totalement différents et des généraux aussi différents que les autres factions  
+avec toutes ces nouveautés  total war three kingdoms est un total war à rejouabilité infini vu le nombre de manières de gagner 
+
+#####
+
+one of the best total war but also the one i play the least need a top notch pc with ssd for get ok loading time if not the loading time kill immertion
+
+
+#####
+
+la période des trois royaume en jeu que demander de plus 
+
+graphisme nickel duel légendaire et un lu bu juste monstrueux 
+
+le vrai renouvellement quon attendait depuis total war attila
+
+#####
+
+correct
+
+#####
+
+je possède et joue à lensemble des tw depuis leur début je ne recommande pas celuici  
+manque dunités rendant les batailles redondantes et une fois de plus la construction dans les colonies est trop limitée à un nombre restreint de bâtiments avec le classique quatre constructions possibles egalement la diplomatie est un chaos total et ingérable 
+rien de bien nouveau si ce nest que celuici a été légèrement cartoonisé ce nest pas le tw sur lequel je passerai plus de 10 heures centaines sur les précédents les statistiques de steam actuelles montrent également que ce jeu est  boudé des joueurs
+
+#####
+
+enorme
+
+#####
+
+un chantier compliqué et je suis un peu triste darriver à ce verdict
+
+pour le prix auquel je lai payé 1 euro grâce à olivier que je remercie dailleurs véritablement je nai pas vraiment de quoi me plaindre mais ce serait négliger le fait que dautres peuvent vouloir y jouer à son prix non réduit sans compter les dlc qui sont je trouve un peu cher pour un contenu qui ne varie pas des masse en vérité
+
+je pense que de manière générale la licence de total wars nest peut être pas faite pour moi en définitive mais ce que je pense surtout en tant que tres tres tres grand amateur de la romance des trois royaumes justement ce qui explique que je voulais commencer les total wars soit par celuilà soit par warhammer dont lunivers mest connu et que japprécie aussi total wars nest pas fait pour représenter toute la magnificence et la puissance des conflits qui ont eu lieu entre les royaumes combattants de chine
+
+pourquoi  je mexplique les trois royaumes la romance hein comme son nom lindique cest avent tout une histoire une histoire bien precise des batailles grandioses spécifiques incontournables très codifiées entre certaines factions et pas dautres avec des tactiques clés qui ont fait basculer le destin des conflits quy a til de tout ceci dans total wars  et bien rien en fait ou presque et non pourquoi  tout simplement parceque lon est lâché sur cette carte de chine et que dés le début on fait ce que lon veut on ne suit absolument pas du tout lhistoire on la réécrit et jai beaucoup beaucoup de mal avec les jeux qui prétendent réécrire lhistoire surtout une histoire que jaime particulièrement disparues les grandes batailles telles que les plaines du wu zhang dans cette version il est probable même quelle naient pas lieues lors de votre partie
+
+le jeu se rattrape un peu en proposant quelques trés trés limitées batailles historiques comme chi bi et en lessence cest réellement la partie la plus plaisante et la plus proche de lhistoire que propose le jeu si twtk avait proposé une succession de batailles emblématiques de ce genre pour chaque faction dans un mode campagne bis mais sans la carte où lon fait nimporte quoi jaurais été moins amer avec le jeu mais même là les batailles ne sont pas vraiment intéressantes et rien ne vaut un bon dynasty warriors 3 pour représenter latmoshère épique de la romance des trois royaumes
+
+lors de mes trois parties complètes de 500 tours pour bien explorer les recoins du jeu jai passé la plus part de mon temps sur la carte tactique en faisant en fait des résolutions automatiques 90 du temps à la manière des age of wonders ou des planetfall par exemple ce jeu est plus un jeu de gestion quun jeu de stratégie je ne trouve pas les batailles passionnantes et je ne trouve pas la gestion de lempire passionnante non plus bien sur cest fun au début mais on tourne vite en rond en fait 
+
+je suis je pense encore très marqué par mon expérience de dynasty warriors 3 qui demeurera gravé et invariablement la meilleure en ce qui concerne mon plaisir dexplorer lhistoire de la romance des trois royaumes des batailles épiques  des stratégies ingénieuses  cest ça lesprit de la romance  pas cette carte où lon fait tout ce quon veut sauf respecter lhistoire en fait il est possible que japprécie plus mon expérience sur total wars warhammer si je me le prend un jour car il sagit dun monde fantastique donc moins contraignant je ne connais pas lhistoire et le déroulé précis des batailles et surtout le jeu de figurine originel dont est tiré le jeu vidéo a en vérité au départ pour principe de créer des affrontements entre diverses armées de figurines sans vraiment ce soucier dune éventuelle cohérence narrative le fluff finalement viens un peu après la collectionnite et la peinturelurite des jolies figurines pour les aligner sur un champ de bataille improbable contre un ami qui a dautres figurines alors que pour tree kingdoms le fluff cest lhistoire cest ce quil y a en tout premier lieu et cest fondamental
+
+voila ce qui sera de ma critique de twtk et je suis un peu triste car javais réelement envie daimer ce jeu comme jaime beaucoup la romance des trois royaumes mais ce nest pas le cas je garde une expérience moyenne du jeu qui pour moi naura pas su représenter correctement ce quétait réellement la romance des trois royaumes mais je suppose que pour un fan du concept total wars et de la réécriture dhistoire cet opus est tout a fait acceptable
+
+#####
+
+trop bien la fleme de dire pourquoi
+
+#####
+
+bien
+
+#####
+
+tres bon jeu
+
+#####
+
+good game
+
+#####
+
+
+
+#####
+
+comme dhabitude la licence total war me déçois pas les nouvelles fonction de game play sont terrible
+
+#####
+
+après plusieurs opus historiques vraiment moyens ou totalement mauvais salut britannia on découvre enfin un excellent jeu historique dans le style total war par excellence tant attendue par les fans
+le choix entre un mode romancé et historique est très appréciable surtout vu la période historique et à vrai dire je vais plutôt parler des points négatifs car cela ira beaucoup plus vite
+un problème se situe au niveau de lia le mode bataille nocturne qui est presque utilisable à volonté est extrêmement énervant et lia en abuse vraiment
+on ressent un véritable travail même dans les plus petits détails qui permet à léquipe historique de redorer son nom par contre le menu des constructions et des technologies est à éclaircir au bout de plusieurs heures de jeu on ne sy intéresse plus tellement le nombre et surtout le peu dimportance des technologies parfois importent peu à la vitalité de la faction
+en effet les technologies ont un rôle beaucoup moins important que dans un civilization par exemple après cela est normale mais le problème est quon sen désintéresse au bout dun moment
+
+voilà les seules rares points négatifs du jeu autant dire que creative assembly a réalisé un chefdoeuvre que je vous recommande sans hésiter
+
+#####
+
+un très bon jeu malgré les nombreux dlc
+
+#####
+
+très très grosse déception je joue à total war depuis le tout 1er jeu et franchement je ne comprends pas comment cet opus peut avoir autant davis positifs oui les graphismes sont beaux mais ça ne suffit pas les vieilles recettes sont là oui mais dénaturées au point de lasser linterface est contreintuitive les graphismes sont limite fusion entre warhammer et cinéma pseudohistorique mainstream or la force des total war cétait limmersion là on se sent clairement dans un jeu fait pour capter un marché gigantesque mais limmersion est de zéro on ne se sent pas en chine sur la période on pourrait tout aussi bien être sur mars ou dans un pays imaginaire jai essayé de me forcer à laimer en mobligeant à y jouer et puis basta retour à attila rome ii shogun ii napoleon voire empire il ne métait jamais arrivé jusquici de mettre un total war direct au placard cest fait en ce qui me concerne mais il faut pourtant croire que ce truc plaît à beaucoup
+
+#####
+
+je joue depuis rome i triste à dire mais cest mon pire total war alors que je suis un grand fan de la période 3 royaumes je le trouve trop brouillon les combats sont chiant et on a limpression dun retour en arrière coté graphique tant pis on verra au suivant
+
+note  ah et cest toujours un plaisir dentendre les prononciations des noms à la française
+
+#####
+
+jeu excellent sur le fond et la forme cependant à linstar de beaucoup de jeux de lindustrie moderne cest la cata à chaque mise à jour jai payé un jeu et tous les dlc oui je suis un pigeon pour perdre toutes mes sauvegardes et ne pas pouvoir y jouer sur cette mise à jour jai joué 400h et nai jamais pu finir une campagne car chaque update rend obsolète le sauvegardes précédentes je déconseille fortement lachat de ce jeu à moins que vous aimiez perdre du temps et de largent
+
+#####
+
+bonjour depuis la dernière mise à jour le jeu plante de façon aléatoire soit un pleine bataille ou alors dernièrement impossible de charger une des 3 sauvegardes de ma dernière partie ça plante au chargement 
+
+ça fais plusieurs jours que je recommence mes parties et je me retrouve bloqué à cause de bugs quand ça commence à planter à un moment précis cest terminé
+
+pour moi cest termine les total war quand je vois ce jeu non termine a 45 cest une honte
+
+#####
+
+jeu victime de la censure de la rpc 
+
+1 seul roster et pas dévénement de campagne 40 unités dans tous le jeu pour rappel les sassanides dans attila on autant dunité
+cette opus est uniquement destiné au marché chinois il y a 2 modes de jeu mais le mod historique est une mauvaise plaisanterie lintégralité du jeu tourne autour du mod roman et des personnages demie dieux 
+
+ce jeu est un énorme gâchis la période historique est intéressante mais la guerre des trois royaumes ce nest pas que la chine des hans ou sont les huns  les namnang xiambei wuhuan etc 
+ce jeu va faire très mal à la licence
+
+
+
+#####
+
+soyons honnête ce jeu ne veut pas ses 60 euros niveau graphique je le trouve moyen comparé aux deux dernier total war les graphiques ne sont pas plus beaux quun total war rome 2 et je néxagére pas ce qui ma aussi déçus ce sont les mouvements des unités pas très réalistes autant je prends plaisir à zoomer sur les batailles dans tous les autres total war autant ici ben je ne ressents pas le même plaisir niveau unité elles se ressemblent toutes dun camp à un autre mise à part des unités spéciales ben la troupe de base est identique quel que soit la faction que lon prenne niveau vue densemble des batailles pareil autant les autres total war offre une visibilité de qualité autant ici ben on na du mal à entrer à lintérieur des batailles bref ce que lon attendait comme la révolution total war nen est pas une je retourne jouer à rome 2 
+
+#####
+
+total bugs
+
+#####
+
+veuillez décrire ce que vous avez aimé ou navez pas aimé à propos de ce produit
+
+#####
+
+top comme dhab 
+
+#####
+
+
+
+#####
+
+bon jeu
+
+#####
+
+message aux devs  on voit quil y a eu une volonté dinnover et de renouveler le genre dans cet opus malheureusement cela est resté superficiel et bridé vous vous êtes jusquici appuyer sur une fan base durement construite au cours des dèrnières décénies sur la hype tirés dautres univers comme warhammer que vous avez surement payé au prix fort un moteur graphique et un gameplay qui ont très bien marcher jusque là mais pour quels résultats malgré tous ces investissements on sent le lent mais réel déclin de la saga total war 
+
+il est temps de sortir de votre zone de confort de mettre largent là ou cela est vraiment nécessaire un moteur graphique revu ferait du bien et surtout surtout revoir les mécaniques du jeu le mode bataille qui permet au joueur de battre lia à 2 contre 1 na pas changer depuis presque 20 ans   je fixe  je déborde terminé il est temps dimplémenter de nouvelle mécanique des éclaireurs des lignes de ravitaillement réalistes bref retranscrire la complexité de lart de la guerre pour cela il faudra peut être entrer de plein pieds dans le monde multijoueurs et peut être explorer les affres de la guerre moderne cest triste à dire et cest surement par ce que jai vieilli mais aujourdhui jéprouve plus dintérêt à jouer à hearts of iron quà total war à bon entendeur salut 
+
+#####
+
+le jeu est superbe  un gamepaly qui change des autres total war  enfin une diplomatie qui apporte un réel impact a votre campagne 
+
+cela dis  plusieurs defaut  des bug  des freeze et des lags  dans le jeu en mode coopérations impossible de jouer avec votre ami sans que le jeu ne  lag et pourtant nous avons la fibres et un pc gamer récent
+
+#####
+
+la série des total war est de pire en pire cet opus est illisible les interfaces et indications sont très mal foutus on ne comprend rien les campagnes nont aucun intéret les combats sont mous  poussifs et les unités pourraient toutes etres les mêmes ca ne changerait rien
+le pire cest la laideur de lensemble
+
+#####
+
+loin des attentes dun total war en 2020
+
+#####
+
+jsp
+
+#####
+
+top
+
+#####
+
+de la balle
+
+#####
+
+top
+
+#####
+
+a simply awesome total war game  
+
+#####
+
+le retour des vainqueurs  je sens lodeur du foyer  la chine a besoin de moi 
+si vous êtes capable de supporter une vf plus surjouée que toutes les comédies musicales de broadway et les pièces du théâtre du châtelet réunies
+
+si vous aimez les total war au point de tous les achetez ou si au contraire vous navez jamais joué à un total war et que vous détestez warhammer ce jeu est pour vous 
+
+une carte gigantesque des généraux puissants des combats époustouflants une campagne capable de vous tenir en haleine jusquau bout avec un système de diplomatie aux retournements plus quinattendus
+
+enfin si vous navez pas joué à dautres total war cest plutôt une sorte de bon bestof qui napporte quassez peu de nouveautés  les duels sont moins épiques que dans tw warhammer qui na pas de mode duel la diplomatie est pompée sur tw shogun 2 avec un retournement très prévisible si vous avez joué à shogun 2 
+
+cest un bon jeu pour découvrir total war si on naime pas warhammer mais pas une grosse révolution
+
+#####
+
+meilleur tw historique 
+
+#####
+
+je ne laisse jamais de commentaires dhabitudes mais jai un bug depuis une mise à jour lorsque je passe ma souris sur une unité ennemie en bataille il y a une sorte de flash qui se produit cest hyper gênant littéralement impossible de jouer et hyper vexant davoir payé 50 balles pour ça jai envoyé un mail à ca il y a déjà plusieurs semaines et je nai eu aucune réponse bref je relance le jeu de temps en temps pour voir si le problème nest pas réglé je suis vraiment déçu surtout que je navais pas acheter les warhamer qui ne mintéresse pas fin bref commentaire de rageux mais jen ai rien à foutre
+
+#####
+
+les samouraïs de la muraille de chine font du karaté
+
+#####
+
+
+
+#####
+
+good
+
+#####
+
+lourd
+
+#####
+
+pas très ouff sincèrement très déçus du jeu je mattendais a mieux et dire que javais payer 80 balle le jeu
+
+#####
+
+fan des total war jai joué à tous les opus depuis mediéval 2 et je nai jamais été déçu mais pour la première fois celui ci est une énorme déception 
+tout dabord cest bordélique et redondant au possible des tas de trucs qui ne servent pas à grand chose si ce nest donner un coté rp comme les relations damitiés ou pas entre les personnages ou les multiples objets et armures des généraux 
+cest déjà pénible à gérer en début de partie mais quand on se retrouve en milieu de jeu à microgérer une cinquantaine de personnes ça devient vraiment lourdingue on passe plus de temps sur ça que sur laspect stratégique et tactique
+quand aux codes couleurs et limitation à 6 régiments par général ce qui oblige à avoir trois généraux pour une armée complète là encore ça ne fait que rendre la gestion toujours plus lourde le plus débile étant que si un des généraux meurt combat ou vieillesse et que vous navez personne pour le remplacer cest tout votre régiment qui est dissout
+les cartes de batailles sont 9 fois sur 10 trop sombres et le filtre romance naméliore pas beaucoup les choses si ce nest de saturer les couleurs lherbe qui devient vert fluo par exemple
+linterface en campagne est brouillonne et comble de labsurdité on ne peut plus baisser linterface des unités en bataille celle ci étant en plus de très grosse dimension elle masque tout le bas de lécran ce qui nest vraiment pas pratique dans tous les total war on pouvait baisser cette interface tout en gardant les vignettes dinfos sur les unités questce qui a pris à ca denlever cette option 
+malgré tous ces inconvénients et ces erreurs dergonomie jai persisté jai fini par assimiler les différents mécanismes et je commençais à mamuser sauf que les premiers bugs flagrants ont commencés à magacer passé les 200 tours
+
+voici quelques exemples 
+
+lia attaque une de mes villes niveau 10 avec deux armées jai une armée full  la garnison pour la défendre je résiste bien il narrive pratiquement pas à pénétrer à lintérieur et ne capture donc pas de points stratégiques quand à moi il me reste près de la moitié de mon armée encore vivante et avec un bon moral
+pourtant brusquement la bataille se termine et on mannonce que jai fait une défaite valeureuse
+non seulement je perds la ville mais toute mon armée est décimée sans aucune raison
+
+deuxième bug  jaffronte une armée elle déroute jai gagné je tue avec un de mes généraux à cheval les derniers survivants qui senfuient je surveille ce général tout le long et je sais donc quil est bien vivant vu que jai le nez dessus au zoom maximum jusquà la fin pourtant une fois la bataille terminée on mannonce la mort en combat de ce général 
+
+et un dernier pour la route  
+
+je capture une ville de lia et je constate quelle a construit trois fois le même bâtiment de la même catégorie chose impossible en tant que joueur humain cest vraiment nimporte quoi
+
+et des trucs comme ça jen ai vu des dizaines
+
+cest pas possible ça ne doit pas être la même équipe qui a fait ce total war on dirait un jeu bas de gamme fait à la vas vite comme les total war saga heureusement quil reste warhammer pour redorer un peu le blason de ca parce que entre les total war saga et ce three kingdoms on va de déceptions en déceptions
+
+je vais encore insister sur certains points ridicules 
+
+vous êtes un des royaumes le plus puissant et le plus grand de la chine vous gagnez une fortune et vous avez des tonnes de nourriture mais vous ne pouvez pas faire dautres armées car vous navez plus de généraux de dispo en théorie je peux avoir 18 armées et jai largement de quoi les payer mais je suis bloqué à 11
+il faudrait expliquer à ca que dans la réalité on peut nommer un officier général ca sappel la promotion et ça existait dans les premiers total war ca ne sera peutêtre pas un super général mais il faut bien quelquun pour diriger les hommes de troupes
+
+quand à limpossibilité de transférer des unités dun général à lautre là aussi cest absurde et ça na jamais existé dans aucun total war
+
+enfin pour finir au lieu dajouter des fioritures inutiles léquipe de ca devrait régler des problèmes qui existent depuis plus de 20 ans comme ces cavaliers qui tournent autour dun régiment en déroute et qui mettent des plombes à les tuer le plus comique étant quand il ne reste plus quun seul homme et que 40 cavaliers lui tournent autour sans pouvoir le tuer rapidement jamais je ne rencontre ce genre de problèmes avec des jeux comme mount and blade 
+
+sur ce je retourne sur warhammer et même sur atilla ou rome 2 les unités sont peutêtre moins belles mais au moins le jeu est clair propre et cohérent
+
+
+
+ 
+
+
+
+#####
+
+très bon total war historiques
+
+#####
+
+bon jeu
+
+#####
+
+très bon jeu franchement 910 jaurais bien mis 10 mais il ny a pas assez de waifus à mon goûts à part la chef des bandits
+
+#####
+
+i played almost all the total war and its the first time that almost one year that this game came out and there is still so so many bugs reported  right now it is just impossible to begin a game for a lot of players and not only because game crash for a lot of them like for me it is not happening but many bugs can happen during the campaign and you can found yourself stuck during your campaign after many hours of game because of bugs fortunetly for me they are happenings at the beggining of the campaign make it just impossobly to play economy
+the game could be awesome without that
+
+#####
+
+les points positifs 
+
+graphisme très joli
+
+les points négatifs  
+
+talent des généraux je trouve assez brouillon 
+pas de bataille navale mais bon je suppose que sega ont arrêter ça depuis la bouse sur shogun2
+lia a toujours les mêmes problèmes depuis 9ans  triche je mexplique
+
+1construit 4 armée puissante attention pas des unités de merde et tout ça en 1020 tour max
+
+2construit des batiments sans forcément avoir les ressources qui nécessitent la construction
+
+3sétend rapidement sans conséquencelordre public lia sen fou comme dhabitude 
+
+bref je vais pas continuer mais je dirais juste une chose quand vous sortez un jeu testez le  ou virer ceux que vous embaucher et qui voyent rien de négatif depuis 9ans 
+
+
+
+#####
+
+ce jeu pourrait être lun des meilleurs de la saga total war  malheureusement le système de recrutement est emmerdant plus quautre chose  les unités ne sont pas très intéressante rendant le jeu lassant pour ma part
+
+#####
+
+unplayble multiplayer tons of hacks unbalanced they failed the hero system 
+unlucky cause the game has a great potential
+
+#####
+
+il y a vraiment un manque de variété dunités et moi ça me bloque pour y jouer faut vraiment accrocher à tout ce qui est histoire chinoise
+
+#####
+
+total war three kingdoms qui se déroule dans lantiquité tardive chinoise cest une période que jaime bien car elle correspond à la fin de la dynastie han qui a uni la chine il y a plus de 3 siècles avant les évènements du jeu cependant malgré des qualités claires il y a de nombreux défauts qui me déplaise jai fini par jeter léponge 
+
+les grands points positifs sont 
+ système de campagne au tour par tour on peut gérer toute ses régions villecapitale et ses commanderiesvillages et choisir les bâtiments à construire pour démultiplier sa puissance économique et recruter des soldats
+ des batailles en temps réel à diriger soimême on peut diriger ses armées sur le champ de bataille en tant commandant en chef avec le système de héros il y a facilement moyen de vaincre des centaines voire des milliers de combattants avec 3 héros bien développés 
+ la diplomatie a été largement améliorer avoir des alliés est non seulement utile mais aussi indispensable pour réussir surtout au début les liens entre les factions se forment grâce a des traits communs et non plus des dons dargents lia nest plus aussi mauvaise quavant 
+ un système de compétence et de traits diversifiés pour les généraux chaque généralhéro a son domaine dexpertise  stratège sentinelle champion tout en ayant ses propres traits personnels
+ le système de liensrépulsions entre les personnages est bien conçue malgré des pénalités occasionnelles qui peuvent nuire à la partie comme le fait de perdre beaucoup dhomme cest inhérent à tous les total war
+ beaucoup de gens se plaignent des graphismes et dautres les trouvent beaux la réalité est plus complexe le jeu comporte des graphismes de qualités différentes dans 3 domaines jai testé plusieurs niveaux de détails faible à ultra le 1er est celui de lenvironnement de la carte de campagne les graphismes sont beaux mais sans plus ce nest pas de la haute résolution surtout pour la neige le 2eme domaine graphique est celui de lenvironnement des batailles en temps réel arbres bâtiments lui est en haute résolution le 3eme est celui des unités militaires héros qui nest pas nont plus en haute résolution cela crée un décalage assez marquant et parfois gênant pour certains dentre nous cest mon cas même si jarrive à my habituer avec des mods 
+
+les points négatifs 
+ les campagnes finissent par séterniser les factions sont de puissances équivalentes et créer de alliances déclarer la guerre à lun cest déclarer la guerre à tous le monde ou presque  plus il y a de villes et de villages plus on passe de temps gérer léconomie de letat passer une heure à gérer léconomie pour un tour ça devient vraiment pénible pire que dans rome ii 
+ attrapemoi si tu peux  les armées ennemies en infériorité numérique fuit devant les nôtres ça devient le jeu du chat et de la souris régulièrement et cest insupportable
+ tous les combats tournent autour des héros du jeu à la limite les soldats sont inutiles et cest celui qui a le héros le plus puissant qui gagne donc si on na pas les héros les plus puissants du jeu cest cuit pour la partie
+ les soldats ont des statistiques complètements inadaptés puisque les paysans enrôlés peuvent quasiment rivaliser avec la garde impériale sur un champs de bataille  dailleurs à propos déquilibrage les tours défensives sont tellement pétés quelles éliminent 1000 hommes en 2 min quand on attaque une ville une purge même en mode romance celui qui détient une ville fortifier est tranquille par contre quand cest toi qui attaques
+ plus de 40005000 soldats sur un champ de bataille fait ramer mon pc et ce nai pas ma config optimisation 0  ça ruine le jeu en mode histoire
+ les systèmes politiques et despionnages sont obscurs  ça devient tellement complexe et coûteux quon tente le minimum de temps à autre voire rien du tout  
+ les unités sont assez peu diversifiés dans le jeu de base en fait ce sont presque toujours les même dune faction à lautre 
+ le mode histoire est une blague tout dans ce jeu tout a été conçue pour tourner autour des héros or quand on les met au second plan on voit clairement que le jeu nest pas équilibré pour ça et il devient une purge
+ larbre des technologies est bancal les points de recherches sont fixés pour la partie  du coup cest rapide au début mais ça devient trop lent pour les derniers ces idioties peuvent faire perdre une partie   
+ heureusement quil y a des mods pour compenser tous les problèmes tours défensives héros graphismes le problème cest quand on est obligé de modder son jeu à mort pour le rendre jouable ça devient nimporte quoi  en plus ça augmente linstabilité et ça cause des bugs et des crashs à tout bout de champs 
+ encore une politique de dlc à rallonge
+
+le jeu était prometteur et avait de bonnes idées mais ce nest pas possible dy jouer sans que je me prenne la tête et je ne me vois pas acheté toute une série de dlc pour un jeu comme ça même sils peuvent résoudre en partie les problèmes que jai listé je laisse tomber je ne recommande pas du tout ce jeu
+
+
+#####
+
+trop d info bulles a l ecran la series devrais revenir aux basiques qui on fait son succes c est un wargamme pas un jeu de gestion bien meilleur est shogun ou rome 2 ou atilla et napoleon avec de plus beux graphisme et pas toute cette micro gestion 
+
+#####
+
+un total war qui change malgré une mauvaise optimisation
+
+#####
+
+les combats jaurais rien eu a redire si les unités ennemis navait pas le droit dêtre complétement invisible juste en se tenant immobile au milieux dune plaine cela empêche toute stratégie et empéche de gagner certaines batailles
+
+#####
+
+habitué des total wars jai rien compris pas de tuto rien pour expliquer le fonctionnement
+
+#####
+
+cest bien le jeu lol on peut taper des chinois et ensuite les mettre en esclavage et puis comme on des chinois qui tapent dautres chinois bah on peut pas être raciste
+
+#####
+
+ce jeu est exeptionelle et addictif ça fait trois jour que je me couche beaucoup trop tard à cause de ce jeu
+
+#####
+
+
+
+
+#####
+
+trop brouillon
+
+#####
+
+super jeux
+
+
+#####
+
+le meilleur de tout les total war
+la carte superbe
+les personnages
+les équipements
+etc
+tout est excellent
+
+ps  un point positif ca effectue un suivi de son jeu régulièrement afin de corriger les bugs ce qui est indispensable
+
+#####
+
+jeu super mais trop de problème car il crash trop cela gâche le jeu
+
+#####
+
+après un court moment je peux affirmer que cest un des meilleurs total war meilleures mécaniques de loin et bonne ambiance
+
+#####
+
+zgang bruuuu skuskuskuuuuuuurt
+
+#####
+
+cool
+
+#####
+
+pas dactions peu de combats des progressions linéaires  on sennuie   rien à voir avec warhammer ii 
+
+#####
+
+les graphismes sont bien et le jeu est plutôt innovent
+
+néanmoins la rejouabilité est terriblement nulle au bout de qques heures de jeu on a fait le tour
+
+#####
+
+pck c grav bien en vrai
+
+#####
+
+encore de très nombreux bugs une ergonomie des menus douteuse et pas du tout intuitive le système de recrutement qui pourrait être sympa sil fallait pas passer deux heures pour comparer les unités de chaque général loptimisation des unités cest sympa mais pas avec ce système 
+quand on nous déclare la guerre aucun message ne saffiche pas il faut aller chercher entre les trop nombreux messages sur le coté entre une construction et lacquisition dun objet
+dommage de ne pas avoir repris les menus des anciens jeu qui étaient mieux mais sinon pour un fan de total war le jeu reste sympa même si un peu lent 
+et toujours trop de dlc payant sans amélioration de se qui ne va pas
+
+#####
+
+oi
+
+#####
+
+fan de britania vous serez ravis vous allez payer 60 pour quasiment le même jeu mais avec de nouveaux skin
+gestion inexistante diplomatie ennuyeuse et combats soporifiques et répétitifs je nai que 11h de jeu car je nen pouvait plus je me suis forcé à jouer dès le deuxième combat au final je laissais lia gérer les combats or le coeur dun total war cest ses combats tactiques et épiques on a perdu les deux il faut lancer lalerte enlèvement
+
+bref la série total cest avant tout la mise en place dune stratégie pour conquérir le monde sur la map globale et des combats tactiques et épiques opposants des milliers dunités la gestion qui nous permettait une petite coupure entre chaque bataille est très simplifié et avec peu dintérêt
+
+la diplomatie lia est bête mais enfin une amélioration il aura fallut 10ans cest pauvre pas despion pour améliorer les connaissances que lon peut avoir sur les autres factions et débloquer dautres possibilités un bel effort mais en dix ans la concurrence à fait mieux
+
+les combats je fonce dans le tas et la cavalerie déborde sur les ailes et nettoie les archers avant frapper le dos de lennemi aucun intérêt de faire autre chose lia applique en permanence la  même tactique jamais elle utilise des reliefs forêt par de séparation de leurs unités pour essayer de nous déborder et pire pas de map où il faut traverser un pont ou une rivière à gué les map sont des clones
+les combats sont rapide non pas parce que les affrontements sont rapides mais parce que les unités courent sans sessouffler et lia choisit la même tactique  on sennuie  
+
+attendez les soldes et prenez une clef sur un site pas chère 30 maxi
+
+#####
+
+wullah c 1 bon je
+
+#####
+
+trop de bugggggggggggg
+
+
+#####
+
+
+
+#####
+
+le meilleur total war depuis un moment
+
+#####
+
+bien mais pas top 
+
+#####
+
+un total war qui simpose comme une nouveauté de cette exceptionnelle licence il dépoussière une mécanique de jeu devenue quelque peu obsolète depuis rome 2 quel plaisir de pouvoir me livrer à de nouvelles parties passionnées sur ce qui sembles être une nouvelle pépite de creative assembly ce jeu fait à la fois mon bonheur mais également celui de ma salope de général
+
+#####
+
+graphisms are old and weird but a great tw overall
+
+#####
+
+éviter ce jeu si un mauvais équilibrage vous rend malade à voir pour la suite avec de futur patch
+
+#####
+
+enfin un total war un peu bien conçue après tant dannée
+
+pour tous ceux qui aime la stratégie au sens large et pas uniquement sur le champ de bataille
+
+points positifs 
+
+beaucoup de chose à gérer tant au niveau et choix de construction de recherches technologiques commerciale administrative etc 
+
+personnalité et affinité des différents personnages à bien étudier avant recrutement ou affectation à un poste en fonction de plein de renseignement facilement accessible
+
+diplomatie bien pensée riche et qui prend une réelle dimension
+possibilité de trouver facilement quel accord il est possible de faire avec qui et comment via le  marché rapide 
+
+système de provision mieux pensé que dans  throne of britania 
+
+tellement de facteurs réalistes à prendre en compte que lon doit enfin être un bon stratège sur le terrain pour gagner une bataille notamment utiliser le brouillard de guerre les zones de camouflage le terrain dans sa globalité et aussi la météo qui influe beaucoup le terrain donc notre vitesse de déplacement et fatigue 
+
+carte de campagne jolie avec animation diffèrent en fonction des bâtiments et intuitive
+
+gameplay globale et interface campagne et bataille bien pensée et intuitive
+
+charge cavalerie qui prend tout son sens
+
+possibilité de jouer en mode romance comme pour les warhammer ou les personnages sont surpuissant ou mode histoire ou réel où le personnage est accompagné de gardes du corps et qui nest pas surhumain privilégiant ainsi la stratégie comme dans les bon anciens opus
+
+les régiments et armées peuvent être renvoyé dans leur foyer pour économiser en temps de paix puis être rappelé si nécessaire moyennant une somme pouvant dégraisser en fonction des recherches et infrastructures
+
+les régiments composant larmée peuvent se séparer pour former des mini armées
+le conseil de factions fait des propositions intuitives et lui donne un réel intérêt contrairement à avant
+sûrement beaucoup dautres points positifs que joublie tellement il y en a
+points négatifs
+
+le nombre daccord commercial et dadministrateurs est limité de façon illogique trop réduit au départ il augmente un peu pas assez en fonction du statut du dirigeant et des recherches scientifiques
+impossible de booster les recherches scientifiques soit via des infrastructure soit via des subventionsce qui donnerait une vraie et meilleure dimension à la gestion de son empire
+les unités à pouvoir être recrutées dépendent du général de régiment donc avec 3 généraux par armée impossible de diversifier convenablement notre armée 
+impossible denregistrer une formation afin de ne pas avoir a replacer les unités a chaque bataille
+on finit par vite se lasser le jeu devient vite répétitif et tend vers labération  quand les vassaux jusque la super satisfait et loyaux virent dun coup au mécontent et rebelle
+mis a part quelques généraux legendaires tous les autres se ressemblentcest frustrant davoir plein de jumeaux dans ses armées
+la cavalerie sentête à restée en mêlé plutôt que de faire automatiquement des charges répétéesce qui est son rôle
+
+encore une fois les restriction devrait être logique basé sur largent la nourriture et le nombre dhabitant  comme rome 1 ce qui nous pousse a limiter au max les pertes durant les batailles pour garder ou agrandire une armée mais aussi pour agrandire et ameliorer les provinces
+le recrutement devrait continuer à se faire nimporte ou mais comme dans wharammer 1 cest a dire avec le déplacement des unités la ou elle sont produite jusquà larmée recruteur possibilité de les intercepter donc
+pas de garnison imposée mais la possibilité den faire soit même sans général et selon nos choix dunitées
+la possibilités de donner des ordres précis a nos vassaux sur carte de campagne comme sur champs de batailles
+comme si cétait nos propres unitées car ces vassaux nen font quà leur tête ce qui nest pas logique 
+
+ 011121
+
+le dlc turban jaune  ajoute à ces factions rebelles des unités immortel les porteurs de paix des turbans jaunes censé être des unités bas de gamme ils envoient valser comme dans une explosion tout un régiment avec un seul coup de hache les flèches ne les touchent pas mes unités se font décimer par des archers amateurs alors que mes archers ou arbalètes délites ne font quasi aucun mort dans les rangs ennemies les citées deviennent incontrôlable et toujours rebelle quelque soit les structures construites ou les traits du chef
+
+#####
+
+superbe
+
+#####
+
+le meilleur total war sortit à ce jour clairement mais le plus difficile attention
+
+les  
+
+diplomatie présente et obligatoire comme jamais auparavant
+carte de campagne magnifique
+lhistoire des 3 royaumes qui se marie parfaitement avec lunivers total war
+optimisation en 1080p plus que convenable
+déroulement de la partie progressive et correctement amenée avec une bonne durée de vie
+chaque héros on des manière de jouer différente cao cao va avoir une faculté spéciale et propre à lui seul en diplomatie à pouvoir monter les autres seigneur les un contre les autres par exemple
+système de monter en puissance avec les titre duc empereur etc pour au final vous retrouver qua 3 sur la carte à vous livrer une dernière guerre pour le contrôle total de la chine
+
+les  
+
+optimisation en 4k très moyenne
+pas mal de bug énervant yuan shao qui vassalise systématiquement tout le monde sans difficulté et qui devient un demi dieu au tour 70
+trèèèèèès peu dunités on est très loin dun warhammer mais vraiment
+difficile à prendre en main
+ia est parfois bien trop aider ce qui rends certaine situation un peu improbable comme un royaume qui te sort 3 armées complète alors que toi avec un royaume 2 fois plus grand tu as du mal à en commencer une deuxième
+
+
+
+
+
+
+#####
+
+
+
+#####
+
+nice comme strategie
+
+
+#####
+
+comment une franchise qui avait développé avec tant de précision le coté stratégique des combats dans les medieval en arrive à ressortir différents opus nayant pour seule différence que lhabillage et labsence de stratégie
+la gestion des territoire est hyper simplifiée les unités se ressemblent toutes dune faction à lautre pas de vraie touche amis surtout aucune napporte de vraie avantage sur ladversaire
+
+#####
+
+full bug
+
+#####
+
+jaime la bière les échecs et sa grandmère
+
+#####
+
+après avoir passé 20 heure sur la campagne et lavoir fini en rushant un peu je vais donc dire mon avisle jeu est excellent voir même lun des meilleur total war sans dlccar faus pas déconner vue le contenu de warhammer maintenant dure de faire mieuxle jeu est pure mixte entre warhammercombatduelstuffhéroscharisme de héroset shogun 2interaction socialevillecétait le meilleur mélange possible vue que cest mes deux préféré cependant il a défaut un peu génant
+
+le tempsalors le temps nest génant en sois mais le problème cest que dans certaines faction vous navez quun seul héros unique et charismatique et dés quil meurt de vieillesse cest un peu comme si la faction était morte pour moi et bordel a la fin de la campagne les trois quart des héros charismatique sont mort de vieillesse
+
+la nourriturejai toujours eu de la peine avec la nourriture sur les total war mais jai limpression que cest un gros bordel tout les faction crevais de faim et je pouvais leur faire signer nimporte quoi juste pour du riz
+
+en vrai je crois que cest les seuls défault majeures le reste sont des souci des autres total war comme le coup du chat et de la souris ou encore le gars de lautre coté de la chine qui me déclare la guerre je ne sais quoi
+
+je conseille vivement ce total war qui est un vrai vent de fraicheur est pas une daube sans nom comme rome 2 et attila
+
+#####
+
+jeux qui ne fait que cracher sur warhammer aucun soucis en 310h et ici à quasiment chaque bataille qui dure trop longtemps 30 min
+
+#####
+
+pour linstant excellent
+
+#####
+
+good game
+
+#####
+
+
+
+#####
+
+best total war ever
+
+#####
+
