@@ -20,10 +20,10 @@ BDD = sql.connect("JEUXVIDEOS.db")
 curseur = BDD.cursor()
 
 # création d'une table JEUX
-curseur.execute("CREATE TABLE Jeux (id_steam TEXT PRIMARY KEY, nom TEXT NOT NULL, date_sortie TEXT NOT NULL, genre TEXT NOT NULL);")
+curseur.execute("CREATE TABLE Jeux (id_steam TEXT PRIMARY KEY, nom TEXT NOT NULL, date_sortie TEXT NOT NULL, genre TEXT NOT NULL, lien_image TEXT NOT NULL);")
 
 # on ajoute une instance 
-curseur.execute("INSERT INTO Jeux (id_steam, nom, date_sortie, genre) VALUES (\"413150\", \"Stardew Valley\", \"26 février 2016\", \"farming\")")
+curseur.execute("INSERT INTO Jeux (id_steam, nom, date_sortie, genre, lien_image) VALUES (\"413150\", \"Stardew Valley\", \"26 février 2016\", \"farming\", \"https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg?t=1711128146\")")
 
 # on affiche toute la base de données
 curseur.execute("SELECT nom, date_sortie, genre FROM Jeux")

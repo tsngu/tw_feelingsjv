@@ -36,13 +36,14 @@ else:
 nom = input("Entrer le nom du jeu : ")
 date = input("Date de sortie : ")
 genre = input("Genre du jeu : ")
+lien_image = input("Lien vers une image du jeu : ")
 
 # si tout va bien, on enregistre le jeu dans la BDD
 
 BDD = sql.connect("JEUXVIDEOS.db")
 curseur = BDD.cursor()
 
-curseur.execute(f"INSERT INTO Jeux (id_steam, nom, date_sortie, genre) VALUES (?, ?, ?, ?)", (id, nom, date, genre))
+curseur.execute(f"INSERT INTO Jeux (id_steam, nom, date_sortie, genre, lien_image) VALUES (?, ?, ?, ?, ?)", (id, nom, date, genre, lien_image))
 
 BDD.commit()
 BDD.close()
