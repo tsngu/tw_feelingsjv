@@ -1,0 +1,1349 @@
+all of the games of this collection are just lazy ports
+
+for these msx versions they are using the msx ports made by blupoint they output at 720p and have no scanlines or integer scaling options scalingshaders would be nice also the framepacing is terrible
+
+for steam controller users the controller broken also
+
+nice to have an official port but native display resolution and scaling option should be the minimum standard for a emulated game
+
+#####
+
+looks atrocious on high resolution displays no windowed mode forced pillarboxing no integer scaling cant rebind controls
+
+for metal gear 1 get it on gog instead the port over there is perfect 1010 if you can get your hands on mgs3 subsistence or mgs hd collection play the version of metal gear 2 in those instead
+
+bmarch 2024 editb the 150 patch removed native controller support the entire collection now relies on steams terrible api to translate controller input
+
+#####
+
+at least they were lazy enough to not strip mentions of hideo kojima from these games
+
+#####
+
+edit as others have stated these are the versions of metal gear and metal gear 2 from metal gear solid 3 subsistence version and are technically not the original versions of the games running in an msx emulator regardless my below complaints still stand 
+
+striketheyre just running in an emulator an emulator thatstrike doesnt let you use save states or change the resolution controls volume playback speed graphical tweaks anything although this game does offer a way for you to quit the game and return to the launcher program unlike metal gear solid 2 and 3 in the same collection so at least it does that much right
+
+unless you reeeeeeaaaaaaally want steam achievements theres no benefit to playing these versions of metal gear and metal gear 2 instead of emulating them
+
+#####
+
+its metal gear 2 on pc without having to run an msx emulator with garbage controls that cant be changed unlike an msx emulator thanks konami i guess
+
+#####
+
+hardlocks on steam deck insane pricing
+
+#####
+
+the games themselves are great and i recommend playing them for any metal gear fan these games are a direct port of the hd collection versions even using the same menus from metal gear solid 3 no added quality of life features filters display options of any kind etc the extras included are fine but do not justify the current full asking price
+
+#####
+
+you shouldnt sleep on metal gear 1 the story is as light as you can get for a metal gear game however the level design and gameplay is topnotch once you get used to it just remember r r l r l l r l l r r l r l r r
+
+#####
+
+amazing games remaster could have more options it feels kind of barebones and having to buy the entire collection for the extra content or having to pay full price to upgrade to full collection is incredibly scummy
+
+#####
+
+tedious military zelda games that are pretty good and also i hate them
+
+#####
+
+this master collection is a fking insult
+
+lazy cash grab mtfs
+
+just go back to consoles or find a emulator
+
+edit here comes the blind and braindead sheeps with the clown award gotta love them aye
+
+#####
+
+cant recommend it as it is now because both games freeze up on my steam deck regularly to be fair it seems to not have the same issues on pc but if you were looking to play it on steams handheld itll give you headaches
+
+#####
+
+would love to see these remade 810
+
+#####
+
+i love metal gear  have bought consoles primarily for both twin snakes  mgs4 in the past 
+going in i knew that konami would make a minimal effort but from what ive seen so far its worse than even my low expectations
+
+despite being emulated theres no improvements or additional options such as filters or save states this wouldnt be so bad if it ran properly but random crashes do occur  the graphics upscale poorly so you often end up with misaligned pixels which is especially noticeable on the codec
+
+#####
+
+this is my review for mgmg2 my review for the whole collection as a package is located urlhttpssteamcommunitycomidtgjudgementrecommended2306740hereurl
+ 
+ 
+the original duology from the msx era these are the ports ripped from mgs3subsistence and slapped into their own app but bundled into mgs1 and the collection instead of mgs3 it has the exact same features and issues as mgs1 spoilerminus the psycho mantis stuff for obvious reasonsspoiler and while the simpler nature of the graphics makes the bilinear upscaling less of a problem the unacceptable latency issues are still there which is a real shame
+
+#####
+
+a hideo kojima game
+
+#####
+
+not really worth the price for 2 mgx games but if you somehow want to play them its a nice alternative
+the only issue is that you have to enable vsync on the gpu options for this game otherwise the game will go in a turbo speedalso the save system is kinda funky
+wait for a sale if you really want itnot worth at full price
+
+#####
+
+why is there a keycard for every single number kojimaaaaaaaaaaaaaaaaaaa
+
+#####
+
+i absolutely love these games but the port was lazy and it isnt worth this price it hurts but im refunding so they put some work into this before selling old roms
+
+#####
+
+ohhhh yes its definitely a cash grab i got my copy at a discounted rate so i definitely recommend waiting for a sale its nice to finally have this on steam but wow konami could not really give less of a fuck about porting lol
+
+#####
+
+poopy port strikeno cloud savestrike limited resolution ripped right out of mgs hd collection
+
+#####
+
+i think this game is related to metal gear solid
+
+#####
+
+a hideo kojima game
+
+#####
+
+a launcher that is unnecessary and does not contain any setting options
+
+720p resolution instead of the promised 1080p
+
+it does not support any features that are considered basic these days
+
+thank you konami for ruining my childhood
+
+#####
+
+metal gear 1987
+
+pros
+
+innovation in gameplay metal gear was one of the pioneers in introducing the stealth genre into video games the emphasis on stealth and enemy evasion was an innovative approach at the time
+
+captivating story the gripping plot of military conspiracy and complex political themes contributed to the games unique atmosphere
+
+memorable soundtrack the soundtrack composed of striking songs helped create an immersive atmosphere standing out as one of the most memorable aspects of the game
+
+cons
+
+limited graphicscompared to the graphics that were not available in msx1 given the technology of the time graphics were simple and limited this can be a negative point for players who value visual aspects more
+
+challenging controls the controls were a bit challenging and could be complicated for some players especially compared to modern standards
+
+metal gear 2 solid snake 1990
+
+pros
+
+formula improvement metal gear 2 improved upon many aspects of its predecessor offering more refined gameplay with improvements to graphics controls and level design
+
+deeper narrative the narrative has been expanded exploring deeper themes and more complex characters deepening the players emotional involvement
+
+introduction of key elements elements that became fundamental in the series such as cardboard boxes were introduced in metal gear 2 showing the developers ability to create iconic elements
+
+cons
+
+technical limitations still present despite the improvements the game was still limited by the technological capabilities of the time which may affect the experience for modern players
+
+may be difficult for beginners the games difficulty may be high for novice players especially if they are not familiar with the stealth style of play
+
+both games are considered classics and fundamental in the history of video games contributing to the development of the stealth genre the second game in particular is often praised for its improvements over the first and for establishing many elements that would become hallmarks of the metal gear series
+
+#####
+
+do not buy dlc across multiple titles in this collection do not work konami has notifications acknowledging this but no hard time on this fix recommend console versions on xbox playstation or switch hopefully they fix this soon in the meantime dont waste your money i already requested a refund
+
+#####
+
+authentic ports of the hd versions straight from the mgs3 hd release achievements are nothing difficult but the old games are basically difficult on their own when you dont use any guide decent
+
+#####
+
+was really hoping that would modernize these titles in literally any way but it seems like they just wanted to hype up their new metal gear project 
+
+still decent enough games though wouldnt recommend play them without some sort of guide unless you have unlimited time on your hands
+
+
+
+changing my review from positive to negative
+
+was reading the comments on the forums and looks like this game doesnt have cloud saves so looks like youll lose all your progress if you uninstall
+
+
+
+dont be like me keep the game installed until you can upload to cloud
+
+#####
+
+metal gear
+
+#####
+
+terrible scaling on these msx ports with no video options
+
+#####
+
+super lazy  cant remap controls no screen filters bad pixel scaling
+
+no cloud saves  its 2023
+
+also find it funny that the splash screens say metal gear sold hd collection  konami is so lazy that didnt even update the logos
+
+#####
+
+metal gear
+
+#####
+
+its an interesting look back into not only this franchises past but past games in general 
+
+there is a lot of bull regarding what you have to do to progress or get certain items mainly in mg1 but the exploration and combat are pretty fun some mechanics such as humping a door with 9 different keycards to see which one opens it and the controls in general are very clunky and some parts of the games are also insanely obnoxiousboring spoiler the pitfall maze in 1 the swamp first floor and the stairs segment of the second building and the atrocious black ninja fight in 2 for example spoiler but overall it was a good experience the story and characters are fine theyre fun while the game lasts
+
+wouldnt pay the full price for only these 2 games but would recommend playing them if youre aiming to buy metal gear solid
+
+#####
+
+couldnt get either one of the games to start the application always crashed whenever i tried to start either metal gear or metal gear 2 solid snake
+
+#####
+
+i have never played a metal gear or metal gear solid game in my life so i was excited to see this remake package and try them out on pc i do understand these games are quite old so the gameplay can be different compared to modern games but i think this is a good opportunity for these remakes to show are they really worth to play at all
+
+bmetal gearb
+metal gear was released back in 1987 for the msx home computer in which you play as a rookie foxhound operative called solid snake in 1995 who have to infiltrate a mercenary base called outer heaven with nothing just a pack of cigarettes because there are prisoner from the foxhound group and a missing operative as well called grey fox also there are infos about a weapon of mass destruction which we need to check out and destroy if it exist
+
+the game idea is unique this is a stealth top down shooter where you have to collect items to advance in the base and weapons with immunization to defeat enemies and bosses controls were a bit hard to get used to but after a few minutes i was alright with it graphics is pretty good for its time i liked the characters of the game even though they didnt got many traits but its good for a start the soundtrack is alright however this game is just really annoying in general 
+
+first of all the progression is nerve killing just finding the key items for certain boss fights or for other locations is really difficult because they are mostly at hard to find places you have no clue where to find and what item exactly there are lot of traps which can either one shot you or just delay your progression some bosses are really difficult to beat because you need a specific weapon and almost all ammunition for it leveling up in the game is necessary to finish it so if you miss a prisoner to find or kill one accidentally and also if you dont have enough ammo you have to retry and try to find a way to beat it thankfully if you die too many times you will get max health and items in your inventory which was really helpful saving in the game is only possible at key locations which you dont know if you are at one so you just randomly save and hope the game do something getting back to the bosses some of them has a weak gimmick or somewhat easy to defeat i also would have appreciated more music tracks in the game there are also many things to keep in mind throughout a playthrough which is on paper is not a long one but it can easily take lot of time due to the up mentioned progression issues in the game the enemies have tunnel vision if you dont stand right in front of them they wont detect you
+
+i do understand this is an old game which is heavily focused on exploration but i really dont like this game i try to enjoy it and play it without any help but after 3 hours i gave up on that i dont recommend this one maybe only if you are interested in the lore of metal gear but i would rather watch a story recap video then to play this one
+
+bmetal gear 2 solid snakeb
+metal gear 2 solid snake was released in 1990 to the msx where you play as solid snake once again in 1999 who retired after the incidents of outer heaven however the foxhound group ask his help to rescue dr kio marv from the forces of zanzibar land with nothing but a pack of cigarettes once again comparing to the last game this has more features like a minimap and a more detailed hud the graphics are better looking and you can even prone with the character the soundtrack got bigger and better there are more characters and dialogues also and the game is canon with the previous metal gear gameplay wise is much better too it is still pretty challenging to find some key items but at least they are not at random positions level up is still an important part of the game but you just have to beat the bosses to get to a new level bosses has more characteristic which making them unique overall this game is definitely playable without any help
+
+what i didnt liked in mg2 is the hitboxes for the traps some of them are way bigger than the trap itself the save system is still the same which i dont like it at all the map is even bigger this time and its really hard to keep account about certain locations
+
+mg2 solid snake is definitely an upgrade after the first one and its more fun to play in general i definitely recommend this one to try
+
+badditional contentb
+in this remake you get manuals for both of the game a screenplay book about the two games which contains every dialogue in the game a master book which contains the story and the characters about both games as well also you can listen to the soundtrack and check out the digital version of this books look these are nice additions in my opinion which helps to understand the story 
+
+i also want to mention the controls here for both games because playing this game with a controller is recommend since the keyboard controls are a bit weird to get used to its not impossible to play with that but i got annoyed by it pretty fast
+
+bverdictb
+as a first time player i was interested to try out both game and i got a mixed review in general but i can recommend this package still especially the second game alone however if you have played these games and expect to get something new you will be disappointed for 20 you can also get this and metal gear solid which is a bit expensive in my opinion get it around 10  15
+
+#####
+
+be me run past truck enemy suddenly pops out and fullalerts on me dead within 5 seconds
+
+1010 bia hideo kojima gameib
+
+anyway im not going to recommend this on account of the locked 720p output and wonky framepacing or idk gmg had a discount on keys for this maybe they still have it up
+
+#####
+
+my first reaction to the menu and style was awesome it has the original msx vibe where i think the intro music of mg2 is one of the best from that time period 
+
+until i started mg and it felt the framerate is off already when it is showing the konami splash screen at start and the zsssssssh ting also the default keybindings are not the same as on msx it should have had an msx mapping out of the box or as an option
+
+i validated it by launching mg via an msx emulator and the framework was perfect pretty lazy port for that matter and bizarre that a 2023 top notch pc cant even run a 1987 title frame perfect
+
+regardsless of those quality issues i am going to play it as likely the texts are better than the original and i want to unlock the achievements
+
+1 for the fans and retro nerds
+1 for the lazy port
+
+as i still own a actual mg cartridge its a yes for me
+
+
+#####
+
+dont pay 20 for this just buy the collection if you want to play cuz these old ass games should be no more then 10
+
+good games tho
+
+#####
+
+classics at long last available on pc  nice to play the msx versions instead of the nes ones
+
+#####
+
+hnnnnghh the original metal gear huh
+
+#####
+
+h3section 1 the wrapperh3
+to begin with i would like to describe the part of this title that actually took some development hours to put together upon launching the game the player is faced with a sleek menu created in the unity engine that is used to select a game to play i generally think that they did a good job with this menu it looks and feels great theres appropriate audio and the menu options are presented all at once in a simple linear list with no obvious tablet interface inspirations like one might see with other major aaa games nowadays
+h3section 2 metal gear 1987h3
+of the two games included here this was the one that i had already played years ago and so returning to it i had a 11 experience with the last time which had novelty but was not fantastic for a first try it is quite remarkable how much they managed to pull off a ton of elements that would be refined heavily later on in the series have a start here but the absence of things like the camera and soliton radar mean that you can be caught offguard by enemies on the next screen over in many cases a binocular item can be found which allows you to go into a viewing mode where you can clunkily look ahead in one of four directions to get a general idea of whats there but you will still end up coming out of elevators or going into trucks to meet an enemy right in front of you given the era that the game released in there is certainly some jank that will require outside knowledge or trial and error in order to get anything done in the game for example the necessity to punch walls at random in some areas to see which ones can be blown up with c4 as there is no visual indicator of a destructible wall beforehand or some trucks beginning to move at random and transporting you to a different area sometimes to the players great detriment one major ipitfalli is the ending requiring the player to have saved all of the hostages in the game and avoiding any of them dying in order to be able to carry enough c4 to defeat the final boss
+despite this crustiness i think this is a pretty fun game to be played with a map handy for when things get confusing particularly an annotated one to tell you which doors will accept which numbered key cards so that you dont find yourself cycling through six of them while taking damage in a room full of poison gas it would also be nice to know when you find an elevator that only goes straight up for some reason
+h3section 3 metal gear 2 solid snake 1990h3
+upon finishing mg1 for the first time i found myself greatly fatigued from the experience to where i never bothered pushing far into mg2 having now finished the game i deeply regret not having played this game sooner while mg1 feels like a product of its time mg2 could release as an indie game on steam today and would be praised highly mechanically mg2 is shockingly not very far behind metal gear solid for the playstation 1 while the dialogue is nowhere near as deep as the 3d titles in the franchise there are characters to speak to throughout the game either in person or over radio that have a lot more to say than mg1s singleline badlytranslated vague hints
+of the large number of gameplay elements that carry over to the later games in the series some of the strongest that began here and remained untouched include a radar for seeing the position of enemies not in your immediate field of vision using thermal goggles to see laser beams crawling up to claymore mines to disarm them various ground surfaces that make distinct sounds when walked upon that can alert guards and using cardboard boxes with different shipping labels in order to travel between areas quickly later on
+one thing that mgs1 realised was a bit of a problem and took steps to cut down on considerably is the backtracking despite having the aforementioned cardboard box transit system available the lategame for mg2 is still quite a pain as you are required to travel so far back for certain mandatory points of progression for those who played metal gear solid 1 imagine having to solve the pal card puzzle except you were required to backtrack all the way to meryls cell in the first armory building and then back again
+h3section 4 strikepeacestrike extra fluffh3
+as well as the two games themselves in a number of text languages the collection also allows you to view a master book and a screenplay book the former includes a bunch of annotated screenshots and art from the game explaining the characters and plot while the latter is a transcript of everything that happens in both games this includes every piece of dialogue with every character which i personally think is pretty damn cool as someone who often misses a good amount of dialogue in mgs by not calling everyone in my phonebook whenever i enter a new room or pick up an item it was nice to read through some of the other possible calls i had missed
+h3conclusionh3
+while i would not tell you to spend the asking price for just purchasing these two games on their own while ignoring the rest of the collection i would definitely factor these games into the price of the collection in its entirety as they are far from filler the nes games definitely are mg2 in particular sits right at home with other games in the series with a ton of its own weird and memorable stuff like a snake that gets into your inventory and eats your rations or acid that will instantly turn you into a puddle when stepped in
+
+#####
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####
+
+metal gear 1 is ok but cant believe how good metal gear 2 is especially considering it came out in 1990 it still has its bs moments but you can clearly see how 2 is the beginning of the overly complex storyline
+
+#####
+
+for some damn reason mg1 just kept freezing making m lose all of my progress
+
+#####
+
+this review is about the pc port rather than the games themselves i do recommend playing them if you havent already but if the first metal gear feels too oldschool at least give the sequel a try because its very comparable to mgs1 and in some ways better
+
+anyway these are the versions that youre almost certainly familiar with if youve played them before theyre technically not the original msx versions theyre mobile phone versions that were later included in mgs3 subsistence theres some changes namely the character portraits in mg2 and both games have additions like a results screen at the end and a boss rush mode however they do run at half the framerate of the msx versions which is a real shame even if the games are still quite playable
+
+as for the new master collection stuff the scripts for both games and a master book are included along with optional wallpapers to fill the empty space not used by either game thats about it and honestly there really doesnt need to be anything more the keyboard controls are rather strange and cant be changed but at least theyre not nearly as dumb as the keyboard controls for the other games in the collection
+
+when buying mg1  mg2 separately from the rest of the collection theyre bundled with mgs1 while these probably arent the main reason youre buying the bundle or the whole collection please dont skip them although you might need to bring up a guide for mg1 at a few points all you should need for mg2 is a screenshot of the tap code that can be found right before starting the game
+
+#####
+
+i really like the older metal gear games im really impressed with the gameplay and story elements in such an old release 
+810
+
+#####
+
+general known issues
+games crash directly on some systems
+games output to a black screen on some systems
+games output with black bars 12
+no option to change screen resolutions 12
+no option to change output mode full screen windowed borderless windowed 2
+forced windowed mode altenter on monitors with higher refresh rates than 60hz can cause games to run above 60fps with gameplay speed tied to the fps speed 120hz will cause game to run at 2x speeds 1
+game runs at a higher speed than normal 1
+game has audio synching issues 1
+language packs are not available unless the player uses the steamdb
+keyboard keybinds can not be changed
+inconsistent controller input between the 3 games for confirmationcancel o and x or a and b mgs1 uses ob to confirm and xa to cancel while mgs2 and mgs3 use the opposite
+games have stretching on monitors that are not 169
+games do not inhibit sleep mode on monitors needs repro reports
+
+metal gear  metal gear 2 solid snake
+steam cloud saves are not available solved
+controller remapping gets reset every time the game is launched
+
+#####
+
+these games and are still fun and engaging and in my opinion aged quite well the metal gear formula of over the top writing is very much evident in these games and for free with the collection you cant go wrong
+
+#####
+
+i noticed far less input delay on this version than on playstation 3 and emulators achievements are a very welcome addition
+
+do wish they natively supported 43 resolutions but ill take a world where metal gear 2 solid snake is available on steam from one it isnt
+
+metal gear 2 solid snake is an absolutely masterpiece of a game that newcomers to metal gear shouldnt skip for all intents and purposes it is a proper metal gear solid entry that just happens to be 2d
+
+#####
+
+it all started from here
+
+#####
+
+it was perfect just perfect thank you hideo
+
+#####
+
+with way more content included in comparison to the mgs3 hd collection version metal gear 1 and 2 became such an amazing experience to play once more
+the master books provides extra lore and details to anyone who has played  the following games dont skip on these ones since they are cannon and provide context and further details about returning characters for the next games mgs1 and so on 
+
+#####
+
+i thought id start where it all began since i have never experienced any metal gear game now onto metal gear solid for the first time
+
+510 rations
+
+#####
+
+underrated
+
+#####
+
+a hideo kojima game
+
+#####
+
+metal gear 1  2 presented as they were in the original hd collection for ps3x360 like before these are straight ports of the msx releases nothing was upgraded or changed gameplay wise with that said the games were highly influential for the time and you can see the beginnings of what would become staple mechanics in the later entries in the series i wont lie they are very clunky and difficult games to play when you consider modern sensibilities in game design looking at you manual keycard swapping but if you can push past that it is its own reward in a sense to experience what came before
+
+
+
+#####
+
+both games were good you should know that youre most likely gonna need a guide to progress in parts of both these games there were some things that you had to do that i wouldnt have guessed in a million years  overall i enjoyed myself
+
+#####
+
+upon booting the game i was quite surprised to find out that it is not in fact a pachinko machine
+
+#####
+
+before you read the review please understand this is just my opinion alot of people are constantly whining how bad the releases are on every mgs gamesports when its not that bad not perfect sure
+
+for someone who has never played bmetal gear 1b and bmetal gear 2 solid snakeb in their entire life buntil 12 years ago when i decided to do an entire metal gear series marathon including spinoffs and other titles that were considered noncanonb i never really got to feel what bmetal gearb and bmetal gear 2 solid snakeb had to offer until i did just that and i only really played like metal gear solid 1 to 4 3 being my most fav out of all mgs games and despite the one issue where the game would look like it ran on 2030 fps only and not 60 fps like it probably shouldve i still actually rather enjoyed the games despite this
+
+while both game had some slight problems with me liking mg2 over mg1 both of these games are both great in their own right i have to say
+
+it really shows that hideo kojima has put a real amazing work on these amazing 2d metal gear games
+
+ soundtracks are amazing
+
+ puzzles are pretty cryptic but so satisfying to solve when you figure it out metal gear 2s puzzles makes my head hurt
+
+ gameplay mechanics between both changed for the better and makes mg2 much more fun too
+
+ may be abit short if you know what youre doing but its pretty fun to try different methods of your choice that gives the game abit of chances to try metal gear dont always need to grab certain items in a strict order depending on the item though
+
+the only issue i can really give about these ports are
+
+ believe this is on mg1 only save points are only triggered when you go to the elevator area otherwise any progression outside of that will not work so be sure to save often
+
+ as stated before i wasnt able to get the game to 60 fps unless its just how its built for these ports so while i saw the original footage of the msx version being smooth the gameplay here isnt so much but its not enough to make me say that this is a bad port just a missed chance
+
+that being said these are the type of games i missed out on and am happy to play them now and see what it was like before metal gear hit the 3d scene and its honestly worth it even for a dedicated mgs fan 
+
+id say get it now
+
+#####
+
+there is a quit and end game menu so far which i like and i can also alt tab freely unlike the other games in this collection seems to be a better quality port than something like mgs1
+
+#####
+
+the mgs master collection is my first time playing any metal gear game and i wanted to start from the beginning im blown away with how good the msx titles are i didnt expect much but you can see why hideo kojima is such a legend in thr games industry these two titles are ahead of their time and still are great fun i almost skipped these and went rigjt into solid but im glad i gave these a try and i think starting from the genesis is the way to go big ups
+
+ps played both games to completion on steam deck using proton experimental metal gear was a flawless experience but solid snake occasionally crashed it didnt happen a lot but i would reccomend saving often if you play on thr deck
+
+#####
+
+i love metal gear
+
+#####
+
+note i played this via steam link the physical one the little box from like 2015 streaming from pc to steam link hardwired on a big tv and using a dualsense controller everything always played well and was enjoyable i have also played a bit on steam deck also works great there too and the cloud saves transfer easily
+
+have been a big metal gear series fan for a long time since around mgs1 yet i had never brought myself to play these older entries with this new master collection and a more official way to play on steam with hopefully cloud saves keeping my saves for the future and some achievements to earn plus addon bonus content like the master book and screenplay i decided to give this a whirl
+
+even if you wind up using a guide i did and im glad i did so i wouldnt miss anything i think mg  mg2 have a unique charm to them that should be experienced by any fan of the series both games certainly felt underwhelming at first but as i focused on objectives and got deeper in it became impressive how much is actually included in and possible in these incredibly old games the stories alone have some character development and deep progression not really seen out of games from that time and its honestly surprising that it really does lay a foundation to make solid snake seem the greatest soldier ever even before you get to mgs 1998
+
+another reason fans of the series should play these is the fact that there are an incredible number of references you will cherish i was surprised how many iconic moments sequences and gameplay elements from later on in the series are in these two original entries things i thought began in one of the mgs games actually happened here first and then later the mgs games were clearly paying homage to these games its deep full of what feel like easter eggs for fans of the series if youre like so many of us and have extensively played the mgs games but not these two
+
+you also unlock a boss survival mode when you beat each game you can also play on easy and get the experience theres also a nice progression from mg to mg2 in how they added new interesting gameplay elements it sets each game in its own atmosphere and gives each game its own unique flair
+
+you are missing out by not playing these it does add a bit more fullness to the overall metal gear story arc and lore such as for characters like gray fox and colonel campbell additionally some elements of the games are old fashioned and obnoxious such as a lot of backtracking for things at times or finding out the hard way you were supposed to know something you couldnt have known or the fact that saves and continues only occur at specific points however i encourage you to push through those annoyances because the experience is worth it
+
+#####
+
+this fucking trash doesnt even work
+
+#####
+
+a great way to experience the beginning of the metal gear series its a bit hard to navigate through the game sometimes especially with how little direction you get in the first metal gear but overall i think these games are very unique and fun to play
+
+#####
+
+i played only metal gear and not metal gear 2 solid snake maybe i will eventually or maybe not but i would totally reccomend to play metal gear only for  metal gear ost  03  red alert 1010 game d d d d
+
+#####
+
+while the ports arent perfect and still need some work before they can reach their full potential they are still a great way to experience the games the screenplay and master books are great additions to the bundle and the games themselves run mostly well there are some issues that i have seen or rather heard with some sound effects not playing properly on both metal gear 1 and 2 my biggest gripe with the port as of right now is that there is no way to rebind the controls so you are stuck with the defaults which take a little while to get used to
+
+i personally would highly recommend new players to use a walkthrough guide if they get stuck during metal gear 1 as the game can often leave you feeling without direction metal gear 2 i believe is a masterpiece of its time and while the game certainly shows its age it deserves a special shoutout for carving the path of storytelling and gameplay that its successors would follow and expand upon it deserves at least one honest playthrough 
+
+if youve never played a metal gear game before it may be hard to start by jumping in to 30 year old games but i believe it is worth it experiencing the original games makes the stories of the following games much more enjoyable
+
+#####
+
+honestly this was the main thing that really shined and was improved at launch imo with master collection
+extremely underrated entries especially mg2
+
+#####
+
+what the box doing here
+
+#####
+
+watch konami squeeze pennies from a dead horse
+
+#####
+
+definitely worth it if youre a metal gear fan even if just for the context but please play it with a guide
+
+#####
+
+playing the games in chronological order
+jumping from phantom pain to this feels odd still two games worth checking out
+
+#####
+
+original metal gear and metal gear 2 are pretty fun but definitely rougher and products of their time still theyre the foundations of what the rest of the series was built upon and the sense of progression and using your ever expanding inventory in unique ways is still fun and the games have their charms
+
+but the first two games seem to try to screw with you more both in terms of excessive backtracking at times or even having outright unintuitive sections while metal gear 2 is usually more intuitive than 1 it still has some bizarre puzzles and worse backtracking than the first game you could honestly compare them to banjokazooie and banjo tooie since the first game is a more concise experience while the second game is mostly bigger and better but can be more tedious due to the bigger areas and more backtracking
+
+so in short i quite liked metal gear 1 and 2 but considering how many of the details were changed retroactively in later games and how theyre rougher around the edges if you cant stomach 8bit computer games then start with metal gear solid instead because it was more of a soft reboot anyways
+
+#####
+
+literally me
+
+#####
+
+you will die a lot  also i think hideo kojima has a fetish with keycards  but anyways i love the aesthetic and atmosphere of these two msx gems  currently trying to beat mg1 but this game is hella unforgiving  only being able to save in elevators doesnt exactly help either  all in all  a p cool debut for whats to come  thisll probably hitt nice on the steam deck too 
+
+#####
+
+i finally managed to beat both msx games with genuine blood sweat and tears
+
+#####
+
+happy these are so easily available now they deserve to be preserved and seen by a wider audience of people and i insist that if you wanna play the solid games doing your homework on the events that get referenced a lot later on will be a big plus on your play through
+
+#####
+
+metalgear
+
+this was the very first time i experienced metal gear and metal gear 2 in any medium and for a first run i was actually pretty happy with them given that they were free with the purchase of the mgs collection i figured id try em out and they kept me going for a good while im not a puzzle guy and i used a walkthrough for the overwhelming majority of both playthroughs but for what they were worth mg and mg2 were genuinely fun stealth games that took me back to the early days of my videogameplaying youth featuring recognizable difficulty and an emphasis on resource management the stories for both games were enjoyable enough even though there were some pretty hilariously wack moments i suppose no one bothered to tell hideo kojima that zanzibar doesnt even come iclosei to bordering russia china or the middle east cause yknow its in icentral africai off the tanzanian coast and i found the oldschool approach to game and level design to be comforting having played the rest of the mainline metal gear solid games through emulators it felt good to go back to the series roots however dated they may be now and experience the joy of watching solid snake punch people to death crawl through air vents kill cartoonish minibosses spoilerblow up a giant robot by bombing its legs offspoiler and spoilerconfront orphantamer big boss himselfspoiler
+
+ultimately the game is about as solid as snake is unless you hate bigpixel graphics or antiquated gameplay mechanics like spoileraccidentally getting in a truck and being driven back to the start of a level because you were in an exploratory moodspoiler and if youre a longtime fan whos interested in metal gear solids origin story then here it finally is
+
+#####
+
+this is my first metal gear game and what an impression
+
+metal gear 
+
+an incredible game i was having a lot of fun trying to clear out rooms and dying and running it back again over and over it is pretty intuitive to understand when you need a new item and exploring other available areas for it made doubling back really worth it
+
+this steam edition is a little awkward with so many launchers these two games are a separate entity from the rest of the master collection and each then launch a separate game seeing the control guide is also a different interface it would have been nice if all games came from the same launcher but i suppose that could have been more of an issue with steam
+
+the screenplay book and the master book are two of the options from the launcher the master book says it has spoilers for the whole franchise so i guess im not looking at that for a while
+
+the screenplay book details what i guess is the overall intended experience if you call people all the time im fascinated to learn more about whatever is going on with dianestevesolid snake i wish some of the flavor text would have popped up automatically dianne gives a lot of hints of how to beat people apparently but it builds her character i never called her so i didnt feel too attached in game
+
+metal gear 2 solid snake  
+
+amazing caststory was infinitely more entertaining same with the bosses and the fact that you cant constantly reset most of the rooms to sneak around felt more challenging that way doubling back felt worse here some of the floors looked similar so it was easy to get confused 
+
+the worst thing is that you need to check the book that comes with the game for some codesfrequencies but launching back into that is terrible with this port
+
+#####
+
+playing the original metal gears is like getting kicked in the balls 30 times a second
+
+#####
+
+updateso metal gear 1 solid fun experience had an absolute blast with it metal gear 2 solid snake despite what people claim about it being like metal gear solid but 2d could not be further from the truth the radar is borderline useless the guards have the most infuriating line of sight parameters best of all if you do get spotted then you can just go fuck yourself because theres no way to actually lose guards reliably once spotted and with how asinine the saving system is you may as well just throw any progress you made in the trash if you get spotted metal gear 1 you could lead guards into a room and after you killed about 5 to 10 of them the alarm ended and you could go on with your life metal gear 2 if you get spotted thats it the guards are never ending you could kill 100 men in the same room and the alarm will keep going sending more guards they can follow you into elevators and all transition areas it just doesnt make any sense at all why the guards operate the way that they do this one very much feels like it was built for the arcade to swallow as many quarters as it could theres no clear cut instructions on where to go at all radio support is completely useless saying metal gear 2 is is a 2d metal gear solid couldnt be further from the truth do not go into metal gear 2 with that mindset you will have a horrible time really all this does is stand as further proof on why of all the games that should be getting a remake it should be metal gear 1 and 2 because they are abysmally bad games by todays standards
+
+enjoying it a lot so far i dont know if they made it easier or ive just gotten smarter since the last time i tried to play the version in mgs3 but its not nearly as difficult as it was back then even with me playing on original difficulty i think my only complaint about the master collection as a whole at least from what ive experienced so far take my opinion with a grain of salt i havent played anything else in the master collection yet is the fact that they really could have just had one library entry that worked as a launcher for every game but all in all im glad to see one of the greatest franchises of all time getting preserved with a steam release that alone justifies the price tag in my opinion plus we have achievements for the older games that never had them
+
+#####
+
+after finishing metal gear 1 and 2 for the first time i can finally see where all the inspiration for the metal gear series has come from from areas to items to enemies and bosses it all existed in this pixelated series first before being scattered about newer games these were pretty fun you know what to expect if you played other mgs games before and if not youre in for a treat some really clever design behind it
+
+there are some areas where i felt stuck before either checking a guide or stumbling onto what i had to do accidentally first game is notorious for this in the 2nd game it had a lot more info given to the player through either codec or by talking to npcs on the field overall a great intro to the series for anyone familiar with it or not
+
+#####
+
+snakeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+#####
+
+both amazing games especially mg2ss worth the buy mgs is ofc a classic
+
+#####
+
+metal gear and metal gear 2 solid snake are some of the most influential games of all time they are pretty much responsible for the stealth genre of video games yes there were a few stealth games before this one of them being the first wolfenstein game but metal gear was the one to truly bring the genre into the mainstream these are not the original msx games but ports of them and pretty decent ones at that while i am disappointed with the lack of customization when it comes to keyboard controls these games play just fine with a controller and its even recommended to play with one what i am more frustrated with is the inability to access the game manual while playing this is especially important for metal gear 2 because one of the antipiracy measures of the original game was to include information needed to progress the game in the manual which youll still need to look at while playing this port this makes it all the more baffling why i have to close the game to see it
+
+metal gear was originally released in 1987 and it shows while the game is solid heh and figuring out what to do or where to go isnt too hard for the most part there is some pretty obtuse 80s game design in here youll run into things having to punch certain walls that dont look any different to the rest of the base in order to progress or instant death pitfall traps that will kill you if so much a a pixel of snake is touching it neither of which are communicated well with the latter possibly trapping you and forcing you to die or reset supposedly the characters on the radio explain some of this but theyll only answer the radio in specific rooms that youre supposed to intuit somehow then theres the infamous keycard shuffle this game will have you do every single time you want to open a door by far the worst design choice is a softlock that you can find yourself in if you kill a hostage during the boss fight with dirty duck a character will tell you that she wont help you should you let a hostage die but what she fails to mention is that you will literally not be able to beat the titular metal gear fight if you do and youll have to start the entire game over again if you had saved after losing a hostage in the fight
+
+the story of metal gear is pretty barebones which is a little surprising considering how insane this series gets even by the next game but it works for this game you are the rookie solid snake and your objective is to rescue your comrade grey fox and save the world from the new weapon the base is constructing metal gear but even with a barebones plot like that it still manages to throw in a twist near the end in a clever way
+
+the stealth is simple but satisfying enemies only perceive whats directly in front of them but the layout of outer heaven will force you to think about timing and movement getting caught isnt a death sentence in most cases but you will certainly want to avoid it with how little health you have especially at the start the boss fights exist this series may be known for their boss fights but that reputation did not start here
+
+overall metal gear is a relatively short game i completed it in about 3 hours with minimal help from a guide a lot of elements of this game make it into almost all of the sequels from both a plot and gameplay perspective which is cool to see but while metal gear is a good game metal gear 2 solid snake is a great game
+
+metal gear 2 is honestly one of my top 5 favorite games in the series from the opening credits you can see the huge improvement in presentation this is still one of the coolest intros to a video game ever and the improvements continue across the board the gameplay is such a huge leap that its influence dominates the design philosophy of the next three games in the series you can crouch and crawl under objects you have your soliton radar that shows the map and enemy movements enemies have cones of vision instead of a straight line and patrol more than just whats on the screen the radio support characters are much more helpful and almost eliminate the need for a guide they can still be useless sometimes especially if you accidentally skip dialogue that they wont repeat bosses have more narrative weight behind them and require some creative thinking to beat well some of them at least and theres so much backtracking okay that last one is actually a huge complaint i have about this game but its funny how pretty much all of this applies to metal gear solid
+
+the plot of metal gear 2 is one of the most important of the series recontextualizing the previous games events and shaping the characters for the rest of the series through the events in this game real world history and politics are woven into this games narrative much more than the last and character motivations are directly influenced by their experience with it the thing holding this game back narratively is its 2d presentation with characters having long static text conversations between each other as well as some rather annoying pacing issues that ties into the backtracking complaint i have about its gameplay
+
+if you are new to the metal gear series this is honestly the best place to start metal gear and especially metal gear 2 are great games even today and a lot of metal gear 2s plot is vital to the rest of the series availability was always the problem with these games but the ports are a good fix for that and there is a ton of great bonus content such as the full screenplays for these games that are a treasure for long time fans like myself
+
+#####
+
+these game collections are  almost solid  just barely below solid like right before  heh  anyway  these are solid ports  my only gripe is when using a ps controller you have to switch the button type every single time you launch the game  which sucks  the game should remember that  other than that  they hold up fairly well
+
+metal gear i was surprised at just how many elements from the 3d games were included in this first game  its fairly limited and short but it felt like a fairly cool beta test for what the second game ended up being  both games suffer pretty greatly from strangely obtuse puzzles that would be impossible to do without looking stuff up  backtracking can get annoying too
+
+metal gear 2 this one was both way better and more storydriven than the first  the addition of crawling was awesome and really made this feel more like a stealth game than the first at times  the backtracking is even worse in this game though  this game is way more connected to the sequels than the previous one which made for a few fun moments of recognition
+
+#####
+
+mg1 is great so far havent touched others i dont need 4k resolution in an 8bit game also my expectations were low so im not mad at all
+
+#####
+
+while everyones focus on the master collection largely lies on the 3 solid games dont overlook these two classic games the basic dna of the franchise as a whole lies here and while there is some late 80s design bullst in there those keycardsthe gas mask even by todays standards they are solid titlespun slightly intended
+
+#####
+
+metal gear 1 and 2 havent aged the best however they are still rather excellent retro titles that deserve the praise that they get while the collection is phoned in and lacking the core games remain strong considering these two are bundled in with the psx metal gear solid its definitely worth playing these eventually i previously played metal gear a few months ago so i am exclusively referring to the quality of the metal gear 2 port when i say its running fine youre not going to notice the lower resolution unless you toggle on the steam overlay and overall this a welcome bonus for those like myself who are looking to dive headfirst into all that the metal gear franchise has to offer
+
+#####
+
+update 140 really fixed the games so for that im changing my review from negative to positive its really deserved however i want konami to add key rebinding and controllers controls options
+
+add internal resolutions options as well then the ports will be super solid i wish they would fix the bad design for mg1 especially for the gas mask while using cards to open doors forced damage and mgtx55 having no plastic bomb spawn in building 3 and not even building 2 except basement
+
+so thank you konami for fixing the ports keep up the hard work
+
+#####
+
+fix it
+
+#####
+
+good games
+
+#####
+
+metal gear 1 and 2 on steam about time
+
+while it is nice to see these two old greats get some love by rereleasing them i have to say that i am very disappointed with what we got these are essentially just the same versions from the hd collection just given their own launcher you can tell because both games have a dedicated save menu and the save menu essentially just is the same as the mgs3 save menu because both these titles used to be part of mgs3 subsistence and then later during the hd collection
+
+well youre getting a pretty bogstandard port of these two games and unless you really like steam achievments i kind of suggest that you just get yourself these two games on an msx emulator and let me tell you why
+
+metal gear 1
+1 runs at a lower framerate than the classic msx version
+2 has altered sounds and changed boss names
+
+as for metal gear 2
+1 the framerate here is more smooth as opposed to the original msx release which would immediately lose frames when you went up one screen from the starting area and several enemies are rendered at once this does not happen in the hd collectionmaster collection release and therefore it is a lot easier to play than the msx release
+2 the character portraits in the original msx release all of them were based off of hollywood actors with big boss for instance looking like sean connery which obviously had to be changed for later rereleases to avoid lawsuits and they now resemble what they look like in mgs1
+
+overall i do believe that the original mg1 controls a lot smoother and has less input lag than what we get here as well though that might be just me looking for things to complain about
+mg2 though is vastly superior as it just controls better than the msx version
+
+the steam achievments are nice but all of them are easily obtained by just playing through the games once so theres nothing big here for achievment hunters either beyond doing boss survival in both games which is an unlockable minigame where you fight all of the bosses in each game backtoback
+
+and even then konami couldnt really get the achievments right because one of the achievments in metal gear 2 the one that matters the most killing the final boss didnt even unlock for me i did manage to get it unlocked wink funnily enough the achievments for beating the prior 2 bosses did unlock just fine but of course the one that matters the most didnt
+
+it is reviews like this that really make me wish steam reviews had a thumb in the middle option rather than just a binary positive and negative review option cause as a whole i recommend this to people who like retro games as a whole but i cannot recommend it entirely as mg1 is superior in its original msx form while mg2 is superior in this collection i guess it really boils down to whether or not you like the achievments and simply dont know or care that mg1 runs worse than its original counterpart
+
+#####
+
+did not finish the games because i value my sanity and time metal gear 1 is impossible to beat without a guide or spending hundreds of hours on it i know its an 80s game but i still think it has bad game design with its extremely cryptic gameplay and directions metal gear 2 is actually really great but i just dont find it worth enough to pour in hours into the game i ended up watching the walkthroughs for both games on youtube and that felt like a much better experience for me you might like them if you like challenging retro games
+
+6910
+
+#####
+
+the original msx metal gear games are pretty great but i dont think i can really recommend playing them this way im really disappointed with how konami put together this collection theres a launcher that lets you pick which game to play but then the launcher closes and starts a separate application to run the game when you close the game it reopens the launcher its cumbersome and frustrating implementation of what should have been much simpler
+
+there are cheaper ways to get the exact same experience 20 for a couple of more than 30 year old 8bit games is just greedy if theyd included some extras or some sort of remaster id support it but as is its insulting that i paid for this
+
+#####
+
+fun
+
+#####
+
+time to take down metal gear
+
+#####
+
+those are pretty old games but they tell the story before mgs1
+
+#####
+
+it works but man did they convoluted the whole launcher thing
+
+#####
+
+a hideo kojima game
+
+
+#####
+
+yes recommended but very difficult and dated  a lot of back and forth and tricks and traps  like when i searched all of building 1 and got to building 2 and did not have the enemy uniform  very difficult game with typical old school japanese game tricks where you think you get ahead and then you have to go all the way back  also remember that you can only save in the elevators  very hard game  takes a lot of patience  i absolutely quit metal gear 2  it is ridiculous even on easy and using cheats  they should have ported the cheats  metal gear 2 people said was better  its not  its insanely hard and even the trainer cheats wont help  play metal gear 1 fine  dont attempt metal gear 2  its insanely hard and nerve wracking even with easy and cheats  awful game  very glad kojima got with the times with metal gear solid and after giving you options and making it more realistic and above all fun  metal gear 1 is doable but not fun  meat gear 2 is insanely hard and not fun at all  i recommend only for metal gear 1
+
+#####
+
+w kojima 
+l konami
+
+#####
+
+metal gear and metal gear 2 are very well ported here i thought that the first game extremely dated but had more than enough stuff in it to enjoy i flew through it with very little issue i didnt find much frustration in it the only real issue i have with the game is a lack of a decent save system but even then it was still perfectly manageable 
+
+metal gear 2 is a huge step in quality the game improves on the first in literally everyway the graphics are nicer the addition of crawling and areas to hide in is very fun and the radar is very welcome you can also save a lot more frequently in this one i was a tad frustrated at the start of the game but once i got into the swing of things i finished it in no time i loved nearly every second of it and its definitely worth playing before metal gear solid as that game has a lot of call backs which are a lot more fun when you know the context
+
+anyways despite everyone moaning about the apparent awful state of this collection my experience with this and metal gear solid have been pretty solid i didnt have problems everything ran fine and i couldnt recommend it more
+
+#####
+
+httpswwwpcgamingwikicomwikimetal_gear_26_metal_gear_2_solid_snake__master_collection_version
+
+#####
+
+this is where it all started highly suggest everybody plays at least mg2 because it makes mgs sooo much better first game aint bad but it feels barebones compared to 2nd game still great games and works perfectly
+
+#####
+
+bit overpriced and basically no settings but i had fun
+
+#####
+
+good games but heavily dated and essentially require guides to finish
+
+#####
+
+tara theme
+
+#####
+
+metal gear 610
+
+metal gear 2 810
+
+yes its a shitty port of these games but the games themselves are actually really good and hold up surprisingly really well
+
+#####
+
+its a port pairs well with full flavored cheeses and rich chocolates
+
+#####
+
+i feel asleep
+
+#####
+
+how did people play these before gamefaqs
+
+#####
+
+games are kicking my ass right now but i gotta say theyre still pretty fun
+
+#####
+
+metal gear  metal gear 2 solid snake despite having dated graphics delivers a captivating experience with its storytelling and atmosphere in the game we encounter unforgettable characters like holly white and witness unexpected events such as big bosss death which adds surprises to the narrative while the games difficulty level is moderate the simplicity of the events it portrays is remarkably impactful although its graphics may appear outdated by todays standards metal gear  metal gear 2 solid snake manages to convey a profound story through a minimalist approach it is recommended for those seeking a nostalgic experience and fans of minimalist games
+
+
+
+#####
+
+great games as advertised  glad to have them on my pc
+
+#####
+
+i recently had the pleasure of playing metal gear and metal gear 2 solid snake on steam it was an incredible experience that i believe introduced many of the elements of gaming that we are familiar with today both games have a great story unique gameplay and a artistic and creative presentation that was truly revolutionary for its time the sheer amount of detail the genius in the stealth mechanics and the innovative ways to engage the player it all stands out as revolutionary for its time even though the graphics may be a bit dated now the games still hold up in the gameplay and story departments making it one of the most influential games ever metal gear and metal gear 2 solid snake are pure masterpieces and we owe the existence of most modern games to them
+
+#####
+
+if youre playing the games in order of release dont start here play these after getting into the series it makes putting up with the heavy backtracking and lost sense of direction much easier i played these with a guide about halfway through making the experience much smoother i now understand the backing metal gear 2 has that was a very enjoyable game and you can easily see the parallels with the first metal gear solid best part of the games is the soundtrack especially metal gear 2 that intro alone got me pumped even after slogging through metal gear 1 just a few moments ago 
+
+cant say anything on the quality of the ports but everything worked fine here with no input lag my only complaint would be that they kept the menu from mgs3 hd collection when you save feels very out of place and makes me question why this was packaged separately if the menus still there there are achievements but they mostly are just starting the game beating the main bosses and exploring the manuals nothing super complex like with the other games
+
+overall these are fine games im not an expert on msx porting but everything looks fine from what i can tell these are just the mgs3 hd collections versions of the games which are good try them use a guide easily knock each out in an afternoonnight
+
+#####
+
+theres no people screaming snaaaaaaaaaaaaaake at me but thats ok this is still some classic old school gaming goodness
+
+#####
+
+the launch was rocky for this collection
+but as of now mg1 and mg2 cloud saves are working and the games are stable
+theres no resolution settings but i dont see that as an issue with these specific titles
+these are what i want out of the msx2 originals preserved functioning and available with no drawbacks
+
+#####
+
+wack
+
+#####
+
+has the best controlls in the franshise with the exception of not being able to crawl sideways when hiding prone in wide gaps
+
+#####
+
+where do i go simulator
+
+#####
+
+no big deal job done thats all no big deal
+
+#####
+
+classic game
+
+#####
+
+its worth it for the steam achievements i guess
+
+#####
+
+good
+
+#####
+
+really cool good and fun games actually
+they both require either wayyy too much free time or better a guide
+keyboard controls are pretty good wasd u h 19 20 and space only for mg2
+
+personally i really love it but it is easy to hate
+
+#####
+
+konami now a joke for their obsession with pachinko machines tore themselves to pieces throughout the whole of the last decade
+
+still if theres one thing we can count on them for today its rereleasing the classics from their heyday the castlevania and contra collections were a welcome throwback they even released a great port of symphony of the night on mobile devices of all things
+
+then we have the rerelease of the metal gear franchise and well
+theyre playable and they didnt remove hideo kojimas name not from these two games anyway
+
+dont let the mixed reviews scare you a lot of them focus on lack of emulation options cant remap the controls and issues you may or may not see im still waiting for one guy to explain to me where the missing pixels in the codec are edit he got back to me the problem is apparently on the steam deck konami are working to patch out the issues people have called out theyve been regularly posting updates and they fixed the one thing that bothered me why on earth did they not incorporate cloud saves from the beginning
+should they have fixed the issues before releasing absolutely but whether the collection is not worth buying for that or you shouldnt let such minor issues deter you ill leave that up to you
+
+with that out of the way are the games in question still good absolutely metal gear is a simple start for the franchise i can only imagine how mind blowing it was when it launched but i can say it is still a blast to play despite its shortcomings
+
+metal gear 2 is where things really begin to pick up gameplay has been fine tuned with the introduction of the radar smarter enemies who wont fall for your old friend the cardboard box and will persist until they lose sight of you the ability to crawl under tables and vehicles to hide keycards that can be replaced with three master cards and a story that seems no different to before until you defeat black ninja and kojimas insanely complex storytelling hits you for the first time
+
+oh and dont worry if you get stuck the screenplay book actually serves as a built in walkthrough its the only place in game where you can learn how to call schnider and the frequencies you need to learn from the  game manual are present on 3d cover of the online manual
+
+#####
+
+dear big boss
+
+i hope this letter finds you well wherever you may be i recently had the opportunity to delve into the metal gear solid master collection vol 1 and its left me with a jumble of thoughts that i felt compelled to share with you as always our experiences on the battlefield continue to weigh heavy on my heart
+
+the collection brings together some of the most iconic missions from our past big boss and it serves as a stark reminder of the eternal truth youve always tried to convey  that war is a neverchanging hell revisiting these missions from my time as solid snake only emphasizes the futility and cyclical nature of conflict the world might change but the essence of war the dehumanization it brings remains a constant
+
+metal gear solid  our very lives revolved around it the first game which still stands as a masterpiece plunges players into a conspiracy of shadowy organizations nuclear threats and an evertwisting plot it showed me the horror of nuclear proliferation and the insidious control of those in power its as relevant today as it was back then a testament to the enduring nature of these issues
+
+metal gear solid 2 sons of liberty saw me take on the role of raiden a pawn manipulated by the patriots further illustrating the puppeteering and misinformation rampant in the world my experiences like raidens were shaped by the lies we were fed its a lesson in the subtle ways that wars puppet masters manipulate and distort the truth
+
+metal gear solid 3 snake eater perhaps the most personal for you and me delves deep into our past the story set during the cold war unveils the origins of the boss the sorrow and the sacrifices it reminds us of the sacrifices we made for our countries and the personal costs that came with our loyalty loyalty to a nation can be as treacherous as a doublecross on the battlefield
+
+the collections graphics and gameplay enhancements bring these classic titles into the modern era its a stark contrast to the technological limitations we faced in our missions a reminder of how the world has evolved but as youve always said big boss the essence of war remains the same the trauma the loss the betrayal  those never change
+
+these games collectively have taught me that as soldiers we must strive to break free from the cycle of conflict and manipulation we must question our orders question the motives behind the battles we fight and seek to build a better future
+
+in the end big boss the metal gear solid master collection vol 1 serves as a poignant reminder that we as soldiers bear the scars of our past we cant change the world but we can change ourselves as we continue our separate journeys i hope we find solace and redemption amid the unchanging hell of war
+
+stay safe out there my friend
+
+with respect and enduring camaraderie
+
+solid snake
+
+#####
+
+this master collection is a  legend
+
+vivacious selfless game devs
+
+no need to go back to consoles or to find an emulator
+
+#####
+
+its really nice to be able to play them again
+
+#####
+
+certainly some of the games of all time
+
+#####
+
+its cool for what they are
+
+#####
+
+kudos on game preservation i never played the first two titles 1995 and 1999 in the series so its great to have this available close to its original form a bit difficult to play by todays standards but i can see how these were ground breaking for the day
+
+#####
+
+remake these games konami
+
+#####
+
+its metal gear 1 and 2 using the hd collection redrawn codec sprites and save menu
+
+its alright
+
+#####
+
+even though it even has the metal gear hd collection screens these two games were given proper respect
+
+#####
+
+fun games even the old as hell ones but a horrible port constant save file corruption weird desync of visuals and some other small issues
+
+#####
+
+its okay its not perfect i mean its an older game so its much harder than your average gaming experience its really a game you play for nostalgic purposes its really not that fun well metal gear 1 i still have to play 2 but i dont want to skip the first game i could be much harsher but considering its a much older game im more forgiving and lenient towards it just to give you a fair warning it doesnt matter how good you are you will die in this game a lot you might get lucky in a few parts and have a few rations with a gun to defend yourself but once your out you mess up too many times youre out of luck this isnt snake eater where you have all the skill and camo to evade your enemies
+
+so if youre thinking youre going to get a fair challenge then this is not the game for you the only method of strategy i can give you if youre going to beat this game is memorization and patience patience and memorization is going to be the best chance you get in beating this game and youre going to remember trust me youll be on a few of those floors for a long time doing it over and over again if you dont get good quick so you wont have any problem remembering and if you dont have the patience to overcome the difficulty of this game and remember where everything is going to be then good luck to you man youre going to need it
+
+edited well easy mode makes a little less difficult its gets a little better when you get far i checked out metal gear 2 solid snake a little which is a lot better in my opinion
+
+#####
+
+awesome so hard
+
+#####
+
+ must play series
+
+#####
+
+its an absolute degeneracy to put these two parts ripped from mgs3 subsistence into master collection as its internally painful to play them not lore nor achievements dont worth such abnormal disturbing gaming experience nowadays sure i got where roots coming from  the hind the box the boss nikita launcher alarm mode everything what made mgs so special basically these parts are training grounds for future the saddest part is that nes emulator for pc does better job than this master joke from konami konami is like from different planet with the only need  money selling same creations multiple times telling theyre worth it in many senses but in reality treat them like last sht same attitude for fanbase you know that these cats will pay any price for this franchise no matter what garbage is this but you know thats not how things work for me saddest thing is that you guys couldnt reboot mg mg2ss theyre just weak cheap action movies parodies things gone downhill since mgs5 and you know it unable to deliver proper story connect the raise of naked snake as the big boss figure the proper beginning of solid snake the tragic story of maiden doppelgänger these two parts are perfect in script form if you dont pay attention at corny half empty dialogs whats the point of looking onto old sketches its completely different thing perception other interpretation compare to mgs 1998 and further too much archaic and wouldnt recommend anyone who isnt that person who would do anything for achievements which is just cheap manipulation
+
+#####
+
+game by hideo kojima
+
+#####
+
+fine enough
+
+#####
+
+its fine
+
+#####
+
+ista ok
+
+#####
+
+text skip is on the confirm button instead of cancel button confirm button inconsistencies
+nintendo controls are incorrect 
+
+game does not show correct button prompt when using steam nintendo button layout option all it does is put confirm on circle but screen says push cross and now punch is on cross wrong punch is circle this is good in fact hd colelcton on xbox360 and internaitonal ps3 got this wrong and changed punch to cross but the button layout and how confirmation button is chosen is wrong for asian traditional controls
+also game has no choice to set confirm button in settings asian confirm button is circle traditionally for these games
+the ingame manual should be offline
+
+#####
+
+yes the old mgs games are classic alright but they also expose hideo kojimas arrogance he thought the game he develop would be classic forever and the player just had to bear with the backward graphic performance and awkward control from these old games i guess that was what made hideo kojima never want to remake these old games i heard he started to realize that problem when he was developing the mgsv but that was too late for him he couldnt even finish the mgsv thank god konami finally gets aware of the profit of remaking the old games and they start to remake mgs3 now good for them i choose to recommend this because i love mgs franchise and i hope this master collection can have a great achievement so that konami may know how important this franchise is and never try to ditch it again
+
+#####
+
+ terrible bmetal gearb
+
+h1stealthh1
+
+the player is put in the shoes of solid snake a member of foxhound and his commanding officer big boss tasks him with infiltrating the base to make contact with gray fox and to find the location of metal gear
+
+by todays standards the stealth mechanics in this game are very simple and straightforward theres no map so you better study the environments as you go because if enemies are on high alert and youre out of ammo and out of rations which replenish health escaping can be a real pain however theres not a lot of hand holding so youll have to figure out how to get to certain areas which isnt always clear and can result in trialanderror gameplay
+hrh3iby todays standards ill only recommend this game to some hardcore fans all other people stay awayih3hr
+ okay bmetal gear 2 solid snakeb
+
+h1stealthh1
+
+the player assumes the role of returning protagonist solid snake who is tasked by foxhounds new commander roy campbell to rescue dr marv
+
+metal gear 2 continues the brand of stealth gameplay established in the first game but with some changes you can run around and shoot bad guys but its typically safer to evade them that means staying hidden and quiet sound plays a much bigger role this time around many of the same hazards from the first game return including cameras lasers and traps you can still sneak around in a cardboard box use infrared goggles to see lasers and use the mine detector to see mines in the areas however i found metal gear 2 frustrating i do think its an improvement over its predecessor and was impressive for its time
+hrh3ia lot of the stuff i took issue with in the first game whether it was attributed to the dated design or not is carried over here and the frequent backtracking can be annoyingih3hr
+
+#####
+
+there are some gears made of metal
+
+#####
+
+yall can complain all you want we got metal gear on pc
+
+#####
+
+nobody is beating this game without a walkthrough
+
+#####
+
+i cant imagine this game released  from more than 35 years good story good game play and great characters  i love how kojima made this game at that time
+
+#####
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####
+
+hideo kojimas feet
+
+#####
+
+a hideo kojima game
+
+#####
+
+these games are like the poor mans prototypes for what ultimately became metal gear solid youre running around mazelike complexes with a hundred locked doors that require you to shift through nearly a dozen different keycards every time you want to go through them theres no indication on which card opens what door and they close instantly after opening with the amount of backtracking and cryptic shenanigans youll be spending a lot of time in the pickacard screen also theres a weird 1second input delay that couldnt have been present in the original releases never played them because controlling the character is a sluggish exercise in frustration these games are sucky skip them and play mgs
+
+#####
+
+for some reason konami refuses to let nonjapanese speaking folks play mg 1  2 without it being ran through snake eater in some capacity but metal gear 2 solid snake is pretty underrated imo its basically just mgs1 but topdown gameplaywise both games here essentially play like oldschool zelda with guns if i had to compare it to anything and mg1 is certainly just as cryptic as the first zelda
+
+#####
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####
+
+this one plays okay but leaving negative review until konami fix the other games
+
+#####
+
+these games are boring as fuck i just did it for the achievements if you get or have the collection just play the metal gear solid games if they look like dogshit search up how to mod them
+
+#####
+
+kojima shouldve been fired after making those 2 horrible games jesus christ never playing them again even if its an unreal 6 remake
+
+it took me 8 hours to beat with cheats and a walkthrough
+imagine playing this shit without any of those
+its a walking simulator
+dont waste your time
+
+#####
+
+nice game
+
+#####
+
+metal gear 2 1010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####
+
+this port seems to be getting a lot of hate  i dont knowi remember playing the original mg on the nes when i was a kid and this is pretty much that  i never played mg2  solid snake because apparently that was only released in japan back then which is why i bought this pack
+
+i wasnt expecting anything groundbreaking with this so my expectations werent super high  it plays okay for an 8 bit game  overall i have no qualms about it  i dont know that its worth 27 though
+
+#####
+
+u preliminary issues u
+
+emulator up to you keyboard perfectly
+
+
+u metal gear u
+
+less cinematic than solid and psx as well infiltrate to discover that spoiler they were trolling you spoiler
+
+
+u metal gear 2 u
+
+a bigger project
+
+
+u bottom line u
+
+think for example of link to the past also like old games which are short but hard to navigate pretty good infiltration games stealth dawn of the genre castle wolfenstein which advance what was seen in his debut in stardom which are enjoyed all the more for this
+at the beginning i didnt feel like i was forging its legend and now i think that these two games are even a more faithful continuation of solid than the second or third ones
+
+
+spoiler my fault i missed the point of the relationship between some codec frequency and certain access mg1 spoiler
+
+
+p s kojima and his sparkles
+
+p s those kids 
+
+p s so i was reading a little bit and i realized that actually it was spoiler liquid s spoiler who fucked the patriots my respect 
+
+ps you feel your back pressed against the wall while the soldiers face breathes nearby commandos
+
+ps so it was fun but a little bit disappointing that once we have to use the box they shoot it just in case there was something alive under it no alarm everything clear but i couldnt make it works then 
+
+#####
+
+it was fun never really played this titles so im glad i gave it a go
+
+#####
+
+my first time playing these games now i can say i officially played every game in the series i actually enjoy this game not going to be for everyone as it might be too old 810
+
+#####
+
+recommend this game ibut not at its base pricei id say its worth 10 to me but less so to others who have otherwise never played similar games with clunky movement and age so make sure to use a guide
+dont know what the issue is with no save states beat it just fine with its save system thats based on checkpoints ie load screens or elevators should be how you play it otherwise itd be a chore rather than a challange
+decent story in first and gets a lot more interesting in the second game and both will take a bit of time especially the second game with a lot of back tracking involved and the first due to its overall difficulty
+overall a 610 for mg1 and 710 for mg2 but story wise id give mg2 a solid 810
+
+#####
+
+its oldschool difficulty and if you havent played these before then id say its a fun way to get the story but its also the same ports from the ps3 collections so if you have played those before dont expect anything different the master and screenplay books were nice touches even for these older titles
+
+#####
+
+outstanding remaster of the original two metal gear games for msx  these rereleases are nice and polished and actually are still quite fun to play  wellworth it for any fans of the series  clearly a labor of love
+
+#####
+
+hard but nice to know how the game was in old times
+
+#####
+
+one of the best classic game experiences youll ever have and a must play for any true metal gear fan
+
+#####
+
+ok ok
+
+#####
+
+this is the first time i have played the metal gear games and these two are fantastic i really recommend anyone who is interested to play through them so much fun
+
+#####
+
+me me like old gamu
+
+#####
+
+the games that laid the foundation to the legendary series the games are good and the extra goodies from the master collection makes this a good package no issues that i know of
+
+#####
+
+you can see that a lot of the series dna started from these two first games even if they were rough around the corners and esoteric as old games tend to be i would recommend them to series fans to see how far the series has come or perhaps more fittingly they were always there
+
+#####
+
+old as hell but pretty solid
+
+#####
+
+remember playing the original metal gear way back in the day on the old nes still just as hard as i remember
+
+#####
+
+back tracking to zanzibar building to get shit the game
+
+#####
+
+i never played the first two metal gear games let alone for the msx and im glad i did because these are great i had the gameboy color metal gear game and these remind me of that game which was amazing too
+
+#####
+
+nostalgic challenge masterpiece of its time great story telling which paved the way to the much loved metal gear solid series we have today
+
+#####
+
+this is the original msx versions of metal gear  metal gear 2 created by hideo kojima they are completely different and far superior than the nes versions released in the united states if you have never played these versions you are definitely missing out chronologically these two are 11 and 14 years after the events of metal gear solid the phantom pain and 6 years before metal gear solid
+
+#####
+
+i am a proud patriot of zanzibar land
+
+also lol funny to see how these are the only games from the master collection with positive reviews
+
+mg2 is kino go play it
+
+#####
+
+cool games if you know what youre getting into they hold up very well for how old they are some parts youll definitely want a guide because where to gowhat to do can be pretty obscure
+
+#####
+
+lets not kid ourselves nobody who owns this paid for it it was a nice bonus they threw in for buying the solid trilogyit is kinda worth it though it has the screenplays for both games the master books and while metal gear is unplayable in 2023 metal gear 2 might be worth checking if you are a fan its basically mgs1 in 2d
+
+#####
+
+this game is like actually amazingly bad i cant tell if its a joke or not but like the fact that there is a elevator ride thats like 4 screens long is really funny theres lots of other shit things very bad quality of life but pretty funny becasue of it i honestly think its pretty terrible but i would still recomened it cause i enjoyed it in hindsight
+
+#####
+
+impressive games for there times id even say they are really good intricately well thought out games however the amount of backtracking in this game is nuts and may affect its future replay value for me would recommend checking these games out at least once for metal gear that is
+
+metal gear 2 i thoroughly enjoyed as it manages to expand upon the features of the first game both in terms of gameplay and story the only drawback i can really think of is the constant backtracking very impressive for an 8bit game 
+
+u metal gear u
+ lots of contentgameplay for 8 bit
+ impressive for its time
+ nice music and level design
+ charactersstory are very simple
+ so much back tracking
+ controls are dated duh
+
+710
+
+u metal gear 2 solid snake u
+ very nice visuals and music
+ charactersstory are more complex this time
+ a ton of contentgameplay for 8 bit
+ intricate level design
+ lots and lots of backtracking
+ some controls and level layouts are a little clunky 
+
+8510
+
+#####
+
+good games but both have tons of backtracking as to be expected with games from the time mg2 is a big improvement over mg1 in every way but it takes a while for it to get good very tedious in some places
+
+should be bought with the whole collection and not individually plus mgs1 guides are heavily recommended for both
+
+#####
+
+old
+
+#####
+
+fantastic games that still hold up i had no bugs or any issues with the ports
+
+#####
+
+love these games a lot but ive had trouble with my save data twice now first when i was two an a half hours in and in my newer save file where i was five and a half hours in great games some of the best of their time and still enjoyable today but this isnt acceptable
+
+edit it has since been fixed my issues with the port are no longer applicable i highly recommend this collection now
+
+#####
+
+metal gear it cant be
+
+#####
+
+# plays on steam deck
+
+always a classic
+
+#####
+
+i played through and finished both games without a single issue 
+and i really enjoyed them classics
+
+#####
+
+consistent crashes on steam deck in both mg1 and mg2 also seems to be getting worse shouldnt be a problem to run either of these games
+
+#####
+

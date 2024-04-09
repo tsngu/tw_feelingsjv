@@ -1,0 +1,2288 @@
+better than two point campus
+
+#####
+
+i love coming home from teaching college students to teach college students again
+
+#####
+
+i like this game but even if steam had the neutral option id still vote negative theres a decent chunk of good here at the beginning it feels like its going to turn into something very promising then it never quite gets there its not like the school version of prison architect that it might seem at first
+
+here is the biggest fault of the game
+the game tells you the exact marks a student will get for the weekly test at the end of the week
+
+not an estimation a hard yes or no so so the only thinking here is setup a schedule where they will pass it which is relatively speaking extremely simple nothing comes up during the week that changes the plan or you need to get some kids tutored or whatever were they passing on monday then theyll probably be passing on friday
+
+this just removes a lot of potential for fun situations even replayability as it puts most players in the same situation every student passing every week a perfect class for everyone all the time 
+
+honestly the biggest thing at fault here is the neighborhood system in order to recruit students you need an admission office in a neighborhood only problem is every student in that neighborhood has the same education goal and a single education type usually two subjects of either equal or unbalanced portions so you just make a class per neighborhood or at the very least merge overlapping study goals and since the schedule tells you on monday if youll win on friday you can see why this is an issue
+
+if this system was gone the game would be much better because all students would need a generalized education but certain kids would need more of a certain subject then you could utilize the class system which would be a lot more engaging and you wouldnt autowin every test which makes continuing the game really boring just auto winning every week and knowing full well ahead of time that im gonna auto win no kids are ever different just are they from x district and in x districts designated class then win
+
+while im here heres a list of nitpicks which as a whole take down the experience quite a bit
+
+master audio does not effect certain sound effects the popping from earning education currency nor does the sound effects bar or the sound fx bar and i have no idea what the difference is between these two and why all three of them do nothing for the popping sounds guess i aint watching netflix without quitting this game pop pop pop pop pop
+ either school clubs arent implemented properly they dont work or its not adequately explained how to form and manage them edit theyre not implement but in the roadmap  but it shouldnt be in the tech tree ingame til its done tbh
+excursions only ever have 2 stops regardless of distance and these events start getting copypasted quite frequently
+the implication that you send 25 kids on a walking excursion to a place over a days walk away is absolutely insane lol no bus excursion even though theres a schoolbus in the parking lot building weird as hell dude
+animations that repeat are very janky anything involving desk work makes the teachers briefcase clip into their own head
+every kid has the same color backpack removes individualism makes class color palettes boring
+speeches arent very good not much to the minigame not much room for experimentation and very small buffs make it almost pointless
+a great deal of furniture in rooms is either seldom used or never used such as a few of the playground implements or any of the workout tools i couldnt even tell you if a lot of these even have associated animations and if they do i never saw them
+security cameras are unlocked in the last tier of upgrades which means you have to micromanage every bullying event that happens for about an ingame years worth of gameplay which is about 1020 hours this sucks at the very least put some low powered ones in the lower research tiers
+transferring students out of a class into another one is a generally painful experience with the current ui
+4x4 and 5x5 stairwells dont seem to have a way to extend over multiple levels and absolutely should reportedly fixed good guy dev
+students enter a mode where if not interacted with by click then they will not learn anything and misbehave later on and theres literally no way to reduce or automate this and its a massive pain in the lategame
+the first area had a unique student pop up in both of my two playthroughs and ive never again seen that happen lol
+competing schools close down but i couldnt tell ya why what threshold they have to pass for backruptcy they also take their schoolunique items and other benefits with them when they go without warning which is a kind of a dick move
+no easy way to look at the selected periods best teachers and where they are at that time
+scheduling for specialized rooms seems kind of wild west
+theres a 4x trading minigame with the other schools that i guarantee you will never interact with
+victory conditions are all bad and all easy and population victory is far and away the easiest by seven thousand country miles you will have 250 students the highest for pop vic significantly earlier than youre educate 15 5 star students or have like 12k building worth and an advanced wonder
+students dont have enough to differentiate them and more importantly they are way too easy to universally satisfy
+regular wonders say has 3 phases but its literally only 2 phases unless you count is now built as a phase which you shouldnt
+theres no other staff for like cleaning or service jobs its teachers all the way down which i worked in a school thats not how schools work
+they have a height scaler and yet kids dont grow between grades feels like a missed opportunity
+students have no collision with one another which means layout is utterly unimportant cuz they can just clip through one another 1x1 hallways no biggie and i never saw a crowded debuff
+you unlock a thing to automatically enroll students into specific classes however they dont let you recruit multiple neighbourhoods into the same class this is pretty annoying because in my current playthrough i have 3 neighbourhoods with an identical class ratio so i have to manually recruit them or set up 3 classes for every year group with the identical timetable its really annoying
+speaking of clipping why did you bother making cars that drive on the road if they are going to not stop at the crossing and clip through the students crossing the road vehicular child murder every day out here such egregious clipping is just really ugly
+moving a room seriously disorients the mouse controls which usually goes out of the screen if youve got 2 monitors and if not it still usually results in a stuck classroom due to the mouse being hardstuck in one corner
+foundations can only be built in a 2x2 grid one of the prebuilt faculty rooms literally doesnt come in 2x2 lol and tbh its just a little limiting in general
+
+and probably more i dont remember right now i reached steam review character limit anyway lol
+
+after the first term the game gets a bit more in depth then it just stays that way forever and when your first dudes graduate and they go lol perfect marks for everyone anyway do that but again and forever i decided yeah i dont think im having fun anymore
+
+its neat well implemented despite its flaws but they need to drop neighborhoods simplifying the gameplay to one class per neighborhood or nobodys going to have any fun with the unchallenging autowin testing and 100 accurate test prediction system and since that isnt happening you can probably skip it for now
+
+important edit lots of dev feedback in the community today theyre listening and doing their best to address player concerns still no from me for now but keep an eye on this game
+
+#####
+
+so i want to preface this review by saying i really like this game i have played it a lot and will probably continue playing it because it is really good
+you might ask why do you not recommend this game if its really good
+well thanks for asking hypothetical person
+the reason i dont recommend this game is there are a bunch of what feel like incomplete features and many many sometimes game breaking bugs
+a short list of what i mean
+
+incomplete features
+
+teaching policy
+the whole teaching policy feels incomplete like why cant i make multiple different admissions communities use the same class or have an overflow class if the main classes fill up
+
+scheduling
+why dont special courses repeat into the next semester
+why cant i fill up a day with the same fundamental course without having to click and drag it onto the slots
+i know you can click the course and that will fill in the next slot but what if i want to work on the thursday before the mondaywednesday
+
+expelling students
+there is a little popup on the bottom left when a student has accrued enough demerits saying you can now expel them but unless you click on that popup you dont know what students have enough demerits without going through students one by one unless i am missing something in the student viewer there isnt any way to find these students without clicking into each student and checking manually
+
+bugs
+there are a lot more bugs than what i will list here but i want to highlight a few to make my point
+
+make the game better
+when you launch the game you get a popup saying do you want to help make the game better i dont know who else this happens for but when you click the button to say sure i will help it hard crashes the game and you have to altf4 or close the game with task manager so unless you say no i dont want to help you cannot play the game also this popup shows up every time you boot up the game
+
+class numbers
+as someone who really wants to micro classes and courses and everything i like having teaching policies where they go from class 11 to 21 to 31 or from 12 to 22 to 32 but currently how the numbers are assigned it looks at how many year one classes you already have and assigns it to the highest second number you currently can so if you have classes 11 and 12 it will assign a newly build class 13 this wouldnt be an issue but when you change the 13 class to try and make it 21 it looks at the second number in this case 3 and says is there a class 23 if there isnt it stays as class 23 and wont change to 21 or have any way to force it to change this bug is more of a quality of life thing than a game breaking bug so its not as bad but it is very annoying
+
+weird building interactions
+whenever you try to build something it checks if you can actually place it there seems fairly straight forward but there are many times when you can build something if you change the order of when you build things the first thing that comes to my mind is toilets and hand dryers if you place a toilet stall down you can place a hand dryer on the wall where the entrance is which seems like it should work that way if you place the hand dryer and then the toilet stall the stall will not be able to be placed because the hand dryer is blocking its entrance there are other examples but this it the first that came to mind
+
+popups for students sleepingbeing disruptive in class
+sometimes seemingly randomly you wont be able to select students the only way to fix this that i have found is to completely restart the game and sometimes that doesnt work
+
+so my tldr
+currently the game is not in early access which makes me worry that they arent updatingfixing bugs the last update was november 7th at least according to the steam library feed so i am hopeful that they are continuing to improve the game but as it is there are too many bugs and incomplete features for me to recommend this game i really want to recommend this game because i really really like it but i just cant
+hopefully the devs see this and work on making sure all the bugs are fixed and make features feel complete
+
+edit it does seem that the devs have a discord where bug reports are being submitted this makes me more confident that updates are being worked on but for now my review has to stay as a not recommend until bugs are fixed
+
+#####
+
+at first i thought this game was a simple school campus simulator 
+
+then the map was shown to me and i realized that i must conquer the continent only then would i feel satisfaction
+
+#####
+
+i may be on academic probation but i will never let one of my students fail like i did
+
+#####
+
+played the game found cats egg spawned more than 50 cats find out unable to remove cats restart 1010 would spawn cats again
+
+#####
+
+the first day i played this game i played for four hours straight 
+its everything great about the kairosoft games with more freedom but they dont force you to create everything from scratch i believe you can if you want to but its not required 
+i just learned i can do something completely new and its still surprising me with new features
+also i have a giant cat i love my giant cat
+
+#####
+
+theres this one negative review that explains why this is not a recommend they go on and on with all the minor to more important issues and while i have a positive outlook on this it is because i like games i can play a 4050 hours get done with it and move on without a single regret of the money i bought it for which i feel this game does 
+
+the grind is rewarding but while some people are looking for surprises that removes the predictability i like theres some added control to it i like that i can focus on developing the aesthetics of the school however as outlined in some other reviews i wish id see the kids on the tennis court or the running track you need to explore neighbourhood to get other type of students that will join your school theres a system where you can trade sciencemoneystudents and the game does a poor job explaining how this works
+
+i wish there was a little bit more mini games or have schools focused on sport or art then develop more that aspect of it i just see so much potential to bring back players that was pretty much done after 20 hours
+
+the troublesome kids gives a lot more money and the only thing you need to do extra is punish and reprimand them and add little bit more staff on security to prevent bullying the moment youre done unlocking stuff its just not as exciting anymore and you dont have a lot of incentive on continuing your game 
+
+so if youre looking for a game thats not to expensive will give you a solid 2040hours of gameplay youre going to have fun with this game
+
+#####
+
+h1ba gem in the rough worth the contentbh1
+
+lets school is an ambitious and surprisingly indepth school building and school life simulator
+
+while its based off asian school culture many would be more familiar with lets school being based off anime theyre not wrong as lets school recreates that feeling greatly players are given lots of freedom while playing and designing and unless youre playing sandbox the games pace is adequate enough for a chill playthrough
+
+dont let the graphics fool you the game has its own charms as you build your school you will see students as well as teachers going on about their lives as well interactions relationships and friendship forming as you build your school is just one of many details that this game has to offer which the in my opinion makes the graphics work really well
+
+its still ia biti rough around the edges and you may see a few bugs while playing but those are usually minor stuff the game itself has proven to provide bumore than enough content for an enjoyable experienceub despite its state
+
+i recommend it game has potential it just needs a bit more polishing
+
+#####
+
+this game has a lot of potential but it falls very short late game you are forced to make certain specialized rooms where the objects are so large its hard to fit into your school some rooms cant even be customized and are just to be placed which is so disappointing awful and boring for example i have 25 students in each class but i am required to create a baseball field but the baseball field only can accommodate 15 students so i have to create something beyond ugly by doing a double baseball field one next to the other in a single room  
+
+there are also a lot of balance issues in this game where you can make tons of money but cant even do a second or third step in your overall goal due to bugs or just simple balance there are tons of translation errors but id be willing to over look these two things if only you could actually customize the room and classes and what type of room your students should go to but there is no fun to be had if the game is about creating a school and i cant create the school i want and only create the school the game is forcing me to make i cant recommend a building game if it wont let me build how i want
+
+#####
+
+quite fun but badly needs oncepromised club management
+
+#####
+
+as a retired teacher this is so much fun
+
+#####
+
+im recommending this because its unique the core gameplay is fun and its reasonably priced just be aware that it still lacks a little polish feels like early access instead of a full release but issues are being fixed consistently
+
+#####
+
+this is a fun cute little school manager i like it ive put almost 24 hours into it
+
+these are my complaints which are minor
+1 once you get to about 5 or 6 managers the managements screen can get items that go off the side that you cant move because the screen doesnt go over far enough or it bounces back before you can grab them
+
+2 the hamberk security academy kids are so disorderly you cant have a whole class of 30 of them or the homeroom teacher stresses out so i split them into 2 classes i just unlocked the teaching policy tab of the course menu and i can only set up the automatic enrollment for 1 of my two classes so it would be great to be able to set multiple classes for each town to enroll in
+
+3 likewise i have been putting all my 2 and 3 star science and humanities kids in the same class and it would be great to be able to enroll multiple towns into the same class
+
+here are some suggestions
+1 the course menu should display a warning icon if you dont have the correct facility for a class or you havent unlocked the proper technology yet
+
+2 it would be really neat to have a hotkey to toggle between students when youre viewing them in the students menu and staff when youre in the staff menu when you get up to 200 of them they become very timeconsuming to sift through
+
+3 i think it would be more interesting if all of the students from the same town didnt have the same aspirations and traits for example could there maybe be a hamberk security academy kid without an explosive temper
+
+as i said the game is fun and interesting and i still have a lot of stuff to discover still dont know how to get a tram stop overall i recommend
+
+#####
+
+pretty fun so far but please add more music its driving me insane xd
+
+#####
+
+really cute game i love simulators and knew i would enjoy this as soon as i saw the thumbnail its a bit glitchy but that will get better with time the only game play mechanic that i dont like is that all student recruited from a neighborhood have the same aspirations for their lives i get that it is a game play mechanic but it kinda sucks that the kids from one area are all delinquents who only want to learn sports and art and another pumps out world class scientists in my first few years of the game i tried to give my kids a well rounded education in subjects they didnt even need for their exams before i figured out that the game didnt want me to do that its a fun game that prioritizes a lot of realism but the stuff that is not realistic feels odd in comparison still highly recommenced if you like games like two point or other city builders
+
+#####
+
+i play this while im in class 1010 great way to school while being in school ya know getting a degree in management manage a school your professor cant get mad if your schools better then the university
+
+#####
+
+before release i played the demo for this game  in the released version of the game there were many improvements to the game particularly in the ui  menus became a lot clearer interaction with the build system was a lot clearer and the performance got somewhat better too  content that was present got balances and improvements all around
+
+its still very fun charming and the content goes as far as it previously advertised minus the clubs system which before release was announced would be delayed  its still obvious that the ui was designed around more compact writing systems but otherwise it is very worth the normal price
+
+#####
+
+recommended but please put more school maps
+
+#####
+
+i go to take a piss i come back to my school being protested on and had to be stopped by throwing a  bunch of cats at them
+
+i now have too many cats i love this problem
+
+#####
+
+whats that the developers of my time at sandrock and my time at portia created a new game
+im in
+
+so its a school simulator you are a new headmaster who takes charge of his old school which has become so run down and dilapidated that its almost hilarious now its your job to pick it back up and build it into something amazing and grand with two modes career and sandbox take charge of your school and turn it into something awesome thats pretty much it
+
+with a robust management system perhaps too overly complicated i might add and with cutesy bubbly music and sound effects and graphics the game is pretty awesome all around
+
+its a bit rough around the edges still which is unfortunate with the tutorial not teaching you enough about its complicated management system a few issues with camera controls and the snapping function when building and editing its still a pretty fun little game at a very appropriate pricetag
+
+if youre into games like this you wont be disappointed i experienced no bugs or glitches either which was nice and it also comes with character and school customization options to really make it feel like your own
+
+i dont know what else to say here but if youd like more information you can check out the video on my youtube channel link below which probably has more information paired with gameplay footage please check it out
+
+httpswwwyoutubecomwatchvwou48dnqi
+
+otherwise thanks so much for reading and i hope i manage to help some of you out there to spend your money wisely
+
+#####
+
+a few months ago summer 2023 lets school was a phenomenal game but it has been patched to pieces over the last few months and is no longer fun earthquakes are now raging on old savegames saving the students is pure stress in a tycoon game you get to repair walls in annoying hidden object searches are we at gardenscapes and repair the furnishings in pointless clickbait work are we at cookie clicker in addition teachers who are permanently deployed in management now resign and students with the attribute spirited can no longer be tamed at all discipline is hardcoded 0
+
+plus the new functions while investing in an area is an added value as it allows you to increase graduation goals and change subject areas other features are just annoying every week is now an action week for which you as a player are allowed to do something else as if you were in a mobile game and also the clubsags primarily only serve the purpose of competitions and are completely bugged eg the sound is played 247 instead of serving to deepen skills
+
+i dont like games that are never finished because often its not the game that is developed further but rather further functions are tinkered around the actual game without integration thats exactly whats happening here at the moment with new features like showers that currently nobody needs for the game mechanics thats why i want the version of the game from august back
+
+#####
+
+insanely recommend playing this game if you arewas a fan of rimworld or kairosoft games then youll absolutely feel addicted to this game
+
+its a mixture between management base building and simulation games mixed into a one theme about school life regardless if its prepschool highschool or college the game is flexible in letting you create what you want while also provide you with set of challenges similar to real life
+
+despite in these type of games the more stuff youve the more complicated the game get and becomes tedious to manage but in lets school you can research stuff to help you automanage some aspects of the game to allow you to focus on the more interesting parts still if you want to manually do everything on your own its optional to use these automanaging features
+
+despite this game being new due to how much we saw it develop and improve in beta i can tell you that this game has room for expanding later on in many ways possible despite being a complete game as it is and having developers who care about the community and what they want and implement it in their games thats something to be appreciated especially in current era of modern gaming
+
+i wont make my review longer than needed all you need to know that storywise visually gameplay and in all different aspects of gaming this game score at least 8510 in every single aspect and even higher in its release state for a game that costs 20 and provide at least 50 hrs of gaming and im sure with some few months or even weeks this game is gonna be a hit and a classic like how game like rimworld did become so definitely recommend playing this game
+
+lets school deserves sit back and relax award of 2023 hands down
+
+#####
+
+been a while since a games had me thinking about it when im not playing it 1010
+
+#####
+
+very chill and have a potential to be a great game but at this time of the review this game still need a lot more refinement and contents i would recommend to anyone want to buy this game to wait for a year or get this game when it on sale instead of full price
+
+#####
+
+if it continues to get updates it will be a great success
+
+#####
+
+pros
+
+anime style school
+sims style building
+can rename nearly everything with funny consequences
+plenty of replayability plenty of options and growth potential 
+price point is fair
+
+cons
+
+tends to overheat cpugpu  make sure to limit fps
+some performance issues
+some text isnt translated yet
+tutorial doesnt cover everything
+some events were confusing to complete
+
+closest thing youll get to a anime school simulator its got everything from school festivals to deliquents causing problems for your overly stressed and overworked teachers
+
+plenty of options research to unlock new classes buildings and even clothing options for your students   not to mention plenty of events some of them bad such as earthquakes and fires breaking out  its interesting and enjoyable sure its got a few quirks and some minor issues such as not being fully translated i ran into a few pages of untranslated chinese text and a few problems which didnt have any easy solution or wasnt covered in the tutorials but overall its not too bad and the price point is ok too
+
+having finished both scenerios available its missing content for sure and honestly  id consider it early access but for the most part the game is fully playable and enjoyable especially for people who like building and micromanagement games  there are some bugs and performance issues mostly due to the game engine but outside of that its a fun game and enjoyable
+
+#####
+
+hope dev update singlesex school option in future
+
+#####
+
+theres a giant cat
+
+#####
+
+lets school is a delightful game its got charm growing out the ears pleasant music and a truly wonderful art style
+
+im not too into management sandboxes so from that perspective it may be lacking i literally wouldnt know but at least from what i can tell theres lots chew on here and plenty of room for customization i find the scheduling screen to be particularly engaging as weird as that sounds the building mode is great too making rooms and expanding the school is like crack rock idk how else to put it
+
+the art is great this game is a such a joy to look at even my relatively shabby building work in games like these is fun to look at there are four seasons so theres a good amount of visual variety
+
+managing teachers is ingeniously done it keeps you on your toes and i think the ramp up is satisfying
+
+that being said there are some glaring issues that i think could be resolved to push this game from good to great
+
+for one i think there needs to be a higher variety of customization options for npcs the customization is fine but basically right away you have identical looking students and teachers just maybe ten more options in each category would go a long way here let me us set a wider variety of wearable uniforms or let us have a no uniform option or and add a variety of casual clothes that npcs can wear
+
+late game is full of prefab roomsbuildings i was looking forward to building my own library but instead its a prefab itd be nice if there were options that let me use my own rooms for buildings instead of prefab ones
+
+more starting maps would be great too 
+
+it goes without saying but a game like this would heavily benefit from some level of official mod support thats the line a lots of these indie management games thrive on it would be be a benefit to both the community and the game in the long run
+
+seriously a fun game easy 810 from me
+
+ps i nominated this for best sit back and relax game of 2023 
+
+#####
+
+very addicting game i feel like i didnt waste my money on this game because i really like it i think that there should be added more dialogues for students and also more ways to use some things more decorations in need and subjects i think it would be more interesting and demanding also dogs would be cute too
+
+#####
+
+where to start well lets just say i didnt really expect to enjoy a game this much ive already played 32 hours and i have had the game about a week i also work too the game is quite fun and there are a lot of small details that make it interesting this game could really be absolutely amazing one day however with that being said its not an amazing game quite yet 
+
+here is what i like
+
+students have decent personalities
+there is quite a bit of content so far
+map is quite large
+good tutorial
+you can really be creative
+game play is generally fun
+career mode is essentially endless after winning
+sandbox mode for those that want it
+great mapgame customization options even for career mode
+
+here is what i dislike so far
+
+fences have no collision meaning students walk right through them this one really drives me bonkers because it defeats their whole purpose
+staff members constantly threaten to quit due to pay even when theyre extremely satisfied with pay
+staff members constantly ask for raises
+earthquakes are more annoying than anything when trying to fix damaged walls ive accidentally deleted whole rooms or items in rooms by accident we need a undo button for this reason
+needs actual janitor staff type
+teaching policy needs to be available from the start we also need to be able to blend regionstowns into one class with said teaching policy currently you can only do one regiontown at a time per classroom using the teaching policy system
+students need to have the freedom to choose their own outfits if you want them to
+emergency drills need to automatically repeat every semester 
+
+
+#####
+
+this game is really good in terms of gameplay and im always looking for a game like this on steam but it still has some bugs that i discovered while playing as well as some necessary features
+
+bug
+ when im editing a classroom or any building and i press esc to enable the exit editing option and i cant click any button other than the x button on the popup
+ i have built many stores such as school store desert supermarket acade but my 240 students only go to the school store and never visit the other stores but according to sales statistics these the other store has higher profits than the school store
+ i built a parking lot so i could hire teachers with cars but i never saw any cars outside the parking lot
+ the cleaning robot seems to be making a mistake because i see the stairs are dirty and it never cleans that area even if i put 10 of them there
+
+recommended features
+ i think we should add a calorie reference table to the food because my teachers and students are gradually getting fat and i dont know what to feed them to get back to normal shape
+ i can change costumes for students but cannot change costumes for teachers including my main character
+ i see that other schools all have excellent teachers so i would like to add some conditions for ordinary teachers to be promoted to the rank of excellent teachers
+ why is it that only my school has to discuss first with other schools and when i have fully discussed everything with the surrounding schools my contribution points are too redundant so i let other schools propose to negotiate first with them school so that i can receive some rare items that i normally cannot exchange
+ add cleaning staff and ao dai uniform from vietnam
+ add some endgame content when i have everything and can spend the pile of money so the game doesnt get boring in the late game
+
+#####
+
+its a super fun school tycoon which does almost everything right
+
+the only critique i really have is that there could be better qolfeatures especially when it comes to managing a big school with many classes
+automatic schedules are weird and dont produce the results id like to see also rearranging your building and upgrading old stuff could be implemented a bit more user friendly
+
+also runs well on linux might crash seldomly though
+
+#####
+
+if youre looking for a delightful school management experience lets school is a great game this games unique blend of a a school themed tycoon simulator with a charming pixelated artstyle creates an enchanting world that will captivate both the young and the young at heart the aesthetics of the game are a standout feature the artstyle adds a nostalgic touch evoking fond memories of classic video games while adding modern animations modern controls and vibrant colors give it a fresh and appealing look each building character and decoration is intricately designed adding a layer of depth to the games visual appeal once you played this game youd be hooked for hours
+
+#####
+
+ive finished it within 50hrs playtime still been playing it sometime during my leisure time i only wish if its in english language all shouldve been in english there are notifs that are still in diff language
+
+#####
+
+it runs great in ultrawide and has no 60fps cap something 2022s game of the year didnt even bother to work on
+
+its also cute chill colorful and everything it is meant to be
+
+#####
+
+lets school is one of the most detailed and fun management games ive played in a long time it has you manage a local school with just a few classes up to a huge district campus with several hundred students 
+there is a lot of content here and the more you progress and research the more surprises youll encounter i was consistently amazed at how many new facilities and buildings i kept unlocking
+
+it can be very daunting however as there is a lot to the simulation though the game is very forgiving and its fairly easy to recover from any potential mistakes you might make and to start making a huge profit if youre brave enough to take some risks 
+
+i ihighlyi recommend it to anyone fan of management games as this one never fails to deliver and be one of the genuinely most fun games ive played all year
+
+#####
+
+im the headmaster now
+
+#####
+
+played it since beta
+good game for someone who enjoys city building management games 
+cute graphic with funky animations 
+giant cats students taller than the doors
+
+would recommend this games if you want to time travel from morning to next week night
+
+#####
+
+im not really good at leaving reviews but i think its a really cool game and i love building my school 
+
+#####
+
+currently this is the best school tycoon imo even better than campus tycoon or so on quite fun cozy game to waste your time for
+
+graphic 710  the graphic sometimes glitchy with its low poly the characters sometimes walk through some obstacle like its doesnt have any collision its bearable tho
+
+gameplay 810  imo its more fun than other tycoon games like campus life zoo tycoon etc
+
+sound  710 its standard
+
+something still lacking tho like
+
+1 clubs still very few last update gave us 3 clubs
+2 no indoor sport like indoor basketball court indoor pool etc
+3 no tracking field
+4 we decide who student going into what club in real life student decide it by themself but in this game student is like employee
+5 you cannot create an empty room without facility
+
+
+
+#####
+
+i didnt have a good memory during my time in middle and high school blled and gets called weird even till now so ill try my best to make a good school playing this game its a pretty neat and fun school management game
+
+#####
+
+i dont usually make reviews but this game deserves one i played the demo lets school homeroom back before this even released and spent a good 8 hours messing around which is the longest ive ever spent on a demo 
+
+i finally cracked and bought it a week ago due to the sale and as a full time university student who is fairly busy i have truly spent all my free time playing this including free time i really should have spent sleeping 
+
+what i like
+ this is probably the most addictive game ive played in a long time
+ my favourite tycoon type game honestly ever
+ very very solid as a game to play in the background once you have everything going so great for watching movies or youtube while playing
+ seeing how good your school is doing is very rewarding 
+ cats
+ you can play infinitely after winning im planning to keep my save going until all the other principles retire lol
+ so much more
+
+missing elements and problems
+ takes some time to get the hang of but so good once you do
+ janitors
+ more clubs particularly one for science and humanities maybe robotics and debate would be good
+ pop up for when a teacher makes a demand because i often miss them
+ the class learning stuff seems wrong and ive just gotten used to knowing they will all pass even when the games says everyone will fail
+ missing an achievement for winning via clubs
+ a couple rooms like the tea room or the announcement room need to be a little too big
+ i made the worst sounding song ever and have been punished to hear it every period 5 i am in hell help let me turn off hearing it please i want to hear my good songs but i only hear monsters
+
+for a first time play you need to do normal or easy i guess and do fast time anything longer is way too slow of a start unless you already know what you are getting yourself into
+
+if its similar to the demo i played you get to keep your save files so just try the demo and see if youll like it if this doesnt convince you
+
+#####
+
+best school management game there is 
+
+#####
+
+ cute and therapeutic  
+adopt animals manage students  teachers build school go on school trips much much more 
+
+#####
+
+h1who is everyones best friend at school the principal h1
+
+youve just received a letter from the former principal of your alma mater notifying you that the school is in disrepair and extending an invitation to transform it into the premier educational institution in the region
+
+your first task is to establish the schools identity by choosing a name designing a uniform creating a logo and crafting your own avatar once thats in place youll embark on the monumental task of renovating the school building setting up classrooms tearooms and bathrooms the layout can be saved for future replication simultaneously youll be tasked with selecting and training teacherspromptly as its crucial organizing the class schedule for lessons teachers and students follows
+
+you have the option to admit students from various districts each with unique traits and at times challenging qualities this includes resilient kids from impoverished areas and pampered wealthy youngsters each with their distinct set of issues your progress towards specific victory conditions unlocks monetary rewards
+
+in essence this game is an enjoyable management experience reminiscent of the classic bullfrog theme hospital however it has the tendency to become somewhat monotonous over time
+
+nevertheless witnessing the success of the students provides a satisfying conclusion to your managerial endeavors
+
+quoteurlhttpsstoresteampoweredcomcurator44686303with the butterfly effects even the smallest wings can stir the grandest adventures please follow us on the steam store if you enjoyed our reviewurlquote
+
+#####
+
+ive had this game for like 4 days and ive already accumulated 22hrs whilst having a fulltime job
+
+#####
+
+this game is a phenomenal management simulator that ive enjoyed playing on and off for the better part of a year the mechanics are all surprisingly in depth with an intuitive and easy to learn teachingemployment system and building system its super fun to 
+
+the devs are constantly adding new content and improving the game and seem to be genuinely good people with a passion for development even after 118 hours im still finding more to do and enjoying building my dream school and im really looking forward to whats coming in the future
+
+#####
+
+very good game it has completely consumed my life now to the point where ive started to dream about it there have been lots of improvements from the demo and the team seems very responsive to feedback and bug reports which is awesome to see  this was truly a game born out of love and i 100 recommend it
+
+#####
+
+lets school is a beautifully crafted and detailed simulation of running your very own school you can spend your time continuously increasing the number of students or perhaps making it the best place to study by decorating it with beautiful and cute decor or useful equipment theres a ton to do in this game perhaps a little too much as its ui doesnt quite allow you an easy level of control over its numerous systems but the game does a decent job at always moving you forward so theres always something new to focus on highly recommend a truly unique little indie gem
+
+#####
+
+as someone whos played school tycoon back in the day this is a wonderful adaptation of the school sim game
+i look forward to their future contributions and updates 
+i hope they expand into dlc once they fully optimize the base game
+
+#####
+
+this game is so addictive ive spent so long on it and its so fun i recommend checking out the demo
+
+#####
+
+you get to be the headmaster of a school with a panda you can also adopt any cat that passes by including a giant one 3 times the size of the panda 1010
+
+#####
+
+for a school simulator game it has a very indepth systems involved in it it is surprisingly rich with content and replayability and the overall aesthetic and style of the game makes it a pleasurable experience it does however suffer with a lot qol issues and clunky snapalign feature that that could be further improved with updates to come
+
+#####
+
+how to lift society out of poverty first we need to build education and thats what were going to do
+
+#####
+
+theyre doing very shameless manipulation to get the game promoted theres this spammy item that is nonfunctional until they get 3k reviews 
+
+so im doing my part by reviewing but yeah very shameless
+
+#####
+
+lets school is an addictive game in which you in the role of a school principal must balance various aspects to make your school a success each student in the game has unique interests and aspirations which creates complexities and challenges for the player
+
+one of the main aspects of the game is maintaining the reputation of the school you have to meet the basic needs of the students control the learning load and manage aspects such as clothing food and travel this requires good time and resource management to ensure that the pupils education is optimized
+
+however the lets school game is not limited to the usual duties of a school principal you also face various challenges outside the school mysterious dangers and potential threats can disrupt normal school life and create unforeseen situations you will have to respond to such situations quickly and effectively to keep the school running smoothly
+
+the architectural design of the school in the game also plays an important role you have the opportunity to plan and build various functional objects and use hundreds of pieces of educational equipment this allows you to create a unique and aesthetically pleasing landscape of your school
+
+the overall assessment of the lets school game is positive it offers an exciting and challenging school management experience combining balancing different factors and solving problems that arise both inside and outside the school the architectural design of the school adds extra interest and creative possibilities to the game if you like games with management and strategy elements lets school will be a great choice for you
+
+#####
+
+h1i rarely say this but this is the best school management i ever play right nowh1
+
+first lets do a quick review on some of school management game that i played
+two point campus  great graphic and animation many mechanic but feel plain
+academia  school simulator  simple graphic similar to prison architect but fewer mechanic
+pocket academy  cute and charming pixel art style and animation but very shallow mechanic and limited option since it is focusing to be on mobile
+
+so when lets school first show up im very skeptical about it it took me a few months before i decide to get it but once i start playing oh boy it is very addictive the longer i play the more and more mechanic i discovered and it got tons of them
+
+needs relationship training stats items classes responsible position research parking lots zdimension building other school diplomacy competition events seasonal events community upgrade selection which product to sell garbage cleaning fire earthquake room upgrade club dormitory and more
+
+and you know what i love the most the management system in this game
+it let you create an organization chart where you the headmaster is at the top and you can see the tree down of each subordinate under you each person have their own management value assigning to much responsibility under them will cause stress but each one below will get management buff from the one above
+
+so it is incredible fun to drag and drop split combine assign person to each position based on the facility that you got in your school try to find the best organization chart that benefit you the most and i never see any game did something like this before it make you feel like you really manage a school as whole and their relationship in each department
+
+still not everything is perfect there are some rough issues for example the animation is far from smooth you will see people waking walk through object teacher put their bag floating in the air on the deck etc some translation need to be clearer and i spot a very few place where text is still chinese i did found a few bug where people stuck sometime but reloading the game will fix it
+
+nevertheless i can overlook all that flaws with so many fun mechanic to play and great performance despite 300 people plus uncountable cats running around in my school at x4 speed it still working well without lagging issues
+
+as of my review right now i got all achievements in around 75 hours except 1 because of new update patch i would said that this is probably the best time and money spend decision that i ever made in a while
+
+#####
+
+as a science teacher i greatly enjoy this game it involves a large variety of the dynamics of running a school including discipline infrastructure and academic progress school administration is not an easy task and this demonstrates that it can get to be a very sticky balancing task at times
+the format of the school may not match the format i am used to due to me being australian however it is intuitive and quickly learned as to why each option is chosen this is the best anyone could hope from a school simulator and i would struggle to think of how anyone could do better
+
+disclaimer i was a part of the beta and thus received this game for free
+
+#####
+
+good game remind me of a 3d thought out ksoft games needs some work but the love is there
+some things are still not translated like some of the clothing items in shop i saw also the games needs a stepback or undo button if you place something even if you are still paused you have to demolish it loosing some of the money how the classrooms auto upgradenew course come about and need a new classroom also needs to be apart of the tutorial imo or have a better way to implement them into career mode or the guided one overall loving the game and cant wait to see what else they add and qol patches 3 also during char creation i was twisting the models to see the outfits and it caused major lag and even a crash once
+
+#####
+
+very interesting game about managing a school its complex in that it has not just funding but managing the hierarchy of the departments as well you can build up the building how you like it decorating the the various rooms setting up safety and cleaning areas even being able to develop the surrounding neighborhoods by investing money in them when you have it to spare youre also not the only school either there are other npc schools youre competing with to be the top school too scheduling the classes and managingtraining the staff too is in there also yes there are delinquent students too that you can have a security dept or teacher deal with as well i definitely recommend this game its fun its different and for those that like anime youll enjoy the japanese school theme that you see in most slice of life anime no supernatural stuff just a more realistic school
+
+#####
+
+outstanding game literally had me hooked for 22 hours in a single sitting havent had that happen in years it would be amazing to see a dungeon keeperevil genius game by these people in this artstyleengine id probably never stop playing it at that point lol
+
+#####
+
+this game has good gameplay and very fun mechanics 
+you can learn to manage school find students and teachers and others 
+nice school simulator i can recommended this game
+
+#####
+
+its alright some elements are kind of repetitive
+
+over the course of the game youll probably send 100 groups of teachers to get training at bear minimum my suggestion for the game would be to have a repeat trip option to cut down clicks 
+
+the interface for selecting which lessons get taught to your classes is terrible the controls are very imprecise and slippery id suggest considering reducing the number of periods per day from 4 to 12 each day is usually spent on a single subject so we dont need 4 slots for each day and each slot takes additional setup time 
+it seems hard to keep track of which additional class facilities youll need 
+
+pretty much nothing in the game happens on its own like in sim city if your education score is low you place a school and fund it and then the situation will gradually resolve itself or in most games employees will passively improve themselves a lot with experience in this game very few employees scale upwards and what little scaling upwards happens is because you send them to get proficiency boosts and then you send them to training pretty much everything takes a ton of ongoing clicks
+
+proficiency problems with teachers seem unintuitive there seems to be some problem around large class sizes but i have no idea when the problems start 
+
+id suggest allowing players to disable disasters theyre not fun at all and arent great for the pace of gameplay spotchecking like 20 rooms to find out which now have holes and dents in the walls is not great gameplay 
+
+the game automatically resets to 1x speed at the start of each new day 1x is pretty slow in this game so this feels antifun 
+
+i think itd be cool if we had more control over our starting characters like which class your headmaster and the assistant can teach some randomization over which student groups are nearby might also help for replay 
+
+things which id like to be reminded of a teacher making a demand or an available musicsports competition im eligible to participate in or theres a facility i need to build to hold a class this semester or a facility has closed itself because it no longer has door access or a storefacility refusing to work because itemsfood menu have not been selected or staff have not been assigned 
+
+things which id like to be reminded of less often anything from rival headmasters speech opportunities they take too much timeclicks for too little benefit 
+
+i like that the game is very flexible on sim pathing 
+
+when a repeatable technology is completed the game automatically goes to repeat it this is great automation automation pretty much everywhere else in the game is terribly lacking the classroom autoenrollment system is borderline okay i guess but even the slightest changes like adding a classroom per year to 5 communities will take like 2030 clicks total  
+
+instead of having players send like 100x busloads of teachers to get 10 training proficiency 3 at a time id suggest also adding a more expensive 25 or 50 training proficiency option or maybe radically rethinking the training process to be generally more passive and less clickintensive maybe teachers might naturally improve themselves with experience and the proficiency score determines how quickly that happens maybe the training room could autoenroll teachers like the student council autoenrolls eligible students maybe the player could get a limiting factor like spend no more than ____ 1000 ____ on autotraining sessions or whatever
+
+id suggest generally increasing the points awarded for graduating students or decreasing the points required to level up aspirations 
+
+sports classes mainly in level3 orange performance academy are currently bugged to report that like everyone will fail your classes but the actual pass rate will be higher than projected theres some sort of known issue there even beyond this bug teaching sports seems a lot harder than the other subjects id guess my sports students are like 5x as likely to fail the test maybe 510 as their sciencelit counterparts 12 also sports facilities are the hardest to place must be outdoors and really big relative to student count also im not sure if this is random or what the causes are but it seems like good sports professors are harder to find in the recruitment pool than scienceliterature 
+
+it doesnt seem like theres a way to determine which community a student comes from so if theres a problem i dont know which community to invest into so far ive only been able to find which college a failing student is targeting which doesnt tell me very much if you have like 5 of your communities targeting the same college 
+
+there appear to be lategame performance issues as the # of students increases ive found that rejecting all pets helps a lot unfortunately pets will autoaccept themselves if you dont click on the alert in time which blows 
+
+bplease get rid of the organization chart managementb it is antifun and even if the concept were fun at all the controls for dragging a facility from one manager to another totally blow try dragging anything from manager #1 to manager #10 how many times did it take you to successfully pull that off why is the dragging feature so hard to execute suggestion this can probably be simplified to a total management score schoolwide
+
+#####
+
+so much i want to see raging concerts after school clubs we shall see i am starting to think this game is not about being the best schieool some of the video shown for the trailer is impossible event photos nope just saying this game is fun too many possibilities at a cut throat price some might say overwhelming my best advice is do not expand too quickly it can takes years ingameyoumooks to get your staff and management ready buckle up
+
+#####
+
+a management game in the vein of prison architect but with a level of visual detail that feels a lot more livedin if youve played prison architect or theme hospital youve seen these mechanics before however this game stands out for some pretty good editing mechanics which make it easy to expand or move facilities any time you need to everything from class schedules to uniforms allows for detailed editing
+
+#####
+
+fun to play like two point campus can pet in school design level top notch very cute
+
+#####
+
+16 character limit names polish bros well only fit our forename in youre gonna have to become a laidback headmaster
+
+#####
+
+congratulations for myself on completing all the achievements after playing for 130 hours its a fun game but i believe it could benefit from more updates and details as some functions are not fully functional for instance i dont quite understand why i should buy certain items nevertheless this game is truly addictive 
+
+#####
+
+game of the year really fun and addictive game with a cute art style that is evocative of some ds games i used to play when i was a youngen cant wait to see where the super responsive devs will take this game into the future
+
+#####
+
+so my childhood dream came true to become a director at my own school
+
+#####
+
+ive tried many different simulation games but this one is kind the best for me as it has a lot of stuff to do and its like a real school management and live i think uses an ai system which makes it like real the only thing i would like to add is cleaning staff in school and lockers and school bus and theater
+
+#####
+
+with the addition of clubs the game is even better now than it ever was before we need more different clubs though cant wait to see what the future holds for lets school
+
+#####
+
+i absolutely love this game and highly recommend it really my only complaint about it is that i want more 
+
+things i would love to see in the game
+
+1 longer termsyears even if they make it a customisable option even two weeks per year would be a big improvement
+2 more schools to choose from having only two possible buildslocations is a real restriction as the layout of the plots ect really affects how the game plays out it would also help keep the game fresh if you had say five schools to choose between
+3 clubs which the devs have already confirmed that they are going to do 
+4 i would love it if the different districts didnt always have kids with the exact same aspirations ect eg would be nice if all the theatre boulevard kids werent all bad tempered bullies that want to get into acting 
+5 i would love it if there was some way to lock the grades of the classrooms i understand that this is meant to be a japanese style system where the classroom automatically goes up every year but it really is a pain to have to reorganise them manually every term i personally like to build my schools in such a way where the relevant grades and special classrooms eg biology lab debate room ect are in their own buildings 
+6 more scenarios more goals more furniturecarpet more outfits and hairstyles for the headmasterheadmistress more food for the cafeteria more cats variations just more more more
+
+#####
+
+pretty addictive game just really buggy i say its worth it if you like building schools etc however my main isssue is the bugs i think one of my class failed because i cant set up a schedule for them failed till they graduated  which is kind of frustrating overall of the game i do enjoy it and i have spent hours playing it
+
+#####
+
+a simple game about school life everyone who wants to remember their studies at school i recommend
+
+#####
+
+i enjoy this game so much still has a few bugs but great overall
+
+#####
+
+the game is good some stuff could be better the animations are a bit buggy and i wish the interactionsrelationships were a bit more relevant as well as the counseling to resolve issues when classmates hate each other and so on the tutorial was very clear and it allows for an easier understanding of a somewhat complex interface but when it comes to it some improvements could be added an easier way to search contraband for when you have 100 students as well as definitely an easier way to tell when the students have a certain amount of demerits it could be a bit more rewarding to achieve certain things and i wish the lifespan of grades was higher than 3 months but overall its a fun game i hyperfixiated on it until i suffered achieved a lot and had lots of fun
+
+#####
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#####
+
+had a bad time in school well heres your chance to do the same to students
+
+#####
+
+so i bought this game as a bundle with my time at sandrock and i havent even touched that game since i bought it this game swallowed me whole and i cant stop until im the only school working in the continent
+
+petition to be able to move buildings around pls
+
+#####
+
+h1the next top of class in simulation gaming  lets schoolh1 
+
+ba unique blend of management base building and school life simulationb
+lets school isnt your usual characterbased simulator this game harks back to the glory days of topdown simulation games like cities skylines or sims your perspective is that of a godlike omnipresent headmaster curating a wholesome environment for education and growth
+
+bbuilding blocks of education b
+the game hands you the blueprint of a rundown school and says make it grand with a creative suite of building tools and options your imagination is the only limit whether its career or sandbox mode each choice you make will echo through the school halls shaping the lives of both students and teachers
+
+bgraphical simplicity gameplay depthb
+though the visuals might seem basic at first glance they conceal a depth of gameplay that is truly captivating the charm is in the details  the vibrant school life the authentic sound effects and the compelling management dynamics all contribute to a rich gaming experience
+
+bareas for detention b
+while lets school earns high marks in several areas there are a couple of subjects it could improve on the management system though robust can feel a bit overwhelming and the game currently lacks mod support nevertheless these are minor detractions in what is otherwise a truly engaging gaming experience
+
+bthe final bell b
+lets school takes the simulation genre back to school and graduates with honors though still fresh on the scene it shows significant promise and offers a fun indepth simulation experience at a reasonable price
+
+i so highly recommend this game i fell in love with it during the demo and beta for me this game is an unforgettable experience
+
+#####
+
+oh boy how i like coming back home from school and setting up my laptop so that i can start up this game and run a school myself
+
+#####
+
+after honkai star rail came out no other game has managed to catch my attention until i got my eyes on this game i would say that the demo is what made the final nail in the coffin for me to buy this game day 1 it just screams with passion and attention to detail the gameplay feels similar to dwarf fortress two point hospital and similargames and i feel they nailed the presentation with the aesthetics not only is a school theme super relatable setting but it also caters to the anime feeling of this game even goes as far to include references to anime tv shows like nichijou
+
+ive been playing multiple playthroughs and love the gameplay loop of minmaxing my courses and teachers i noticed that some features of different facilities felt like they could need more work but that has been addressed in the roadmap  
+
+for the devs what i truly wish is just more of this game qol quality of life fixes like being able to change names of even special studentsteachers it could give you a prompt that the character whos name youre changing is an important one if necessary adding just arrows on the corners of the exploration map so it feels more intuitive to move the map rather than only middle mouse button ive seen people write bug reports about unable to move map only to miss the fact that its movable with middle mouse button also more customizable uniforms please add a uniform similar to uniforms in anime azumanga daioh orand let us change the primary color of the uniforms i also wished to see more of student relationships for example a student building a harem of students and then theres love drama inbetween them but thats just my personal wishes if theres problems im at least hoping to be able to customize uniforms and different cat models in the steam workshop p
+
+to wrap it all up i want to say thank you to all the developers and people working on this game it a fantastic game and im happy to be supporting this product
+
+ps have you ever though what if i build a full wooden school and then a lightning strikes it devs add option for lighting disasters please 33
+
+#####
+
+lets school is a really cute school simulation game which allows you to get really deep into managing a japaneses style school and believe when i say deep i mean it to give you a taste of the complexity let me explain what you need to do to properly teach a student
+
+first of all you need to explore an area on the map you can do this by sending a class on a trip to this area if the trip was successful there are text adventure style obstacles on the way and your school meets all the requirements train station dormitory etc you can open an admission office in this area now you can support the neighborhood with money or teaching points so more students will apply if you have enough students you can open a class but not every student has the same needs depending on the college the student wants to go he needs teaching in different subjects so you need to plan your classes and their timetables carefully you also need to hire teachers that are capable of teaching said subjects and be careful that you have enough management capabilities for all your classes and your teachers
+
+the game has an amazing feature that allows you to create management hierarchies in an organization chart in which you need to organize all your management offices and their subsidiaries and decide who is leading a certain office class or research lab and how much management capabilities you as headmaster want put into this certain subsidiary
+this organization chart style management works really great and a lot of city builder style management games would really profit from this
+
+the game is a little rough in some corners and although there were no game breaking glitches or softlocks or something i wonder if early access would have been the better choice when releasing the game in this stage the translation sometimes doesnt make sense there are a few glitches here and there and although some areas of the game are filled with content others would really profit from a few more items like why are there 12 styles of windows but the lemon tree is the only indoor plant i can place believe me i have that fools garden song playing on repeat in my head for weeks
+
+other than that i have nothing negative to say about this game the game does a lot of things really right and is amazingly innovative genre wise in a lot of areas its mostly really well balanced
+
+i had tons of fun in the 50 hours it took me to complete the campaign and there are still a lot of things to do i think ill need 20 additional hours to upgrade my school to look like i want it to look and reach the other two winning conditions you can choose one winning condition for the campaign when starting your school but after finishing one you can of course still work on remaining two there are also a few areas i havent explored and school features i havent gotten into like the dormitory so all in all you can easily get 100 hours of fun out of this game and if i got this right there are also some free content updates in the pipeline im really looking forward to the update that brings club activities
+
+i highly recommend this game
+
+#####
+
+i generally like the game however i have some major complaints
+
+1  i always have to launch the game twice it crashes the first time i launch it
+     i have reinstalled the game cleared caches installed on other machines etc
+     i have the latest updates drivers etc
+
+2  the cloud saves do not work at all with steam there is always an error
+     i have went through the online forums and cannot find anything that helps
+
+3  in game there is no easy way to deal with problem kids  even when they have all of their own facilities and seperated from the rest of the students they always bully the other kids  their discipline never goes up it only goes down no matter what punishment i give them  this is since the latest patch and todays date is 20240219  in older versions of the game i was able to deal with the problem kids 
+
+4   the game can progress very slowly and there is no simple way to speed it up  clarification it seems to take forever to get students and it doesnt ramp up  game stays at a snails pace even at highest time warp
+
+#####
+
+given that they are implementing workshop support in the next 6 months id say this title is probably going to be one of my favourites
+
+ive played an additional 20 hours since my last review and theyve done two small updates since if they keep updating like this i see no reason why id ever stop playing this all these small updates are meant to just fix things but they keep dropping in new features this is way better than say for example two point campus which was pure gimmicky trash with no good mechanics
+
+#####
+
+huh its morning already
+
+#####
+
+i love this game it is just one of the cosiest games i have ever played i cannot wait to see what the developers have left to add i am completely obsessed i have been streaming this too and my viewers love it thank you devs for making such a wonderful game 
+
+#####
+
+lets school boasts a more define content compared to two point campus and its game play is more challenging however it would be better if there were a more detailed tutorials navigating through the game took me a considerable amount of time and i believe a more detailed guidance would greatly enhance the overall user experience
+
+#####
+
+highly addictive and a musth have for a resource management enthusiast
+
+#####
+
+this is a fun school management game around building a school training teachers and keeping staff and students happy its easy to see what youre doing right and wrong and most things are explained in game 
+
+some of the menus are a little confusing and there is a need for some localisation that pops up biggest drawback at the moment is the lack of modding support
+
+update the new club system seems a lot of fun just scratched the surface the new options on start are cool length of a school year different difficulty settings for different parts of the game the new build items are cool and basic icon modding is possible though id prefer something akin to the steam workshop with a separate folder n my documents
+
+#####
+
+a very cute and fun game that probably shouldve been put to early access first if you like city builders and other management sims thisll be worth the 20 bucks for 1520 hour run but the game feels unfinished not in a this is an unplayable glitchy mess but more in the sense that it clearly has content and qol that has yet to be added
+
+the game talks about clubs but theyre being added in a later update obviously this will change later but it felt very weird to have a ton of facilities and sports available and not being able to make any clubs or sports teams
+autoteach ai is terrible often forcing me to rearrange the schedule anyway to accommodate for some students needs
+headmaster and ms lin can only ever raise their proficiency to around 40 before they become a waste of time and resources considering how prominent and present they both are it would feel better to have a way for them to raise their training threshold or just simply start them at a higher base
+the default refund value for stuff is 80 for some reason if you misplace something thats just a net loss of money 100 should be the default
+only two locations and one of them has the headmasters office in a very awkward location behind the school
+rooms often have size requirements that do not match the actual room you need for them the debate room is a big example
+game doesnt punish you for filling rooms with nonsense in order to satisfy needs and aesthetic requirements potentially leading to situations where you have immensely cramped areas if youre concerned with preserving as much space as you can which youll want to do early on
+tons of bugs still need to be patched even after hotfixes
+
+overall very fun and addicting game but i did not feel like i was playing the full experience i am praying this review ages like milk in a hot car because this is genuinely a very fun experience but one i dont want to replay until more content is added
+
+#####
+
+great cute tycoon game
+
+#####
+
+a delightful school simulator that puts you in the shoes of a headmaster striving to create a topnotch educational institution heres my take on this charming game
+
+the game immediately envelops you in a warm and cozy atmosphere the graphics and overall design contribute to a relaxing gaming experience its the kind of game that makes you feel at ease as you embark on the journey of building and managing your dream school
+
+one of the standout features of lets school is its simplicity the game mechanics are easy to grasp making it accessible to players of all levels theres no steep learning curve and you can jump right into the fun without feeling overwhelmed the straightforward nature of the game adds to its overall appeal
+
+this game successfully combines the strategic elements of a tycoon game with the joy of building and managing a school the game keeps you engaged with a perfect balance of challenge and enjoyment from creating classrooms to organizing extracurricular activities every aspect of running a school is thoughtfully integrated into the gameplay
+
+while itg offers an engaging experience my only minor complaint is the limited map options i found myself wishing for more diverse landscapes and additional areas to expand my school empire i hope the developers consider adding more maps in future updates to enhance the longevity and variety of the gameplay
+
+in conclusion lets school is a gem in the school simulation genre its chill vibes simple mechanics and wellcrafted gameplay make it a joy to play despite the desire for more maps the overall experience is positive and i look forward to seeing how the game evolves with future updates whether youre a tycoon game enthusiast or a casual gamer looking for a cozy simulation experience this game is definitely worth a try
+
+#####
+
+if you played academia school simulator or the kairosoft school game and found them wanting then i have good news for you  this game totally surpasses it in every way  now its worth mentioning that this is more of an asian school system so for us americans we might find a few things odd tea room no student lockers students stay in a classroom and teachers rotate but this is honestly one of the most satisfying simulators that ive played in a long time  there is a good balance between micro and macromanagement  the tone of the game feels optimistic but isnt cheesy which ive come to enjoy
+
+play the demo to get a good feel for the game but realistically at the low price that theyre asking this game is more than fairly priced  whats more is that the developers have been pretty active in listening and responding to feedback which i find surprisingly refreshing  i think youll be as pleasantly surprised as i was with this game
+
+for the future id hope to see maybe some sort of dlc or update that adds some american school flavoring probably scheduling
+
+#####
+
+excellent sim far more fullfeatured than i expected and the artstyle is so cute
+
+#####
+
+yo lowkey its a good simulator game to pass the time yeh at first itll be confusing but eventually once you see your students passing classes n stuff youll be chilling p
+
+maybe lower price to like 1215 or so then i think its worth the game atleast i think it was worth purchasing lmfao
+
+#####
+
+this game is very fun
+
+#####
+
+welp just got it and already spent almost 8hours playing so thumbs up
+
+#####
+
+good management sim make brain go brrrrrrrrrrrrrrrr
+
+#####
+
+i love this game since their release the games maybe because of school setup and you become principal all is nice i hope the uniform or more story will be add more i love this game verrry very much
+
+#####
+
+crashes every five minutes after paying for only 7 hours very buggy once you barely start progressing i had students in place of teachers it saying i had 55 students in a classroom when i only have 24 etc i really enjoyed it and honestly would love to keep playing its just really broken
+
+#####
+
+i love this game its management thats not too simple but not too complicated either love how easy it is to decorate it too
+
+#####
+
+i am really enjoying this game i saw a few reviews comparing it to kairosoft games which i absolutely love i can see the comparison and agree  if you like kairosoft games youll love this one as well 3
+
+#####
+
+games great only gets a bad review due to the persistent please review me request you get once per game
+
+#####
+
+3008 i still dont understand i have built at least 2 for every facility 5 cafeterias and 12 toilets per sex per floor but they still drop out every day due to dissatisfaction this is so frustrating i also finished the game with teaching win but didnt receive the achievement
+
+2708 the optimization is not very good too many bugs especially in meeting the need of the student since the number of facilities are over their need but they still report in very dissatisfaction and drop out moreover the cleaning machine is not working since the latest update and i cant assign anyone to do the cleaning
+
+2202 the new updates are good but i have played 6 times but still cannot get the teaching victory and i have assigned it as my main goal
+
+#####
+
+well what can i say its a very addicting management  building game that really manages to keep me occupied while its not without flaws its well crafted and lovely
+
+a few things that id criticize would be the late game which is a bit lackluster as well as the fact that there are currently only two maps its not that you dont have enough to do but it could improve a bit on these ends aside from that it offers great value for its price
+
+#####
+
+niche game should play 710
+
+#####
+
+relaxing game even on hardest difficult
+
+#####
+
+why does ma meng have so many video game consoles
+
+#####
+
+i love this game i am school school good good school lets
+
+#####
+
+as a huge fan growing up of the old school tycoon games i absolutely adore this game ive been playing it basically non stop and really enjoy in particular designing a beautiful school i hope in future updates that the devs add more customization to decorating your school like more decor changing wallpaperflooring etc id also like to see the social sim aspect expanded on some more but overall this game is so much fun and ive been adoring my time with it
+
+#####
+
+i highly recommend this labor of love
+
+#####
+
+if youre like me and are severely addicted to management games boy do i have good news for u
+
+#####
+
+i found lets school to be an engaging and highly addictive management game that cleverly weaves in a perfect mix of creativity strategy and decisionmaking i was constantly caught in the intriguing web of managing my virtual school and lost track of time more than once while playing
+
+the freedom to design and structure your educational institution along with the extensive range of educational equipment to choose from promotes a sense of inventiveness that is both challenging and delightful this unique aspect of the game successfully stimulates the players urge to continually enhance and upgrade their facilities
+
+the feature that sets lets school apart is the diverse personalities of the students the need to balance their various interests meet their essential needs and maintain the schools reputation proved to be a richly layered and satisfyingly intricate task overseeing the teachers recruitment teaching methodologies and personal progression added another level of engaging complexity
+
+the detailed and wellplanned discipline system of lets school requires you to keep a watchful eye on your students ensuring a safe and healthy learning environment handling realworld issues like absenteeism and bullying adds a touch of reality making the gameplay even more immersive
+
+the games unique ways of representing student stress such as the surge in eyeglass usage and weight issues were an ingenious touch ensuring adequate sanitary facilities was another critical aspect of the game that added realism and a sense of urgency to my management role
+
+the games appealing aspect is the constant desire to add more furniture and refine the aesthetic appeal of the school offering elective courses and running various school events provide a meaningful impact on students lives which was rewarding and fulfilling
+
+in conclusion lets school is a standout management game that impresses with its immersive gameplay indepth detail and challenging schoolrunning mechanics its an engrossing experience that you wont be able to put down for hours a musttry for any strategy or management game aficionado who relishes a challenging yet rewarding creative endeavor
+
+#####
+
+i love underpaying my employees
+
+#####
+
+fun game worth a play
+
+#####
+
+this is very fun and deep game however it is still a buggy mess very much unfinished so i really cannot recommend the game in its current state it is very unfortunate cos the mechanics and the gameplay is really fun and engaging making you feel like managing an actual school well except for the part where you hire a teacher then make them a security guard or a cafeteria cook on the bright side the devs are very active on discord
+
+#####
+
+as an educatori certainly enjoy spending all day teaching at my towns local elementary school then coming home and acting as an administrator of my own virtual school 
+
+all jokes aside this game is addicting and i enjoy the mechanic not too challenging just enough to keep you focused and continually trying to upgrade everything
+
+#####
+
+its a nice game as person just graduated education i find this fascinating to exercise my mind on how to showcase capabilities to run a school 
+
+although i encounter some bugs  in the game 
+
+bug 1 one of which when you invest for 50000 to turn very poor family into poor unexpectedly the rich family become poor 
+
+bug 2 another is where students just teleport into a space with no exit when they try to bully or play video games
+
+bug 3 the visibility or the range of certain furniture such as video camera when i move it away the colored range somehow doesnt go away i have to manually disable and return to visibility button ensure i covered all the place
+
+#####
+
+i was wrong w game
+
+#####
+
+fun addictive and cute little indie gem i adore this game 3
+
+#####
+
+amazing game to play right after school
+
+#####
+
+this game is highly addictive with lots of content to keep you busy if you enjoy resource management games definitely give this one a shot theyre always updating the game too
+
+#####
+
+heeeeavy recommend
+i bought this game three days ago and have 51 hours i play every free moment i get its addictive
+there are bugs most of which can be fixed by a going to the main menu then immediately back into game outside of that its a management game lovers paradise there are some aspects of the game that can make management tedious to check contrabanddemerits for expulsion you have to click on each student individually ive got 400 students im not doing that even if i want to but it has nothing on all the positives afaic
+
+the pacing is great the class system is decent though im hoping it gets even more in depth in the future clubs are  apparently coming soon so that should add even more content but as is right now i think ill finish everything i can do in game around the 60 hour mark 
+
+for fifteen bucks i cannot stress this enough buy game play game love game 
+1010 am literally playing again right now
+
+#####
+
+incredibly charming communitylevel building and management sim components of the game scale nicely as you go from managing individual classes to ruling your international lets school empire the music and activities are so silly i love it anyone who says this game is relaxing has not had to sell snowmen to escape debt
+
+#####
+
+ซอเถอะ ปวดหวด
+
+#####
+
+very peaceful and laid back game i use this to relax after a long day of work or even on my days off the music is very calming and it is a very easy game to play i love being able to build the school how i want and add whatever facilities
+
+#####
+
+watched too much japanese anime got a hankering to build an authentic anime school then this is the game for you  but its remarkably a lot better than the premise to boot
+
+think theme hospital in a school setting except theyve worked out how to enable multiple floors and the students dont get bubble head management is a case of juggling timetables and activities ensuring enough classrooms and specialist facilities eg chemistry labs toilets staff room and so on exist to fill the needs of the teaching and then filling the remaining space with cleaning supplies some aspects are a little clunky especially class management but once you understand the japanese system of three years each denoted with a number and then classes having a number afterwards  it makes more sense so 11 means the first class of the first year 34 is the fourth class of third year
+
+building is probably most of the fun along with the usual wait for research unlocks most of the environments are charming in their own way with a unified aesthetic that works well but the inability to interior decorate does grate a little especially as the available carpets look so bad ive also yet to work out whey pupils and staff will just walk through fences
+
+what lets school nails is the one more minute hook of the management genre its 1am before you realise its time to go bed with just one more cycle tempting you for the price its an excellent little game with a few ongoing bugs and issues but if you like management sims thisll scratch the itch
+
+#####
+
+this game is really cute i love the core gameplay
+
+there are a few issues though some things they forgot to translate like the uniform styles you can trade the other schools for and the game has quite a lot of bugs 
+
+however the core gameplay is so good and i cant find another school tycoonesque game that i like more so i really do recommend it i hope there the bugs and the translations can be updated soon
+
+#####
+
+i enjoyed it when i played it for the first time
+there are a couple of bugs though for instance the fences dont actually keep students out and they just walk through it also some things arent translated like students i can trade for however if youve finished it once its really repetitive which makes it not really fun anymore
+
+i also have a few suggestions in the furniture section i wanna select only star items or aesthetics but now i need to look through all of them it would also really help if i could link multiple schools to multiple classes since some of them have the same things they need i kind of wish there was an option to bulldoze all the items in a room and not just the entire room as i unlocked things i wanted to redo everything and had to delete it all manually
+
+its also not really fun anymore after playing it once so wouldnt reccommand if you wanna play more than once
+
+#####
+
+fun way to pass the time the graphics are super cute and i like how you can unlock more things as you progress through the game my only trouble was that one of my students got injured before i could even unlock the infirmary which was kind of frustrating because it brought down my satisfaction score and there was nothing i could do about it
+
+#####
+
+i really loved the concept of this game but honestly its not that chill compared to what i actually wanted to feel i feel somewhat stressed because of the amount of complex building additional students etc but hey still recommending this game its a good one
+
+#####
+
+a chill little game with hours and hours of entertainment  having an open sandbox option and random events that occur make sure that every play through is unique
+
+the more you play the more you learn better strategies in creating the best school around
+
+good luck out there future headmasters
+
+#####
+
+im addicted 2 micromanaging
+
+#####
+
+very chill and fun at the same time
+
+#####
+
+i love this game its a lot of fun its particularly good for those who dont need to be dedicated to a game and stay on for hrs to get anywhere
+i would play it more if i didnt work often i hope to see expansions and more addons in the future
+
+#####
+
+its really good was looking for a management game like this for a loong time
+
+#####
+
+a wonderful surprise oodles of content and while ive seen 1 or 2 bugs they were graphical and hopefully get ironed out with a little polish but besides that a great experience for a building management game i was constantly surprised by a new mechanic or seeing new content
+
+#####
+
+
+
+#####
+
+build school make it good or bad yes and cats
+
+#####
+
+i love this game so much love the aesthetic and love the gameplay its easy to understand and easy to play the learning curve is not that bad and i dont know why but i wish from the bottom of my gaming heart that the devs eventually make a city building in this aesthetic i would love to build a japanese style city loved so much
+
+#####
+
+very instersting style and still learning stuff enjoy fun
+
+#####
+
+this game was an enjoyable high school simulation game that allows you to recreate your highschool experience
+
+in all fairness its more tailored to what i imagine asian highschool life is like and didnt really reflect the australia highschool system but that being said i was able to use my irl knowledge to help me problem solve throughout the playthrough which made this game pretty interesting
+
+the game isnt that hard even in difficult mode i was able to finish the game pretty easily that being said the challenge of this game was satisfying my ocd when it comes to class timetables teacher management and optimal classroom building and layout
+
+i started playing the game pretty much the day it was released and in the short window ive already seen some good updates to the game i definitely feel like this is a title too keep an eye on that being said if simulation games are youre thing its worth checking out
+
+ in the future i would like to see better use of the teaching policy feature currently it resets the class study plan every new intake the problem is the auto feature can overtrain your students forcing you to research new curriculum to keep your students busy more control over the pace in which the subjects are taught in general would be nice but even just saving presets that you can copy and paste every semester would be nice
+
+ most other issues i can think of are probably just a reflection of the games early development like the earthquake design having no impact and barely even noticeable if you arent looking for it ive seen the developers are already working on changing this though so i dont think its a big deal
+
+ more meaningful interactions with the other schools might be nice or a way to revive a fallen school would be good esp if you want their legendary teacher but the school closed before you could afford them 
+
+i could list a bunch of potential improvements but this isnt to say that the game isnt good as it is
+
+all in all its a solid simulation game and theres a demo as well if youre on the fence about if you want to play it or not
+
+#####
+
+1010
+
+#####
+
+i like
+
+#####
+
+this game quite good it will be more fun if support steam workshop that everyone can create new thing
+
+#####
+
+its a really nice game
+
+#####
+
+a really nice game that can only get better yes its a bit rough around the edges but ive already had a lot of fun with this game
+
+#####
+
+i absolutely love this game 100 would recommend for someone who wants a fun casual building management game
+
+#####
+
+    
+very addictive school tycoon would recommend 1010
+
+the good
+building management and simulation aspects were blended very well
+surprisingly indepth school management system but not too complicated
+you can set your own pace and do not have to feel rushed
+overall well polished game no major gamebreaking bugs so far
+cute graphics 
+
+the bad
+clunky object rotation ugh
+overall ui has room for improvement
+some of the animations are little wonky
+could expand on neighborhood system or how students are recruited
+not hard to have students pass the weekly test could get repetitive
+needs more featurecustomization but the road map looks promising
+
+#####
+
+this game is so much fun i enjoy building the school the way i like it theres a lot of customization you can do to each classroom  facility i cant stop playing it 3
+
+#####
+
+i recommend this game with the caveat that it is still a work in progress by the developers its more like an early access game right now but by the end of the year they plan to have all base content implemented with more updates to come the updates have already been coming out very quickly and cover many fixes both large and small so this will be a good game if you give it a little patience
+
+#####
+
+plenty of content to entertain however i would consider it early access due to its unpolished state
+
+#####
+
+this has been so much fun it has more interactions with the students and staff compared to other management sims it makes me want more different types of interactions but what we have now is fine i literally couldnt stop playing  
+
+some things id like to critique though is that the tutorial really doesnt help much although the tooltip glosses over managements for ex i had to figure out the management tree on my own  even started a second game because i thought the teacher proficiency was bugging out but nope i just needed to get more managers also the roofingpainting is kind of janky to use i still havent roofed my buildings because of that but at least the ceilings are auto added lol 
+
+other than tutorial  aesthetic gripes its a super fun game one ask can we have dogs or rabbits too 
+
+#####
+
+i love all the features of this game and i look forward to the updates i had concerns regarding the teachers being the chef and security guards as well since their salaries are a bit pricey but then i saw the announcement that the devs plan on adding those roles so thats good im always excited to log on and play this game for its unique features like assigning subjects to each class and getting to choose the teachers etc 
+
+#####
+
+hatsune miku is my headmaster but she ate too many burgers shes a ball that loves science is there something wrong with this academy script
+
+#####
+
+очень затягивающий симулятор директора с довольно простыми механиками не без багов и недочетов но на это можно закрыть глаза для только вышедшей игры играется очень хорошо
+
+#####
+
+cool game
+
+#####
+
+really cute and cozy school simulator enjoying it a lot so far
+
+#####
+
+theres just so much fun stuff to do
+
+#####
+
+really fun game theres still multiple glitches and bugs to be fixed but the frequent updates so far are a huge plus to this game
+
+pros
+ cute uniforms
+ nice japanese school architecure
+ the techupgraderesearch system is awesome
+ has awesome things like a school store cafeteria break room playground
+ affordable price for so much i got this on sale and even has a demo
+
+cons
+ small glitches and bugs to fix
+ need more micromanagement of students not all student names can be edited want to rename teachers
+ difficult to play with the school having multiple building stories easy to miss things while looking at only one floor
+ quality of life updates needed
+
+#####
+
+lets school offers a delightful school building and life simulation experience the games charm and potential shine through the management system might feel overwhelming at first but once you get the hang of it the possibilities are endless building and designing your school forming relationships and experiencing school life in an animelike setting make for an enjoyable and unique gameplay with career and sandbox modes you have the freedom to create something amazing overall a fun and promising game worth trying especially for fans of this genre
+
+#####
+
+i played the demo and am ecstatic about the launch 
+
+gameplay controls
+pros relatively easy and there are keyboard shortcuts that are pretty universal across pc games intuitive in nature if you have played similar time management games clear icons assist with easy navigation and multiple pathways to get to the same core components of the management pieces of the game there is tons of space and clear systems within each area eg building building schedules research etc there is a straightforward headmasters manual that gives additional context
+
+cons the responsiveness of mouse clicks on people is an intermittent problem ive clicked on people and their individual profile card doesnt come up sometimes clicking someone else and clicking back to that person works sometimes it doesnt 
+
+graphics
+pros personally i love this art style and the clean and simple items make it easy to know exactly what and where everything is at a quick glance clear icons that pop up and hover over different roomsareas really help when looking across the entire map 
+
+cons the characters do not abide by the laws of physics walking through barriers eg fences and railings cutting through staircases aka shortest route
+
+objectives
+pros the game gives the player the option for objectives and has very clear tracking systems and multiple builtin objectives and rewards like all students passing exams this provides layers to the gameplay keeping you hooked reaching objectives involves lots of research and the research dependencies and rewards are cool and a part of the planning process for your gameplay
+
+cons na expanded or new objectives in the distant future would be great
+
+replay ability
+pros  simply yes you can create and do whatever you want you could play for a lifetime if you wanted
+cons na
+
+difficulty
+pros  you can customize your game for the difficulty level of your choosing but the game by itself is a welcomed challenge making sure the people management schedules and facilities are up to standard is the core part of the game expanded aspects include exploring locations near your school building relationships promoting and securing new admissions etc   
+
+cons only teachers can be hired which means having teachers assume the facility roles cafes security researchers storekeepers etc it would be nice to have teachers and facility staff to improve the immersion
+
+building mechanics
+pros  you can just click or long hold things and move them directly in live game without having to pause or even go to build mode if you have been playing any type of build games for a long time you know this is a great feature it is so simple to build and there really isnt much else to it like with most games it tells you what is required within the objects area and you can search for items as well
+ 
+cons unable to shrink facility zones the actual standalone building structure made planning structures a bit more difficult
+
+#####
+
+you can be a normal person and teach kids like a normal school director
+
+or
+
+you can block all exits and turn the building into a frozen hedge maze and watch the inhabitants suffer and then right at the end of the tunnel of thickets and thornes algebra awaits
+
+#####
+
+3
+
+#####
+
+a little buggy  windows only show frames  the wall theyre on can still be seen  same as doors but i love the game regardless absolutely worth the money 
+
+#####
+
+plays ghost stories theme
+
+honestly i love the game its interesting all the things theyve added
+id add it up there with people that enjoy watching and playing with simulations
+
+#####
+
+im surprised to play this simulator it is very pleasant to play the role of a school principal to work with students and to think about the teaching strategy several steps ahead
+
+#####
+
+closest thing we can get to building an animelike school it isnt difficult per se but it can be overwhelming at first once you have an idea of what you want to do with the game it becomes fun and if you dont know working towards the goals is plenty satisfying
+
+ive encountered a few issues with the game but they are not game breaking highlighting and selecting certain things can be a little annoying at times theres some ui issue at times when i try to exit out of a planbuild phase as well
+
+though in saying that any problems that are in the game gameplay wise youll be notified at least whats going and how to resolve them which is plenty useful 
+
+its a great game ive lost track of time playing the game and i believe thats a good thing in terms of immersion lots of quality of life improves do get added over time if youre on the fence about it but are interested in the game i would recommend giving the demo a go its enjoyable and watching the school improve over time is satisfying to see
+
+#####
+
+i went into this not expecting much couple crashes and glitches some mechanics not working right or worse imagine my surprise when this is actually a perfectly workable game there are some weird things here and there and some room for improvements but its functional and quite fun
+
+starting a sandbox game without any prior knowledge apart from having been to school myself its not impossible to grasp there is even a minor tutorial of sorts in the sandbox but just clicking through the various windows and resolving the problems the game informs you about teaches you most you need its not all intuitive but most of it is and despite some mechanics being a bit overly micromanagement it can be handled if you pay attention
+
+there is a slight imbalance between some mechanics being overly deep and others being a bit shallow the whole wonders you can build i dont get what they are meant for they dont seem to get used at all much like the outdoor things that you have to water your staff to make them work effectively is a bit strange especially when they require water specifically and not just a vending machine for soda though the problem with that is more down to the way the build menu is organized and structured lacking a bit in overview when you constantly have to scroll this could really benefit some ui scale slider to reduce the ui scale and make more space in the build menu to show more items at once or add more categories
+
+hoping for a two more subjects making it in at some point so its not just 4 which seems a bit lackluster compared to the rest of the game also the finance view needs a redesign its basically impossible to tell at a glance what is costing you money and what brings it in even collapsed when you basically omit all meaningful data you only get a rough idea of the situation
+
+some of the items dont fit right in certain orientations or against walls which makes them look odd and the average scale of people makes them so tall and wide that it ends up looking quite funky the build area appears large at first but if you want to build a larger campus with multiple buildings and facilities the space is actually quite limited hopefully some bigger maps in the future
+
+the management aspect is really neat having to organize departments and working out a good structure makes sense feels realistic and empowering just wish there was more indication of whether or not a management structure is helpful or not some form of management quality percentage would be nice
+
+have to say though i did not expect even the small minigames and other mechanics to work this flawlessly its refreshing to play a game that might look like a yet another indie mess thrown together to fill a niche be actually working so well is it perfect no but if updates continue and some of the rough edges are polished it really could become a real gem it reminds me a lot of the golden era of these tycoon games from the early 2000s when it was still about realism and engaging wellrounded gameplay you dont need the best graphics when the game is fun to play graphics and models can be changed and modded but that doesnt happen to games the play like garbage its only the games that are fun and invigorate creativity which build a fanbase that supports them
+
+i really hope it will get the attention it deserves and the coming months and years will make it just better there is already such a great basis here and so much stuff done well leaving only minor things to clean up and polish to achieve cult status sounds overly flattering nah its just that well made compared to all the other garbage on steam for 20 its a perfectly okay price if it is on sale its a mustbuy for anyone thats into tycoon management
+
+#####
+
+this game is incredibly charming and packed with a wealth of content while i did encounter certain graphical hiccups like slightly glitchy bushes i wont deduct any points as my affection for the game outweighs this im optimistic that a solution will arrive in an upcoming update but i wholeheartedly suggest this game if you enjoy relaxing and cozy gaming experiences 
+
+#####
+
+great for those who love longterm simulation and customization kinda like tycoons where you can build the most efficient tycoon school or the most beautiful tycoon school devs are amazing listen to the community and updates pretty often 1010 game for me
+
+#####
+
+as a big city builder fan ive been having a whole lot of fun its good
+
+#####
+
+solid game good building mechanics and management is also good few issues with dodgy translations and things not being in the game but are still mentioned in dialogue eg clubs selfstudy etc game is actively being worked on would give 710
+
+#####
+
+an absolutely blessed game if you like sim this one is one of the best beside some glitches but amazing
+
+#####
+
+who let pathea games in the kitchen cuz they cooked fr i never had this much fun with a management game since the days of zoo tycoon and this is coming from an indie dev holy cow
+
+first of all thank you devs but now i need more of it new updates more content areas items features and dlcs or just pack all of the new stuffideas up in a sequel i can see this becoming a ongoing franchise easily
+
+from the goofy overthetop art style to the cute cozy music and in the days of unfinished videogames filled with mtx and no optimization lets school is a perfect break and refreshment from it all
+
+#####
+
+life comsuminggggggg 
+
+#####
+
+pretty poggers ngl still rough around the edges but still an amazing game that i know im going to sink in more hours in this game devs are pretty community focused to help the players 1010
+
+#####
+
+so addictive omg my partner and i have been playing since release and it only gets better
+
+#####
+
+the game slayed
+
+#####
+
+i see a bright future for this game i cant get enough of it everytime i  quit the game after 30mins or so i would start it again i love it
+
+#####
+
+came for lighthearted school sim ended up as a crazy cat headmaster
+
+#####
+
+as someone who thoroughly enjoys management sims this game is a refreshing take on the genre hitting a perfect balance between relaxing and challenging  the systems are complex enough to spend a good deal of time optimising and perfecting but at the same time youre given a lot of forgiveness as you learn what youre actually doing  the graphics are lovely and theres a real sense of progression though its slow at first
+
+i give this game a solid 8510 and absolutely recommend it for anyone with even a passing interest in the genre  the only reason its not a 1010 is because the tutorial is a bit lacking in explaining some of the stats and mechanics and there are super slight translation errors still but im sure this will be fixed in time  the dev team has put a bunch of work in even since launch
+
+#####
+
+i miss my school
+
+#####
+
+wow this is such a fun game the mechanics are very well thoughtout and it results in in my opinion a realistic school hierarchy and all with its corresponding managementadministrative staff awesome so cute to see the students bond with each other the game could benefit from a native english speaker going through the text and cleaning up the grammar or inconsistent word choice when bugs pop up sometimes theres some chinese text lol but its really not bad at all its still such a lovely and understandable game the tutorial only in career mode is great i love the sandbox mode its definitely one of those games that i struggle to stop playing one more day one more day oh i need a new classroom one more 
+
+#####
+
+good game
+and many fun with the student
+
+#####
+
+i have so many issues with this game it isnt even funny buggy ui bad textures and models what feels like a violently unfinished tutorial poor mechanic explanation untranslated items game feels very unfinished and should be ea not a full release
+
+#####
+
+l
+
+#####
+
+i like decorating and watching the students learn 
+
+#####
+
+plenty of bugs in this one i could list them but they are easy to find in the other negative reviews of the game what i will add is that the game is very clunky and i never really feel like i have choices to make the building is very limited and many things are hidden behind pointless tasks to unlock them i enjoy when a game like this turns out to be a gem but i played over 2 hours so this is one of those that will sit in my library as a regret
+
+#####
+
+this is a great school sim the details of the simulation itself from changing weathers teacher training student behaviour transport such as bike sheds trams and car parks everything is well done not too detail and not too shallow just about right this  sim is for everyone who likes running  a school  from setting up courses to providing the right facilities 1010
+
+#####
+
+purdy epic
+
+#####
+
+i love it simple and pretty game could use some polish with ui but everything else feels polished and completed
+
+#####
+
+good game for relaxing i have some question why everyone in the school seem chubby when the time pass like 2  3 years hahaha
+
+#####
+
+im addicted to this game its really good i cant stop playing it ive been playing it for days nonstop please send help
+
+#####
+
+a really fun school management game that combines the best of the harvest moon now story of seasons series and the sims there are a few school management games on steam but i found this one particularly interesting 
+
+first you have the cultural aspect while the game is fully functional in english if you can see hints of chinese culture in the items and general structure for example a core room is the tea room however the students go back home before 10pm  the setting works particular well since you start with decrepit wooden buildings and an outhouse and slowly catch up to modern facilities through staff research 
+
+i often have issues with the blob artistic style of these kinds of simulator but this one uses bit art humans so visually i prefer this style the game doesnt currently support modding but that is something i am hoping for in the future while you can choose your school crest and uniform i think mod support there would really enhance the game a mod to make it into a 6 year elementary school could also be interesting 
+
+another fun hidden part of the game is like the sims your staff and students have needs and they can have a mental break down it is kind of a hidden feature of playing badly but if you are the kind of person who tortures your sims you might enjoy denying them toilets or maxing out their stress 
+
+i quite enjoyed this game and am looking forward to what this dev does next
+
+#####
+
+great and deep simulationtycoon game based on a school
+the art style and music are really nice too highly recommend if you like tycoon and simulation games as this one gives you a challenge
+
+#####
+
+i have truly enjoyed this game it is the right blend between simple gameplay with complex systems there is a better feel to this game compared to other school management games out there i look forward to seeing the updates shown in the roadmap keep up the good work devs
+
+#####
+
+i grew up on theme hospital and two point hospital was fun so two point campus felt promising turns out it isnt very good unlike this game which handles the same concept of creating a school but instead of a copypaste clone of a previous game its a smalltime animeesque evolution from a wooden hut to a concrete bunker straight out of your favorite anime
+
+its a great game its already very deep and complex but not overwhelming which management games often are you unlock things as you go which is always a pain when you need to go back to replace prior builds but its relatively painless in this game you will see a few odd typos or description goes here but thats barely an issue given how complete the game is i wouldnt assume it to be a 10 game out of early access but if the support and development continues ive no issues with considering it officially released
+
+great game already better than most castlebuilders that die in early access
+
+#####
+
+im a sucker for simtycoon games only thing i wish this game had was some student clubs like kendoarchery
+
+#####
+
+i was a beta tester and got a free copy
+
+the core mechanics for this game feels really great the performance is pretty good they have promised more content in the the upcoming months that wanst ready for launch early and mid game is amazing but late game can feel a bit boring until we get more stuff to do
+
+the game has a lot of potential for be one amazing school simulation game is not yet there but it can reach it in a few months with free updates and dlc
+
+#####
+
+really cute and fun theres a lot they added to the game recently and it makes game play that much more engaging
+
+#####
+
+enroll extreme poverty students charge 100 for a hamburger they starve all day
+
+#####
+
+i have 30 more hours in the demo so my hour count is a bit off
+
+anyway really good management sim it has a lot of depth and gives you a lot of decisionsoptimizations to make but it doesnt lock those behind incomprehensible systems or needlessly complex mechanics
+
+play the demo if you want to give it a shot its a good game
+
+#####
+
+its a average experience  i would wait and follow the game and see if future updates improve the game  its kida like a school simulator except i cant follow the concept well  im not sure if this is a elementary or high school or a college its like a mix of all of them  a biology lab and play ground  it makes some basic things unnecessarily harder or strange  your class rooms change each school year so your 1st grade will change to a 2nd grade classroom really weird and unnecessary  youll end up have cats or pandas running around your school which makes no sense to me  you train your teachers buy building a training room but the teachers never enter the training room they just go on with normal life and just level up  there are some nice things and some things that really make no sense  its a interesting game but for me not one thats all that polished
+
+#####
+
+i would absolutely recommend this to other people who like cozy management games 
+
+there are many things i like about this game for one i love that it reminds me of two point campus however the thing that makes this stand out far more in comparison is the more serious approach it takes to managing the schools the art style is amazing and there are some cute and funny details in the game like adopting cats to roam around the school 
+
+the gameplay is great and while it takes a few attempts to get it right the game feels super rewarding each time you learn something new 
+
+i can absolutely recommend this game and i cant wait to see where it goes
+
+
+
+#####
+
+one of the best simulation games ive ever played theres so many features in this game im constantly amazed at what more i can do as i progress further through the game
+
+important ps keep a close eye on the status of rival schools as they will shut down after a while as your school gets more students admissions each rival school has unique building items and exclusive teachers that will be lost after they shut down they dont seem to ever reopen again so make sure you keep dumping money and spare students into them until you can afford everything they have left to unlock
+
+#####
+
+omg if youre thinking of buying this game do it its very fun once u get used to it kinda sad that i splurged all week and bought this but it was worth it 3
+
+#####
+
+school simulator interesting and entertaining gameplay i even wanted to be in that role myself
+
+#####
+
+i am going to need a new management office for this comment
+
+#####
+
+accidentally spawned 8 cats that now roam my school and sit on students desks in the middle of class wonderful time
+
+#####
+
+always that one student that fails
+
+#####
+
+the
+
+#####
+
+the game told me to make a review but i like to play this game 
+sooo yeah my teachers are all fat
+
+#####
+
+this game was literally made for me
+
+#####
+
+yes
+
+#####
+
+a very interesting game where you will be able to manage a school and it is very exciting in front of you will be a lot of choices and many different possibilities the game is so well thought out that you can choose your own sports equipment every hour of the game you will find something new if you like to create something this game you will definitely like it
+
+#####
+
+pretty fun i wish we there were more customization options in sandbox mode though more setting to choose from that is good management game
+
+#####
+
+make me realized that my high school experiences is gold
+
+#####
+
+ graphics 
+ you forget what reality is
+ beautiful
+ good
+ decent
+ bad
+ dont look too long at it
+ msdos
+
+ gameplay 
+ very good
+ good
+ its just gameplay
+ mehh
+ watch paint dry instead
+ just dont
+
+ audio 
+ eargasm
+ very good
+ good
+ not too bad
+ bad
+ im now deaf
+
+ audience 
+ kids
+ teens
+ adults
+ grandma
+
+ pc requirements 
+ check if you can run paint
+ potato
+ decent
+ fast
+ rich boi
+ ask nasa if they have a spare computer
+
+ difficulty 
+ just press w
+ easy
+ easy to learn  hard to master
+ significant brain usage
+ difficult
+ dark souls
+
+ grind 
+ nothing to grind
+ only if u care about leaderboardsranks
+ isnt necessary to progress
+ average grind level
+ too much grind
+ youll need a second life for grinding
+
+ story 
+ no story
+ some lore
+ average
+ good
+ lovely
+ itll replace your life
+
+ game time 
+ long enough for a cup of coffee
+ short
+ average
+ long
+ to infinity and beyond
+
+ price 
+ its free
+ worth the price
+ if its on sale
+ if u have some spare money left
+ not recommended
+ you could also just burn your money
+
+ bugs 
+ never heard of
+ minor bugs
+ can get annoying
+ ark survival evolved
+ the game itself is a big terrarium for bugs
+
+   10 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+
+
+grab this review template here  httpsvojtastruhargithubiosteamreviewtemplate
+
+
+#####
+
+generally a superior game cant stop playing it but still little bugs seldom appeared hope more things add into it
+
+#####
+
+adopt all cat
+
+#####
+
+its very fun it took me a little while to get used to the controls there are a lot of different pages and i wish there was more music more than the same song on loop other than that im enjoying it a lot
+
+#####
+
+honestly addicting prob the only game i would complete the achievements in
+
+#####
+
+fun management sim
+
+#####
+
+you will take science whether you like it or not
+
+#####
+
+i fell in love with this game ever since i played the demo  there is just something so calming about running a school without experiencing the stresses that comes with it as per in real life i suppose i wouldnt say that it is a groundbreaking game but it certainly is one that i look forward to playing to unwind after a days load of work still i would wish that there is more time for us to check in on the students personally and seeing more of their individual personalities and lives and customisation of the school and surroundings such as wallpaper options change in tile pattern etc 
+
+since the developers are still working on this game i really am looking forward to this game being worked on and brought to new heights
+
+#####
+
+liked the game thing i believe could be added
+after completing the research tree research offices became useless maybe extra research points may give school an overall teaching buff smt like research points60
+paths are nice to automate but limiting the automation with a single district per class makes it somewhat obsolete since its easy to create manageable classrooms with 40 students while a districts supplies max 20 students
+i think one of the districts is bugged the one with 3 aspiration kids with science favoured my relation with them is stuck at 17 it says that it increases after each semester but for 6 years of successfully graduating 5 students form there i am still stuck at 17
+it would be nice to have auto roof creation option according to our initial style pick would be nice since it is quite bothersome and i never could make them look like the starting building
+
+#####
+
+this game is a lot of fun it combines what i like about rimworld and the sims with an environment i absolutely hate  school the mechanics are fun managing students and teachers is tricky but rewarding and the building is easy and satisfying i would 100 recommend this game to anyone who likes the previous two games i mentioned or who just likes management sims in general its currently a bit lacking of flavour the bad events you have to prevent are always  frog bullying or gaming i hope they introduce more with coming updates
+
+overall very fun i accidentally went to sleep at 6am two nights in a row because of it
+
+#####
+
+very addicting lost track of time every time i played send help haha
+
+#####
+
+a very nice and relaxing school builder  i found the systems easy to get a handle on  the atmosphere does a good job of capturing the joyfulness of what one imagined a dream school would be like  there are still things to be added such as clubs but an excellent casual builder
+
+#####
+
+an amazing game when my friend and i first saw this we thought it may have been something similar to nichijou however upon playing i have found something so relaxing and fun to do while i chill thank you to the devs for creating such a fun game
+
+#####
+
+this game is so fun and peaceful
+
+#####
+
+amazing game get it nooooow
+
+#####
+
+honestly even with my attention span issues i really do like this games feeling and the cute atmosphere
+
+#####
+
+this is a great simulator for those wishing to learn what it takes to manage an educational facility i started homeschooling my children and wanted to learn more about the management practices involved with academia a really fun simulation with lots of surprises
+
+#####
+
+wow this game was surprisingly fun i still want to play a bit more but ill probably get about 2530 hours of it which is incredible ill probably go back and do some more playthroughs if they introduce new maps and what not
+
+the game is surprisingly deep in what you can build and i greatly enjoyed putting a few schools together so far
+
+the games normal difficulty is a good learning step to its more difficult setting which is actually quite challenging and entertaining to figure balance
+
+i greatly enjoyed my time with this game and will look forward to hopefully some future updates
+
+#####
+
+fun
+
+#####
+
+azu manga game
+
+#####
+
+lets fucking school
+
+#####
+
+entertaining and addictive
+
+#####
+
+i have 7 cats and they all are cute asf
+must recommend 
+jk great game  i just played it 5 hours straight in my first launch very good game cute pets great content minor bugs but they are getting fixed asap
+
+#####
+
+logged almost every one of those 18 hours so far in the first 24 i owned the game literally could not put it down so satisfying so cute so completely engrossing a mustbuy for fans of the simmanagement genre
+
+#####
+
+lets school is very cool 
+
+#####
+
+good 3d school city builder management simulator less micromanage you can build a school with your own preference most importantly you can taking care of cats
+
+its good for you who seek relaxing  cozy game
+
+#####
+
+torture teachers
+torture students
+pet cats
+
+profit
+
+#####
+
+akemi nakajima went to my school and summoned loki who then impregnated one of my teachers
+realistic game
+
+#####
+
+someone said its like a kairosoft game but with more freedom its true its damn true
+
+#####
+
+this game is just too much fun
+
+#####
+
+its a fun cute game with a surprising amount of depth
+
+#####
+
+cute fr
+
+#####
+
+i absolutely love this game its quickly become my go to if you like games with lowkey competition upgrading and the usual city builders just arent scratching the itch do yourself a favor and buy this game its worth every penny
+
+#####
+
+how do i reach these kids
+
+#####
+
+for me its one of the best games of the year with an original graphic style a very cool atmosphere and some very funny moments
+
+#####
+
+being able to see my school grow from a shabby wooden shack to a concrete monolith was one of the most satisfying thing ever
+
+#####
+
+addicting qq
+
+#####
+
+this game made me addiction as  help me im stuck on this game af
+ไอเหย เกมเหยไรไมร สนกชบหาย มงดเอาเกมเปดตว ได3 วนกเลนไปแลว 18 hrs รวมกบตวเดมโม อก 8 เปน 26 ชวโมง
+เหยดแม ถาไมมเวลาอยาซอมาเลนเลย มงจะไมเปนอนกนอนนอน ไอเหยเอย ใครกไดเอากออกไปจากเกมเชยนท
+
+#####
+
+super addictive school sim everything is intuitive and just works really fun easter eggs and really cute art style 1010
+
+#####
+
+good graphics
+
+#####
+
+goodd game
+
+#####
+
+cool cool made slender man
+
+#####
+
+เกมสบรหารโรงเรยน จากคายเกม my time series ซงออกแบบเกมมาไดด แมกราฟฟกอาจจะดอยกวาเกมคายใหญๆ แตระบบทำออกมาสไดเปนอยางด มการแขงขนกบโรงเรยนในตางเขต เพอแยงชงนกเรยนดเดนหรอบานรวยในพนทดวย แนะนำใหซอมาลองเลนกนนะ
+
+#####
+
+10010 adopt every strays i saw better than crack c0caine 
+
+#####
+
+this is basically cocaine for people with adhd 
+
+1110 would happily manage my school forever
+
+#####
+
+first time boot menu would you like to help us improve the game  yes  no
+i click yes the game crashes total time spent  3 seconds 1010 would crash again
+other than this incident its a nice game with a lot of potential although a bit too expensive
+
+#####
+
+love this game 
+
+#####
+
+i picked this game up on a whim thinking why not
+
+i pulled myself up for a cozy school management sim at first i was having fun enjoying some of the simpler features of the game a few classrooms some awkward challenges growing and expanding my school of course it never goes right the first few times really what holds this game back are some rough edges some immersive breaking moments and just weird aspects that pulled me out of the fun zone where at about hour 20 i just stopped having fun all together
+
+anyway if youre going to purchase this game the core gameplay is there its just missing something i cant quite put my finger on to solidify my recommendation
+
+#####
+
+got stuck in the tutorial cant find help in google because of the generic game name
+
+ive arrived at year 2 having passed the first big exam unfortunately every single class requires teachers with 90 proficiency even the prime candidates for hiring dont have over 19 now i have two classrooms full of students who cant be taught but the tutorial seems to think this is okay
+
+after 20 minutes of researching different search terms to find answers i gave up
+
+#####
+
+its fun
+
+#####
+
+definitely worth the money
+
+#####
+
+i will leave the cat here so that everybody who passes by can pet it and give it a thumbs up and awards
+　　　 　　　　フ
+　　　 　　 　_　 _ l
+　 　　 　 ミxノ
+　　 　 　　　 　 
+　　　 　 ヽ　　 ﾉ
+　 　 　　　　
+　　　 　　
+　 ヽ_ヽ___
+　二つ
+
+#####
+
+a little dense at first but once you click on everything not in tutorial to find out what it does  the game is addictingly fun buildmanage game  a little learning curve at start   i was able to win all 3 ways on hard mode and get every other achievement along the way  i liked building the school a lot  i wish some of the nicer looking building mats came earlier in the game so you had a chance to use them instead of trying to retrofit   definitely got lots of play time for the price 
+
+the best was panda and cats  i was obsessed watching what they would do  i built them a high end building of their own the cat dorm  with acsteamheat and robocleaner lol and i basically put cat furniture in every room  and they have some antics that cracked me up   the faculty and students love the cats too  this twist that doesnt affect score at all  turned the game from ok to supermemorable to me
+
+#####
+
+
+
+#####
+
+i saw a review showing a lot of nitpicks and flaws with the game which i personally agree with as it stands this game is a very casual school building management game
+
+and thats about it once you understand the marks every student needs to pass and you match the estimation this game is just cake 
+
+the goal is clearcut but i think its just a little too clearcut there are a lot of quality of life things that i think is also fully necessary having 280 students and having to look through all of them to see whos sleeping is justreally frustrating 
+
+games fun honestly it really is a lot of fun but it definitely needs some more variety right now 
+
+
+#####
+
+fun game but i get stressed when a managementbuilding game starts you with items that you cant simply readd if deleted
+
+#####
+
+the game have very good bug fixes but i dont know this happen alot on my playthrough if you have student exceed 100 the game start to delay especially the sound effect not abig deal but still annoying
+
+#####
+
+很少在steam写评价这次实在忍不住
+与很多关注数年的校长不一样我是在发售前几天才知道的这个游戏玩了demo后便迫不及待入手
+相比单纯的建造和发展让我感触更深的其实是在校园发展壮大过程中心态发生的变化
+刚刚开始时每一位学生都如视珍宝到后面数百位学生时的焦躁和手忙脚乱再到发展到后期的无所谓对霸凌等行为的摆烂和坐视不管全靠保卫处这个游戏可以让我们真正意识到管理一个校园的不易和无奈
+
+
+游戏本身也很有意思强烈强烈强烈建议入手玩玩没有100的完成度例如社团目前还玩不了但是可玩性还是非常强有一些些许的小bug也是这种游戏的通病不影响游玩值得肯定的是至少我在游玩的过程中没有碰到寻路bug
+
+#####
+
+such a cute lovely game and it has lots of cats so for me its a 1010
+
+#####
+
+ graphics 
+ you forget what reality is
+ beautiful
+ good
+ decent
+ bad
+ dont look too long at it
+ msdos
+
+ gameplay 
+ very good
+ good
+ its just gameplay
+ mehh
+ watch paint dry instead
+ just dont
+
+ audio 
+ eargasm
+ very good
+ good
+ not too bad
+ bad
+ im now deaf
+
+ audience 
+ kids
+ teens
+ adults
+ grandma
+
+ pc requirements 
+ check if you can run paint
+ potato
+ decent
+ fast
+ rich boi
+ ask nasa if they have a spare computer
+
+ difficulty 
+ just press w
+ easy
+ easy to learn  hard to master
+ significant brain usage
+ difficult
+ dark souls
+
+ grind 
+ nothing to grind
+ only if u care about leaderboardsranks
+ isnt necessary to progress
+ average grind level
+ too much grind
+ youll need a second life for grinding
+
+ story 
+ no story
+ some lore
+ average
+ good
+ lovely
+ itll replace your life
+
+ game time 
+ long enough for a cup of coffee
+ short
+ average
+ long
+ to infinity and beyond
+
+ price 
+ its free
+ worth the price
+ if its on sale
+ if u have some spare money left
+ not recommended
+ you could also just burn your money
+
+ bugs 
+ never heard of
+ minor bugs
+ can get annoying
+ ark survival evolved
+ the game itself is a big terrarium for bugs
+
+   10 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+
+
+grab this review template here  httpsvojtastruhargithubiosteamreviewtemplate
+
+
+#####
+
+granted this game is tricky at first but when you figure out how it works totally worth trying
+
+as a little school management sim this game is actually very sillyand with a lot of charm to it as well
+
+would i refer to this game as anything to die for not quite yetmaybe wait until it either has dlc andor mod support perhaps
+
+would i say that its worth playing now that they finally got the game working so it doesnt simply freeze on you definitely
+
+#####
+
+prison architect but school
+
+1010
+
+#####
+
+i really dont get the hype for this game
+once it came out it felt it was hardly in alpha
+the students barely have little to no interaction to each other teachers repeat the same dialoguethere i not much going on there is nothing really interesting about this game
+a pity
+
+#####
+
+was expanding my school kept moving the well but not removing it a cutscene plays and a fairy from well asks me which one fell from the well a gold or silver chose neither and it turns out 2 dumbass with gold and silver hairstyle fell from the well  gave the 2 dumbass students back to me and vanishes refusing to elaborate 1110
+
+#####
+
+a chill fun game to play
+
+#####
+
+the game is still being updated with obvious care and though there are a few glitches and bugs here and there many of them are hilarious like all students in costumes having abnormally large heads the management is detailed enough to be fun without bogging one down in micromanaging
+
+1010 would school again
+
+#####
+
+this game is fun
+
+recommended tips
+
+the character you created yourself
+ms lin
+bianca taylor
+oliver curie
+joey young
+chen hong
+
+every time i start a new game the first 5 characters are always the same
+
+the game allows you to hire additional people including the first 3 teachers  1 cook just like us makes us start playing the game with these 6 people carrying the whole game
+this means that the starting teacher given to the first 6 players will come out the same every time you start playing again
+click to hire the first 4 people no need to think too muchcheapest and most worthwhilenever think of firing them
+v 320
+
+#####
+
+yes
+
+#####
+
+good
+
+#####
+
+very good
+
+#####
+
+this game is really fun i love being able to micro manage even down to the uniiforms of individual classes theres a bit of a learning curve because they dont explain everything in detail but once you figure it out its exciting to train your staff exactly the way you want and make your students the best in the district the ability to explore new areas and get new students keeps the game exciting and fresh i havent played all the way through but i havent been able to stop since buying it i highly recommend this game to anyone who loves management tycoon type games
+
+#####
+
+nice game
+
+#####
+
+fun lil game
+
+#####
+
+i was part of the beta test and i can assure you that the developers are listening and working on the bugs we had reported if you love simulation games then this is for you 
+
+ graphics 
+ you forget what reality is
+ beautiful
+ good
+ decent
+ bad
+ dont look too long at it
+ msdos
+
+ gameplay 
+ very good
+ good
+ its just gameplay
+ mehh
+ watch paint dry instead
+ just dont
+
+ audio 
+ eargasm
+ very good
+ good
+ not too bad
+ bad
+ im now deaf
+
+ audience 
+ kids
+ teens
+ adults
+ grandma
+
+ pc requirements 
+ check if you can run paint
+ potato
+ decent
+ fast
+ rich boi
+ ask nasa if they have a spare computer
+
+ difficulty 
+ just press w
+ easy
+ easy to learn  hard to master
+ significant brain usage
+ difficult
+ dark souls
+
+ grind 
+ nothing to grind
+ only if u care about leaderboardsranks
+ isnt necessary to progress
+ average grind level
+ too much grind
+ youll need a second life for grinding
+
+ story 
+ no story
+ some lore
+ average
+ good
+ lovely
+ itll replace your life
+
+ game time 
+ long enough for a cup of coffee
+ short
+ average
+ long
+ to infinity and beyond
+
+ price 
+ its free
+ worth the price
+ if its on sale
+ if u have some spare money left
+ not recommended
+ you could also just burn your money
+
+ bugs 
+ never heard of
+ minor bugs
+ can get annoying
+ ark survival evolved
+ the game itself is a big terrarium for bugs
+
+   10 
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+
+
+#####
+
+full disclosure i was part of the first wave of postdemo beta testing for this game prior to release and received a full copy of the game as thanks for my contributions 
+
+overall i feel that this game so far is an excellent starting point with a lot of room for improvement the majority albeit not all of the issues i reported initially have been fixed in the time since the end of my beta test period and theres a good 7080 hours of gameplay per playthrough if you see it to the end for 20 bucks id say id have gotten my moneys worth out of it if i were to have bought my own copy  so i can only say that based on my playthrough i recommend this game
+
+#####
+
+accidentally released 50 cats onto my school yard now they climb everywhere and my students keep petting them instead of studying 1010 game
+
+#####
+
+im 100000 convinced this game is an experiment in how frustrating you can make ui for a player and not explain anything this game constantly throws new menus and conflicting ui menus at you some things you click multiple times some you click and drag most dont make any sense at all
+
+who in their right mind thought anyone would want to place roofing tile by tile
+
+tutorials need to stop interrupting gameplay every 2 seconds im just trying to build a window now i missed several tutorial pop ups because the game wont let me finish a task before giving me 8 new ones controls are clunky as all hell who puts delete mode between rotate item
+
+do not buy this game all you will get is a headache
+
+#####
+
