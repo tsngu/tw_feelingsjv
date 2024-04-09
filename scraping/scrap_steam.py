@@ -20,7 +20,7 @@ def extraire_n_avis(app_id, n=300):
     params = {
         'json': 1,
         'filter': 'all',
-        'language': 'french',
+        'language': 'english',
         'day_range': 9223372036854775807,
         'review_type': 'all',
         'purchase_type': 'all',
@@ -59,6 +59,6 @@ for app_id in apps_id:
     reviews = extraire_n_avis(app_id)
     
     # Write reviews to a text file
-    with open(f"./reviews/{app_id}.txt", "w", encoding="utf-8") as f:
+    with open(f"./reviews_en/{app_id}.txt", "w", encoding="utf-8") as f:
         for review in reviews:
             f.write(review['review'] + "\n\n#####\n\n")

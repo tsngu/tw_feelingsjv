@@ -21,5 +21,5 @@ def normalize_files_in_directory(directory):
                 file.write(normalized_text)
 
 # Remplacer 'chemin_du_repertoire' par le chemin du répertoire contenant les fichiers .txt à normaliser
-directory_path = 'reviews/'
+directory_path = 'reviews_en/'
 normalize_files_in_directory(directory_path)
