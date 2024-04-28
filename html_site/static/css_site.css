@@ -1,0 +1,111 @@
+/* Styles for the main heading */
+h1 {
+    color: whitesmoke;
+    background-color: #0056b3;
+    text-align: center;
+}
+
+body {
+    background-color: lavender;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+/* Styles for the paragraph */
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* Styles for the link */
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #0056b3;
+}
+
+/* Styles for the gallery */
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.photo {
+    margin: 20px;
+    position: relative;
+    cursor: pointer;
+    filter: drop-shadow(16px 16px 10px rgb(165, 162, 162));
+}
+
+.photo img {
+    width: 400px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.info {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+}
+
+/* Styles for the popup */
+#popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    z-index: 999;
+    width: 600px;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+#popup-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+
+.close {
+    position: absolute;
+    top: 0;
+    right: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.close:hover {
+    cursor: pointer;
+    font-size: 18px; /* Taille personnalisée */
+}
+
+
+/* Additional styles specific to this page */
+.contenu {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
