@@ -1,28 +1,11 @@
-from tqdm import tqdm
 from utils import *
+import pandas as pd
+import csv
 
-example_sentence = "Hello, my dog is cute"
+id_jeu = "620"
+print(get_main_emotions(id_jeu))
 
-# exemple du corpus :
-avis = split_text("scraping/reviews_en/620.txt")
-example = avis[0]
+# parcours du fichier .tsv
+# le but est d'ajouter les émotions de GoEmotions
+# à la dernière colonne du fichier.
 
-print(get_emotions(example))
-
-#print(len(avis)) # 301
-
-# pour chaque avis, on range les sentiments dans un dictionnaire et on compte les occurrences
-sentiments = defaultdict(int)
-
-for review in tqdm(avis, desc="Processing review"):
-    emotions = get_emotions(review)
-    for each in emotions:
-        sentiments[each] += 1
-
-print(sentiments)
-
-# on parcourt les avis 1 à 1 et on remplit
-
-#print(f"Example sentence: \n{example}\n")
-#print("\n******************************\n")
-#print("Predicted emotions: ")
