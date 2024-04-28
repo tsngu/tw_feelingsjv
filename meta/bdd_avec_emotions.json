@@ -1,0 +1,802 @@
+[
+    {
+        "id_steam": "413150",
+        "nom": "Stardew Valley",
+        "date_sortie": "26 Feb, 2016",
+        "genre": "Indie, RPG, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg?t=1711128146",
+        "emotions": "neutral+excitement+optimism"
+    },
+    {
+        "id_steam": "1746030",
+        "nom": "Murders on the Yangtze River",
+        "date_sortie": "30 Jan, 2024",
+        "genre": "Adventure, Indie, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1746030/header.jpg?t=1710475184",
+        "emotions": "neutral+approval+joy"
+    },
+    {
+        "id_steam": "730",
+        "nom": "Counter-Strike 2",
+        "date_sortie": "21 Aug, 2012",
+        "genre": "Action, Free to Play",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1698860631",
+        "emotions": "neutral+amusement+approval"
+    },
+    {
+        "id_steam": "2338770",
+        "nom": "NBA 2K24",
+        "date_sortie": "7 Sep, 2023",
+        "genre": "Simulation, Sports",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2338770/header.jpg?t=1708722504",
+        "emotions": "neutral+annoyance+amusement"
+    },
+    {
+        "id_steam": "1150690",
+        "nom": "OMORI",
+        "date_sortie": "25 Dec, 2020",
+        "genre": "Adventure, Indie, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1150690/header.jpg?t=1671584768",
+        "emotions": "neutral+excitement+joy"
+    },
+    {
+        "id_steam": "648800",
+        "nom": "Raft",
+        "date_sortie": "20 Jun, 2022",
+        "genre": "Adventure, Indie, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/648800/header.jpg?t=1693638925",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "2399830",
+        "nom": "ARK: Survival Ascended",
+        "date_sortie": "25 Oct, 2023",
+        "genre": "Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2399830/header_alt_assets_1.jpg?t=1711007433",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "954850",
+        "nom": "Kerbal Space Program 2",
+        "date_sortie": "24 Feb, 2023",
+        "genre": "Indie, Simulation, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/954850/header.jpg?t=1706744118",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "2625620",
+        "nom": "Dealer Simulator",
+        "date_sortie": "29 Jan, 2024",
+        "genre": "Casual, Indie, Simulation, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2625620/header.jpg?t=1709321280",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1938010",
+        "nom": "WILD HEARTS\u2122",
+        "date_sortie": "16 Feb, 2023",
+        "genre": "Action, Adventure",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1938010/header.jpg?t=1704990383",
+        "emotions": "neutral+optimism+approval"
+    },
+    {
+        "id_steam": "227300",
+        "nom": "Euro Truck Simulator 2",
+        "date_sortie": "12 Oct, 2012",
+        "genre": "Indie, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/227300/header.jpg?t=1707210696",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "805550",
+        "nom": "Assetto Corsa Competizione",
+        "date_sortie": "29 May, 2019",
+        "genre": "Racing, Simulation, Sports",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/805550/header.jpg?t=1706118895",
+        "emotions": "neutral+optimism+approval"
+    },
+    {
+        "id_steam": "1180320",
+        "nom": " War of the Three Kingdoms",
+        "date_sortie": "17 Dec, 2021",
+        "genre": "Strategy, Free to Play",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1180320/header.jpg?t=1710431556",
+        "emotions": "neutral+annoyance+amusement"
+    },
+    {
+        "id_steam": "2357570",
+        "nom": "Overwatch\u00ae 2",
+        "date_sortie": "10 Aug, 2023",
+        "genre": "Action, Free to Play",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2357570/header.jpg?t=1710363488",
+        "emotions": "neutral+annoyance+disappointment"
+    },
+    {
+        "id_steam": "201510",
+        "nom": "Flatout 3: Chaos & Destruction",
+        "date_sortie": "13 Dec, 2011",
+        "genre": "Racing",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/201510/header.jpg?t=1570212409",
+        "emotions": "neutral+annoyance+disappointment"
+    },
+    {
+        "id_steam": "553420",
+        "nom": "TUNIC",
+        "date_sortie": "16 Mar, 2022",
+        "genre": "Action, Adventure, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/553420/header.jpg?t=1649107473",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "282560",
+        "nom": "RollerCoaster Tycoon World\u2122",
+        "date_sortie": "16 Nov, 2016",
+        "genre": "Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/282560/header.jpg?t=1668118631",
+        "emotions": "neutral+optimism+approval"
+    },
+    {
+        "id_steam": "1962663",
+        "nom": "Call of Duty\u00ae: Warzone\u2122",
+        "date_sortie": "16 Nov, 2022",
+        "genre": "Action, Free to Play",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1962663/header.jpg?t=1707420578",
+        "emotions": "neutral+annoyance+amusement"
+    },
+    {
+        "id_steam": "313010",
+        "nom": "Cities XXL",
+        "date_sortie": "5 Feb, 2015",
+        "genre": "Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/313010/header.jpg?t=1650901879",
+        "emotions": "neutral+approval+annoyance"
+    },
+    {
+        "id_steam": "1244090",
+        "nom": "Sea of Stars",
+        "date_sortie": "28 Aug, 2023",
+        "genre": "Adventure, Indie, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1244090/header.jpg?t=1705943008",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "892970",
+        "nom": "Valheim",
+        "date_sortie": "2 Feb, 2021",
+        "genre": "Action, Adventure, Indie, RPG, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/892970/header.jpg?t=1708348390",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1158160",
+        "nom": "Coral Island",
+        "date_sortie": "14 Nov, 2023",
+        "genre": "Adventure, Casual, Indie, RPG, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1158160/header.jpg?t=1711346562",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1235140",
+        "nom": "Yakuza: Like a Dragon",
+        "date_sortie": "10 Nov, 2020",
+        "genre": "Action, Adventure, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1235140/header.jpg?t=1695185659",
+        "emotions": "neutral+approval+excitement"
+    },
+    {
+        "id_steam": "236510",
+        "nom": "Takedown: Red Sabre",
+        "date_sortie": "10 Feb, 2014",
+        "genre": "Action, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/236510/header.jpg?t=1447357732",
+        "emotions": "neutral+annoyance+approval"
+    },
+    {
+        "id_steam": "1272080",
+        "nom": "PAYDAY 3",
+        "date_sortie": "21 Sep, 2023",
+        "genre": "Action, Adventure, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1272080/header.jpg?t=1709199731",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "2484110",
+        "nom": "FINAL FANTASY VII EVER CRISIS",
+        "date_sortie": "6 Dec, 2023",
+        "genre": "Adventure, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2484110/header.jpg?t=1710779666",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "202530",
+        "nom": "Sonic the Hedgehog 4 - Episode I",
+        "date_sortie": "19 Jan, 2012",
+        "genre": "",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/202530/header.jpg?t=1603129605",
+        "emotions": "neutral+annoyance+approval"
+    },
+    {
+        "id_steam": "2692400",
+        "nom": "Wartales, Pirates of Belerion",
+        "date_sortie": "14 Dec, 2023",
+        "genre": "Adventure, Indie, RPG, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2692400/header.jpg?t=1702564761",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "1665460",
+        "nom": "eFootball\u2122 2024",
+        "date_sortie": "29 Sep, 2021",
+        "genre": "Simulation, Sports, Free to Play",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1665460/header.jpg?t=1711014249",
+        "emotions": "neutral+annoyance+approval"
+    },
+    {
+        "id_steam": "2430990",
+        "nom": "Their Land",
+        "date_sortie": "6 Jun, 2023",
+        "genre": "Action, Adventure, Indie, Free to Play",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2430990/header.jpg?t=1703019366",
+        "emotions": "neutral+approval+annoyance"
+    },
+    {
+        "id_steam": "1868140",
+        "nom": "DAVE THE DIVER",
+        "date_sortie": "28 Jun, 2023",
+        "genre": "Adventure, Casual, RPG, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg?t=1710988738",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "375460",
+        "nom": "16bit Trader",
+        "date_sortie": "4 Jun, 2015",
+        "genre": "Adventure, Casual, Indie, RPG, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/375460/header.jpg?t=1568792273",
+        "emotions": "neutral+approval+annoyance"
+    },
+    {
+        "id_steam": "1001270",
+        "nom": "Kebab Chefs! - Restaurant Simulator",
+        "date_sortie": "19 Jan, 2024",
+        "genre": "Simulation, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1001270/header.jpg?t=1711041559",
+        "emotions": "neutral+approval+excitement"
+    },
+    {
+        "id_steam": "284160",
+        "nom": "BeamNG.drive",
+        "date_sortie": "29 May, 2015",
+        "genre": "Racing, Simulation, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/284160/header.jpg?t=1709017559",
+        "emotions": "neutral+excitement+approval"
+    },
+    {
+        "id_steam": "2252570",
+        "nom": "Football Manager 2024",
+        "date_sortie": "6 Nov, 2023",
+        "genre": "Simulation, Sports, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2252570/header.jpg?t=1702984758",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1401590",
+        "nom": "Disney Dreamlight Valley",
+        "date_sortie": "Dec 5, 2023",
+        "genre": "Action, Adventure, Casual, RPG, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1401590/header.jpg?t=1709135253",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "766570",
+        "nom": "Russian Fishing 4",
+        "date_sortie": "10 Nov, 2021",
+        "genre": "Adventure, Casual, Massively Multiplayer, RPG, Simulation, Sports, Free to Play",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/766570/header.jpg?t=1707391071",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "278970",
+        "nom": "Digger Online",
+        "date_sortie": "2 Jun, 2015",
+        "genre": "Action, Adventure",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/278970/header.jpg?t=1690364798",
+        "emotions": "neutral+annoyance+approval"
+    },
+    {
+        "id_steam": "332500",
+        "nom": "GRAV",
+        "date_sortie": "8 Jan, 2015",
+        "genre": "Action, Adventure, Indie, RPG, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/332500/header.jpg?t=1478820787",
+        "emotions": "neutral+optimism+approval"
+    },
+    {
+        "id_steam": "695630",
+        "nom": "Chinese Paladin\uff1aSword and Fairy",
+        "date_sortie": "11 Oct, 2017",
+        "genre": "RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/695630/header.jpg?t=1627366016",
+        "emotions": "neutral+approval+annoyance"
+    },
+    {
+        "id_steam": "1129580",
+        "nom": "Medieval Dynasty",
+        "date_sortie": "23 Sep, 2021",
+        "genre": "Action, Adventure, Indie, RPG, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1129580/header.jpg?t=1710529161",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "2446550",
+        "nom": "STAR WARS\u2122: Battlefront Classic Collection",
+        "date_sortie": "13 Mar, 2024",
+        "genre": "Action",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2446550/header.jpg?t=1710392101",
+        "emotions": "neutral+annoyance+approval"
+    },
+    {
+        "id_steam": "1832640",
+        "nom": "Mirror 2: Project X",
+        "date_sortie": "20 Jan, 2022",
+        "genre": "Adventure, Indie, RPG, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1832640/header.jpg?t=1673932541",
+        "emotions": "neutral+approval+annoyance"
+    },
+    {
+        "id_steam": "352550",
+        "nom": "Urban Empire",
+        "date_sortie": "20 Jan, 2017",
+        "genre": "Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/352550/header.jpg?t=1660895228",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1364780",
+        "nom": "Street Fighter\u2122 6",
+        "date_sortie": "1 Jun, 2023",
+        "genre": "Action, Adventure",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header_alt_assets_9.jpg?t=1709012771",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "1778820",
+        "nom": "TEKKEN 8",
+        "date_sortie": "25 Jan, 2024",
+        "genre": "Action",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1778820/header.jpg?t=1710123236",
+        "emotions": "neutral+approval+annoyance"
+    },
+    {
+        "id_steam": "268910",
+        "nom": "Cuphead",
+        "date_sortie": "29 Sep, 2017",
+        "genre": "Action, Indie",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/268910/header.jpg?t=1709068852",
+        "emotions": "neutral+excitement+amusement"
+    },
+    {
+        "id_steam": "1846380",
+        "nom": "Need for Speed\u2122 Unbound",
+        "date_sortie": "1 Dec, 2022",
+        "genre": "Action, Racing",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1846380/header.jpg?t=1710255624",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "2635820",
+        "nom": "Krosfighter",
+        "date_sortie": "13 Mar, 2024",
+        "genre": "Action, Casual, Indie",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2635820/header.jpg?t=1710318478",
+        "emotions": "amusement+approval+neutral"
+    },
+    {
+        "id_steam": "1761390",
+        "nom": "Hatsune Miku: Project DIVA Mega Mix+",
+        "date_sortie": "26 May, 2022",
+        "genre": "Action",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1761390/header.jpg?t=1688115385",
+        "emotions": "neutral+excitement+amusement"
+    },
+    {
+        "id_steam": "774171",
+        "nom": "Muse Dash",
+        "date_sortie": "19 Jun, 2019",
+        "genre": "Action, Casual, Indie",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/774171/header.jpg?t=1706497719",
+        "emotions": "neutral+excitement+amusement"
+    },
+    {
+        "id_steam": "307340",
+        "nom": "Platypus",
+        "date_sortie": "15 Aug, 2014",
+        "genre": "Action",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/307340/header.jpg?t=1595797105",
+        "emotions": "neutral+amusement+excitement"
+    },
+    {
+        "id_steam": "1563130",
+        "nom": "SuperPower 3",
+        "date_sortie": "7 Oct, 2022",
+        "genre": "Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1563130/header.jpg?t=1665161884",
+        "emotions": "neutral+annoyance+optimism"
+    },
+    {
+        "id_steam": "397760",
+        "nom": "Urban War Defense",
+        "date_sortie": "7 Jul, 2017",
+        "genre": "Action, Indie, Strategy, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/397760/header.jpg?t=1688084528",
+        "emotions": "neutral+annoyance+approval"
+    },
+    {
+        "id_steam": "1372880",
+        "nom": "The Day Before",
+        "date_sortie": "7 Dec, 2023",
+        "genre": "Action, Adventure, Massively Multiplayer, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1372880/header.jpg?t=1702943333",
+        "emotions": "neutral+annoyance+approval"
+    },
+    {
+        "id_steam": "252050",
+        "nom": "Construction Machines 2014",
+        "date_sortie": "28 Mar, 2014",
+        "genre": "Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/252050/header.jpg?t=1558092198",
+        "emotions": "neutral+annoyance+disappointment"
+    },
+    {
+        "id_steam": "2562240",
+        "nom": "Only Up!",
+        "date_sortie": "3 Oct, 2023",
+        "genre": "Action, Casual, Indie, Massively Multiplayer, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2562240/header.jpg?t=1696335776",
+        "emotions": "neutral+annoyance+realization"
+    },
+    {
+        "id_steam": "369080",
+        "nom": "Age of Survival",
+        "date_sortie": "25 Aug, 2015",
+        "genre": "Action, Adventure, Indie, Simulation, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/369080/header.jpg?t=1706928360",
+        "emotions": "neutral+annoyance+disappointment"
+    },
+    {
+        "id_steam": "2195250",
+        "nom": "EA SPORTS FC\u2122 24",
+        "date_sortie": "28 Sep, 2023",
+        "genre": "Simulation, Sports",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2195250/header.jpg?t=1709567756",
+        "emotions": "neutral+annoyance+approval"
+    },
+    {
+        "id_steam": "949230",
+        "nom": "Cities: Skylines II",
+        "date_sortie": "24 Oct, 2023",
+        "genre": "Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/949230/header.jpg?t=1711120554",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "2287220",
+        "nom": "F1\u00ae Manager 2023",
+        "date_sortie": "31 Jul, 2023",
+        "genre": "Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2287220/header.jpg?t=1710321659",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "703080",
+        "nom": "Planet Zoo",
+        "date_sortie": "5 Nov, 2019",
+        "genre": "Casual, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/703080/header.jpg?t=1709821080",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1142710",
+        "nom": "Total War: WARHAMMER III",
+        "date_sortie": "16 Feb, 2022",
+        "genre": "Action, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1142710/header.jpg?t=1706786968",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "2325830",
+        "nom": "Total War: WARHAMMER III - Shadows of Change",
+        "date_sortie": "31 Aug, 2023",
+        "genre": "Action, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2325830/header.jpg?t=1708614224",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "261550",
+        "nom": "Mount & Blade II: Bannerlord",
+        "date_sortie": "25 Oct, 2022",
+        "genre": "Action, Indie, RPG, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/261550/header.jpg?t=1707212548",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "529340",
+        "nom": "Victoria 3",
+        "date_sortie": "25 Oct, 2022",
+        "genre": "Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/529340/header.jpg?t=1709745355",
+        "emotions": "neutral+optimism+approval"
+    },
+    {
+        "id_steam": "779340",
+        "nom": "Total War: THREE KINGDOMS",
+        "date_sortie": "23 May, 2019",
+        "genre": "Action, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/779340/header.jpg?t=1699976365",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1124300",
+        "nom": "HUMANKIND\u2122",
+        "date_sortie": "17 Aug, 2021",
+        "genre": "Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1124300/header.jpg?t=1705417242",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1485590",
+        "nom": "ENDLESS\u2122 Dungeon",
+        "date_sortie": "19 Oct, 2023",
+        "genre": "Action, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1485590/header.jpg?t=1710866392",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "2131680",
+        "nom": "METAL GEAR & METAL GEAR 2: Solid Snake",
+        "date_sortie": "24 Oct, 2023",
+        "genre": "Action",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2131680/header.jpg?t=1710832180",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "1942280",
+        "nom": "Brotato",
+        "date_sortie": "23 Jun, 2023",
+        "genre": "Action, Casual, Indie, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1942280/header.jpg?t=1711284119",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "1203630",
+        "nom": "Record of Lodoss War-Deedlit in Wonder Labyrinth-",
+        "date_sortie": "27 Mar, 2021",
+        "genre": "Action, Indie",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1203630/header.jpg?t=1711336483",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "524220",
+        "nom": "NieR:Automata\u2122",
+        "date_sortie": "17 Mar, 2017",
+        "genre": "Action, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/524220/header.jpg?t=1696405478",
+        "emotions": "neutral+excitement+approval"
+    },
+    {
+        "id_steam": "850320",
+        "nom": "PHOGS!",
+        "date_sortie": "3 Dec, 2020",
+        "genre": "Adventure, Casual, Indie",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/850320/header.jpg?t=1688542335",
+        "emotions": "neutral+excitement+amusement"
+    },
+    {
+        "id_steam": "2054970",
+        "nom": "Dragon's Dogma 2",
+        "date_sortie": "21 Mar, 2024",
+        "genre": "Action, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2054970/header.jpg?t=1711067553",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "2711030",
+        "nom": "Sugardew Island - Your cozy farm shop",
+        "date_sortie": "Q2 2024",
+        "genre": "Casual, Indie, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2711030/header.jpg?t=1706799322",
+        "emotions": "admiration+amusement+anger"
+    },
+    {
+        "id_steam": "1243830",
+        "nom": "Overcooked! All You Can Eat",
+        "date_sortie": "23 Mar, 2021",
+        "genre": "Casual, Indie, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1243830/header.jpg?t=1705075853",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1292630",
+        "nom": "3on3 FreeStyle: Rebound",
+        "date_sortie": "14 Jul, 2020",
+        "genre": "Action, Casual, Indie, RPG, Sports, Free to Play",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1292630/header_alt_assets_1.jpg?t=1710914315",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "1677110",
+        "nom": "Lightyear Frontier",
+        "date_sortie": "19 Mar, 2024",
+        "genre": "Adventure, Casual, Indie, Simulation, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1677110/header.jpg?t=1711104629",
+        "emotions": "neutral+approval+excitement"
+    },
+    {
+        "id_steam": "2594920",
+        "nom": "Atelier Resleriana: Forgotten Alchemy and the Polar Night Liberator",
+        "date_sortie": "24 Jan, 2024",
+        "genre": "Adventure, Casual, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2594920/header.jpg?t=1707450011",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "2344520",
+        "nom": "Diablo\u00ae IV",
+        "date_sortie": "17 Oct, 2023",
+        "genre": "Action, RPG",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2344520/header.jpg?t=1710280608",
+        "emotions": "admiration+amusement+anger"
+    },
+    {
+        "id_steam": "2075070",
+        "nom": "KinitoPET",
+        "date_sortie": "9 Jan, 2024",
+        "genre": "Casual, Indie, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2075070/header.jpg?t=1709143073",
+        "emotions": "neutral+excitement+amusement"
+    },
+    {
+        "id_steam": "620",
+        "nom": "Portal 2",
+        "date_sortie": "18 Apr, 2011",
+        "genre": "Action, Adventure",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg?t=1698805825",
+        "emotions": "neutral+excitement+amusement"
+    },
+    {
+        "id_steam": "694130",
+        "nom": "My Free Zoo",
+        "date_sortie": "28 Nov, 2017",
+        "genre": "Casual, Free to Play, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/694130/header.jpg?t=1667822909",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "1937500",
+        "nom": "Let's School",
+        "date_sortie": "26 Jul, 2023",
+        "genre": "Casual, Indie, Simulation",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1937500/header.jpg?t=1708505642",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1046030",
+        "nom": "ISLANDERS",
+        "date_sortie": "4 Apr, 2019",
+        "genre": "Casual, Indie, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1046030/header.jpg?t=1688541994",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "1561040",
+        "nom": "Diluvian Winds",
+        "date_sortie": "25 May, 2023",
+        "genre": "RPG, Simulation, Strategy, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1561040/header.jpg?t=1707921916",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "638510",
+        "nom": "dotAGE",
+        "date_sortie": "4 Oct, 2023",
+        "genre": "Indie, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/638510/header.jpg?t=1703170100",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "726840",
+        "nom": "City Game Studio: Your Game Dev Adventure Begins",
+        "date_sortie": "24 Aug, 2021",
+        "genre": "Casual, Indie, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/726840/header.jpg?t=1711352451",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "1138640",
+        "nom": "Hometopia",
+        "date_sortie": "27 Sep, 2023",
+        "genre": "Casual, Simulation, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1138640/header.jpg?t=1698961599",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "2141770",
+        "nom": "URBO",
+        "date_sortie": "13 Sep, 2023",
+        "genre": "Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2141770/header.jpg?t=1702278502",
+        "emotions": "neutral+approval+excitement"
+    },
+    {
+        "id_steam": "955900",
+        "nom": "Amazing Cultivation Simulator",
+        "date_sortie": "24 Nov, 2020",
+        "genre": "Indie, RPG, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/955900/header.jpg?t=1656299765",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "700820",
+        "nom": "TFM: The First Men",
+        "date_sortie": "2 Nov, 2022",
+        "genre": "Indie, Simulation, Strategy, Early Access",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/700820/header.jpg?t=1696005120",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "2414110",
+        "nom": "Builderment",
+        "date_sortie": "24 Oct, 2023",
+        "genre": "Casual, Indie, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2414110/header.jpg?t=1698166080",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "375910",
+        "nom": "Anno 2205\u2122",
+        "date_sortie": "2 Nov, 2015",
+        "genre": "Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/375910/header.jpg?t=1692034365",
+        "emotions": "neutral+approval+optimism"
+    },
+    {
+        "id_steam": "602320",
+        "nom": "Train Valley 2",
+        "date_sortie": "15 Apr, 2019",
+        "genre": "Adventure, Casual, Indie, Simulation, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/602320/header.jpg?t=1710346893",
+        "emotions": "neutral+approval+amusement"
+    },
+    {
+        "id_steam": "2639610",
+        "nom": "Popper Lands Colony",
+        "date_sortie": "28 Feb, 2024",
+        "genre": "Adventure, Casual",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2639610/header.jpg?t=1709158459",
+        "emotions": "admiration+amusement+anger"
+    },
+    {
+        "id_steam": "2660750",
+        "nom": "Teku",
+        "date_sortie": "14 Nov, 2023",
+        "genre": "Casual, Indie",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/2660750/header.jpg?t=1700028661",
+        "emotions": "excitement+neutral+approval"
+    },
+    {
+        "id_steam": "367520",
+        "nom": "Hollow Knight",
+        "date_sortie": "24 Feb, 2017",
+        "genre": "Action, Adventure, Indie",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg?t=1695270428",
+        "emotions": "neutral+excitement+amusement"
+    },
+    {
+        "id_steam": "1927780",
+        "nom": "Galaxy Life",
+        "date_sortie": "31 Aug, 2022",
+        "genre": "Free to Play, Strategy",
+        "lien_image": "https://cdn.akamai.steamstatic.com/steam/apps/1927780/header.jpg?t=1689257970",
+        "emotions": "neutral+excitement+amusement"
+    }
+]
