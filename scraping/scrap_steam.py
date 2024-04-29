@@ -47,18 +47,17 @@ def extraire_n_avis(app_id, n=300):
 
     return reviews
 
-# Read the URLs from file
+# Lis les URLs du fichiers
 with open("urls_steam.txt", "r") as file:
     urls = file.readlines()
 
-    # Extract app IDs from URLs
+    # Extrait les IDs
     apps_id = [extract_id(url) for url in urls if extract_id(url)]
 
-# Extract reviews for each game and write them to separate text files
+# Extrait les reviews pour chaque jeu
 for app_id in apps_id:
     reviews = extraire_n_avis(app_id)
     
-    # Write reviews to a text file
     with open(f"./reviews_en/{app_id}.txt", "w", encoding="utf-8") as f:
         for review in reviews:
             f.write(review['review'] + "\n\n#####\n\n")
