@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accueil</title>
+    <link href="{{ url_for('static', path='/css_site.css') }}" rel="stylesheet">
+</head>
+<body>
+    <div class="corps">
+        <h1>Think & steam.</h1>
+        <p>
+            <strong>Accède à la vérité en un seul clic !</strong> Fini les mensonges des rédactions rémunérées par les éditeurs et les studios de développement. 
+            <br>
+            <br>
+            <strong>Think & Steam</strong> emploie des <strong><em>technologies de pointe</em></strong> en linguistique informatique computationnelle assistée par ordinateur (Natural Language Processing) pour analyser automatiquement les reviews de milliers de joueurs du monde entier sur des jeux Steam. 
+            <br>
+            Un jeu est encensé par la critique, tu le paies 20 euros et tu manges ton seum parce qu'il est <strong>NUL</strong> mais c'est <strong>FINI</strong> les mauvaises surprises.
+            <br>
+            <br>
+            Avec <strong>Think & Steam</strong> : sélectionne un jeu dans notre base de données (100 jeux) et découvre la <strong>VÉRITÉ</strong> !
+            <br>
+            <br>
+            <strong><em>Notre technologie de pointe révolutionnaire</em></strong> permet de révéler l'avis des joueurs. Or nous savons combien la lecture est une activité fatigante. Pour cette raison, nous résumons des centaines d'avis en <u>trois mots seulement</u> !
+            <br>
+            <br>
+            <strong><u><em>Vivez l'expérience Think & Steam MAINTENANT !</em></u></strong> Choisissez un jeu et découvrez ce que la communauté en dit vraiment :
+        </p>
+        <a href="/jvideos">Voir la galerie complète.</a>
+
+        <p>PS : Les avis anglophones ont été passés sous GoEmotion et les avis francophones sous Sentiment Analysis French.</p>
+
+        <div class="contenu">
+            {% block content %}
+                <!-- ici on chargera le contenu -->
+            {% endblock %}
+            </div>
+
+        <h1>Rechercher des jeux vidéos.</h1>
+        <form action="/recherches" method="get">
+            <p><strong>Liste (non-exhaustive) des genres.</strong> Ils sont à entrer en anglais : Indie, Adventure, RPG, Action, Casual, Simulation, etc.</p>
+            <p><strong>Liste des émotions en anglais</strong> : Amusement, Anger, Annoyance, Approval, Caring, Confusion, Curiosity, Desire, Disappointment, Disapproval, Disgust, Embarrassment, Excitement, Fear, Gratitude, Grief, Joy, Love, Nervousness, Optimism, Pride, Realization, Relief, Remorse, Sadness, Surprise, Neutral</p>
+            <p><strong>Pour le français : </strong>"positif" et "negatif" marchent tous les deux.</p>
+            <br>
+            <label for="search">Rechercher par nom ou genre : </label>
+            <input type="text" name="search" id="search">
+            <button type="submit">Rechercher</button>
+        </form>
+    </div>
+
+    <br>
+    <br>
+    <footer>
+        <div class="container">
+        <div class="footer-content">
+            <p>© 2024 Clément, Fanny, Tifanny.</p>
+        </div>
+        </div>
+    </footer>
+</body>
+
+</html>

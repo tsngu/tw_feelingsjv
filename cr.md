@@ -55,7 +55,7 @@ Pour retrouver les scripts permettant de générer les émotions en français, i
 Nous avons chercher à créer une interface graphique la plus proche du scénario utilisateur, disponible dans notre cahier des charges.
 Nous sommes allés au plus simple en prenant le format galerie, avec un pop-up s'affichant lorsque l'on clique sur le jeu vidéo (s'affiche alors le titre du jeu, la date de sortie, son genre et les émotions les plus représentatives en français et en anglais.)
 Nous utilisons une fastAPI pour connecter l'interface du site à notre base de données en format json.
-Il est possible de retrouver les codes dans le dossier "site"
+Il est possible de retrouver les codes dans le dossier `rendu_final`
 Pour lancer le site, il faut depuis le dossier faire la commande suivante :
 ``` bash
 $ uvicorn main:app --reload

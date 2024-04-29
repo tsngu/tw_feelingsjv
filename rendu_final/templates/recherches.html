@@ -1,0 +1,19 @@
+{% extends "index.html" %}
+{% block content %}
+<body>
+    <ul>
+        {% for jvideo in jvideos %}
+            <li>
+                <h2>{{ jvideo.nom }}</h2>
+                <img src="{{ jvideo.lien_image }}" alt="{{ jvideo.nom }}">
+                <p>ID Steam : {{ jvideo.id_steam }}</p>
+                <p>Date de sortie : {{ jvideo.date_sortie }}</p>
+                <p>Genre : {{ jvideo.genre }}</p>
+                <p>Émotions (EN) : {{ jvideo.emotions_en }}</p>
+                <p>Émotions (FR) : {{ jvideo.emotions_fr }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
+{% endblock %}
