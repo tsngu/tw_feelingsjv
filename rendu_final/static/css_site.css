@@ -1,11 +1,21 @@
 /* Styles for the main heading */
-h1 {
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=8bit+Operator&display=swap');
+
+h1 { 
+    font-family: 'Press Start 2P', cursive;
     color: whitesmoke;
     background-color: #0056b3;
     text-align: center;
+    text-shadow: 2px 2px 4px #000000; 
+    letter-spacing: 2px; 
+    margin-bottom: 20px;
 }
 
 body {
+    font-family: '8bit Operator', monospace;
     background-color: lavender;
     margin-top: 20px;
     margin-right: 20px;
@@ -14,18 +24,23 @@ body {
 }
 
 p {
-    font-size: 18px;
     margin-bottom: 20px;
+    line-height: 1.5; 
+    text-align: center; 
+    margin-bottom: 20px; 
+    padding: 10px; 
 }
 
 a {
+    font-family: 'Press Start 2P', cursive;
     display: inline-block;
-    padding: 10px 20px;
+    padding: 15px 20px;
     background-color: #007bff;
     color: white;
     text-decoration: none;
     border-radius: 5px;
-    transition: background-color 0.3s ease;;
+    transition: background-color 0.3s ease;
+    text-align: center;
 }
 
 a:hover {
@@ -105,3 +120,69 @@ a:hover {
     margin: 0 auto;
     padding: 20px;
 }
+
+.photo:hover {
+    transform: scale(1.1); 
+}
+
+.bouton-container {
+    text-align: center;
+}
+
+.corps{
+	background-color: #f0f0f0;
+}
+
+.ps {
+    font-size: 14px; 
+    text-align: center;
+}
+
+
+.rechercher {
+    text-align: center; 
+    margin-top: 20px; 
+}
+
+.rechercher label 
+.rechercher input,
+.rechercher button {
+    display: inline-block; 
+    vertical-align: middle; 
+}
+
+.rechercher input[type="text"],
+.rechercher button {
+    padding: 15px 25px; 
+    border-radius: 5px; 
+    border: none; 
+}
+
+.rechercher input[type="text"] {
+    width: 200x; 
+    margin-right: 20px; 
+}
+
+.rechercher button {
+    background-color: #007bff; 
+    color: white; 
+    transition: background-color 0.3s ease; 
+    cursor: pointer; 
+    font-family: 'Press Start 2P', cursive;
+    font-size: 16px; 
+}
+
+
+.rechercher label {
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bold; 
+    font-size: 16px; 
+    color: #333; 
+    margin-right: 10px; 
+}
+
+
+.rechercher button:hover {
+    background-color: #0056b3; /* Couleur de fond au survol */
+}
+

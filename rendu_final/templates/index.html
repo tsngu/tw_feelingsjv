@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Accueil</title>
     <link href="{{ url_for('static', path='/css_site.css') }}" rel="stylesheet">
+
 </head>
 <body>
     <div class="corps">
-        <h1>Think & steam.</h1>
+        <h1>Think & Steam</h1>
         <p>
             <strong>Accède à la vérité en un seul clic !</strong> Fini les mensonges des rédactions rémunérées par les éditeurs et les studios de développement. 
             <br>
@@ -26,9 +27,13 @@
             <br>
             <strong><u><em>Vivez l'expérience Think & Steam MAINTENANT !</em></u></strong> Choisissez un jeu et découvrez ce que la communauté en dit vraiment :
         </p>
-        <a href="/jvideos">Voir la galerie complète.</a>
+        <div class="bouton-container">
+            <a href="/jvideos">Voir la galerie complète</a>
+        </div>
 
-        <p>PS : Les avis anglophones ont été passés sous GoEmotion et les avis francophones sous Sentiment Analysis French.</p>
+        <br>
+
+        <div class="ps"> PS : Les avis anglophones ont été passés sous GoEmotion et les avis francophones sous Sentiment Analysis French.</div>
 
         <div class="contenu">
             {% block content %}
@@ -36,18 +41,76 @@
             {% endblock %}
             </div>
 
-        <h1>Rechercher des jeux vidéos.</h1>
+        <h1>Rechercher des jeux vidéos</h1>
         <form action="/recherches" method="get">
-            <p><strong>Liste (non-exhaustive) des genres.</strong> Ils sont à entrer en anglais : Indie, Adventure, RPG, Action, Casual, Simulation, etc.</p>
-            <p><strong>Liste des émotions en anglais</strong> : Amusement, Anger, Annoyance, Approval, Caring, Confusion, Curiosity, Desire, Disappointment, Disapproval, Disgust, Embarrassment, Excitement, Fear, Gratitude, Grief, Joy, Love, Nervousness, Optimism, Pride, Realization, Relief, Remorse, Sadness, Surprise, Neutral</p>
-            <p><strong>Pour le français : </strong>"positif" et "negatif" marchent tous les deux.</p>
-            <br>
-            <label for="search">Rechercher par nom ou genre : </label>
-            <input type="text" name="search" id="search">
-            <button type="submit">Rechercher</button>
-        </form>
-    </div>
+            <p >
+                <strong>Liste (non-exhaustive) des genres.</strong> Ils sont à entrer en anglais : Indie, Adventure, RPG, Action, Casual, Simulation, etc.
+                <br>
+                <br>
+                <strong>Liste des émotions en anglais</strong> : Amusement, Anger, Annoyance, Approval, Caring, Confusion, Curiosity, Desire, Disappointment, Disapproval, Disgust, Embarrassment, Excitement, Fear, Gratitude, Grief, Joy, Love, Nervousness, Optimism, Pride, Realization, Relief, Remorse, Sadness, Surprise, Neutral
+                <br>
+                <strong>Pour le français : </strong>"positif" et "negatif" marchent tous les deux.
+            </p>
 
+            <br>
+            <div class="rechercher">
+                <div class="form-group">
+                    <label for="search">Rechercher par nom, genre ou émotion :</label>
+                    <input class="form-control small-input" list="topics" id="topic" placeholder="Entrez un genre ou une émotion...">
+                    <datalist id="topics">
+                        <!-- Genres -->
+                        <option value="Indie">Indie</option>
+                        <option value="Adventure">Adventure</option>
+                        <option value="RPG">RPG</option>
+                        <option value="Action">Action</option>
+                        <option value="Casual">Casual</option>
+                        <option value="Simulation">Simulation</option>
+                        <option value="Puzzle">Puzzle</option>
+                        <option value="Strategy">Strategy (Stratégie)</option>
+                        <option value="Sports">Sports</option>
+                        <option value="Racing">Racing (Course)</option>
+                        <option value="Fighting">Fighting (Combat)</option>
+                        <option value="Horror">Horror (Horreur)</option>
+                        <option value="Sandbox">Sandbox</option>
+                        <option value="Platformer">Platformer (Jeu de plateforme)</option>
+                        <option value="Survival">Survival</option>
+            
+                        <!-- Émotions -->
+                        <option value="Amusement">Amusement</option>
+                        <option value="Anger">Anger (Colère)</option>
+                        <option value="Annoyance">Annoyance (Agacement)</option>
+                        <option value="Approval">Approval (Approbation)</option>
+                        <option value="Caring">Caring (Bienveillance)</option>
+                        <option value="Confusion">Confusion</option>
+                        <option value="Curiosity">Curiosity (Curiosité)</option>
+                        <option value="Desire">Desire (Désir)</option>
+                        <option value="Disappointment">Disappointment (Déception)</option>
+                        <option value="Disapproval">Disapproval (Désapprobation)</option>
+                        <option value="Disgust">Disgust (Dégoût)</option>
+                        <option value="Embarrassment">Embarrassment (Embarras)</option>
+                        <option value="Excitement">Excitement (Excitation)</option>
+                        <option value="Fear">Fear (Peur)</option>
+                        <option value="Gratitude">Gratitude (Gratitude)</option>
+                        <option value="Grief">Grief (Chagrin)</option>
+                        <option value="Joy">Joy (Joie)</option>
+                        <option value="Love">Love (Amour)</option>
+                        <option value="Nervousness">Nervousness (Nervosité)</option>
+                        <option value="Optimism">Optimism (Optimisme)</option>
+                        <option value="Pride">Pride (Fierté)</option>
+                        <option value="Realization">Realization (Prise de conscience)</option>
+                        <option value="Relief">Relief (Soulagement)</option>
+                        <option value="Remorse">Remorse (Remords)</option>
+                        <option value="Sadness">Sadness (Tristesse)</option>
+                        <option value="Surprise">Surprise (Surprise)</option>
+                        <option value="Neutral">Neutral (Neutre)</option>
+                        <option value="positif">positif FR </option>
+                        <option value="negatif">negatif FR</option>
+                    </datalist>
+                    <button type="submit">Rechercher</button>
+                </div>
+            </div>
+            
+            
     <br>
     <br>
     <footer>
@@ -57,6 +120,6 @@
         </div>
         </div>
     </footer>
+  
 </body>
-
 </html>
