@@ -14,6 +14,11 @@ Pour lancer le site, clonez le répertoire de ce git :
 git clone git@github.com:tsngu/tw_feelingsjv.git
 ```
 
+N'oubliez pas d'installer les requirements (juste fastapi et uvicorn) :
+```bash
+pip install -r requirements.txt
+```
+
 Accédez au dossier rendu_final :
 ```bash
 cd rendu_final
