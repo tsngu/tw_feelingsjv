@@ -11,7 +11,12 @@ Il s'agit d'un recueil d'avis STEAM d'une centaine de jeux vidéos. Deux modules
 
 Pour lancer le site, clonez le répertoire de ce git :
 ```bash
-git clone git@github.com:tsngu/tw_feelingsjv.git
+git clone https://github.com/tsngu/tw_feelingsjv.git
+```
+
+Accédez au git :
+```bash
+cd tw_feelingsjv
 ```
 
 N'oubliez pas d'installer les requirements (juste fastapi et uvicorn) :
@@ -24,7 +29,7 @@ Accédez au dossier rendu_final :
 cd rendu_final
 ```
 
-Lancez l'appli avec :
+Lancez l'appli avec (Ne pas oublier de CTRL + ALT + R pour vider son cache si le site ne s'affiche pas correctement ):
 ```bash
 uvicorn main:app --reload
 ```
