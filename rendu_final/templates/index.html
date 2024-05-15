@@ -43,7 +43,7 @@
 
         <h1>Rechercher des jeux vidéos</h1>
         <form action="/recherches" method="get">
-            <p >
+            <p>
                 <strong>Liste (non-exhaustive) des genres.</strong> Ils sont à entrer en anglais : Indie, Adventure, RPG, Action, Casual, Simulation, etc.
                 <br>
                 <br>
@@ -51,12 +51,13 @@
                 <br>
                 <strong>Pour le français : </strong>"positif" et "negatif" marchent tous les deux.
             </p>
-
+        
             <br>
             <div class="rechercher">
                 <div class="form-group">
                     <label for="search">Rechercher par nom, genre ou émotion :</label>
-                    <input class="form-control small-input" list="topics" id="topic" placeholder="Entrez un genre ou une émotion...">
+                    <!-- Ajoute un attribut "name" à l'élément input -->
+                    <input name="search" class="form-control small-input" list="topics" id="topic" placeholder="Entrez un genre ou une émotion...">
                     <datalist id="topics">
                         <!-- Genres -->
                         <option value="Indie">Indie</option>
@@ -74,7 +75,7 @@
                         <option value="Sandbox">Sandbox</option>
                         <option value="Platformer">Platformer (Jeu de plateforme)</option>
                         <option value="Survival">Survival</option>
-            
+                
                         <!-- Émotions -->
                         <option value="Amusement">Amusement</option>
                         <option value="Anger">Anger (Colère)</option>
@@ -109,7 +110,8 @@
                     <button type="submit">Rechercher</button>
                 </div>
             </div>
-            
+        </form>
+        
             
     <br>
     <br>
